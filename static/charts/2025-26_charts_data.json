@@ -1,0 +1,277 @@
+[
+  {
+    "category": "Points",
+    "chart_url": "/static/charts/2025-26_Points.png",
+    "top_players": [
+      "Luka Dončić",
+      "Shai Gilgeous-Alexander",
+      "Jaylen Brown",
+      "Kevin Durant",
+      "Tyrese Maxey"
+    ],
+    "top_values": [
+      2143.0,
+      2117.0,
+      2038.0,
+      2026.0,
+      1980.0
+    ],
+    "top_teams": [
+      "LAL",
+      "OKC",
+      "BOS",
+      "HOU",
+      "PHI"
+    ]
+  },
+  {
+    "category": "Points Per Game",
+    "chart_url": "/static/charts/2025-26_Points_Per_Game.png",
+    "top_players": [
+      "Luka Dončić",
+      "Shai Gilgeous-Alexander",
+      "Anthony Edwards",
+      "Jaylen Brown",
+      "Tyrese Maxey"
+    ],
+    "top_values": [
+      33.5,
+      31.1,
+      28.8,
+      28.7,
+      28.3
+    ],
+    "top_teams": [
+      "LAL",
+      "OKC",
+      "MIN",
+      "BOS",
+      "PHI"
+    ]
+  },
+  {
+    "category": "Total Rebounds",
+    "chart_url": "/static/charts/2025-26_Total_Rebounds.png",
+    "top_players": [
+      "Donovan Clingan",
+      "Karl-Anthony Towns",
+      "Rudy Gobert",
+      "Nikola Jokić",
+      "Jalen Johnson"
+    ],
+    "top_values": [
+      892.0,
+      889.0,
+      872.0,
+      836.0,
+      740.0
+    ],
+    "top_teams": [
+      "POR",
+      "NYK",
+      "MIN",
+      "DEN",
+      "ATL"
+    ]
+  },
+  {
+    "category": "Rebounds Per Game",
+    "chart_url": "/static/charts/2025-26_Rebounds_Per_Game.png",
+    "top_players": [
+      "Nikola Jokić",
+      "Karl-Anthony Towns",
+      "Donovan Clingan",
+      "Victor Wembanyama",
+      "Rudy Gobert"
+    ],
+    "top_values": [
+      12.9,
+      11.9,
+      11.6,
+      11.5,
+      11.5
+    ],
+    "top_teams": [
+      "DEN",
+      "NYK",
+      "POR",
+      "SAS",
+      "MIN"
+    ]
+  },
+  {
+    "category": "Offensive Rebounds",
+    "chart_url": "/static/charts/2025-26_Offensive_Rebounds.png",
+    "top_players": [
+      "Donovan Clingan",
+      "Rudy Gobert",
+      "Moussa Diabaté",
+      "Jalen Duren",
+      "Mitchell Robinson"
+    ],
+    "top_values": [
+      347.0,
+      299.0,
+      273.0,
+      265.0,
+      252.0
+    ],
+    "top_teams": [
+      "POR",
+      "MIN",
+      "CHO",
+      "DET",
+      "NYK"
+    ]
+  },
+  {
+    "category": "Defensive Rebounds Per Game",
+    "chart_url": "/static/charts/2025-26_Defensive_Rebounds_Per_Game.png",
+    "top_players": [
+      "Nikola Jokić",
+      "Victor Wembanyama",
+      "Jalen Johnson",
+      "Karl-Anthony Towns",
+      "Bam Adebayo"
+    ],
+    "top_values": [
+      9.9,
+      9.5,
+      8.9,
+      8.7,
+      8.0
+    ],
+    "top_teams": [
+      "DEN",
+      "SAS",
+      "ATL",
+      "NYK",
+      "MIA"
+    ]
+  },
+  {
+    "category": "Defensive Rebounds",
+    "chart_url": "/static/charts/2025-26_Defensive_Rebounds.png",
+    "top_players": [
+      "Karl-Anthony Towns",
+      "Nikola Jokić",
+      "Jalen Johnson",
+      "Victor Wembanyama",
+      "Bam Adebayo"
+    ],
+    "top_values": [
+      656.0,
+      644.0,
+      639.0,
+      606.0,
+      583.0
+    ],
+    "top_teams": [
+      "NYK",
+      "DEN",
+      "ATL",
+      "SAS",
+      "MIA"
+    ]
+  },
+  {
+    "category": "Offensive Rebounds Per Game",
+    "chart_url": "/static/charts/2025-26_Offensive_Rebounds_Per_Game.png",
+    "top_players": [
+      "Donovan Clingan",
+      "Mitchell Robinson",
+      "Rudy Gobert",
+      "Jalen Duren",
+      "Moussa Diabaté"
+    ],
+    "top_values": [
+      4.5,
+      4.2,
+      3.9,
+      3.8,
+      3.7
+    ],
+    "top_teams": [
+      "POR",
+      "NYK",
+      "MIN",
+      "DET",
+      "CHO"
+    ]
+  },
+  {
+    "category": "Assists",
+    "chart_url": "/static/charts/2025-26_Assists.png",
+    "top_players": [
+      "Nikola Jokić",
+      "Cade Cunningham",
+      "Jalen Johnson",
+      "James Harden",
+      "Jamal Murray"
+    ],
+    "top_values": [
+      697.0,
+      634.0,
+      566.0,
+      557.0,
+      535.0
+    ],
+    "top_teams": [
+      "DEN",
+      "DET",
+      "ATL",
+      "TOT",
+      "DEN"
+    ]
+  },
+  {
+    "category": "Assists Per Game",
+    "chart_url": "/static/charts/2025-26_Assists_Per_Game.png",
+    "top_players": [
+      "Nikola Jokić",
+      "Cade Cunningham",
+      "Luka Dončić",
+      "James Harden",
+      "Jalen Johnson"
+    ],
+    "top_values": [
+      10.7,
+      9.9,
+      8.3,
+      8.0,
+      7.9
+    ],
+    "top_teams": [
+      "DEN",
+      "DET",
+      "LAL",
+      "TOT",
+      "ATL"
+    ]
+  },
+  {
+    "category": "Steals",
+    "chart_url": "/static/charts/2025-26_Steals.png",
+    "top_players": [
+      "Cason Wallace",
+      "Dyson Daniels",
+      "Ausar Thompson",
+      "Kris Dunn",
+      "Tyrese Maxey"
+    ],
+    "top_values": [
+      150.0,
+      149.0,
+      146.0,
+      131.0,
+      130.0
+    ],
+    "top_teams": [
+      "OKC",
+      "ATL",
+      "DET",
+      "LAC",
+      "PHI"
+    ]
+  }
+]

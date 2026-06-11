@@ -1,0 +1,5403 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:50.0",
+      "K. Ware makes 3-pt jump shot from 23 ft (assist by B. Adebayo)",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Turnover by S. Bey (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:08.0",
+      "B. Adebayo makes 2-pt dunk at rim (assist by M. Gardner)",
+      "+2",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "10:47.0",
+      "",
+      "",
+      "5-0",
+      "",
+      "T. Murphy misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "10:44.0",
+      "Defensive rebound by Team",
+      "",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:36.0",
+      "B. Adebayo misses 3-pt jump shot from 25 ft",
+      "",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:33.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:33.0",
+      "K. Ware misses 2-pt layup at rim",
+      "",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:31.0",
+      "Offensive rebound by S. Fontecchio",
+      "",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:31.0",
+      "S. Fontecchio makes 2-pt layup at rim",
+      "+2",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "7-0",
+      "",
+      "S. Bey misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:12.0",
+      "Defensive rebound by M. Gardner",
+      "",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:02.0",
+      "D. Mitchell misses 3-pt jump shot from 25 ft",
+      "",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "7-0",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "7-0",
+      "",
+      "Turnover by D. Queen (bad pass; steal by K. Ware)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:42.0",
+      "S. Fontecchio misses 3-pt jump shot from 23 ft",
+      "",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "7-0",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "7-2",
+      "+2",
+      "Z. Williamson makes 2-pt dunk from 1 ft (assist by T. Murphy)"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:03.0",
+      "M. Gardner misses 3-pt jump shot from 25 ft",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:01.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "Defensive rebound by T. Murphy"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "Turnover by T. Murphy (bad pass)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:47.0",
+      "B. Adebayo makes 3-pt jump shot from 25 ft (assist by D. Mitchell)",
+      "+3",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:32.0",
+      "",
+      "",
+      "10-4",
+      "+2",
+      "H. Jones makes 2-pt jump shot from 8 ft (assist by T. Murphy)"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:26.0",
+      "S. Fontecchio misses 3-pt jump shot from 26 ft",
+      "",
+      "10-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:22.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "10-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:20.0",
+      "K. Ware makes 2-pt layup from 2 ft",
+      "+2",
+      "12-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "12-4",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:57.0",
+      "",
+      "",
+      "12-4",
+      "",
+      "Z. Williamson misses 2-pt layup from 4 ft (block by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:54.0",
+      "Defensive rebound by D. Mitchell",
+      "",
+      "12-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:50.0",
+      "K. Ware makes 2-pt dunk from 1 ft (assist by S. Fontecchio)",
+      "+2",
+      "14-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "14-4",
+      "",
+      "S. Bey misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:33.0",
+      "Defensive rebound by M. Gardner",
+      "",
+      "14-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:22.0",
+      "M. Gardner misses 2-pt jump shot from 6 ft",
+      "",
+      "14-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "14-4",
+      "",
+      "Defensive rebound by H. Jones"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:11.0",
+      "",
+      "",
+      "14-4",
+      "",
+      "Turnover by H. Jones (bad pass; steal by S. Fontecchio)"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:58.0",
+      "D. Mitchell makes 2-pt jump shot from 8 ft (assist by B. Adebayo)",
+      "+2",
+      "16-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "16-4",
+      "",
+      "Turnover by Z. Williamson (bad pass)"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:55.0",
+      "Miami full timeout",
+      "",
+      "16-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:55.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "16-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:55.0",
+      "J. Jaquez enters the game for B. Adebayo",
+      "",
+      "16-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "16-4",
+      "",
+      "K. Matković enters the game for S. Bey"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "16-4",
+      "",
+      "B. McGowens enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:42.0",
+      "S. Fontecchio misses 3-pt jump shot from 26 ft",
+      "",
+      "16-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "16-4",
+      "",
+      "Defensive rebound by H. Jones"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "16-4",
+      "",
+      "T. Murphy misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:29.0",
+      "Defensive rebound by M. Gardner",
+      "",
+      "16-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:13.0",
+      "J. Jaquez misses 3-pt jump shot from 26 ft",
+      "",
+      "16-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "16-4",
+      "",
+      "Defensive rebound by H. Jones"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "16-6",
+      "+2",
+      "T. Murphy makes 2-pt layup from 2 ft (assist by B. McGowens)"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:43.0",
+      "M. Gardner makes 3-pt jump shot from 23 ft (assist by J. Jaquez)",
+      "+3",
+      "19-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "19-6",
+      "",
+      "T. Murphy misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:26.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "19-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:19.0",
+      "D. Mitchell misses 2-pt jump shot from 11 ft",
+      "",
+      "19-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "19-6",
+      "",
+      "Defensive rebound by T. Murphy"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "19-6",
+      "",
+      "Shooting foul by M. Gardner (drawn by D. Queen)"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "19-6",
+      "",
+      "D. Queen misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "19-6",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "19-6",
+      "",
+      "J. Fears enters the game for H. Jones"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "19-7",
+      "+1",
+      "D. Queen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:49.0",
+      "K. Ware misses 2-pt jump shot from 21 ft",
+      "",
+      "19-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "19-7",
+      "",
+      "Defensive rebound by T. Murphy"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "19-10",
+      "+3",
+      "J. Fears makes 3-pt jump shot from 23 ft (assist by T. Murphy)"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:28.0",
+      "S. Fontecchio makes 3-pt jump shot from 25 ft (assist by D. Mitchell)",
+      "+3",
+      "22-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "22-10",
+      "",
+      "D. Queen misses 2-pt hook shot from 4 ft"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:11.0",
+      "Defensive rebound by M. Gardner",
+      "",
+      "22-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:59.0",
+      "D. Mitchell misses 3-pt jump shot from 26 ft",
+      "",
+      "22-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "22-10",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "22-10",
+      "",
+      "Personal foul by S. Fontecchio (drawn by D. Queen)"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:57.0",
+      "K. Jakučionis enters the game for S. Fontecchio",
+      "",
+      "22-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:57.0",
+      "D. Smith enters the game for D. Mitchell",
+      "",
+      "22-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "22-10",
+      "",
+      "K. Looney enters the game for D. Queen"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "22-13",
+      "+3",
+      "T. Murphy makes 3-pt jump shot from 26 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "3:31.0",
+      "M. Gardner misses 3-pt jump shot from 26 ft",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "J. Fears misses 2-pt jump shot from 13 ft (block by M. Gardner)"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:16.0",
+      "B. Adebayo enters the game for M. Gardner",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:16.0",
+      "N. Jović enters the game for K. Ware",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Z. Williamson enters the game for K. Matković"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "22-15",
+      "+2",
+      "T. Murphy makes 2-pt layup from 1 ft (assist by B. McGowens)"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:57.0",
+      "J. Jaquez makes 2-pt layup from 2 ft",
+      "+2",
+      "24-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "24-15",
+      "",
+      "B. McGowens misses 2-pt layup from 2 ft (block by J. Jaquez)"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "24-15",
+      "",
+      "Offensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "24-17",
+      "+2",
+      "K. Looney makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:23.0",
+      "Personal foul by B. McGowens (drawn by B. Adebayo)",
+      "",
+      "24-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "24-17",
+      "",
+      "S. Bey enters the game for T. Murphy"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:13.0",
+      "J. Jaquez makes 2-pt hook shot from 6 ft",
+      "+2",
+      "26-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:53.0",
+      "",
+      "",
+      "26-17",
+      "",
+      "S. Bey misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:51.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "26-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:48.0",
+      "K. Jakučionis misses 3-pt jump shot from 27 ft",
+      "",
+      "26-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "1:43.0",
+      "Offensive rebound by D. Smith",
+      "",
+      "26-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "1:42.0",
+      "J. Jaquez makes 2-pt layup from 2 ft (assist by D. Smith)",
+      "+2",
+      "28-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "28-17",
+      "",
+      "J. Fears misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "28-17",
+      "",
+      "Offensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "28-19",
+      "+2",
+      "K. Looney makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "1:23.0",
+      "Personal foul by J. Fears (drawn by N. Jović)",
+      "",
+      "28-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "1:17.0",
+      "K. Jakučionis misses 3-pt jump shot from 25 ft",
+      "",
+      "28-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "28-19",
+      "",
+      "Defensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "28-21",
+      "+2",
+      "J. Fears makes 2-pt jump shot from 8 ft (assist by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:53.0",
+      "J. Jaquez misses 3-pt jump shot from 26 ft",
+      "",
+      "28-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "28-21",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "28-21",
+      "",
+      "J. Fears misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:36.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "28-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:34.0",
+      "Personal foul by B. McGowens (drawn by N. Jović)",
+      "",
+      "28-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:34.0",
+      "N. Jović makes free throw 1 of 2",
+      "+1",
+      "29-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "29-21",
+      "",
+      "T. Murphy enters the game for B. McGowens"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:34.0",
+      "N. Jović misses free throw 2 of 2",
+      "",
+      "29-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "29-21",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "29-23",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft (assist by S. Bey)"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "29-23",
+      "",
+      "Technical foul by J. Borrego"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:13.0",
+      "B. Adebayo misses technical free throw",
+      "",
+      "29-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:13.0",
+      "Offensive rebound by Team",
+      "",
+      "29-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:03.0",
+      "Shooting foul by K. Looney (drawn by B. Adebayo)",
+      "",
+      "29-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:03.0",
+      "B. Adebayo makes free throw 1 of 2",
+      "+1",
+      "30-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:03.0",
+      "B. Adebayo makes free throw 2 of 2",
+      "+1",
+      "31-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "31-25",
+      "+2",
+      "J. Fears makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "11:48.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "S. Bey misses 2-pt layup from 2 ft (block by J. Jaquez)"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "11:48.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "J. Fears misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "11:43.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "11:33.0",
+      "B. Adebayo misses 3-pt jump shot from 25 ft",
+      "",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "Personal foul by N. Jović (drawn by J. Fears)"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "J. Fears misses 3-pt jump shot from 26 ft (block by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "11:01.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:58.0",
+      "Personal foul by H. Jones (drawn by B. Adebayo)",
+      "",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:51.0",
+      "Turnover by K. Jakučionis (bad pass; steal by J. Fears)",
+      "",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "31-27",
+      "+2",
+      "Z. Williamson makes 2-pt dunk from 1 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:26.0",
+      "B. Adebayo misses 2-pt jump shot from 14 ft",
+      "",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "S. Bey misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:15.0",
+      "Defensive rebound by K. Jakučionis",
+      "",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:08.0",
+      "B. Adebayo misses 3-pt jump shot from 26 ft",
+      "",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "31-29",
+      "+2",
+      "Z. Williamson makes 2-pt jump shot from 11 ft (assist by S. Bey)"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:31.0",
+      "N. Jović makes 3-pt jump shot from 26 ft (assist by K. Jakučionis)",
+      "+3",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "Z. Williamson misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:15.0",
+      "Defensive rebound by N. Jović",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:04.0",
+      "J. Jaquez misses 2-pt jump shot from 7 ft",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:02.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "S. Bey misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:49.0",
+      "Defensive rebound by D. Smith",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:45.0",
+      "B. Adebayo misses 3-pt jump shot from 26 ft",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:28.0",
+      "",
+      "",
+      "34-31",
+      "+2",
+      "Z. Williamson makes 2-pt hook shot from 10 ft"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:21.0",
+      "D. Smith makes 2-pt jump shot from 7 ft",
+      "+2",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:21.0",
+      "Shooting foul by J. Fears (drawn by D. Smith)",
+      "",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:21.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "B. McGowens enters the game for S. Bey"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:21.0",
+      "D. Smith misses free throw 1 of 1",
+      "",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "36-33",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:00.0",
+      "B. Adebayo makes 3-pt jump shot from 24 ft (assist by J. Jaquez)",
+      "+3",
+      "39-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "39-36",
+      "+3",
+      "H. Jones makes 3-pt jump shot from 23 ft (assist by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:34.0",
+      "Shooting foul by K. Looney (drawn by B. Adebayo)",
+      "",
+      "39-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:34.0",
+      "B. Adebayo makes free throw 1 of 2",
+      "+1",
+      "40-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:34.0",
+      "M. Gardner enters the game for K. Jakučionis",
+      "",
+      "40-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:34.0",
+      "D. Mitchell enters the game for J. Jaquez",
+      "",
+      "40-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "40-36",
+      "",
+      "D. Queen enters the game for K. Looney"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:34.0",
+      "B. Adebayo misses free throw 2 of 2",
+      "",
+      "40-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "40-36",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "40-36",
+      "",
+      "B. McGowens misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:12.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "40-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:59.0",
+      "Turnover by B. Adebayo (lost ball; steal by J. Fears)",
+      "",
+      "40-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "40-38",
+      "+2",
+      "J. Fears makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:54.0",
+      "Miami full timeout",
+      "",
+      "40-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:54.0",
+      "S. Fontecchio enters the game for B. Adebayo",
+      "",
+      "40-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:54.0",
+      "K. Ware enters the game for D. Smith",
+      "",
+      "40-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "40-38",
+      "",
+      "K. Matković enters the game for H. Jones"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "40-38",
+      "",
+      "T. Murphy enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:40.0",
+      "S. Fontecchio misses 3-pt jump shot from 26 ft",
+      "",
+      "40-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "40-38",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "40-38",
+      "",
+      "Shooting foul by D. Mitchell (drawn by B. McGowens)"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "40-39",
+      "+1",
+      "B. McGowens makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "40-40",
+      "+1",
+      "B. McGowens makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:11.0",
+      "K. Ware misses 2-pt hook shot from 6 ft",
+      "",
+      "40-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "40-40",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "40-40",
+      "",
+      "B. McGowens misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "6:01.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "40-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:52.0",
+      "N. Jović misses 3-pt jump shot from 24 ft",
+      "",
+      "40-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "40-40",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "40-40",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:41.0",
+      "J. Jaquez enters the game for N. Jović",
+      "",
+      "40-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "40-40",
+      "",
+      "Shooting foul by M. Gardner (drawn by T. Murphy)"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "40-41",
+      "+1",
+      "T. Murphy makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "40-42",
+      "+1",
+      "T. Murphy makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:16.0",
+      "J. Jaquez makes 2-pt jump shot from 8 ft",
+      "+2",
+      "42-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "42-42",
+      "",
+      "Shooting foul by K. Ware (drawn by D. Queen)"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "42-43",
+      "+1",
+      "D. Queen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "S. Bey enters the game for B. McGowens"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "42-44",
+      "+1",
+      "D. Queen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "4:42.0",
+      "J. Jaquez misses 2-pt jump shot from 14 ft",
+      "",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "4:40.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "42-46",
+      "+2",
+      "T. Murphy makes 2-pt jump shot from 16 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "4:01.0",
+      "J. Jaquez misses 3-pt jump shot from 28 ft",
+      "",
+      "42-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:58.0",
+      "Offensive rebound by M. Gardner",
+      "",
+      "42-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:57.0",
+      "D. Mitchell makes 3-pt jump shot from 26 ft (assist by M. Gardner)",
+      "+3",
+      "45-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "45-46",
+      "",
+      "S. Bey misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:37.0",
+      "Defensive rebound by M. Gardner",
+      "",
+      "45-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:26.0",
+      "D. Mitchell misses 2-pt jump shot from 9 ft",
+      "",
+      "45-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:24.0",
+      "",
+      "",
+      "45-46",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "45-46",
+      "",
+      "J. Fears misses 2-pt layup from 3 ft (block by K. Ware)"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "45-46",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:16.0",
+      "B. Adebayo enters the game for M. Gardner",
+      "",
+      "45-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "45-46",
+      "",
+      "H. Jones enters the game for J. Fears"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "45-46",
+      "",
+      "Z. Williamson enters the game for K. Matković"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "45-46",
+      "",
+      "Turnover by H. Jones (bad pass; steal by J. Jaquez)"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "3:09.0",
+      "S. Fontecchio misses 3-pt jump shot from 26 ft",
+      "",
+      "45-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "3:08.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "45-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "3:07.0",
+      "K. Ware makes 2-pt layup from 2 ft",
+      "+2",
+      "47-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "47-46",
+      "",
+      "Technical foul by T. Murphy"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "3:04.0",
+      "S. Fontecchio makes technical free throw",
+      "+1",
+      "48-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "48-48",
+      "+2",
+      "T. Murphy makes 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "2:36.0",
+      "J. Jaquez makes 2-pt hook shot from 10 ft",
+      "+2",
+      "50-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "50-48",
+      "",
+      "Turnover by H. Jones (lost ball; steal by S. Fontecchio)"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "2:13.0",
+      "J. Jaquez makes 2-pt dunk from 1 ft (assist by D. Mitchell)",
+      "+2",
+      "52-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "52-48",
+      "",
+      "H. Jones misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "52-48",
+      "",
+      "Offensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "52-48",
+      "",
+      "T. Murphy misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "1:49.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "52-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "1:46.0",
+      "Flagrant foul type 1 by H. Jones (drawn by J. Jaquez)",
+      "",
+      "52-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "1:46.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "52-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "1:46.0",
+      "J. Jaquez makes flagrant free throw 1 of 2",
+      "+1",
+      "53-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "1:46.0",
+      "J. Jaquez makes flagrant free throw 2 of 2",
+      "+1",
+      "54-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "1:37.0",
+      "Shooting foul by D. Queen (drawn by B. Adebayo)",
+      "",
+      "54-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "1:37.0",
+      "B. Adebayo makes free throw 1 of 2",
+      "+1",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "1:37.0",
+      "B. Adebayo makes free throw 2 of 2",
+      "+1",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "56-48",
+      "",
+      "T. Murphy misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "1:21.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "1:06.0",
+      "K. Ware misses 2-pt layup from 5 ft (block by H. Jones)",
+      "",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "56-48",
+      "",
+      "Defensive rebound by H. Jones"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "56-51",
+      "+3",
+      "S. Bey makes 3-pt jump shot from 23 ft (assist by T. Murphy)"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "0:49.0",
+      "B. Adebayo makes 2-pt layup from 2 ft",
+      "+2",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "58-53",
+      "+2",
+      "D. Queen makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "0:21.0",
+      "J. Jaquez misses 3-pt jump shot from 25 ft",
+      "",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "58-53",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "58-55",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft (assist by T. Murphy)"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "0:00.0",
+      "Team misses heave shot",
+      "",
+      "58-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "58-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "11:37.0",
+      "",
+      "",
+      "58-55",
+      "",
+      "S. Bey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "11:35.0",
+      "Defensive rebound by M. Gardner",
+      "",
+      "58-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "11:27.0",
+      "M. Gardner misses 3-pt jump shot from 27 ft",
+      "",
+      "58-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "11:24.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "58-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "11:21.0",
+      "K. Ware makes 2-pt dunk at rim (assist by D. Mitchell)",
+      "+2",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "60-55",
+      "",
+      "Turnover by H. Jones (bad pass)"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "11:05.0",
+      "Personal foul by Z. Williamson (drawn by B. Adebayo)",
+      "",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "10:57.0",
+      "B. Adebayo makes 2-pt jump shot from 8 ft",
+      "+2",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "62-57",
+      "+2",
+      "D. Queen makes 2-pt layup from 1 ft (assist by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "10:38.0",
+      "B. Adebayo misses 3-pt jump shot from 25 ft",
+      "",
+      "62-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "10:33.0",
+      "Offensive rebound by M. Gardner",
+      "",
+      "62-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "10:25.0",
+      "D. Mitchell misses 3-pt jump shot from 26 ft",
+      "",
+      "62-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "10:19.0",
+      "",
+      "",
+      "62-57",
+      "",
+      "Defensive rebound by T. Murphy"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "62-57",
+      "",
+      "T. Murphy misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "10:02.0",
+      "Defensive rebound by S. Fontecchio",
+      "",
+      "62-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "9:59.0",
+      "B. Adebayo misses 3-pt jump shot from 25 ft",
+      "",
+      "62-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "62-57",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "62-57",
+      "",
+      "Turnover by Z. Williamson (lost ball; steal by M. Gardner)"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "9:44.0",
+      "Shooting foul by T. Murphy (drawn by B. Adebayo)",
+      "",
+      "62-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "9:44.0",
+      "B. Adebayo makes free throw 1 of 2",
+      "+1",
+      "63-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "9:44.0",
+      "B. Adebayo misses free throw 2 of 2",
+      "",
+      "63-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "9:40.0",
+      "",
+      "",
+      "63-57",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "63-60",
+      "+3",
+      "S. Bey makes 3-pt jump shot from 23 ft (assist by T. Murphy)"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "9:11.0",
+      "S. Fontecchio misses 3-pt jump shot from 25 ft",
+      "",
+      "63-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "9:07.0",
+      "Offensive rebound by M. Gardner",
+      "",
+      "63-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "8:58.0",
+      "D. Mitchell misses 3-pt jump shot from 26 ft",
+      "",
+      "63-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "8:54.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "63-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "8:51.0",
+      "D. Mitchell makes 3-pt jump shot from 26 ft (assist by B. Adebayo)",
+      "+3",
+      "66-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "66-60",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "66-60",
+      "",
+      "D. Queen misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "8:28.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "66-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "8:15.0",
+      "B. Adebayo misses 3-pt jump shot from 23 ft",
+      "",
+      "66-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "66-60",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "66-62",
+      "+2",
+      "T. Murphy makes 2-pt layup from 2 ft (assist by S. Bey)"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "66-62",
+      "",
+      "Shooting foul by D. Mitchell (drawn by T. Murphy)"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "66-63",
+      "+1",
+      "T. Murphy makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "7:55.0",
+      "S. Fontecchio makes 3-pt jump shot from 26 ft (assist by B. Adebayo)",
+      "+3",
+      "69-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "69-63",
+      "",
+      "Z. Williamson misses 2-pt layup from 4 ft (block by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "69-63",
+      "",
+      "Offensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "69-65",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "69-65",
+      "",
+      "Shooting foul by K. Ware (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "69-66",
+      "+1",
+      "Z. Williamson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "7:24.0",
+      "Shooting foul by D. Queen (drawn by B. Adebayo)",
+      "",
+      "69-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "7:24.0",
+      "B. Adebayo makes free throw 1 of 2",
+      "+1",
+      "70-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "7:24.0",
+      "B. Adebayo makes free throw 2 of 2",
+      "+1",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "71-66",
+      "",
+      "Z. Williamson misses 2-pt layup from 2 ft (block by K. Ware)"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "7:09.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "7:08.0",
+      "K. Ware misses 2-pt layup from 2 ft",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "7:06.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "7:06.0",
+      "K. Ware misses 2-pt layup from 3 ft",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "7:04.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "7:04.0",
+      "K. Ware misses 2-pt layup at rim",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "7:02.0",
+      "Offensive rebound by M. Gardner",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "6:59.0",
+      "S. Fontecchio makes 3-pt jump shot from 25 ft (assist by M. Gardner)",
+      "+3",
+      "74-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "74-68",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 1 ft (assist by H. Jones)"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "6:31.0",
+      "M. Gardner makes 3-pt jump shot from 23 ft (assist by D. Mitchell)",
+      "+3",
+      "77-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "77-70",
+      "+2",
+      "D. Queen makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "6:00.0",
+      "D. Mitchell misses 2-pt jump shot from 18 ft",
+      "",
+      "77-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "77-70",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "77-70",
+      "",
+      "T. Murphy misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "5:50.0",
+      "Defensive rebound by Team",
+      "",
+      "77-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "5:50.0",
+      "J. Jaquez enters the game for B. Adebayo",
+      "",
+      "77-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "77-70",
+      "",
+      "K. Looney enters the game for S. Bey"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "77-70",
+      "",
+      "K. Matković enters the game for D. Queen"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "77-70",
+      "",
+      "B. McGowens enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "5:35.0",
+      "J. Jaquez makes 2-pt jump shot from 9 ft",
+      "+2",
+      "79-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "79-70",
+      "",
+      "K. Looney misses 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "79-70",
+      "",
+      "Offensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "79-72",
+      "+2",
+      "K. Looney makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "5:02.0",
+      "K. Ware misses 3-pt jump shot from 26 ft",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:58.0",
+      "Offensive rebound by S. Fontecchio",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "4:56.0",
+      "S. Fontecchio misses 3-pt jump shot from 26 ft",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "4:56.0",
+      "Offensive rebound by Team",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "79-72",
+      "",
+      "Loose ball foul by T. Murphy (drawn by M. Gardner)"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "4:56.0",
+      "K. Jakučionis enters the game for D. Mitchell",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "79-72",
+      "",
+      "J. Fears enters the game for H. Jones"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "4:51.0",
+      "Flagrant foul type 1 by T. Murphy (drawn by K. Jakučionis)",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "4:51.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "4:51.0",
+      "K. Jakučionis makes flagrant free throw 1 of 3",
+      "+1",
+      "80-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "4:51.0",
+      "K. Jakučionis makes flagrant free throw 2 of 3",
+      "+1",
+      "81-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "4:51.0",
+      "K. Jakučionis makes flagrant free throw 3 of 3",
+      "+1",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "4:44.0",
+      "J. Jaquez misses 2-pt layup from 7 ft",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "4:42.0",
+      "Offensive rebound by J. Jaquez",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "4:36.0",
+      "S. Fontecchio misses 2-pt layup from 3 ft",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "82-72",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "82-72",
+      "",
+      "Turnover by J. Fears (bad pass; steal by J. Jaquez)"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "4:20.0",
+      "K. Jakučionis makes 3-pt jump shot from 23 ft (assist by J. Jaquez)",
+      "+3",
+      "85-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "85-72",
+      "",
+      "Shooting foul by S. Fontecchio (drawn by B. McGowens)"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "85-73",
+      "+1",
+      "B. McGowens makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "3:59.0",
+      "D. Smith enters the game for S. Fontecchio",
+      "",
+      "85-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "85-74",
+      "+1",
+      "B. McGowens makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "3:48.0",
+      "M. Gardner makes 2-pt layup from 2 ft",
+      "+2",
+      "87-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "87-74",
+      "",
+      "T. Murphy misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "3:33.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "87-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "3:25.0",
+      "K. Ware makes 2-pt jump shot from 3 ft (assist by D. Smith)",
+      "+2",
+      "89-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "89-76",
+      "+2",
+      "J. Fears makes 2-pt jump shot from 4 ft (assist by K. Matković)"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "2:46.0",
+      "K. Ware makes 3-pt jump shot from 26 ft (assist by D. Smith)",
+      "+3",
+      "92-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "92-79",
+      "+3",
+      "K. Matković makes 3-pt jump shot from 23 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "2:16.0",
+      "J. Jaquez misses 2-pt jump shot from 13 ft",
+      "",
+      "92-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "92-79",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "92-82",
+      "+3",
+      "T. Murphy makes 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "2:06.0",
+      "Miami full timeout",
+      "",
+      "92-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "2:06.0",
+      "B. Adebayo enters the game for M. Gardner",
+      "",
+      "92-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "92-82",
+      "",
+      "S. Bey enters the game for K. Matković"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "92-82",
+      "",
+      "Z. Williamson enters the game for T. Murphy"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "1:45.0",
+      "D. Smith misses 2-pt layup from 2 ft",
+      "",
+      "92-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "92-82",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "92-82",
+      "",
+      "K. Looney misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "1:23.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "92-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "1:15.0",
+      "D. Smith misses 2-pt layup from 8 ft (block by K. Looney)",
+      "",
+      "92-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "1:13.0",
+      "Offensive rebound by D. Smith",
+      "",
+      "92-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "1:12.0",
+      "D. Smith makes 2-pt layup from 5 ft",
+      "+2",
+      "94-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "94-84",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft (assist by B. McGowens)"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:42.0",
+      "J. Jaquez makes 2-pt hook shot from 9 ft",
+      "+2",
+      "96-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "96-84",
+      "",
+      "J. Fears misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:30.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "96-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:21.0",
+      "Turnover by J. Jaquez (bad pass; steal by B. McGowens)",
+      "",
+      "96-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "96-84",
+      "",
+      "Shooting foul by K. Jakučionis (drawn by B. McGowens)"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "96-84",
+      "",
+      "B. McGowens misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "96-84",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "96-84",
+      "",
+      "H. Jones enters the game for K. Looney"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "96-85",
+      "+1",
+      "B. McGowens makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "0:00.0",
+      "B. Adebayo misses 2-pt jump shot from 9 ft",
+      "",
+      "96-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "96-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "11:46.0",
+      "J. Jaquez misses 2-pt jump shot from 2 ft",
+      "",
+      "96-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "11:44.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "11:37.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "J. Fears misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "11:35.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "96-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "11:17.0",
+      "Personal foul by Z. Williamson (drawn by D. Smith)",
+      "",
+      "96-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "11:09.0",
+      "K. Jakučionis makes 2-pt layup from 1 ft",
+      "+2",
+      "98-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "98-88",
+      "+3",
+      "B. McGowens makes 3-pt jump shot from 27 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "10:33.0",
+      "Turnover by J. Jaquez (bad pass)",
+      "",
+      "98-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "98-91",
+      "+3",
+      "S. Bey makes 3-pt jump shot from 25 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "10:24.0",
+      "Miami full timeout",
+      "",
+      "98-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "10:13.0",
+      "Shooting foul by H. Jones (drawn by J. Jaquez)",
+      "",
+      "98-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "10:13.0",
+      "J. Jaquez misses free throw 1 of 2",
+      "",
+      "98-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "10:13.0",
+      "Offensive rebound by Team",
+      "",
+      "98-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "10:13.0",
+      "J. Jaquez makes free throw 2 of 2",
+      "+1",
+      "99-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "99-91",
+      "",
+      "Offensive foul by S. Bey (drawn by D. Smith)"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "99-91",
+      "",
+      "Turnover by S. Bey (offensive foul)"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:45.0",
+      "Shooting foul by J. Fears (drawn by D. Smith)",
+      "",
+      "99-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "9:45.0",
+      "D. Smith makes free throw 1 of 2",
+      "+1",
+      "100-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "9:45.0",
+      "D. Smith makes free throw 2 of 2",
+      "+1",
+      "101-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "9:31.0",
+      "",
+      "",
+      "101-93",
+      "+2",
+      "B. McGowens makes 2-pt layup from 2 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "9:20.0",
+      "Shooting foul by H. Jones (drawn by B. Adebayo)",
+      "",
+      "101-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "9:20.0",
+      "B. Adebayo makes free throw 1 of 2",
+      "+1",
+      "102-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "9:20.0",
+      "",
+      "",
+      "102-93",
+      "",
+      "D. Queen enters the game for H. Jones"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "9:20.0",
+      "B. Adebayo makes free throw 2 of 2",
+      "+1",
+      "103-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "9:03.0",
+      "",
+      "",
+      "103-93",
+      "",
+      "Z. Williamson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "9:01.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "103-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "8:48.0",
+      "J. Jaquez misses 3-pt jump shot from 26 ft",
+      "",
+      "103-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "103-93",
+      "",
+      "Defensive rebound by B. McGowens"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "103-93",
+      "",
+      "Shooting foul by J. Jaquez (drawn by B. McGowens)"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "103-94",
+      "+1",
+      "B. McGowens makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "103-95",
+      "+1",
+      "B. McGowens makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "8:24.0",
+      "B. Adebayo misses 2-pt layup from 3 ft (block by D. Queen)",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "8:19.0",
+      "Offensive rebound by B. Adebayo",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "8:16.0",
+      "K. Jakučionis misses 3-pt jump shot from 26 ft",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "8:07.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "Turnover by Z. Williamson (bad pass; steal by N. Jović)"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "8:03.0",
+      "N. Jović makes 2-pt layup from 2 ft (assist by K. Jakučionis)",
+      "+2",
+      "105-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "105-95",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "105-95",
+      "",
+      "S. Bey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "105-95",
+      "",
+      "Offensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "105-95",
+      "",
+      "Turnover by Z. Williamson (lost ball; steal by J. Jaquez)"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "7:33.0",
+      "K. Jakučionis makes 2-pt layup from 7 ft (assist by D. Smith)",
+      "+2",
+      "107-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "7:33.0",
+      "Shooting foul by D. Queen (drawn by K. Jakučionis)",
+      "",
+      "107-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "107-95",
+      "",
+      "H. Jones enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "7:33.0",
+      "K. Jakučionis makes free throw 1 of 1",
+      "+1",
+      "108-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "108-95",
+      "",
+      "H. Jones misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "7:06.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "108-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "6:55.0",
+      "J. Jaquez makes 2-pt hook shot from 9 ft",
+      "+2",
+      "110-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "110-95",
+      "",
+      "J. Fears misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "6:39.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "110-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "6:33.0",
+      "J. Jaquez misses 2-pt jump shot from 13 ft",
+      "",
+      "110-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "110-95",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "6:26.0",
+      "",
+      "",
+      "110-95",
+      "",
+      "S. Bey misses 2-pt layup from 3 ft (block by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "6:23.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "110-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "6:19.0",
+      "N. Jović makes 2-pt layup from 4 ft (assist by J. Jaquez)",
+      "+2",
+      "112-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "112-95",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "112-95",
+      "",
+      "K. Matković enters the game for B. McGowens"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "112-98",
+      "+3",
+      "D. Queen makes 3-pt jump shot from 26 ft (assist by S. Bey)"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "5:38.0",
+      "B. Adebayo misses 2-pt jump shot from 15 ft",
+      "",
+      "112-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "112-98",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "112-100",
+      "+2",
+      "J. Fears makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "5:12.0",
+      "B. Adebayo misses 2-pt layup from 11 ft",
+      "",
+      "112-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "112-100",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "112-103",
+      "+3",
+      "S. Bey makes 3-pt jump shot from 25 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "5:06.0",
+      "Miami full timeout",
+      "",
+      "112-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "5:06.0",
+      "D. Mitchell enters the game for D. Smith",
+      "",
+      "112-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "4:51.0",
+      "Turnover by N. Jović (bad pass; steal by H. Jones)",
+      "",
+      "112-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "112-105",
+      "+2",
+      "H. Jones makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "4:29.0",
+      "B. Adebayo makes 2-pt layup from 2 ft",
+      "+2",
+      "114-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "114-105",
+      "",
+      "J. Fears misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "4:07.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "114-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "3:54.0",
+      "Shooting foul by D. Queen (drawn by B. Adebayo)",
+      "",
+      "114-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "114-105",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "3:54.0",
+      "S. Fontecchio enters the game for N. Jović",
+      "",
+      "114-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "114-105",
+      "",
+      "Z. Williamson enters the game for K. Matković"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "3:54.0",
+      "B. Adebayo misses free throw 1 of 2",
+      "",
+      "114-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "3:54.0",
+      "Offensive rebound by Team",
+      "",
+      "114-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "3:54.0",
+      "B. Adebayo makes free throw 2 of 2",
+      "+1",
+      "115-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "115-107",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft (assist by H. Jones)"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "115-107",
+      "",
+      "Shooting foul by K. Jakučionis (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "115-107",
+      "",
+      "Z. Williamson misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "3:34.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "3:23.0",
+      "K. Jakučionis misses 3-pt jump shot from 23 ft",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "3:18.0",
+      "Offensive rebound by B. Adebayo",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "3:09.0",
+      "S. Fontecchio misses 3-pt jump shot from 25 ft",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "115-107",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "115-107",
+      "",
+      "Z. Williamson misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "2:51.0",
+      "Defensive rebound by K. Jakučionis",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "2:40.0",
+      "J. Jaquez misses 2-pt jump shot from 6 ft",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "115-107",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "115-107",
+      "",
+      "D. Queen misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "2:28.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "2:20.0",
+      "Turnover by B. Adebayo (bad pass; steal by H. Jones)",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "115-107",
+      "",
+      "J. Fears misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "2:11.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "1:53.0",
+      "B. Adebayo misses 2-pt layup from 2 ft",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "1:53.0",
+      "Offensive rebound by Team",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "1:51.0",
+      "Offensive foul by S. Fontecchio (drawn by Z. Williamson)",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "1:51.0",
+      "Turnover by S. Fontecchio (offensive foul)",
+      "",
+      "115-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "115-107",
+      "",
+      "Shooting foul by J. Jaquez (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "115-108",
+      "+1",
+      "S. Bey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "115-109",
+      "+1",
+      "S. Bey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "1:26.0",
+      "Offensive foul by B. Adebayo (drawn by D. Queen)",
+      "",
+      "115-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "1:26.0",
+      "Turnover by B. Adebayo (offensive foul)",
+      "",
+      "115-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "115-109",
+      "",
+      "Z. Williamson misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "115-109",
+      "",
+      "Offensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "115-111",
+      "+2",
+      "Z. Williamson makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "0:54.0",
+      "S. Fontecchio makes 3-pt jump shot from 23 ft (assist by K. Jakučionis)",
+      "+3",
+      "118-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "0:53.0",
+      "",
+      "",
+      "118-111",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "118-111",
+      "",
+      "H. Jones misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "0:45.0",
+      "Defensive rebound by S. Fontecchio",
+      "",
+      "118-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "0:33.0",
+      "Personal foul by J. Fears (drawn by D. Mitchell)",
+      "",
+      "118-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "0:33.0",
+      "D. Mitchell misses free throw 1 of 2",
+      "",
+      "118-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "0:33.0",
+      "Offensive rebound by Team",
+      "",
+      "118-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "0:33.0",
+      "D. Mitchell makes free throw 2 of 2",
+      "+1",
+      "119-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "0:23.0",
+      "",
+      "",
+      "119-111",
+      "",
+      "S. Bey misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "0:20.0",
+      "Defensive rebound by K. Jakučionis",
+      "",
+      "119-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "0:19.0",
+      "J. Jaquez makes 2-pt dunk at rim (assist by K. Jakučionis)",
+      "+2",
+      "121-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "121-111",
+      "",
+      "D. Queen misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "121-111",
+      "",
+      "Offensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "121-111",
+      "",
+      "J. Fears misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "0:06.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "121-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "0:04.0",
+      "Personal foul by S. Bey (drawn by B. Adebayo)",
+      "",
+      "121-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "0:04.0",
+      "B. Adebayo makes free throw 1 of 2",
+      "+1",
+      "122-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "0:04.0",
+      "B. Adebayo makes free throw 2 of 2",
+      "+1",
+      "123-111",
+      "",
+      ""
+    ]
+  }
+]

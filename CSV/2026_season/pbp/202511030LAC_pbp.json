@@ -1,0 +1,4798 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "LA Clippers"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:43.0",
+      "B. Adebayo makes 2-pt layup from 3 ft (assist by N. Powell)",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:25.0",
+      "",
+      "",
+      "2-2",
+      "+2",
+      "K. Leonard makes 2-pt jump shot from 18 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:14.0",
+      "N. Powell makes 2-pt jump shot from 14 ft (assist by B. Adebayo)",
+      "+2",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "Turnover by B. Beal (bad pass; steal by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:47.0",
+      "D. Mitchell misses 2-pt jump shot from 12 ft",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:44.0",
+      "Offensive rebound by D. Mitchell",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:40.0",
+      "N. Powell makes 3-pt jump shot from 26 ft (assist by A. Wiggins)",
+      "+3",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:19.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "K. Leonard misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:16.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:09.0",
+      "B. Adebayo makes 3-pt jump shot from 27 ft (assist by N. Powell)",
+      "+3",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "10-2",
+      "",
+      "I. Zubac misses 2-pt hook shot from 6 ft"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:48.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:41.0",
+      "B. Adebayo makes 2-pt jump shot from 16 ft (assist by D. Mitchell)",
+      "+2",
+      "12-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "12-2",
+      "",
+      "LA Clippers full timeout"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "12-4",
+      "+2",
+      "K. Leonard makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "12-4",
+      "",
+      "Shooting foul by A. Wiggins (drawn by K. Leonard)"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "12-5",
+      "+1",
+      "K. Leonard makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:09.0",
+      "B. Adebayo makes 2-pt jump shot from 10 ft (assist by P. Larsson)",
+      "+2",
+      "14-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "14-8",
+      "+3",
+      "J. Harden makes 3-pt jump shot from 28 ft (assist by I. Zubac)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:38.0",
+      "B. Adebayo misses 2-pt jump shot from 11 ft",
+      "",
+      "14-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "14-8",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "14-8",
+      "",
+      "D. Jones misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "14-8",
+      "",
+      "Offensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "14-8",
+      "",
+      "I. Zubac misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "14-8",
+      "",
+      "Offensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "14-10",
+      "+2",
+      "I. Zubac makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:07.0",
+      "D. Mitchell misses 3-pt jump shot from 25 ft",
+      "",
+      "14-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "14-10",
+      "",
+      "Defensive rebound by D. Jones"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "14-13",
+      "+3",
+      "J. Harden makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:41.0",
+      "Shooting foul by J. Harden (drawn by P. Larsson)",
+      "",
+      "14-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:41.0",
+      "P. Larsson makes free throw 1 of 2",
+      "+1",
+      "15-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:41.0",
+      "P. Larsson misses free throw 2 of 2",
+      "",
+      "15-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "15-13",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "15-16",
+      "+3",
+      "K. Leonard makes 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:11.0",
+      "Turnover by A. Wiggins (lost ball; steal by K. Leonard)",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "15-18",
+      "+2",
+      "D. Jones makes 2-pt layup from 3 ft (assist by K. Leonard)"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Shooting foul by N. Powell (drawn by D. Jones)"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "D. Jones misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:07.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:55.0",
+      "B. Adebayo misses 3-pt jump shot from 23 ft",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Defensive rebound by D. Jones"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "J. Harden misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:42.0",
+      "Loose ball foul by P. Larsson (drawn by I. Zubac)",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "15-20",
+      "+2",
+      "B. Beal makes 2-pt jump shot from 12 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:23.0",
+      "N. Powell makes 2-pt layup from 2 ft",
+      "+2",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "17-20",
+      "",
+      "I. Zubac misses 2-pt hook shot from 8 ft"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:55.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:50.0",
+      "N. Powell misses 2-pt layup from 4 ft (block by I. Zubac)",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "17-20",
+      "",
+      "Defensive rebound by J. Harden"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:43.0",
+      "",
+      "",
+      "17-20",
+      "",
+      "B. Beal misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:40.0",
+      "Defensive rebound by P. Larsson",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:35.0",
+      "A. Wiggins makes 2-pt layup from 3 ft (assist by D. Mitchell)",
+      "+2",
+      "19-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "19-20",
+      "",
+      "K. Leonard misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:14.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "19-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:07.0",
+      "B. Adebayo misses 2-pt jump shot from 13 ft",
+      "",
+      "19-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "19-20",
+      "",
+      "Defensive rebound by J. Harden"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "19-20",
+      "",
+      "Shooting foul by N. Powell (drawn by K. Leonard)"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "19-21",
+      "+1",
+      "K. Leonard makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:58.0",
+      "J. Jaquez enters the game for B. Adebayo",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:58.0",
+      "K. Ware enters the game for N. Powell",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "K. Dunn enters the game for B. Beal"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "C. Paul enters the game for J. Harden"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "19-22",
+      "+1",
+      "K. Leonard makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:39.0",
+      "P. Larsson misses 2-pt jump shot from 14 ft",
+      "",
+      "19-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "19-22",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "19-24",
+      "+2",
+      "K. Leonard makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:29.0",
+      "Miami full timeout",
+      "",
+      "19-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:29.0",
+      "S. Fontecchio enters the game for P. Larsson",
+      "",
+      "19-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "19-24",
+      "",
+      "J. Collins enters the game for D. Jones"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:12.0",
+      "D. Mitchell makes 2-pt jump shot from 3 ft (assist by A. Wiggins)",
+      "+2",
+      "21-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "21-24",
+      "",
+      "I. Zubac misses 2-pt layup from 4 ft (block by K. Ware)"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:51.0",
+      "Defensive rebound by D. Mitchell",
+      "",
+      "21-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:44.0",
+      "A. Wiggins misses 3-pt jump shot from 27 ft",
+      "",
+      "21-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "21-24",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "21-24",
+      "",
+      "J. Collins misses 2-pt jump shot from 14 ft (block by A. Wiggins)"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:18.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "21-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:11.0",
+      "S. Fontecchio makes 3-pt jump shot from 27 ft (assist by D. Mitchell)",
+      "+3",
+      "24-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:47.0",
+      "",
+      "",
+      "24-24",
+      "",
+      "C. Paul misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:43.0",
+      "",
+      "",
+      "24-24",
+      "",
+      "Offensive rebound by C. Paul"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "24-24",
+      "",
+      "Turnover by C. Paul (bad pass; steal by S. Fontecchio)"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:30.0",
+      "A. Wiggins makes 2-pt jump shot from 13 ft",
+      "+2",
+      "26-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "26-24",
+      "",
+      "J. Collins misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:12.0",
+      "Defensive rebound by S. Fontecchio",
+      "",
+      "26-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:09.0",
+      "Turnover by S. Fontecchio (out of bounds lost ball)",
+      "",
+      "26-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "2:09.0",
+      "N. Jović enters the game for D. Mitchell",
+      "",
+      "26-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "2:09.0",
+      "D. Smith enters the game for A. Wiggins",
+      "",
+      "26-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "26-24",
+      "",
+      "B. Lopez enters the game for I. Zubac"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "26-27",
+      "+3",
+      "K. Dunn makes 3-pt jump shot from 25 ft (assist by C. Paul)"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "1:33.0",
+      "Shooting foul by J. Collins (drawn by K. Ware)",
+      "",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "1:33.0",
+      "K. Ware makes free throw 1 of 2",
+      "+1",
+      "27-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "1:33.0",
+      "K. Ware makes free throw 2 of 2",
+      "+1",
+      "28-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "28-27",
+      "",
+      "Turnover by J. Collins (dbl dribble)"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "1:12.0",
+      "Shooting foul by C. Paul (drawn by N. Jović)",
+      "",
+      "28-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "1:12.0",
+      "N. Jović makes free throw 1 of 2",
+      "+1",
+      "29-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "1:12.0",
+      "N. Jović makes free throw 2 of 2",
+      "+1",
+      "30-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "30-27",
+      "",
+      "K. Dunn misses 2-pt jump shot from 7 ft (block by K. Ware)"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "30-27",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:46.0",
+      "",
+      "",
+      "30-27",
+      "",
+      "K. Dunn misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:45.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "30-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:36.0",
+      "N. Jović misses 2-pt jump shot from 15 ft (block by K. Leonard)",
+      "",
+      "30-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "30-27",
+      "",
+      "Defensive rebound by C. Paul"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "30-27",
+      "",
+      "Turnover by C. Paul (traveling)"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:25.0",
+      "S. Fontecchio makes 2-pt layup from 1 ft (assist by D. Smith)",
+      "+2",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "32-30",
+      "+3",
+      "K. Leonard makes 3-pt jump shot from 28 ft (assist by K. Dunn)"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:00.0",
+      "J. Jaquez misses 3-pt jump shot from 25 ft",
+      "",
+      "32-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "32-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "LA Clippers"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "11:38.0",
+      "",
+      "",
+      "32-33",
+      "+3",
+      "J. Collins makes 3-pt jump shot from 23 ft (assist by K. Dunn)"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "11:23.0",
+      "S. Fontecchio makes 2-pt layup from 2 ft (assist by N. Jović)",
+      "+2",
+      "34-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "34-35",
+      "+2",
+      "J. Harden makes 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "10:49.0",
+      "J. Jaquez makes 2-pt jump shot from 3 ft (assist by D. Smith)",
+      "+2",
+      "36-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "36-37",
+      "+2",
+      "J. Collins makes 2-pt layup from 4 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "36-37",
+      "",
+      "Shooting foul by S. Fontecchio (drawn by J. Collins)"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "36-37",
+      "",
+      "J. Collins misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "10:32.0",
+      "Defensive rebound by N. Jović",
+      "",
+      "36-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "10:25.0",
+      "K. Ware makes 2-pt dunk from 2 ft (assist by N. Jović)",
+      "+2",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "38-37",
+      "",
+      "B. Lopez misses 3-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:06.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "9:58.0",
+      "D. Smith misses 2-pt layup from 3 ft",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "9:57.0",
+      "Offensive rebound by J. Jaquez",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "9:56.0",
+      "J. Jaquez makes 2-pt dunk at rim",
+      "+2",
+      "40-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "40-40",
+      "+3",
+      "B. Lopez makes 3-pt jump shot from 27 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "9:33.0",
+      "S. Fontecchio makes 3-pt jump shot from 23 ft (assist by N. Jović)",
+      "+3",
+      "43-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "9:33.0",
+      "Shooting foul by J. Collins (drawn by S. Fontecchio)",
+      "",
+      "43-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "43-40",
+      "",
+      "B. Beal enters the game for K. Dunn"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "9:33.0",
+      "S. Fontecchio makes free throw 1 of 1",
+      "+1",
+      "44-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "44-40",
+      "",
+      "Shooting foul by N. Jović (drawn by J. Harden)"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "44-41",
+      "+1",
+      "J. Harden makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "44-42",
+      "+1",
+      "J. Harden makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "44-43",
+      "+1",
+      "J. Harden makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:05.0",
+      "Personal foul by J. Collins (drawn by J. Jaquez)",
+      "",
+      "44-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:00.0",
+      "S. Fontecchio misses 3-pt jump shot from 26 ft",
+      "",
+      "44-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "44-43",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "44-45",
+      "+2",
+      "B. Lopez makes 2-pt hook shot from 11 ft (assist by B. Beal)"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:32.0",
+      "Turnover by S. Fontecchio (bad pass; steal by B. Lopez)",
+      "",
+      "44-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "44-47",
+      "+2",
+      "B. Beal makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:15.0",
+      "K. Ware makes 3-pt jump shot from 23 ft (assist by J. Jaquez)",
+      "+3",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "47-47",
+      "",
+      "B. Lopez misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "7:48.0",
+      "Defensive rebound by N. Jović",
+      "",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "7:36.0",
+      "K. Ware makes 3-pt jump shot from 23 ft (assist by D. Smith)",
+      "+3",
+      "50-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "7:35.0",
+      "",
+      "",
+      "50-47",
+      "",
+      "LA Clippers full timeout"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "7:35.0",
+      "N. Powell enters the game for S. Fontecchio",
+      "",
+      "50-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "7:35.0",
+      "",
+      "",
+      "50-47",
+      "",
+      "D. Jones enters the game for J. Collins"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "50-47",
+      "",
+      "Turnover by B. Beal (bad pass; steal by J. Jaquez)"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "7:13.0",
+      "N. Jović makes 2-pt layup from 1 ft (assist by J. Jaquez)",
+      "+2",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "52-47",
+      "",
+      "J. Harden misses 3-pt jump shot from 33 ft"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "6:44.0",
+      "",
+      "",
+      "52-47",
+      "",
+      "Offensive rebound by B. Beal"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "52-47",
+      "",
+      "B. Beal misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "6:38.0",
+      "Defensive rebound by N. Jović",
+      "",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "6:32.0",
+      "K. Ware misses 2-pt layup from 2 ft",
+      "",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "6:29.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "6:28.0",
+      "K. Ware misses 2-pt hook shot from 8 ft",
+      "",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "52-47",
+      "",
+      "Defensive rebound by B. Lopez"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "6:22.0",
+      "",
+      "",
+      "52-47",
+      "",
+      "B. Lopez misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "6:18.0",
+      "Defensive rebound by D. Smith",
+      "",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "6:13.0",
+      "K. Ware makes 2-pt layup from 4 ft (assist by D. Smith)",
+      "+2",
+      "54-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "54-50",
+      "+3",
+      "D. Jones makes 3-pt jump shot from 27 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "5:45.0",
+      "Personal foul by J. Harden (drawn by N. Jović)",
+      "",
+      "54-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "5:45.0",
+      "B. Adebayo enters the game for J. Jaquez",
+      "",
+      "54-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "5:45.0",
+      "D. Mitchell enters the game for D. Smith",
+      "",
+      "54-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "5:45.0",
+      "A. Wiggins enters the game for K. Ware",
+      "",
+      "54-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "54-50",
+      "",
+      "K. Leonard enters the game for N. Batum"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "54-50",
+      "",
+      "I. Zubac enters the game for B. Lopez"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "5:40.0",
+      "Turnover by N. Powell (lost ball; steal by B. Beal)",
+      "",
+      "54-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "54-52",
+      "+2",
+      "B. Beal makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "5:20.0",
+      "D. Mitchell misses 2-pt jump shot from 6 ft",
+      "",
+      "54-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "54-52",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "54-55",
+      "+3",
+      "J. Harden makes 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "4:41.0",
+      "D. Mitchell misses 3-pt jump shot from 25 ft (block by D. Jones)",
+      "",
+      "54-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "54-55",
+      "",
+      "Defensive rebound by J. Harden"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "54-57",
+      "+2",
+      "D. Jones makes 2-pt dunk from 2 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "4:29.0",
+      "Personal foul by D. Jones (drawn by N. Powell)",
+      "",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "4:21.0",
+      "Turnover by N. Powell (bad pass; steal by D. Jones)",
+      "",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "54-59",
+      "+2",
+      "D. Jones makes 2-pt layup from 2 ft (assist by B. Beal)"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "54-59",
+      "",
+      "Shooting foul by N. Jović (drawn by D. Jones)"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "4:18.0",
+      "J. Jaquez enters the game for N. Jović",
+      "",
+      "54-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "54-60",
+      "+1",
+      "D. Jones makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "4:12.0",
+      "D. Mitchell makes 2-pt layup from 2 ft",
+      "+2",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "4:12.0",
+      "Shooting foul by B. Beal (drawn by D. Mitchell)",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "4:12.0",
+      "D. Mitchell misses free throw 1 of 1",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "4:08.0",
+      "Offensive rebound by D. Mitchell",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:05.0",
+      "N. Powell misses 3-pt jump shot from 26 ft",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "Shooting foul by D. Mitchell (drawn by B. Beal)"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "B. Beal misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "B. Beal misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:56.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:48.0",
+      "A. Wiggins misses 2-pt jump shot from 6 ft",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:45.0",
+      "Offensive rebound by A. Wiggins",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:43.0",
+      "Turnover by A. Wiggins (lost ball; steal by J. Harden)",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "J. Harden misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "Offensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:25.0",
+      "",
+      "",
+      "56-62",
+      "+2",
+      "I. Zubac makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:10.0",
+      "B. Adebayo makes 2-pt layup from 3 ft (assist by J. Jaquez)",
+      "+2",
+      "58-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "58-64",
+      "+2",
+      "I. Zubac makes 2-pt dunk from 3 ft (assist by K. Leonard)"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:57.0",
+      "Miami full timeout",
+      "",
+      "58-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "58-64",
+      "",
+      "K. Dunn enters the game for B. Beal"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:41.0",
+      "Turnover by N. Powell (back court)",
+      "",
+      "58-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "58-64",
+      "",
+      "K. Leonard misses 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:25.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "58-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:17.0",
+      "Turnover by N. Powell (lost ball; steal by K. Leonard)",
+      "",
+      "58-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "58-66",
+      "+2",
+      "D. Jones makes 2-pt dunk from 3 ft (assist by I. Zubac)"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:58.0",
+      "J. Jaquez makes 2-pt layup from 3 ft (assist by B. Adebayo)",
+      "+2",
+      "60-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:44.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "60-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "60-69",
+      "+3",
+      "J. Harden makes 3-pt jump shot from 29 ft (assist by K. Leonard)"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "1:17.0",
+      "J. Jaquez misses 2-pt jump shot from 14 ft",
+      "",
+      "60-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "60-69",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "60-69",
+      "",
+      "K. Leonard misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "60-69",
+      "",
+      "Offensive rebound by K. Leonard"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "60-71",
+      "+2",
+      "K. Leonard makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "0:48.0",
+      "J. Jaquez misses 2-pt jump shot from 10 ft",
+      "",
+      "60-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "60-71",
+      "",
+      "Defensive rebound by K. Leonard"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "60-71",
+      "",
+      "Turnover by K. Leonard (bad pass; steal by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:36.0",
+      "N. Powell makes 2-pt layup from 3 ft (assist by D. Mitchell)",
+      "+2",
+      "62-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:36.0",
+      "Shooting foul by K. Dunn (drawn by N. Powell)",
+      "",
+      "62-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:36.0",
+      "",
+      "",
+      "62-71",
+      "",
+      "N. Batum enters the game for D. Jones"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:36.0",
+      "N. Powell makes free throw 1 of 1",
+      "+1",
+      "63-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "63-71",
+      "",
+      "J. Harden misses 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:27.0",
+      "Defensive rebound by N. Powell",
+      "",
+      "63-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:07.0",
+      "Shooting foul by K. Dunn (drawn by N. Powell)",
+      "",
+      "63-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "0:07.0",
+      "N. Powell makes free throw 1 of 3",
+      "+1",
+      "64-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "0:07.0",
+      "N. Powell makes free throw 2 of 3",
+      "+1",
+      "65-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "0:07.0",
+      "N. Powell makes free throw 3 of 3",
+      "+1",
+      "66-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "66-71",
+      "",
+      "J. Harden misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "0:01.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "66-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "LA Clippers"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "11:42.0",
+      "",
+      "",
+      "66-73",
+      "+2",
+      "K. Leonard makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "11:28.0",
+      "A. Wiggins misses 2-pt jump shot from 4 ft (block by K. Leonard)",
+      "",
+      "66-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "11:28.0",
+      "Offensive rebound by Team",
+      "",
+      "66-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "11:26.0",
+      "N. Powell misses 2-pt jump shot from 18 ft",
+      "",
+      "66-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "11:23.0",
+      "",
+      "",
+      "66-73",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "66-73",
+      "",
+      "B. Beal misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "11:09.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "66-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "11:01.0",
+      "A. Wiggins misses 3-pt jump shot from 26 ft",
+      "",
+      "66-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "66-73",
+      "",
+      "Defensive rebound by J. Harden"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "66-73",
+      "",
+      "Turnover by J. Harden (bad pass; steal by P. Larsson)"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "10:51.0",
+      "P. Larsson makes 2-pt dunk from 3 ft",
+      "+2",
+      "68-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "10:29.0",
+      "",
+      "",
+      "68-76",
+      "+3",
+      "B. Beal makes 3-pt jump shot from 24 ft (assist by I. Zubac)"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "10:17.0",
+      "D. Mitchell makes 2-pt layup from 3 ft (assist by P. Larsson)",
+      "+2",
+      "70-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "70-76",
+      "",
+      "Turnover by J. Harden (bad pass; steal by P. Larsson)"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:48.0",
+      "B. Adebayo makes 2-pt hook shot from 8 ft",
+      "+2",
+      "72-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "9:34.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "72-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "9:34.0",
+      "",
+      "",
+      "72-76",
+      "",
+      "Turnover by (5 sec)"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "9:25.0",
+      "Personal foul by I. Zubac (drawn by B. Adebayo)",
+      "",
+      "72-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "9:14.0",
+      "A. Wiggins makes 2-pt layup from 1 ft (assist by B. Adebayo)",
+      "+2",
+      "74-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "74-76",
+      "",
+      "Offensive foul by B. Beal (drawn by A. Wiggins)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "74-76",
+      "",
+      "Turnover by B. Beal (offensive foul)"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "8:55.0",
+      "B. Adebayo makes 3-pt jump shot from 27 ft (assist by D. Mitchell)",
+      "+3",
+      "77-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "77-76",
+      "",
+      "LA Clippers full timeout"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "8:36.0",
+      "",
+      "",
+      "77-76",
+      "",
+      "K. Leonard misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "8:36.0",
+      "",
+      "",
+      "77-76",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "8:36.0",
+      "Loose ball foul by B. Adebayo (drawn by I. Zubac)",
+      "",
+      "77-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "77-79",
+      "+3",
+      "B. Beal makes 3-pt jump shot from 23 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "8:16.0",
+      "A. Wiggins makes 3-pt jump shot from 26 ft (assist by D. Mitchell)",
+      "+3",
+      "80-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "80-79",
+      "",
+      "Turnover by I. Zubac (bad pass)"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "7:45.0",
+      "B. Adebayo makes 2-pt layup from 4 ft (assist by D. Mitchell)",
+      "+2",
+      "82-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "7:45.0",
+      "Shooting foul by B. Beal (drawn by B. Adebayo)",
+      "",
+      "82-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "7:45.0",
+      "B. Adebayo misses free throw 1 of 1",
+      "",
+      "82-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "82-79",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "82-79",
+      "",
+      "Turnover by J. Harden (lost ball; steal by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "7:26.0",
+      "Personal foul by J. Harden (drawn by D. Mitchell)",
+      "",
+      "82-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "7:26.0",
+      "N. Powell makes free throw 1 of 1",
+      "+1",
+      "83-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "7:11.0",
+      "B. Adebayo misses 2-pt hook shot from 6 ft",
+      "",
+      "83-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "83-79",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "83-79",
+      "",
+      "J. Harden misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "7:01.0",
+      "Defensive rebound by Team",
+      "",
+      "83-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "6:48.0",
+      "Personal foul by K. Leonard (drawn by A. Wiggins)",
+      "",
+      "83-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "6:44.0",
+      "Personal foul by I. Zubac (drawn by N. Powell)",
+      "",
+      "83-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "6:44.0",
+      "N. Powell makes free throw 1 of 2",
+      "+1",
+      "84-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "6:44.0",
+      "N. Powell makes free throw 2 of 2",
+      "+1",
+      "85-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "6:32.0",
+      "",
+      "",
+      "85-81",
+      "+2",
+      "K. Leonard makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "6:24.0",
+      "N. Powell makes 3-pt jump shot from 27 ft (assist by D. Mitchell)",
+      "+3",
+      "88-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "88-81",
+      "",
+      "Turnover by K. Leonard (lost ball; steal by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "5:58.0",
+      "B. Adebayo makes 2-pt jump shot from 12 ft (assist by D. Mitchell)",
+      "+2",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "90-81",
+      "",
+      "Turnover by I. Zubac (traveling)"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "5:39.0",
+      "J. Jaquez enters the game for N. Powell",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "5:29.0",
+      "Shooting foul by I. Zubac (drawn by B. Adebayo)",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "90-81",
+      "",
+      "K. Dunn enters the game for B. Beal"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "5:29.0",
+      "B. Adebayo misses free throw 1 of 2",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "5:29.0",
+      "Offensive rebound by Team",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "5:29.0",
+      "B. Adebayo makes free throw 2 of 2",
+      "+1",
+      "91-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "91-81",
+      "",
+      "Turnover by D. Jones (bad pass; steal by P. Larsson)"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "5:07.0",
+      "Turnover by P. Larsson (bad pass; steal by K. Leonard)",
+      "",
+      "91-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "4:59.0",
+      "",
+      "",
+      "91-81",
+      "",
+      "K. Leonard misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "4:58.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "91-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "4:40.0",
+      "B. Adebayo misses 2-pt jump shot from 14 ft",
+      "",
+      "91-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "91-81",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "91-81",
+      "",
+      "Shooting foul by A. Wiggins (drawn by J. Harden)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "91-82",
+      "+1",
+      "J. Harden makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "4:29.0",
+      "K. Ware enters the game for B. Adebayo",
+      "",
+      "91-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "91-83",
+      "+1",
+      "J. Harden makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "4:20.0",
+      "P. Larsson makes 3-pt jump shot from 27 ft (assist by J. Jaquez)",
+      "+3",
+      "94-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "94-83",
+      "",
+      "Offensive foul by K. Dunn (drawn by P. Larsson)"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "94-83",
+      "",
+      "Turnover by K. Dunn (offensive foul)"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "94-83",
+      "",
+      "J. Collins enters the game for J. Harden"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "94-83",
+      "",
+      "C. Paul enters the game for D. Jones"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:03.0",
+      "D. Mitchell makes 2-pt layup from 3 ft",
+      "+2",
+      "96-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "96-86",
+      "+3",
+      "K. Dunn makes 3-pt jump shot from 24 ft (assist by C. Paul)"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "3:23.0",
+      "A. Wiggins makes 2-pt jump shot from 13 ft",
+      "+2",
+      "98-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "98-86",
+      "",
+      "Shooting foul by A. Wiggins (drawn by K. Leonard)"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "98-87",
+      "+1",
+      "K. Leonard makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "3:10.0",
+      "S. Fontecchio enters the game for P. Larsson",
+      "",
+      "98-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "3:10.0",
+      "N. Jović enters the game for D. Mitchell",
+      "",
+      "98-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "3:10.0",
+      "D. Smith enters the game for A. Wiggins",
+      "",
+      "98-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "98-88",
+      "+1",
+      "K. Leonard makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "98-88",
+      "",
+      "Loose ball foul by C. Paul (drawn by N. Jović)"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "2:54.0",
+      "Miami full timeout",
+      "",
+      "98-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "2:54.0",
+      "N. Jović misses free throw 1 of 2",
+      "",
+      "98-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "2:54.0",
+      "Offensive rebound by Team",
+      "",
+      "98-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "2:54.0",
+      "N. Jović makes free throw 2 of 2",
+      "+1",
+      "99-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "99-88",
+      "",
+      "J. Collins misses 2-pt jump shot from 2 ft"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "99-88",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:36.0",
+      "Loose ball foul by K. Ware (drawn by I. Zubac)",
+      "",
+      "99-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "99-90",
+      "+2",
+      "K. Dunn makes 2-pt jump shot from 10 ft (assist by C. Paul)"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "2:04.0",
+      "Turnover by N. Jović (back court)",
+      "",
+      "99-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "99-92",
+      "+2",
+      "J. Collins makes 2-pt layup from 3 ft (assist by C. Paul)"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "1:26.0",
+      "K. Ware makes 2-pt layup from 3 ft (assist by N. Jović)",
+      "+2",
+      "101-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "J. Collins misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "Offensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "I. Zubac misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "Offensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "101-94",
+      "+2",
+      "I. Zubac makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "1:06.0",
+      "D. Smith makes 2-pt layup from 4 ft",
+      "+2",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "C. Paul misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:40.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:39.0",
+      "Turnover by K. Ware (bad pass; steal by K. Leonard)",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "Personal foul by D. Smith (drawn by I. Zubac)"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "I. Zubac misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "103-95",
+      "+1",
+      "I. Zubac makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "0:13.0",
+      "J. Jaquez misses 2-pt jump shot from 9 ft",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "C. Paul misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "Offensive rebound by K. Leonard"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "LA Clippers"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "11:58.0",
+      "Turnover by S. Fontecchio (bad pass; steal by K. Dunn)",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "11:57.0",
+      "",
+      "",
+      "103-97",
+      "+2",
+      "K. Dunn makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "11:43.0",
+      "K. Ware makes 2-pt jump shot from 22 ft (assist by J. Jaquez)",
+      "+2",
+      "105-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "11:19.0",
+      "",
+      "",
+      "105-97",
+      "",
+      "J. Collins misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "11:17.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "105-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "11:08.0",
+      "J. Jaquez misses 3-pt jump shot from 27 ft",
+      "",
+      "105-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "105-97",
+      "",
+      "Defensive rebound by K. Dunn"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "105-100",
+      "+3",
+      "J. Collins makes 3-pt jump shot from 28 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "10:33.0",
+      "Turnover by D. Smith (lost ball; steal by C. Paul)",
+      "",
+      "105-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "105-100",
+      "",
+      "Shooting foul by J. Jaquez (drawn by J. Harden)"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "105-101",
+      "+1",
+      "J. Harden makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "105-102",
+      "+1",
+      "J. Harden makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "10:11.0",
+      "N. Jović misses 3-pt jump shot from 28 ft",
+      "",
+      "105-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "105-102",
+      "",
+      "Defensive rebound by C. Paul"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "105-102",
+      "",
+      "J. Harden misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "105-102",
+      "",
+      "Offensive rebound by K. Dunn"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "105-105",
+      "+3",
+      "C. Paul makes 3-pt jump shot from 27 ft (assist by K. Dunn)"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "9:55.0",
+      "Miami full timeout",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "9:55.0",
+      "B. Adebayo enters the game for D. Smith",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "9:55.0",
+      "D. Mitchell enters the game for K. Ware",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "9:44.0",
+      "Personal foul by J. Harden (drawn by J. Jaquez)",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:31.0",
+      "J. Jaquez misses 2-pt hook shot from 7 ft",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "105-105",
+      "",
+      "Defensive rebound by J. Collins"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "105-105",
+      "",
+      "Turnover by J. Harden (bad pass)"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "9:11.0",
+      "S. Fontecchio misses 3-pt jump shot from 27 ft",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "105-105",
+      "",
+      "Defensive rebound by J. Harden"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "105-105",
+      "",
+      "B. Lopez misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "8:57.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "8:40.0",
+      "B. Adebayo misses 3-pt jump shot from 24 ft",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "105-105",
+      "",
+      "Defensive rebound by C. Paul"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "105-105",
+      "",
+      "J. Collins misses 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "8:22.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "8:18.0",
+      "Personal foul by B. Lopez (drawn by B. Adebayo)",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "8:13.0",
+      "Turnover by B. Adebayo (bad pass; steal by K. Dunn)",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "105-105",
+      "",
+      "Turnover by J. Harden (lost ball; steal by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:01.0",
+      "Turnover by B. Adebayo (bad pass; steal by K. Dunn)",
+      "",
+      "105-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "105-107",
+      "+2",
+      "J. Collins makes 2-pt dunk from 1 ft (assist by K. Dunn)"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "7:48.0",
+      "N. Jović misses 2-pt layup from 6 ft",
+      "",
+      "105-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "105-107",
+      "",
+      "Defensive rebound by J. Harden"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "105-107",
+      "",
+      "C. Paul misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "7:37.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "105-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "7:25.0",
+      "D. Mitchell misses 2-pt layup from 7 ft",
+      "",
+      "105-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "7:24.0",
+      "Offensive rebound by N. Jović",
+      "",
+      "105-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "7:24.0",
+      "N. Jović makes 2-pt layup from 2 ft",
+      "+2",
+      "107-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "107-107",
+      "",
+      "LA Clippers full timeout"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "7:24.0",
+      "P. Larsson enters the game for S. Fontecchio",
+      "",
+      "107-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "7:24.0",
+      "N. Powell enters the game for J. Jaquez",
+      "",
+      "107-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "7:24.0",
+      "A. Wiggins enters the game for N. Jović",
+      "",
+      "107-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "107-107",
+      "",
+      "K. Leonard enters the game for C. Paul"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "107-107",
+      "",
+      "B. Lopez misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "107-107",
+      "",
+      "Offensive rebound by K. Dunn"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "107-107",
+      "",
+      "K. Leonard misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "6:51.0",
+      "Defensive rebound by D. Mitchell",
+      "",
+      "107-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "6:26.0",
+      "A. Wiggins makes 3-pt jump shot from 28 ft (assist by P. Larsson)",
+      "+3",
+      "110-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "110-109",
+      "+2",
+      "K. Leonard makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "5:54.0",
+      "A. Wiggins misses 2-pt jump shot from 5 ft",
+      "",
+      "110-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "110-109",
+      "",
+      "Defensive rebound by J. Collins"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "110-109",
+      "",
+      "I. Zubac enters the game for B. Lopez"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "110-109",
+      "",
+      "K. Leonard misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "5:28.0",
+      "Defensive rebound by A. Wiggins",
+      "",
+      "110-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "5:16.0",
+      "N. Powell makes 2-pt layup from 4 ft",
+      "+2",
+      "112-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "112-109",
+      "",
+      "Turnover by I. Zubac (lost ball; steal by A. Wiggins)"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "4:52.0",
+      "Shooting foul by I. Zubac (drawn by P. Larsson)",
+      "",
+      "112-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "4:52.0",
+      "P. Larsson makes free throw 1 of 2",
+      "+1",
+      "113-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "4:52.0",
+      "",
+      "",
+      "113-109",
+      "",
+      "D. Jones enters the game for K. Dunn"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "4:52.0",
+      "P. Larsson misses free throw 2 of 2",
+      "",
+      "113-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "113-109",
+      "",
+      "Defensive rebound by I. Zubac"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "113-111",
+      "+2",
+      "J. Harden makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "4:27.0",
+      "Personal foul by D. Jones (drawn by N. Powell)",
+      "",
+      "113-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "4:15.0",
+      "N. Powell misses 2-pt layup from 3 ft",
+      "",
+      "113-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "113-111",
+      "",
+      "Defensive rebound by D. Jones"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "113-113",
+      "+2",
+      "K. Leonard makes 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "3:37.0",
+      "Miami full timeout",
+      "",
+      "113-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "3:29.0",
+      "P. Larsson misses 3-pt jump shot from 28 ft",
+      "",
+      "113-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "113-113",
+      "",
+      "Defensive rebound by J. Harden"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "113-113",
+      "",
+      "K. Leonard misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "3:03.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "113-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "2:54.0",
+      "B. Adebayo misses 2-pt jump shot from 15 ft",
+      "",
+      "113-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "113-113",
+      "",
+      "Defensive rebound by J. Collins"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "113-113",
+      "",
+      "Turnover by J. Harden (bad pass)"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "2:23.0",
+      "A. Wiggins makes 3-pt jump shot from 28 ft (assist by B. Adebayo)",
+      "+3",
+      "116-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "116-113",
+      "",
+      "Personal foul by D. Mitchell (drawn by J. Harden)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "116-116",
+      "+3",
+      "J. Harden makes 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "1:31.0",
+      "B. Adebayo makes 2-pt jump shot from 15 ft",
+      "+2",
+      "118-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "118-116",
+      "",
+      "Turnover by J. Harden (bad pass; steal by N. Powell)"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "0:57.0",
+      "Shooting foul by I. Zubac (drawn by B. Adebayo)",
+      "",
+      "118-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "0:57.0",
+      "B. Adebayo makes free throw 1 of 2",
+      "+1",
+      "119-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "0:57.0",
+      "B. Adebayo makes free throw 2 of 2",
+      "+1",
+      "120-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "120-116",
+      "",
+      "LA Clippers full timeout"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "120-116",
+      "",
+      "K. Leonard misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "0:46.0",
+      "Defensive rebound by N. Powell",
+      "",
+      "120-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "0:26.0",
+      "B. Adebayo misses 2-pt jump shot from 13 ft",
+      "",
+      "120-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "0:23.0",
+      "",
+      "",
+      "120-116",
+      "",
+      "Defensive rebound by K. Leonard"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "120-119",
+      "+3",
+      "J. Harden makes 3-pt jump shot from 26 ft (assist by K. Leonard)"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "0:19.0",
+      "Miami full timeout",
+      "",
+      "120-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "0:16.0",
+      "Turnover by N. Powell (lost ball; steal by I. Zubac)",
+      "",
+      "120-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "120-119",
+      "",
+      "K. Leonard misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:00.0",
+      "Defensive rebound by D. Mitchell",
+      "",
+      "120-119",
+      "",
+      ""
+    ]
+  }
+]

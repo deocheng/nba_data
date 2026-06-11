@@ -1,0 +1,53 @@
+# Large database
+*.sqlite
+*.sqlite3
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Large PBP CSV files (>50MB each, ~2GB total)
+CSV/pbp*.csv
+
+# 1947 kaggle data (very large)
+CSV/1947/
+
+# Browser profile
+browser_profile/
+
+# Node modules
+node_modules/
+
+# Debug HTML files
+debug/
+
+# Backup files
+backups/
+backup_json/
+
+# Database files
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cookies (sensitive)
+cookies.json
+ultimate_cookies.json
+
+# PMA/LDB files

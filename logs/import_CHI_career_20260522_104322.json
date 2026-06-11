@@ -1,0 +1,203 @@
+{
+  "team_id": "CHI_career",
+  "timestamp": "2026-05-22T10:43:22.403893",
+  "summary": {
+    "total_rows": 482,
+    "imported": 439,
+    "skipped": 0,
+    "errors": 21,
+    "success_rate": "91.1%"
+  },
+  "errors": [
+    {
+      "row": 21,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 43,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 65,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 87,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 109,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 131,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 153,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 175,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 197,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 219,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 241,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 263,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 285,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 307,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 329,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 351,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 373,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 395,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 417,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 439,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    },
+    {
+      "row": 461,
+      "data": {
+        "G": "Totals",
+        "FG%": "Shooting",
+        "MP_PG": "Per Game"
+      },
+      "error": "invalid literal for int() with base 10: 'Totals'"
+    }
+  ],
+  "skipped_rows": []
+}

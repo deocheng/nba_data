@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA数据项目 - 数据地图</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #fff;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #e94560;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .status-badge {
+            display: inline-block;
+            background: #00ff88;
+            color: #1a1a2e;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.9em;
+            margin-left: 10px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 25px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(233,69,96,0.3);
+        }
+
+        .card h2 {
+            color: #00ff88;
+            margin-bottom: 15px;
+            font-size: 1.4em;
+            border-bottom: 2px solid #e94560;
+            padding-bottom: 10px;
+        }
+
+        .stat-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .stat-label {
+            color: #aaa;
+        }
+
+        .stat-value {
+            color: #fff;
+            font-weight: bold;
+        }
+
+        .stat-value.highlight {
+            color: #00ff88;
+            font-size: 1.2em;
+        }
+
+        .team-grid {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 8px;
+            margin-top: 15px;
+        }
+
+        .team-item {
+            background: rgba(233,69,96,0.3);
+            padding: 8px 5px;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 0.85em;
+            font-weight: bold;
+        }
+
+        .category-tag {
+            display: inline-block;
+            background: #e94560;
+            color: #fff;
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 0.85em;
+            margin: 5px;
+        }
+
+        .category-tag.complete {
+            background: #00ff88;
+            color: #1a1a2e;
+        }
+
+        .timeline {
+            margin-top: 20px;
+        }
+
+        .timeline-item {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            background: rgba(0,255,136,0.1);
+            border-radius: 10px;
+            margin-bottom: 10px;
+            border-left: 4px solid #00ff88;
+        }
+
+        .timeline-year {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #e94560;
+            min-width: 100px;
+        }
+
+        .timeline-data {
+            flex: 1;
+            color: #ccc;
+        }
+
+        .coverage-bar {
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 15px;
+        }
+
+        .coverage-fill {
+            background: linear-gradient(90deg, #00ff88, #e94560);
+            height: 25px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: #1a1a2e;
+        }
+
+        .module-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .module-item {
+            background: rgba(233,69,96,0.3);
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.85em;
+        }
+
+        .module-item.verified {
+            background: rgba(0,255,136,0.3);
+            border: 1px solid #00ff88;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #666;
+        }
+
+        .coverage-summary {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin: 20px 0;
+        }
+
+        .coverage-box {
+            background: rgba(0,255,136,0.1);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .coverage-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #00ff88;
+        }
+
+        .coverage-label {
+            color: #aaa;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏀 NBA数据项目 - 数据地图</h1>
+        <span class="status-badge">✅ 数据完整 & 已验证</span>
+
+        <div class="coverage-summary">
+            <div class="coverage-box">
+                <div class="coverage-number">30</div>
+                <div class="coverage-label">支球队数据</div>
+            </div>
+            <div class="coverage-box">
+                <div class="coverage-number">23</div>
+                <div class="coverage-label">LeBron职业生涯赛季</div>
+            </div>
+            <div class="coverage-box">
+                <div class="coverage-number">90+</div>
+                <div class="coverage-label">数据文件</div>
+            </div>
+        </div>
+
+        <div class="grid">
+            <!-- 球队数据 -->
+            <div class="card">
+                <h2>🏈 球队数据覆盖</h2>
+                <div class="stat-item">
+                    <span class="stat-label">球队数量</span>
+                    <span class="stat-value highlight">30支</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">覆盖赛季</span>
+                    <span class="stat-value">2023-24, 2024-25, 2025-26</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">每个球队赛季数</span>
+                    <span class="stat-value">3个赛季</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">总数据文件</span>
+                    <span class="stat-value highlight">90个</span>
+                </div>
+
+                <div class="team-grid">
+                    <div class="team-item">ATL</div>
+                    <div class="team-item">BOS</div>
+                    <div class="team-item">BKN</div>
+                    <div class="team-item">CHA</div>
+                    <div class="team-item">CHI</div>
+                    <div class="team-item">CLE</div>
+                    <div class="team-item">DAL</div>
+                    <div class="team-item">DEN</div>
+                    <div class="team-item">DET</div>
+                    <div class="team-item">GSW</div>
+                    <div class="team-item">HOU</div>
+                    <div class="team-item">IND</div>
+                    <div class="team-item">LAC</div>
+                    <div class="team-item">LAL</div>
+                    <div class="team-item">MEM</div>
+                    <div class="team-item">MIA</div>
+                    <div class="team-item">MIL</div>
+                    <div class="team-item">MIN</div>
+                    <div class="team-item">NOP</div>
+                    <div class="team-item">NYK</div>
+                    <div class="team-item">OKC</div>
+                    <div class="team-item">ORL</div>
+                    <div class="team-item">PHI</div>
+                    <div class="team-item">PHX</div>
+                    <div class="team-item">POR</div>
+                    <div class="team-item">SAC</div>
+                    <div class="team-item">SAS</div>
+                    <div class="team-item">TOR</div>
+                    <div class="team-item">UTA</div>
+                    <div class="team-item">WAS</div>
+                </div>
+            </div>
+
+            <!-- LeBron数据 -->
+            <div class="card">
+                <h2>👑 LeBron James 职业生涯</h2>
+                <div class="stat-item">
+                    <span class="stat-label">数据完整性</span>
+                    <span class="stat-value highlight">100%</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">赛季跨度</span>
+                    <span class="stat-value">2003-04 → 2025-26</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">总赛季数</span>
+                    <span class="stat-value highlight">23个赛季</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">数据点</span>
+                    <span class="stat-value">场均时间、最佳出场/休息时长</span>
+                </div>
+
+                <h3 style="color: #e94560; margin: 20px 0 10px;">赛季时间线</h3>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <span class="timeline-year">2003-04</span>
+                        <span class="timeline-data">骑士队 | 39.5分钟 | 年龄19</span>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">2010-11</span>
+                        <span class="timeline-data">热火队 | 38.8分钟 | 年龄26</span>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">2018-19</span>
+                        <span class="timeline-data">湖人队 | 35.2分钟 | 年龄34</span>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">2025-26</span>
+                        <span class="timeline-data">湖人队 | 33.1分钟 | 年龄41</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 数据类别 -->
+            <div class="card">
+                <h2>📊 数据类别</h2>
+                <div class="stat-item">
+                    <span class="stat-label">球队统计</span>
+                    <span class="category-tag complete">✅ 完整</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">球员统计</span>
+                    <span class="category-tag complete">✅ 完整</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">高级数据</span>
+                    <span class="category-tag complete">✅ 完整</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">可视化图表</span>
+                    <span class="category-tag complete">✅ 完整</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">分析报告</span>
+                    <span class="category-tag complete">✅ 完整</span>
+                </div>
+            </div>
+
+            <!-- 高阶数据指标 -->
+            <div class="card">
+                <h2>📈 高阶数据指标</h2>
+                <div class="stat-item">
+                    <span class="stat-label">TS% (真实投篮命中率)</span>
+                    <span class="stat-value">✅ 已计算</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">eFG% (有效投篮命中率)</span>
+                    <span class="stat-value">✅ 已计算</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">PER (球员效率值)</span>
+                    <span class="stat-value">✅ 已计算</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">USG% (使用率)</span>
+                    <span class="stat-value">✅ 已计算</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Game Score</span>
+                    <span class="stat-value">✅ 已计算</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">AST%, TOV%, etc.</span>
+                    <span class="stat-value">✅ 已计算</span>
+                </div>
+            </div>
+
+            <!-- 代码模块 -->
+            <div class="card">
+                <h2>🛠️ 代码模块 (已验证)</h2>
+                <div class="module-list">
+                    <span class="module-item verified">enhanced_nba_scraper.py</span>
+                    <span class="module-item verified">cache_manager.py</span>
+                    <span class="module-item verified">data_source_manager.py</span>
+                    <span class="module-item verified">full_advanced_stats.py</span>
+                    <span class="module-item verified">advanced_stats_calculator.py</span>
+                    <span class="module-item verified">analyze_lebron_career.py</span>
+                    <span class="module-item verified">collect_all_teams.py</span>
+                    <span class="module-item verified">test_playbyplay.py</span>
+                    <span class="module-item verified">test_playbyplay_v3.py</span>
+                </div>
+                <div class="coverage-bar">
+                    <div class="coverage-fill" style="width: 100%;">
+                        ✅ 全部验证通过
+                    </div>
+                </div>
+            </div>
+
+            <!-- 数据源 -->
+            <div class="card">
+                <h2>🌐 数据源</h2>
+                <div class="stat-item">
+                    <span class="stat-label">NBA.com API</span>
+                    <span class="category-tag complete">✅ 活跃</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Basketball Reference</span>
+                    <span class="category-tag complete">✅ 可用</span>
+                </div>
+                <div style="margin-top: 20px; padding: 15px; background: rgba(0,255,136,0.1); border-radius: 10px;">
+                    <h3 style="color: #00ff88; margin-bottom: 10px;">使用端点</h3>
+                    <div style="font-size: 0.9em; color: #ccc;">
+                        • PlayerGameLog<br>
+                        • TeamGameLog<br>
+                        • TeamInfoCommon<br>
+                        • CommonTeamRoster<br>
+                        • PlayByPlayV3
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 建议 -->
+        <div class="card" style="margin-top: 20px;">
+            <h2>💡 后续建议</h2>
+            <div class="grid" style="grid-template-columns: repeat(2, 1fr);">
+                <div>
+                    <h3 style="color: #e94560; margin-bottom: 15px;">短期 (1-2周)</h3>
+                    <ul style="color: #ccc; line-height: 2;">
+                        <li>✅ 数据已完整，可进行深入分析</li>
+                        <li>✅ 使用高级数据计算器分析其他球员</li>
+                        <li>📌 添加更多年份的历史数据</li>
+                        <li>📌 扩展到其他顶级球员</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 style="color: #e94560; margin-bottom: 15px;">长期 (1-3个月)</h3>
+                    <ul style="color: #ccc; line-height: 2;">
+                        <li>📌 添加50+球员的完整职业生涯</li>
+                        <li>📌 实现实时数据更新机制</li>
+                        <li>📌 添加机器学习预测模型</li>
+                        <li>📌 开发交互式数据可视化界面</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>NBA Data Analysis Project | Generated by Trae AI | 2026-04-21</p>
+            <p style="margin-top: 10px;">GitHub: <a href="https://github.com/deocheng/nba-data-analysis-project" style="color: #00ff88;">github.com/deocheng/nba-data-analysis-project</a></p>
+        </div>
+    </div>
+</body>
+</html>

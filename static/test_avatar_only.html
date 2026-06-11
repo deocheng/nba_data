@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>头像测试</title>
+    <style>
+        body { font-family: Arial; background: #1a1a2e; color: white; padding: 20px; text-align: center; }
+        .avatar { width: 200px; height: 250px; border-radius: 15px; margin: 20px auto; }
+        .info { background: white; color: black; padding: 20px; border-radius: 10px; max-width: 400px; margin: 20px auto; text-align: left; }
+        h1 { color: #45b7d1; }
+    </style>
+</head>
+<body>
+    <h1>Victor Wembanyama - 头像测试</h1>
+    <img id="avatar" class="avatar" alt="头像">
+    <div id="info" class="info"></div>
+
+    <script>
+        fetch('/api/players/446')
+            .then(res => res.json())
+            .then(data => {
+                if (data.success && data.player) {
+                    const p = data.player;
+                    document.getElementById('avatar').src = p.avatar_url || '';
+                    document.getElementById('info').innerHTML = `
+                        <p><strong>姓名:</strong> ${p.name}</p>
+                        <p><strong>绰号:</strong> ${p.nickname || '无'}</p>
+                        <p><strong>身高:</strong> ${p.physical_info?.height || p.height || '无'}</p>
+                        <p><strong>体重:</strong> ${p.physical_info?.weight || p.weight || '无'}</p>
+                        <p><strong>臂展:</strong> ${p.wingspan || '无'}</p>
+                    `;
+                }
+            })
+            .catch(err => {
+                document.getElementById('info').innerHTML = `<p style="color:red">加载失败: ${err.message}</p>`;
+            });
+    </script>
+</body>
+</html>

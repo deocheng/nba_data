@@ -1,0 +1,5282 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Memphis",
+      "",
+      "Score",
+      "",
+      "Denver"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:39.0",
+      "",
+      "",
+      "0-2",
+      "+2",
+      "J. Murray makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:28.0",
+      "G. Jackson makes 3-pt jump shot from 24 ft (assist by T. Jerome)",
+      "+3",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:14.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "Turnover by N. Jokić (bad pass)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:01.0",
+      "J. Wells makes 2-pt layup from 4 ft (assist by J. Mashack)",
+      "+2",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:01.0",
+      "Shooting foul by J. Strawther (drawn by J. Wells)",
+      "",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:01.0",
+      "J. Wells makes free throw 1 of 1",
+      "+1",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "J. Murray misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:50.0",
+      "Defensive rebound by G. Jackson",
+      "",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:37.0",
+      "G. Jackson misses 2-pt dunk from 2 ft",
+      "",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:35.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "Defensive rebound by C. Braun"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "6-4",
+      "+2",
+      "J. Strawther makes 2-pt layup from 3 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:53.0",
+      "T. Jerome misses 3-pt jump shot from 25 ft",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "6-4",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "6-4",
+      "",
+      "J. Strawther misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:45.0",
+      "Defensive rebound by K. Anderson",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:33.0",
+      "J. Mashack misses 2-pt layup from 2 ft",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:32.0",
+      "Offensive rebound by K. Anderson",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:27.0",
+      "T. Jerome misses 3-pt jump shot from 25 ft",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "6-4",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "6-6",
+      "+2",
+      "C. Braun makes 2-pt layup from 4 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:05.0",
+      "J. Wells makes 3-pt jump shot from 26 ft (assist by G. Jackson)",
+      "+3",
+      "9-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "9-8",
+      "+2",
+      "C. Braun makes 2-pt layup from 3 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:30.0",
+      "G. Jackson misses 3-pt jump shot from 25 ft",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "9-8",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "9-8",
+      "",
+      "C. Johnson misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "9-8",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:16.0",
+      "Loose ball foul by J. Mashack (drawn by N. Jokić)",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "9-8",
+      "",
+      "Offensive foul by C. Braun (drawn by J. Wells)"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "9-8",
+      "",
+      "Turnover by C. Braun (offensive foul)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:13.0",
+      "K. Caldwell-Pope enters the game for G. Jackson",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:13.0",
+      "O. Prosper enters the game for J. Mashack",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:59.0",
+      "T. Jerome misses 2-pt layup from 4 ft",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "9-8",
+      "",
+      "Defensive rebound by C. Braun"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "9-10",
+      "+2",
+      "N. Jokić makes 2-pt layup from 3 ft (assist by C. Braun)"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:45.0",
+      "Shooting foul by C. Johnson (drawn by T. Jerome)",
+      "",
+      "9-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:45.0",
+      "T. Jerome makes free throw 1 of 2",
+      "+1",
+      "10-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:45.0",
+      "T. Jerome misses free throw 2 of 2",
+      "",
+      "10-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "10-10",
+      "",
+      "Defensive rebound by C. Johnson"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "10-12",
+      "+2",
+      "N. Jokić makes 2-pt hook shot from 6 ft"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:22.0",
+      "Memphis full timeout",
+      "",
+      "10-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:22.0",
+      "T. Hendricks enters the game for K. Anderson",
+      "",
+      "10-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:22.0",
+      "S. Pippen enters the game for T. Jerome",
+      "",
+      "10-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:06.0",
+      "Turnover by T. Hendricks (bad pass; steal by C. Johnson)",
+      "",
+      "10-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "10-12",
+      "",
+      "Turnover by N. Jokić (lost ball; steal by T. Hendricks)"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:56.0",
+      "O. Prosper makes 2-pt layup from 2 ft (assist by T. Hendricks)",
+      "+2",
+      "12-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "12-14",
+      "+2",
+      "N. Jokić makes 2-pt hook shot from 5 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:30.0",
+      "T. Hendricks makes 3-pt jump shot from 27 ft (assist by S. Pippen )",
+      "+3",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "Turnover by N. Jokić (bad pass; steal by K. Caldwell-Pope)"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:10.0",
+      "S. Pippen misses 2-pt layup from 3 ft (block by J. Murray)",
+      "",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:10.0",
+      "C. Spencer enters the game for J. Wells",
+      "",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "15-16",
+      "+2",
+      "J. Strawther makes 2-pt layup from 4 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:38.0",
+      "S. Pippen misses 2-pt jump shot from 13 ft",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "Defensive rebound by C. Johnson"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "J. Strawther misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:24.0",
+      "Defensive rebound by O. Prosper",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:22.0",
+      "Shooting foul by J. Strawther (drawn by S. Pippen )",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:22.0",
+      "S. Pippen misses free throw 1 of 2",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:22.0",
+      "Offensive rebound by Team",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "B. Brown enters the game for C. Johnson"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "T. Hardaway enters the game for J. Strawther"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:22.0",
+      "S. Pippen makes free throw 2 of 2",
+      "+1",
+      "16-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "16-16",
+      "",
+      "Turnover by J. Murray (bad pass; steal by S. Pippen )"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:08.0",
+      "O. Prosper makes 2-pt layup from 4 ft",
+      "+2",
+      "18-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "18-16",
+      "",
+      "Personal foul by O. Prosper (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "18-18",
+      "+2",
+      "J. Murray makes 2-pt jump shot from 16 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:39.0",
+      "C. Spencer misses 3-pt jump shot from 27 ft",
+      "",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "C. Braun misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:30.0",
+      "Defensive rebound by T. Hendricks",
+      "",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:24.0",
+      "C. Spencer misses 3-pt jump shot from 26 ft",
+      "",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "18-20",
+      "+2",
+      "N. Jokić makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "18-20",
+      "",
+      "Shooting foul by T. Hendricks (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "18-21",
+      "+1",
+      "N. Jokić makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:50.0",
+      "O. Prosper misses 3-pt jump shot from 23 ft",
+      "",
+      "18-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "18-21",
+      "",
+      "Defensive rebound by T. Hardaway"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "18-21",
+      "",
+      "N. Jokić misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "18-21",
+      "",
+      "Offensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "18-21",
+      "",
+      "N. Jokić misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:30.0",
+      "Defensive rebound by T. Hendricks",
+      "",
+      "18-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:28.0",
+      "T. Hendricks makes 2-pt dunk from 1 ft",
+      "+2",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "20-21",
+      "",
+      "N. Jokić misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:17.0",
+      "Defensive rebound by Team",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:17.0",
+      "Memphis full timeout",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:17.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "3:17.0",
+      "L. Lovering enters the game for O. Prosper",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "20-21",
+      "",
+      "J. Pickett enters the game for C. Braun"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "3:03.0",
+      "T. Hendricks misses 3-pt jump shot from 24 ft",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "20-21",
+      "",
+      "Defensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "20-23",
+      "+2",
+      "B. Brown makes 2-pt layup from 3 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:32.0",
+      "C. Spencer misses 2-pt jump shot from 17 ft",
+      "",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:32.0",
+      "Loose ball foul by L. Lovering (drawn by N. Jokić)",
+      "",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "2:32.0",
+      "G. Jackson enters the game for K. Caldwell-Pope",
+      "",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "2:32.0",
+      "J. Mashack enters the game for S. Pippen",
+      "",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "C. Johnson enters the game for J. Murray"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "B. Brown misses 2-pt layup from 3 ft (block by G. Jackson)"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "2:13.0",
+      "Defensive rebound by L. Lovering",
+      "",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:59.0",
+      "C. Spencer misses 3-pt jump shot from 25 ft",
+      "",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "Defensive rebound by C. Johnson"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "Shooting foul by J. Mashack (drawn by T. Hardaway)"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "T. Hardaway misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "20-24",
+      "+1",
+      "T. Hardaway makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "1:30.0",
+      "G. Jackson misses 2-pt jump shot from 3 ft",
+      "",
+      "20-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "20-24",
+      "",
+      "Defensive rebound by T. Hardaway"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "20-24",
+      "",
+      "Shooting foul by T. Hendricks (drawn by T. Hardaway)"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "20-25",
+      "+1",
+      "T. Hardaway makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "20-26",
+      "+1",
+      "T. Hardaway makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "1:16.0",
+      "C. Spencer makes 2-pt jump shot from 16 ft",
+      "+2",
+      "22-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "22-26",
+      "",
+      "Turnover by N. Jokić (bad pass; steal by L. Lovering)"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:58.0",
+      "Shooting foul by T. Hardaway (drawn by G. Jackson)",
+      "",
+      "22-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:58.0",
+      "G. Jackson misses free throw 1 of 2",
+      "",
+      "22-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:58.0",
+      "Offensive rebound by Team",
+      "",
+      "22-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "0:58.0",
+      "G. Jackson makes free throw 2 of 2",
+      "+1",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "23-28",
+      "+2",
+      "T. Hardaway makes 2-pt jump shot from 15 ft (assist by B. Brown)"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "0:34.0",
+      "T. Hendricks makes 3-pt jump shot from 23 ft (assist by C. Spencer)",
+      "+3",
+      "26-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "0:24.0",
+      "",
+      "",
+      "26-30",
+      "+2",
+      "B. Brown makes 2-pt layup from 3 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "0:01.0",
+      "J. Mashack makes 2-pt jump shot from 10 ft (assist by C. Spencer)",
+      "+2",
+      "28-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "28-30",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "28-30",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "Time",
+      "Memphis",
+      "",
+      "Score",
+      "",
+      "Denver"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "11:46.0",
+      "G. Jackson misses 3-pt jump shot from 26 ft",
+      "",
+      "28-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "11:44.0",
+      "Offensive rebound by L. Lovering",
+      "",
+      "28-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "11:37.0",
+      "J. Mashack makes 3-pt jump shot from 25 ft (assist by C. Spencer)",
+      "+3",
+      "31-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "31-30",
+      "",
+      "J. Valančiūnas misses 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "11:08.0",
+      "Defensive rebound by L. Lovering",
+      "",
+      "31-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "11:02.0",
+      "Personal foul by B. Brown (drawn by C. Spencer)",
+      "",
+      "31-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "31-30",
+      "",
+      "C. Braun enters the game for B. Brown"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:55.0",
+      "J. Mashack misses 3-pt jump shot from 26 ft",
+      "",
+      "31-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "31-30",
+      "",
+      "Defensive rebound by C. Braun"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "31-32",
+      "+2",
+      "C. Braun makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "10:26.0",
+      "J. Mashack misses 2-pt layup from 4 ft",
+      "",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "10:25.0",
+      "Offensive rebound by L. Lovering",
+      "",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "10:25.0",
+      "L. Lovering misses 2-pt layup from 3 ft",
+      "",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "10:24.0",
+      "Offensive rebound by J. Mashack",
+      "",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "10:23.0",
+      "J. Mashack misses 2-pt layup at rim",
+      "",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "31-32",
+      "",
+      "Defensive rebound by J. Pickett"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "31-32",
+      "",
+      "C. Johnson misses 2-pt jump shot from 11 ft (block by J. Wells)"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "10:01.0",
+      "Defensive rebound by Team",
+      "",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "10:01.0",
+      "K. Anderson enters the game for L. Lovering",
+      "",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "10:01.0",
+      "T. Jerome enters the game for C. Spencer",
+      "",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "9:40.0",
+      "K. Anderson makes 2-pt jump shot from 8 ft",
+      "+2",
+      "33-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "33-35",
+      "+3",
+      "C. Johnson makes 3-pt jump shot from 27 ft (assist by C. Braun)"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:57.0",
+      "T. Jerome misses 2-pt jump shot from 10 ft",
+      "",
+      "33-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:55.0",
+      "",
+      "",
+      "33-35",
+      "",
+      "Defensive rebound by J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "33-38",
+      "+3",
+      "T. Hardaway makes 3-pt jump shot from 27 ft (assist by C. Johnson)"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:30.0",
+      "J. Wells misses 3-pt jump shot from 26 ft",
+      "",
+      "33-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:28.0",
+      "",
+      "",
+      "33-38",
+      "",
+      "Defensive rebound by T. Hardaway"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "33-41",
+      "+3",
+      "T. Hardaway makes 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:18.0",
+      "Memphis full timeout",
+      "",
+      "33-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "8:18.0",
+      "K. Caldwell-Pope enters the game for G. Jackson",
+      "",
+      "33-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "8:18.0",
+      "T. Hendricks enters the game for J. Mashack",
+      "",
+      "33-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "8:06.0",
+      "K. Caldwell-Pope misses 3-pt jump shot from 27 ft",
+      "",
+      "33-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "33-41",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "33-41",
+      "",
+      "Personal foul by K. Anderson (drawn by J. Valančiūnas)"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "33-41",
+      "",
+      "J. Pickett misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "33-41",
+      "",
+      "Offensive rebound by J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "33-41",
+      "",
+      "Personal foul by K. Anderson (drawn by J. Valančiūnas)"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:27.0",
+      "",
+      "",
+      "33-41",
+      "",
+      "J. Pickett misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:27.0",
+      "",
+      "",
+      "33-41",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:27.0",
+      "Loose ball foul by K. Anderson (drawn by J. Valančiūnas)",
+      "",
+      "33-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "33-44",
+      "+3",
+      "J. Pickett makes 3-pt jump shot from 24 ft (assist by C. Braun)"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "33-44",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "7:02.0",
+      "T. Jerome makes 3-pt jump shot from 26 ft",
+      "+3",
+      "36-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "36-44",
+      "",
+      "Shooting foul by T. Hendricks (drawn by J. Valančiūnas)"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "36-45",
+      "+1",
+      "J. Valančiūnas makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "36-45",
+      "",
+      "B. Brown enters the game for T. Hardaway"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "36-45",
+      "",
+      "J. Murray enters the game for C. Johnson"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "36-45",
+      "",
+      "J. Strawther enters the game for J. Pickett"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "36-46",
+      "+1",
+      "J. Valančiūnas makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:20.0",
+      "T. Jerome makes 2-pt jump shot from 9 ft",
+      "+2",
+      "38-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:20.0",
+      "Shooting foul by C. Braun (drawn by T. Jerome)",
+      "",
+      "38-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "6:20.0",
+      "T. Jerome makes free throw 1 of 1",
+      "+1",
+      "39-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "39-46",
+      "",
+      "J. Murray misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "6:00.0",
+      "",
+      "",
+      "39-46",
+      "",
+      "Offensive rebound by J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "6:00.0",
+      "",
+      "",
+      "39-48",
+      "+2",
+      "J. Valančiūnas makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:44.0",
+      "T. Jerome misses 2-pt jump shot from 10 ft",
+      "",
+      "39-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:43.0",
+      "",
+      "",
+      "39-48",
+      "",
+      "Defensive rebound by J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "39-48",
+      "",
+      "C. Braun misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:29.0",
+      "Defensive rebound by J. Wells",
+      "",
+      "39-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:24.0",
+      "Shooting foul by J. Murray (drawn by T. Jerome)",
+      "",
+      "39-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:24.0",
+      "T. Jerome makes free throw 1 of 2",
+      "+1",
+      "40-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "5:24.0",
+      "O. Prosper enters the game for J. Wells",
+      "",
+      "40-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "5:24.0",
+      "T. Jerome makes free throw 2 of 2",
+      "+1",
+      "41-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "41-48",
+      "",
+      "Personal foul by T. Jerome (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "41-49",
+      "+1",
+      "J. Murray makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:09.0",
+      "S. Pippen enters the game for K. Anderson",
+      "",
+      "41-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "5:09.0",
+      "C. Spencer enters the game for T. Jerome",
+      "",
+      "41-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "41-50",
+      "+1",
+      "J. Murray makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "4:51.0",
+      "S. Pippen makes 3-pt jump shot from 26 ft (assist by C. Spencer)",
+      "+3",
+      "44-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "44-52",
+      "+2",
+      "J. Valančiūnas makes 2-pt jump shot from 12 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "4:06.0",
+      "T. Hendricks misses 3-pt jump shot from 25 ft",
+      "",
+      "44-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "4:03.0",
+      "",
+      "",
+      "44-52",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "44-52",
+      "",
+      "Shooting foul by O. Prosper (drawn by J. Valančiūnas)"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "44-52",
+      "",
+      "J. Valančiūnas misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "44-52",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "44-53",
+      "+1",
+      "J. Valančiūnas makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:46.0",
+      "Personal take foul by B. Brown (drawn by S. Pippen )",
+      "",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "N. Jokić enters the game for J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:32.0",
+      "T. Hendricks misses 2-pt jump shot from 8 ft",
+      "",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "3:30.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "Defensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "Personal foul by S. Pippen (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "44-54",
+      "+1",
+      "J. Murray makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "44-55",
+      "+1",
+      "J. Murray makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "3:16.0",
+      "S. Pippen misses 3-pt jump shot from 26 ft",
+      "",
+      "44-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "3:13.0",
+      "Offensive rebound by O. Prosper",
+      "",
+      "44-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "3:11.0",
+      "K. Caldwell-Pope misses 3-pt jump shot from 27 ft",
+      "",
+      "44-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "3:11.0",
+      "",
+      "",
+      "44-55",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "3:11.0",
+      "G. Jackson enters the game for K. Caldwell-Pope",
+      "",
+      "44-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "3:11.0",
+      "J. Mashack enters the game for T. Hendricks",
+      "",
+      "44-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "2:56.0",
+      "",
+      "",
+      "44-55",
+      "",
+      "J. Murray misses 2-pt layup from 13 ft (block by S. Pippen )"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "44-55",
+      "",
+      "Offensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "44-58",
+      "+3",
+      "J. Strawther makes 3-pt jump shot from 27 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "2:30.0",
+      "G. Jackson makes 3-pt jump shot from 24 ft (assist by C. Spencer)",
+      "+3",
+      "47-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "J. Murray misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "2:15.0",
+      "Defensive rebound by O. Prosper",
+      "",
+      "47-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "2:04.0",
+      "S. Pippen misses 3-pt jump shot from 23 ft",
+      "",
+      "47-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "2:00.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "Defensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "Shooting foul by O. Prosper (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "T. Hardaway enters the game for B. Brown"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "C. Johnson enters the game for J. Strawther"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "47-59",
+      "+1",
+      "N. Jokić makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "47-60",
+      "+1",
+      "N. Jokić makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "1:37.0",
+      "O. Prosper makes 3-pt jump shot from 26 ft (assist by G. Jackson)",
+      "+3",
+      "50-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "50-60",
+      "",
+      "Turnover by J. Murray (bad pass; steal by O. Prosper)"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "1:15.0",
+      "O. Prosper makes 2-pt layup from 4 ft",
+      "+2",
+      "52-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "52-60",
+      "",
+      "Turnover by N. Jokić (lost ball; steal by J. Mashack)"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "0:48.0",
+      "J. Mashack makes 2-pt layup from 2 ft (assist by C. Spencer)",
+      "+2",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "54-60",
+      "",
+      "N. Jokić misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "54-60",
+      "",
+      "Offensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "54-60",
+      "",
+      "N. Jokić misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "0:29.0",
+      "Defensive rebound by J. Mashack",
+      "",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "0:23.0",
+      "J. Mashack misses 3-pt jump shot from 24 ft",
+      "",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "54-60",
+      "",
+      "Defensive rebound by C. Braun"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "54-60",
+      "",
+      "C. Johnson misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "0:01.0",
+      "Defensive rebound by J. Mashack",
+      "",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "0:00.0",
+      "Team misses heave shot",
+      "",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "Time",
+      "Memphis",
+      "",
+      "Score",
+      "",
+      "Denver"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "11:45.0",
+      "J. Wells makes 2-pt layup from 3 ft (assist by G. Jackson)",
+      "+2",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "56-62",
+      "+2",
+      "J. Murray makes 2-pt layup from 7 ft"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "11:10.0",
+      "J. Wells misses 2-pt jump shot from 22 ft",
+      "",
+      "56-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "56-62",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "56-62",
+      "",
+      "Turnover by C. Braun (bad pass; steal by T. Jerome)"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "10:48.0",
+      "K. Anderson makes 2-pt layup from 4 ft",
+      "+2",
+      "58-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "58-62",
+      "",
+      "J. Murray misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "58-62",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "10:30.0",
+      "Loose ball foul by J. Wells (drawn by C. Braun)",
+      "",
+      "58-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "10:29.0",
+      "",
+      "",
+      "58-62",
+      "",
+      "Personal foul by J. Mashack (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "58-64",
+      "+2",
+      "J. Murray makes 2-pt layup from 3 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "10:07.0",
+      "K. Anderson misses 2-pt jump shot from 11 ft",
+      "",
+      "58-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "58-64",
+      "",
+      "Defensive rebound by C. Braun"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "58-66",
+      "+2",
+      "J. Murray makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "9:34.0",
+      "J. Wells makes 2-pt dunk from 2 ft (assist by T. Jerome)",
+      "+2",
+      "60-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "60-66",
+      "",
+      "C. Johnson misses 2-pt layup from 4 ft (block by T. Jerome)"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "9:30.0",
+      "Defensive rebound by Team",
+      "",
+      "60-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "9:20.0",
+      "T. Jerome makes 3-pt jump shot from 27 ft (assist by J. Mashack)",
+      "+3",
+      "63-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "63-66",
+      "",
+      "Turnover by N. Jokić (bad pass; steal by J. Mashack)"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "8:58.0",
+      "G. Jackson makes 2-pt layup from 2 ft (assist by T. Jerome)",
+      "+2",
+      "65-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "65-66",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "65-66",
+      "",
+      "Personal foul by J. Wells (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "8:36.0",
+      "",
+      "",
+      "65-68",
+      "+2",
+      "C. Braun makes 2-pt layup from 3 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "8:21.0",
+      "G. Jackson makes 3-pt jump shot from 27 ft (assist by K. Anderson)",
+      "+3",
+      "68-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "68-68",
+      "",
+      "Shooting foul by K. Anderson (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "68-68",
+      "",
+      "N. Jokić misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "68-68",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "8:08.0",
+      "K. Caldwell-Pope enters the game for G. Jackson",
+      "",
+      "68-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:08.0",
+      "O. Prosper enters the game for J. Mashack",
+      "",
+      "68-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "68-69",
+      "+1",
+      "N. Jokić makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "7:57.0",
+      "T. Jerome misses 3-pt jump shot from 33 ft",
+      "",
+      "68-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "68-69",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "68-69",
+      "",
+      "C. Johnson misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "7:45.0",
+      "Defensive rebound by Team",
+      "",
+      "68-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "7:39.0",
+      "T. Jerome misses 3-pt jump shot from 30 ft",
+      "",
+      "68-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "7:36.0",
+      "",
+      "",
+      "68-69",
+      "",
+      "Defensive rebound by J. Strawther"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "68-71",
+      "+2",
+      "C. Braun makes 2-pt layup from 2 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "7:05.0",
+      "J. Wells makes 2-pt layup from 5 ft (assist by T. Jerome)",
+      "+2",
+      "70-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "70-71",
+      "",
+      "J. Murray misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "70-71",
+      "",
+      "Offensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "70-73",
+      "+2",
+      "N. Jokić makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "6:35.0",
+      "Shooting foul by J. Murray (drawn by T. Jerome)",
+      "",
+      "70-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "6:35.0",
+      "T. Jerome makes free throw 1 of 2",
+      "+1",
+      "71-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "6:35.0",
+      "T. Hendricks enters the game for K. Anderson",
+      "",
+      "71-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "71-73",
+      "",
+      "T. Hardaway enters the game for C. Johnson"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "6:35.0",
+      "T. Jerome makes free throw 2 of 2",
+      "+1",
+      "72-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "6:22.0",
+      "",
+      "",
+      "72-76",
+      "+3",
+      "J. Murray makes 3-pt jump shot from 26 ft (assist by C. Braun)"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "6:00.0",
+      "Personal foul by N. Jokić (drawn by T. Hendricks)",
+      "",
+      "72-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "6:00.0",
+      "S. Pippen enters the game for T. Jerome",
+      "",
+      "72-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "6:00.0",
+      "C. Spencer enters the game for J. Wells",
+      "",
+      "72-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "6:00.0",
+      "",
+      "",
+      "72-76",
+      "",
+      "B. Brown enters the game for J. Strawther"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "5:52.0",
+      "K. Caldwell-Pope misses 2-pt jump shot from 18 ft",
+      "",
+      "72-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "72-76",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "72-78",
+      "+2",
+      "C. Braun makes 2-pt dunk from 1 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "5:30.0",
+      "C. Spencer misses 2-pt jump shot from 10 ft",
+      "",
+      "72-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "72-78",
+      "",
+      "Defensive rebound by C. Braun"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "72-78",
+      "",
+      "Shooting foul by T. Hendricks (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "72-78",
+      "",
+      "N. Jokić misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "72-78",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "72-79",
+      "+1",
+      "N. Jokić makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "5:08.0",
+      "S. Pippen misses 2-pt jump shot from 12 ft",
+      "",
+      "72-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "72-79",
+      "",
+      "Defensive rebound by C. Braun"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "72-81",
+      "+2",
+      "N. Jokić makes 2-pt layup from 5 ft (assist by C. Braun)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:56.0",
+      "Memphis full timeout",
+      "",
+      "72-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:43.0",
+      "T. Hendricks misses 2-pt jump shot from 8 ft",
+      "",
+      "72-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "72-81",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "72-83",
+      "+2",
+      "T. Hardaway makes 2-pt layup from 4 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "4:21.0",
+      "Personal foul by T. Hardaway (drawn by S. Pippen )",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "4:15.0",
+      "Offensive foul by T. Hendricks (drawn by T. Hardaway)",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "4:15.0",
+      "Turnover by T. Hendricks (offensive foul)",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "4:15.0",
+      "G. Jackson enters the game for T. Hendricks",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "72-83",
+      "",
+      "J. Murray misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "4:03.0",
+      "Defensive rebound by C. Spencer",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "3:52.0",
+      "Offensive foul by S. Pippen (drawn by J. Murray)",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "3:52.0",
+      "Turnover by S. Pippen (offensive foul)",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "3:52.0",
+      "L. Lovering enters the game for O. Prosper",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "72-83",
+      "",
+      "J. Murray misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "72-83",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "3:23.0",
+      "",
+      "",
+      "72-83",
+      "",
+      "N. Jokić misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "3:21.0",
+      "Defensive rebound by G. Jackson",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "3:18.0",
+      "Shooting foul by C. Braun (drawn by G. Jackson)",
+      "",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "3:18.0",
+      "G. Jackson makes free throw 1 of 2",
+      "+1",
+      "73-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "3:18.0",
+      "G. Jackson makes free throw 2 of 2",
+      "+1",
+      "74-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "2:59.0",
+      "",
+      "",
+      "74-85",
+      "+2",
+      "J. Murray makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "2:50.0",
+      "Offensive foul by L. Lovering (drawn by B. Brown)",
+      "",
+      "74-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "2:50.0",
+      "Turnover by L. Lovering (offensive foul)",
+      "",
+      "74-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "74-85",
+      "",
+      "J. Murray misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "2:31.0",
+      "Defensive rebound by G. Jackson",
+      "",
+      "74-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "2:21.0",
+      "G. Jackson makes 2-pt layup from 4 ft (assist by C. Spencer)",
+      "+2",
+      "76-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "76-85",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "2:21.0",
+      "J. Mashack enters the game for K. Caldwell-Pope",
+      "",
+      "76-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "2:21.0",
+      "O. Prosper enters the game for S. Pippen",
+      "",
+      "76-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "76-85",
+      "",
+      "C. Johnson enters the game for J. Murray"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "76-85",
+      "",
+      "Turnover by N. Jokić (bad pass; steal by C. Spencer)"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "2:00.0",
+      "J. Mashack misses 3-pt jump shot from 26 ft",
+      "",
+      "76-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "76-85",
+      "",
+      "Defensive rebound by C. Johnson"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "76-88",
+      "+3",
+      "B. Brown makes 3-pt jump shot from 26 ft (assist by C. Braun)"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "1:31.0",
+      "C. Spencer misses 2-pt jump shot from 9 ft",
+      "",
+      "76-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "76-88",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "76-88",
+      "",
+      "Shooting foul by L. Lovering (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "76-88",
+      "",
+      "N. Jokić misses free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "76-88",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "76-89",
+      "+1",
+      "N. Jokić makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "76-90",
+      "+1",
+      "N. Jokić makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:49.0",
+      "G. Jackson makes 2-pt jump shot from 15 ft",
+      "+2",
+      "78-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:49.0",
+      "Shooting foul by C. Johnson (drawn by G. Jackson)",
+      "",
+      "78-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:49.0",
+      "G. Jackson makes free throw 1 of 1",
+      "+1",
+      "79-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "79-90",
+      "",
+      "N. Jokić misses 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:30.0",
+      "Defensive rebound by O. Prosper",
+      "",
+      "79-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:26.0",
+      "J. Mashack makes 2-pt layup from 4 ft (assist by C. Spencer)",
+      "+2",
+      "81-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "81-93",
+      "+3",
+      "T. Hardaway makes 3-pt jump shot from 26 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:00.0",
+      "J. Mashack misses 3-pt jump shot from 27 ft",
+      "",
+      "81-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "81-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "Time",
+      "Memphis",
+      "",
+      "Score",
+      "",
+      "Denver"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "11:50.0",
+      "",
+      "",
+      "81-93",
+      "",
+      "T. Hardaway misses 3-pt jump shot from 26 ft (block by J. Mashack)"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "11:47.0",
+      "Defensive rebound by C. Spencer",
+      "",
+      "81-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "11:34.0",
+      "Shooting foul by C. Johnson (drawn by G. Jackson)",
+      "",
+      "81-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "11:34.0",
+      "G. Jackson makes free throw 1 of 2",
+      "+1",
+      "82-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "11:34.0",
+      "G. Jackson makes free throw 2 of 2",
+      "+1",
+      "83-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "11:21.0",
+      "",
+      "",
+      "83-95",
+      "+2",
+      "J. Strawther makes 2-pt jump shot from 8 ft (assist by B. Brown)"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "10:56.0",
+      "Turnover by G. Jackson (bad pass; steal by J. Strawther)",
+      "",
+      "83-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "10:52.0",
+      "",
+      "",
+      "83-97",
+      "+2",
+      "C. Johnson makes 2-pt dunk from 1 ft (assist by J. Strawther)"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "10:32.0",
+      "Personal foul by J. Valančiūnas (drawn by L. Lovering)",
+      "",
+      "83-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "10:22.0",
+      "J. Wells makes 3-pt jump shot from 23 ft (assist by C. Spencer)",
+      "+3",
+      "86-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "86-99",
+      "+2",
+      "J. Strawther makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:46.0",
+      "C. Spencer misses 2-pt jump shot from 23 ft",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "86-99",
+      "",
+      "Defensive rebound by J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "86-99",
+      "",
+      "Personal foul by J. Wells (drawn by J. Strawther)"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "9:33.0",
+      "K. Anderson enters the game for L. Lovering",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "9:33.0",
+      "T. Jerome enters the game for C. Spencer",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "9:33.0",
+      "Memphis full timeout",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "9:33.0",
+      "L. Lovering enters the game for K. Anderson",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "9:33.0",
+      "C. Spencer enters the game for T. Jerome",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "9:33.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "9:33.0",
+      "K. Anderson enters the game for L. Lovering",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:33.0",
+      "K. Caldwell-Pope enters the game for J. Mashack",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:33.0",
+      "T. Jerome enters the game for C. Spencer",
+      "",
+      "86-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "86-99",
+      "",
+      "J. Strawther misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "86-99",
+      "",
+      "Offensive rebound by J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "86-101",
+      "+2",
+      "J. Valančiūnas makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "9:17.0",
+      "Personal foul by J. Strawther (drawn by J. Wells)",
+      "",
+      "86-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "9:07.0",
+      "K. Caldwell-Pope misses 2-pt jump shot from 4 ft",
+      "",
+      "86-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "9:06.0",
+      "Offensive rebound by K. Anderson",
+      "",
+      "86-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "9:05.0",
+      "K. Anderson makes 2-pt layup at rim",
+      "+2",
+      "88-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "88-103",
+      "+2",
+      "T. Hardaway makes 2-pt jump shot from 18 ft (assist by J. Strawther)"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "8:31.0",
+      "J. Wells makes 2-pt dunk from 1 ft (assist by K. Caldwell-Pope)",
+      "+2",
+      "90-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "90-103",
+      "",
+      "Turnover by J. Valančiūnas (lost ball; steal by K. Anderson)"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "7:53.0",
+      "Shooting foul by J. Valančiūnas (drawn by T. Jerome)",
+      "",
+      "90-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "7:53.0",
+      "T. Jerome makes free throw 1 of 2",
+      "+1",
+      "91-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "7:53.0",
+      "T. Hendricks enters the game for G. Jackson",
+      "",
+      "91-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "7:53.0",
+      "T. Jerome makes free throw 2 of 2",
+      "+1",
+      "92-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "92-103",
+      "",
+      "J. Valančiūnas misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "7:27.0",
+      "Defensive rebound by K. Caldwell-Pope",
+      "",
+      "92-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:25.0",
+      "K. Caldwell-Pope makes 3-pt jump shot from 26 ft",
+      "+3",
+      "95-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "95-103",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "95-103",
+      "",
+      "C. Braun enters the game for T. Hardaway"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "95-103",
+      "",
+      "J. Murray enters the game for C. Johnson"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "95-103",
+      "",
+      "J. Strawther misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:04.0",
+      "Defensive rebound by K. Caldwell-Pope",
+      "",
+      "95-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "6:55.0",
+      "K. Anderson makes 2-pt jump shot from 8 ft (assist by T. Jerome)",
+      "+2",
+      "97-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "97-103",
+      "",
+      "Personal foul by J. Wells (drawn by J. Valančiūnas)"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "6:30.0",
+      "",
+      "",
+      "97-103",
+      "",
+      "J. Murray misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "6:27.0",
+      "Defensive rebound by T. Jerome",
+      "",
+      "97-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "6:24.0",
+      "T. Jerome makes 3-pt jump shot from 28 ft",
+      "+3",
+      "100-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "Personal foul by K. Anderson (drawn by J. Valančiūnas)"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "6:08.0",
+      "O. Prosper enters the game for J. Wells",
+      "",
+      "100-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "N. Jokić enters the game for J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "Shooting foul by K. Anderson (drawn by C. Braun)"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "5:59.0",
+      "L. Lovering enters the game for K. Anderson",
+      "",
+      "100-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "100-104",
+      "+1",
+      "C. Braun makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "100-105",
+      "+1",
+      "C. Braun makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "5:44.0",
+      "O. Prosper makes 2-pt layup from 5 ft (assist by T. Jerome)",
+      "+2",
+      "102-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "102-105",
+      "",
+      "Personal foul by T. Jerome (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "102-106",
+      "+1",
+      "N. Jokić makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "102-106",
+      "",
+      "N. Jokić misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "5:27.0",
+      "Defensive rebound by O. Prosper",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "5:13.0",
+      "O. Prosper makes 3-pt jump shot from 24 ft (assist by K. Caldwell-Pope)",
+      "+3",
+      "105-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "105-109",
+      "+3",
+      "B. Brown makes 3-pt jump shot from 24 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "4:30.0",
+      "L. Lovering makes 2-pt layup from 3 ft (assist by T. Jerome)",
+      "+2",
+      "107-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "107-109",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "4:05.0",
+      "S. Pippen enters the game for T. Jerome",
+      "",
+      "107-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "107-109",
+      "",
+      "T. Hardaway enters the game for J. Strawther"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "3:50.0",
+      "T. Hendricks makes 2-pt layup from 4 ft (assist by S. Pippen )",
+      "+2",
+      "109-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "109-112",
+      "+3",
+      "T. Hardaway makes 3-pt jump shot from 24 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "3:19.0",
+      "K. Caldwell-Pope misses 3-pt jump shot from 27 ft",
+      "",
+      "109-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "109-112",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "2:58.0",
+      "",
+      "",
+      "109-112",
+      "",
+      "Turnover by N. Jokić (lost ball; steal by L. Lovering)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "2:49.0",
+      "Offensive foul by S. Pippen (drawn by T. Hardaway)",
+      "",
+      "109-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "2:49.0",
+      "Turnover by S. Pippen (offensive foul)",
+      "",
+      "109-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "2:49.0",
+      "G. Jackson enters the game for T. Hendricks",
+      "",
+      "109-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "109-112",
+      "",
+      "B. Brown misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "109-112",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "2:31.0",
+      "Loose ball foul by S. Pippen (drawn by N. Jokić)",
+      "",
+      "109-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "109-113",
+      "+1",
+      "N. Jokić makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "109-114",
+      "+1",
+      "N. Jokić makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "2:17.0",
+      "K. Caldwell-Pope makes 2-pt jump shot from 11 ft (assist by S. Pippen )",
+      "+2",
+      "111-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "111-114",
+      "",
+      "N. Jokić misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "111-114",
+      "",
+      "Offensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "111-116",
+      "+2",
+      "N. Jokić makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "1:43.0",
+      "S. Pippen makes 2-pt jump shot from 13 ft",
+      "+2",
+      "113-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "113-116",
+      "",
+      "Turnover by N. Jokić (bad pass; steal by K. Caldwell-Pope)"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "1:15.0",
+      "S. Pippen makes 2-pt layup from 4 ft",
+      "+2",
+      "115-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "115-116",
+      "",
+      "N. Jokić misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:58.0",
+      "",
+      "",
+      "115-116",
+      "",
+      "Offensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "115-118",
+      "+2",
+      "N. Jokić makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "0:44.0",
+      "S. Pippen misses 2-pt jump shot from 8 ft",
+      "",
+      "115-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "0:44.0",
+      "Offensive rebound by G. Jackson",
+      "",
+      "115-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:44.0",
+      "G. Jackson misses 2-pt layup at rim",
+      "",
+      "115-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "115-118",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "115-118",
+      "",
+      "J. Murray misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "0:23.0",
+      "Defensive rebound by K. Caldwell-Pope",
+      "",
+      "115-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "0:17.0",
+      "K. Caldwell-Pope misses 3-pt jump shot from 27 ft",
+      "",
+      "115-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:14.0",
+      "",
+      "",
+      "115-118",
+      "",
+      "Defensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "115-118",
+      "",
+      "Personal take foul by S. Pippen (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "115-119",
+      "+1",
+      "J. Murray makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "115-120",
+      "+1",
+      "J. Murray makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "0:11.0",
+      "Memphis full timeout",
+      "",
+      "115-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "0:11.0",
+      "C. Spencer enters the game for O. Prosper",
+      "",
+      "115-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "0:09.0",
+      "Personal take foul by N. Jokić (drawn by L. Lovering)",
+      "",
+      "115-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "0:09.0",
+      "L. Lovering makes free throw 1 of 2",
+      "+1",
+      "116-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "0:09.0",
+      "O. Prosper enters the game for C. Spencer",
+      "",
+      "116-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "116-120",
+      "",
+      "J. Valančiūnas enters the game for T. Hardaway"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "0:09.0",
+      "L. Lovering misses free throw 2 of 2",
+      "",
+      "116-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "116-120",
+      "",
+      "Defensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "116-120",
+      "",
+      "Personal take foul by O. Prosper (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "116-121",
+      "+1",
+      "J. Murray makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "116-121",
+      "",
+      "T. Hardaway enters the game for J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "116-122",
+      "+1",
+      "J. Murray makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "0:04.0",
+      "Memphis full timeout",
+      "",
+      "116-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "0:04.0",
+      "C. Spencer enters the game for O. Prosper",
+      "",
+      "116-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "0:02.0",
+      "S. Pippen misses 3-pt jump shot from 26 ft",
+      "",
+      "116-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "0:02.0",
+      "Offensive rebound by G. Jackson",
+      "",
+      "116-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "0:01.0",
+      "G. Jackson misses 2-pt layup at rim",
+      "",
+      "116-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "116-122",
+      "",
+      ""
+    ]
+  }
+]

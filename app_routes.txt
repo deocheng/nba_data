@@ -1,0 +1,22 @@
+@app.get("/sportico-charts-pro")
+def sportico_charts_pro_page():
+    """Sportico专业图表模板页面"""
+    return FileResponse(os.path.join(BASE_DIR, "static", "sportico_charts_pro.html"))
+
+@app.get("/surennba")
+def surennba_page():
+    """俗人的篮球场风格页面"""
+    return FileResponse(os.path.join(BASE_DIR, "static", "surennba.html"))
+
+@app.get("/league-leaders-charts")
+def league_leaders_charts_page():
+    """联盟领袖数据图表页面"""
+    return FileResponse(os.path.join(BASE_DIR, "static", "league_leaders_charts.html"))
+
+@app.get("/api/")
+def api_root():
+    return {"message": "NBA球队数据API"}
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)

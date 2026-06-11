@@ -1,0 +1,37 @@
+[
+  {
+    "type": "bar",
+    "description": "柱状图 - 展示各类别数据的对比",
+    "use_case": "比较不同球员的数据"
+  },
+  {
+    "type": "barh",
+    "description": "水平柱状图 - 适合标签较长的场景",
+    "use_case": "球员姓名较长时使用"
+  },
+  {
+    "type": "line",
+    "description": "折线图 - 展示数据趋势变化",
+    "use_case": "展示排名变化趋势"
+  },
+  {
+    "type": "scatter",
+    "description": "散点图 - 展示数据分布和相关性",
+    "use_case": "展示数据分布和异常值"
+  },
+  {
+    "type": "pie",
+    "description": "饼图 - 展示各部分占比关系",
+    "use_case": "展示球员贡献占比"
+  },
+  {
+    "type": "hist",
+    "description": "直方图 - 展示数据分布频率",
+    "use_case": "分析数据分布特征"
+  },
+  {
+    "type": "box",
+    "description": "箱线图 - 展示数据分布统计特征",
+    "use_case": "比较多组数据的分布"
+  }
+]

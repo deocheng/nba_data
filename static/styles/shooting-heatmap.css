@@ -1,0 +1,251 @@
+.shooting-stats-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.stats-header {
+    text-align: center;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.stats-header h4 {
+    margin: 0 0 15px 0;
+    font-size: 18px;
+    color: #333;
+    font-weight: 600;
+}
+
+.overall-stat {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 10px;
+    background: #f8f9fa;
+    padding: 12px 24px;
+    border-radius: 8px;
+}
+
+.overall-stat .label {
+    font-size: 14px;
+    color: #666;
+}
+
+.overall-stat .value {
+    font-size: 28px;
+    font-weight: 700;
+    color: #3b82f6;
+}
+
+.overall-stat .detail {
+    font-size: 14px;
+    color: #999;
+}
+
+.range-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.range-card {
+    background: #fafafa;
+    border-radius: 12px;
+    padding: 20px;
+    border-left: 4px solid;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.range-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    margin-bottom: 15px;
+}
+
+.range-name {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+}
+
+.range-distance {
+    display: block;
+    font-size: 12px;
+    color: #999;
+    margin-top: 3px;
+}
+
+.card-body {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.percentage-display {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.shot-count {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 4px;
+}
+
+.shot-proportion {
+    font-size: 12px;
+    color: #999;
+}
+
+.progress-bar {
+    height: 8px;
+    background: #eee;
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex;
+}
+
+.progress-fill {
+    height: 100%;
+    transition: width 0.3s ease;
+}
+
+.progress-fill.missed {
+    background: #e5e7eb;
+}
+
+.distribution-chart {
+    background: #fafafa;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+.distribution-chart h5 {
+    margin: 0 0 15px 0;
+    font-size: 14px;
+    color: #333;
+    font-weight: 600;
+}
+
+.distribution-bars {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.dist-bar-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.dist-label {
+    width: 60px;
+    font-size: 13px;
+    color: #666;
+    flex-shrink: 0;
+}
+
+.dist-bar-container {
+    flex: 1;
+    height: 20px;
+    background: #eee;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.dist-bar {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.3s ease;
+}
+
+.dist-value {
+    width: 45px;
+    font-size: 13px;
+    color: #333;
+    text-align: right;
+    font-weight: 500;
+}
+
+.detailed-stats {
+    background: #fafafa;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.detailed-stats h5 {
+    margin: 0 0 15px 0;
+    font-size: 14px;
+    color: #333;
+    font-weight: 600;
+}
+
+.stats-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+}
+
+.stats-table th,
+.stats-table td {
+    padding: 10px 12px;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+}
+
+.stats-table th {
+    background: #fff;
+    font-weight: 600;
+    color: #666;
+}
+
+.stats-table td:first-child {
+    text-align: left;
+}
+
+.stats-table .color-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.stats-table .total-row {
+    background: #fff;
+}
+
+.stats-table .total-row td {
+    font-weight: 600;
+    color: #333;
+    border-top: 2px solid #333;
+}
+
+@media (max-width: 600px) {
+    .range-cards {
+        grid-template-columns: 1fr;
+    }
+    
+    .distribution-chart,
+    .detailed-stats {
+        padding: 15px;
+    }
+    
+    .stats-table th,
+    .stats-table td {
+        padding: 8px 6px;
+        font-size: 12px;
+    }
+}

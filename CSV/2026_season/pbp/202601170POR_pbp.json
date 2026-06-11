@@ -1,0 +1,5260 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:40.0",
+      "Shooting foul by D. Clingan (drawn by M. Kleber)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:40.0",
+      "M. Kleber makes free throw 1 of 2",
+      "+1",
+      "1-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:40.0",
+      "M. Kleber makes free throw 2 of 2",
+      "+1",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:21.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Turnover by S. Cissoko (lost ball; steal by L. James)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:14.0",
+      "L. James misses 2-pt layup from 2 ft",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:09.0",
+      "",
+      "",
+      "2-2",
+      "+2",
+      "J. Holiday makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:54.0",
+      "M. Kleber misses 2-pt jump shot from 15 ft",
+      "",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "2-4",
+      "+2",
+      "S. Cissoko makes 2-pt layup from 3 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:18.0",
+      "Personal foul by T. Camara (drawn by M. Smart)",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:15.0",
+      "M. Kleber makes 3-pt jump shot from 26 ft (assist by J. LaRavia)",
+      "+3",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "5-4",
+      "",
+      "Shooting foul by M. Kleber (drawn by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "5-4",
+      "",
+      "S. Sharpe misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "5-4",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "5-5",
+      "+1",
+      "S. Sharpe makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:47.0",
+      "G. Vincent misses 2-pt jump shot from 9 ft",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "5-5",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:37.0",
+      "",
+      "",
+      "5-5",
+      "",
+      "S. Sharpe misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:33.0",
+      "Defensive rebound by M. Smart",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:26.0",
+      "L. James misses 2-pt dunk from 5 ft",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:25.0",
+      "Offensive rebound by M. Kleber",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:23.0",
+      "M. Smart makes 3-pt jump shot from 27 ft (assist by M. Kleber)",
+      "+3",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "8-5",
+      "",
+      "S. Sharpe misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "8-5",
+      "",
+      "Offensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "8-5",
+      "",
+      "S. Cissoko misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "9:03.0",
+      "Defensive rebound by L. James",
+      "",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:56.0",
+      "M. Smart misses 2-pt jump shot from 11 ft",
+      "",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "8-5",
+      "",
+      "Defensive rebound by S. Cissoko"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "8-5",
+      "",
+      "J. Holiday misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "8-5",
+      "",
+      "Offensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "8-7",
+      "+2",
+      "D. Clingan makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "8-7",
+      "",
+      "Shooting foul by G. Vincent (drawn by D. Clingan)"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "8-8",
+      "+1",
+      "D. Clingan makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:24.0",
+      "M. Kleber makes 2-pt layup from 1 ft (assist by L. James)",
+      "+2",
+      "10-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:14.0",
+      "",
+      "",
+      "10-8",
+      "",
+      "Turnover by S. Sharpe (bad pass)"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:02.0",
+      "M. Smart makes 2-pt layup from 1 ft (assist by L. James)",
+      "+2",
+      "12-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "12-8",
+      "",
+      "Personal foul by M. Smart (drawn by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "12-10",
+      "+2",
+      "D. Clingan makes 2-pt dunk from 2 ft (assist by J. Holiday)"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:26.0",
+      "M. Kleber misses 3-pt jump shot from 25 ft",
+      "",
+      "12-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "Defensive rebound by J. Holiday"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "D. Clingan misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "Shooting foul by J. LaRavia (drawn by T. Camara)"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "T. Camara misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "12-11",
+      "+1",
+      "T. Camara makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "7:04.0",
+      "M. Kleber makes 2-pt dunk from 1 ft (assist by J. LaRavia)",
+      "+2",
+      "14-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "14-11",
+      "",
+      "Shooting foul by M. Kleber (drawn by D. Clingan)"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "14-11",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:55.0",
+      "R. Hachimura enters the game for G. Vincent",
+      "",
+      "14-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "14-11",
+      "",
+      "C. Love enters the game for J. Holiday"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "14-11",
+      "",
+      "D. Clingan misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "14-11",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "14-12",
+      "+1",
+      "D. Clingan makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "6:39.0",
+      "M. Smart misses 2-pt jump shot from 7 ft",
+      "",
+      "14-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "14-12",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "14-15",
+      "+3",
+      "S. Sharpe makes 3-pt jump shot from 27 ft (assist by T. Camara)"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "6:15.0",
+      "L. James misses 2-pt jump shot from 12 ft",
+      "",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "6:12.0",
+      "",
+      "",
+      "14-15",
+      "",
+      "Defensive rebound by S. Cissoko"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "14-15",
+      "",
+      "Personal foul by J. LaRavia (drawn by S. Cissoko)"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "14-15",
+      "",
+      "S. Cissoko misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "14-15",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "6:10.0",
+      "N. Smith enters the game for L. James",
+      "",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "14-15",
+      "",
+      "J. Grant enters the game for T. Camara"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "14-16",
+      "+1",
+      "S. Cissoko makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "5:57.0",
+      "M. Smart misses 3-pt jump shot from 26 ft",
+      "",
+      "14-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "14-16",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "14-16",
+      "",
+      "Shooting foul by M. Smart (drawn by J. Grant)"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "14-16",
+      "",
+      "J. Grant misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "14-16",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "14-16",
+      "",
+      "R. Williams enters the game for D. Clingan"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "14-17",
+      "+1",
+      "J. Grant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "5:29.0",
+      "M. Smart makes 2-pt jump shot from 13 ft",
+      "+2",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "5:29.0",
+      "Shooting foul by J. Grant (drawn by M. Smart)",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "5:29.0",
+      "D. Timme enters the game for M. Kleber",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "D. Reath enters the game for S. Cissoko"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "5:29.0",
+      "M. Smart misses free throw 1 of 1",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "Defensive rebound by R. Williams"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "Turnover by C. Love (bad pass; steal by M. Smart)"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "5:09.0",
+      "N. Smith misses 3-pt jump shot from 23 ft",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "Defensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "S. Sharpe misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "Offensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "16-19",
+      "+2",
+      "D. Reath makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "16-19",
+      "",
+      "Shooting foul by N. Smith (drawn by D. Reath)"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "4:55.0",
+      "J. Vanderbilt enters the game for M. Smart",
+      "",
+      "16-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "16-20",
+      "+1",
+      "D. Reath makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "4:42.0",
+      "D. Timme makes 2-pt jump shot from 14 ft (assist by N. Smith)",
+      "+2",
+      "18-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "18-20",
+      "",
+      "Turnover by R. Williams (bad pass; steal by R. Hachimura)"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "4:17.0",
+      "D. Timme makes 3-pt jump shot from 23 ft (assist by R. Hachimura)",
+      "+3",
+      "21-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "21-20",
+      "",
+      "Shooting foul by D. Timme (drawn by R. Williams)"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "21-21",
+      "+1",
+      "R. Williams makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "21-22",
+      "+1",
+      "R. Williams makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "3:49.0",
+      "D. Timme misses 2-pt layup from 3 ft (block by R. Williams)",
+      "",
+      "21-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "3:49.0",
+      "Offensive rebound by Team",
+      "",
+      "21-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "3:43.0",
+      "J. Vanderbilt makes 2-pt dunk from 1 ft (assist by N. Smith)",
+      "+2",
+      "23-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "23-24",
+      "+2",
+      "S. Sharpe makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "3:20.0",
+      "Turnover by N. Smith (bad pass; steal by S. Sharpe)",
+      "",
+      "23-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "23-24",
+      "",
+      "J. Grant misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "23-24",
+      "",
+      "Offensive rebound by R. Williams"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "23-24",
+      "",
+      "Shooting foul by R. Hachimura (drawn by D. Reath)"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "3:08.0",
+      "LA Lakers full timeout",
+      "",
+      "23-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "3:08.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "23-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "23-25",
+      "+1",
+      "D. Reath makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "23-25",
+      "",
+      "R. Rupert enters the game for S. Sharpe"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "23-26",
+      "+1",
+      "D. Reath makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "2:57.0",
+      "Turnover by N. Smith (out of bounds lost ball)",
+      "",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "D. Clingan enters the game for R. Williams"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "Personal foul by N. Smith (drawn by C. Love)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "23-27",
+      "+1",
+      "C. Love makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "23-27",
+      "",
+      "T. Camara enters the game for D. Reath"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "23-28",
+      "+1",
+      "C. Love makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "2:26.0",
+      "D. Timme makes 2-pt hook shot from 1 ft",
+      "+2",
+      "25-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "25-28",
+      "",
+      "Shooting foul by D. Timme (drawn by J. Grant)"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "25-29",
+      "+1",
+      "J. Grant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "2:10.0",
+      "B. James enters the game for J. LaRavia",
+      "",
+      "25-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "2:10.0",
+      "L. James enters the game for N. Smith",
+      "",
+      "25-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "25-30",
+      "+1",
+      "J. Grant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "2:02.0",
+      "Personal foul by T. Camara (drawn by L. James)",
+      "",
+      "25-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "2:02.0",
+      "N. Smith enters the game for R. Hachimura",
+      "",
+      "25-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "1:50.0",
+      "B. James misses 2-pt jump shot from 19 ft",
+      "",
+      "25-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "25-30",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "25-33",
+      "+3",
+      "C. Love makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "1:15.0",
+      "L. James misses 2-pt jump shot from 20 ft",
+      "",
+      "25-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "25-33",
+      "",
+      "Defensive rebound by J. Grant"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "25-33",
+      "",
+      "Personal foul by J. Vanderbilt (drawn by J. Grant)"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "25-34",
+      "+1",
+      "J. Grant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "25-35",
+      "+1",
+      "J. Grant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "0:56.0",
+      "L. James misses 2-pt jump shot from 5 ft",
+      "",
+      "25-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "25-35",
+      "",
+      "Defensive rebound by R. Rupert"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "25-35",
+      "",
+      "C. Love misses 3-pt jump shot from 32 ft"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "25-35",
+      "",
+      "Offensive rebound by T. Camara"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "25-37",
+      "+2",
+      "T. Camara makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "0:28.0",
+      "L. James makes 2-pt layup from 1 ft",
+      "+2",
+      "27-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "27-40",
+      "+3",
+      "C. Love makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "0:00.0",
+      "L. James misses 2-pt jump shot from 22 ft",
+      "",
+      "27-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "27-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "11:43.0",
+      "",
+      "",
+      "27-40",
+      "",
+      "R. Rupert misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "11:42.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "27-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "11:28.0",
+      "G. Vincent makes 3-pt jump shot from 27 ft (assist by L. James)",
+      "+3",
+      "30-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "11:04.0",
+      "",
+      "",
+      "30-40",
+      "",
+      "Turnover by J. Holiday (bad pass)"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "10:47.0",
+      "L. James misses 3-pt jump shot from 26 ft",
+      "",
+      "30-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "30-40",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "30-43",
+      "+3",
+      "D. Clingan makes 3-pt jump shot from 26 ft (assist by R. Rupert)"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "10:13.0",
+      "D. Timme makes 2-pt jump shot from 15 ft (assist by B. James)",
+      "+2",
+      "32-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "32-43",
+      "",
+      "D. Clingan misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "32-43",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "9:59.0",
+      "M. Smart enters the game for B. James",
+      "",
+      "32-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "32-43",
+      "",
+      "S. Cissoko enters the game for C. Love"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "9:52.0",
+      "",
+      "",
+      "32-45",
+      "+2",
+      "S. Cissoko makes 2-pt dunk from 1 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "32-45",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "9:40.0",
+      "Offensive foul by L. James (drawn by T. Camara)",
+      "",
+      "32-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "9:40.0",
+      "Turnover by L. James (offensive foul)",
+      "",
+      "32-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "32-45",
+      "",
+      "D. Clingan misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "9:20.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "32-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "9:09.0",
+      "Def 3 sec tech foul by Team",
+      "",
+      "32-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "9:09.0",
+      "L. James makes technical free throw",
+      "+1",
+      "33-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "8:58.0",
+      "D. Timme makes 3-pt jump shot from 25 ft (assist by L. James)",
+      "+3",
+      "36-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "36-45",
+      "",
+      "Turnover by J. Holiday (bad pass)"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "8:25.0",
+      "Turnover by M. Smart (lost ball; steal by R. Rupert)",
+      "",
+      "36-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "36-45",
+      "",
+      "Shooting foul by D. Timme (drawn by S. Cissoko)"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "36-45",
+      "",
+      "S. Cissoko misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "36-45",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "8:22.0",
+      "M. Kleber enters the game for D. Timme",
+      "",
+      "36-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "36-46",
+      "+1",
+      "S. Cissoko makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "8:07.0",
+      "M. Smart misses 2-pt jump shot from 16 ft",
+      "",
+      "36-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "36-46",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "36-46",
+      "",
+      "R. Rupert misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "7:48.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "36-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "7:43.0",
+      "M. Smart makes 2-pt layup from 1 ft",
+      "+2",
+      "38-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "38-46",
+      "",
+      "J. Holiday misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "7:27.0",
+      "Defensive rebound by M. Kleber",
+      "",
+      "38-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "7:19.0",
+      "G. Vincent misses 3-pt jump shot from 25 ft",
+      "",
+      "38-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "38-46",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "38-48",
+      "+2",
+      "J. Holiday makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "6:53.0",
+      "G. Vincent misses 2-pt jump shot from 12 ft",
+      "",
+      "38-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "6:53.0",
+      "Offensive rebound by L. James",
+      "",
+      "38-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "6:53.0",
+      "Shooting foul by T. Camara (drawn by L. James)",
+      "",
+      "38-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "38-48",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "38-48",
+      "",
+      "J. Grant enters the game for T. Camara"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "38-48",
+      "",
+      "C. Love enters the game for D. Clingan"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "38-48",
+      "",
+      "S. Sharpe enters the game for J. Holiday"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "38-48",
+      "",
+      "R. Williams enters the game for R. Rupert"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "6:53.0",
+      "L. James makes free throw 1 of 2",
+      "+1",
+      "39-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "6:53.0",
+      "L. James makes free throw 2 of 2",
+      "+1",
+      "40-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "40-50",
+      "+2",
+      "S. Cissoko makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "6:15.0",
+      "M. Smart makes 2-pt layup from 1 ft",
+      "+2",
+      "42-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "42-50",
+      "",
+      "S. Sharpe misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "5:56.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "42-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:51.0",
+      "L. James makes 2-pt layup from 1 ft",
+      "+2",
+      "44-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "5:51.0",
+      "Shooting foul by R. Williams (drawn by L. James)",
+      "",
+      "44-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "5:51.0",
+      "J. Vanderbilt enters the game for G. Vincent",
+      "",
+      "44-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "44-50",
+      "",
+      "D. Reath enters the game for S. Cissoko"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "5:51.0",
+      "L. James makes free throw 1 of 1",
+      "+1",
+      "45-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "5:42.0",
+      "",
+      "",
+      "45-53",
+      "+3",
+      "C. Love makes 3-pt jump shot from 27 ft (assist by J. Grant)"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "5:26.0",
+      "M. Smart misses 2-pt layup from 3 ft",
+      "",
+      "45-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "45-53",
+      "",
+      "Defensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "45-53",
+      "",
+      "Turnover by C. Love (bad pass; steal by J. LaRavia)"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "5:05.0",
+      "L. James makes 2-pt dunk from 1 ft (assist by J. LaRavia)",
+      "+2",
+      "47-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "47-55",
+      "+2",
+      "J. Grant makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "4:38.0",
+      "J. LaRavia misses 3-pt jump shot from 26 ft",
+      "",
+      "47-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "4:35.0",
+      "Offensive rebound by J. Vanderbilt",
+      "",
+      "47-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "4:35.0",
+      "Turnover by J. Vanderbilt (bad pass; steal by C. Love)",
+      "",
+      "47-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "47-58",
+      "+3",
+      "J. Grant makes 3-pt jump shot from 25 ft (assist by C. Love)"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "4:29.0",
+      "LA Lakers full timeout",
+      "",
+      "47-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "4:29.0",
+      "K. Bufkin enters the game for L. James",
+      "",
+      "47-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "4:29.0",
+      "R. Hachimura enters the game for J. LaRavia",
+      "",
+      "47-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "4:16.0",
+      "R. Hachimura misses 3-pt jump shot from 26 ft",
+      "",
+      "47-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "Defensive rebound by R. Williams"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "47-60",
+      "+2",
+      "S. Sharpe makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "3:39.0",
+      "Shooting foul by S. Sharpe (drawn by K. Bufkin)",
+      "",
+      "47-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "3:39.0",
+      "K. Bufkin makes free throw 1 of 2",
+      "+1",
+      "48-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "3:39.0",
+      "K. Bufkin makes free throw 2 of 2",
+      "+1",
+      "49-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "49-60",
+      "",
+      "S. Sharpe misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "3:30.0",
+      "Defensive rebound by M. Smart",
+      "",
+      "49-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "3:24.0",
+      "M. Smart misses 2-pt layup from 7 ft",
+      "",
+      "49-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "3:23.0",
+      "Offensive rebound by M. Kleber",
+      "",
+      "49-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "3:22.0",
+      "M. Kleber misses 2-pt layup at rim",
+      "",
+      "49-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "3:21.0",
+      "Offensive rebound by M. Kleber",
+      "",
+      "49-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "3:20.0",
+      "M. Kleber misses 2-pt layup at rim",
+      "",
+      "49-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "49-60",
+      "",
+      "Defensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "49-62",
+      "+2",
+      "J. Grant makes 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "49-62",
+      "",
+      "Shooting foul by R. Hachimura (drawn by J. Grant)"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "49-63",
+      "+1",
+      "J. Grant makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "2:54.0",
+      "R. Hachimura makes 2-pt jump shot from 16 ft",
+      "+2",
+      "51-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "51-63",
+      "",
+      "Shooting foul by K. Bufkin (drawn by R. Williams)"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "51-64",
+      "+1",
+      "R. Williams makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "2:37.0",
+      "J. LaRavia enters the game for M. Kleber",
+      "",
+      "51-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "2:37.0",
+      "D. Timme enters the game for M. Smart",
+      "",
+      "51-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "51-65",
+      "+1",
+      "R. Williams makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "2:21.0",
+      "K. Bufkin makes 2-pt layup from 2 ft",
+      "+2",
+      "53-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "53-65",
+      "",
+      "Turnover by J. Grant (lost ball; steal by R. Hachimura)"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "2:03.0",
+      "J. Vanderbilt makes 2-pt dunk from 1 ft",
+      "+2",
+      "55-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "55-67",
+      "+2",
+      "R. Williams makes 2-pt dunk at rim (assist by J. Grant)"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "1:32.0",
+      "Shooting foul by D. Reath (drawn by R. Hachimura)",
+      "",
+      "55-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "1:32.0",
+      "R. Hachimura makes free throw 1 of 2",
+      "+1",
+      "56-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "1:32.0",
+      "L. James enters the game for J. Vanderbilt",
+      "",
+      "56-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "56-67",
+      "",
+      "S. Cissoko enters the game for D. Reath"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "56-67",
+      "",
+      "D. Clingan enters the game for R. Williams"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "1:32.0",
+      "R. Hachimura makes free throw 2 of 2",
+      "+1",
+      "57-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "57-67",
+      "",
+      "J. Grant misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "1:17.0",
+      "Defensive rebound by L. James",
+      "",
+      "57-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "1:12.0",
+      "Turnover by L. James (bad pass; steal by C. Love)",
+      "",
+      "57-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "57-67",
+      "",
+      "J. Grant misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "57-67",
+      "",
+      "Offensive rebound by S. Cissoko"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "0:58.0",
+      "",
+      "",
+      "57-67",
+      "",
+      "D. Clingan misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "0:58.0",
+      "Defensive rebound by Team",
+      "",
+      "57-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "57-67",
+      "",
+      "Loose ball foul by S. Cissoko (drawn by J. LaRavia)"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "0:56.0",
+      "J. LaRavia makes free throw 1 of 2",
+      "+1",
+      "58-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "0:56.0",
+      "J. LaRavia makes free throw 2 of 2",
+      "+1",
+      "59-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "59-69",
+      "+2",
+      "J. Grant makes 2-pt layup from 1 ft (assist by C. Love)"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "0:37.0",
+      "L. James misses 2-pt jump shot from 16 ft",
+      "",
+      "59-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "0:33.0",
+      "Offensive rebound by D. Timme",
+      "",
+      "59-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "0:33.0",
+      "D. Timme makes 2-pt layup at rim",
+      "+2",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "0:17.0",
+      "",
+      "",
+      "61-69",
+      "",
+      "C. Love misses 2-pt jump shot from 23 ft (block by R. Hachimura)"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "0:14.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "0:07.0",
+      "L. James misses 2-pt layup from 1 ft",
+      "",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "61-69",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "61-71",
+      "+2",
+      "S. Sharpe makes 2-pt dunk at rim (assist by C. Love)"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "0:00.0",
+      "D. Timme misses 3-pt jump shot from 32 ft",
+      "",
+      "61-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "61-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "11:50.0",
+      "",
+      "",
+      "61-71",
+      "",
+      "Turnover by D. Clingan (bad pass; steal by M. Kleber)"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "11:36.0",
+      "G. Vincent misses 3-pt jump shot from 23 ft (block by S. Cissoko)",
+      "",
+      "61-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "11:35.0",
+      "",
+      "",
+      "61-71",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "61-73",
+      "+2",
+      "D. Clingan makes 2-pt dunk from 1 ft (assist by J. Holiday)"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "11:06.0",
+      "M. Smart makes 3-pt jump shot from 26 ft (assist by L. James)",
+      "+3",
+      "64-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "64-73",
+      "",
+      "Shooting foul by M. Kleber (drawn by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "64-74",
+      "+1",
+      "S. Sharpe makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "64-75",
+      "+1",
+      "S. Sharpe makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "10:39.0",
+      "M. Smart makes 3-pt jump shot from 25 ft (assist by L. James)",
+      "+3",
+      "67-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "10:24.0",
+      "",
+      "",
+      "67-77",
+      "+2",
+      "S. Sharpe makes 2-pt dunk from 1 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "9:57.0",
+      "Turnover by M. Smart (bad pass; steal by T. Camara)",
+      "",
+      "67-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "67-77",
+      "",
+      "S. Sharpe misses 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "67-77",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "9:37.0",
+      "",
+      "",
+      "67-80",
+      "+3",
+      "T. Camara makes 3-pt jump shot from 25 ft (assist by J. Holiday)"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "9:20.0",
+      "G. Vincent misses 3-pt jump shot from 23 ft",
+      "",
+      "67-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "67-80",
+      "",
+      "Defensive rebound by J. Holiday"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "67-80",
+      "",
+      "D. Clingan misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "9:04.0",
+      "Defensive rebound by L. James",
+      "",
+      "67-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "8:59.0",
+      "M. Smart misses 3-pt jump shot from 25 ft",
+      "",
+      "67-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "8:56.0",
+      "Offensive rebound by M. Kleber",
+      "",
+      "67-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "8:54.0",
+      "Shooting foul by S. Cissoko (drawn by L. James)",
+      "",
+      "67-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "67-80",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "67-80",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "8:54.0",
+      "L. James makes free throw 1 of 2",
+      "+1",
+      "68-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "8:54.0",
+      "L. James makes free throw 2 of 2",
+      "+1",
+      "69-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "69-83",
+      "+3",
+      "S. Sharpe makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "8:15.0",
+      "M. Smart makes 3-pt jump shot from 26 ft",
+      "+3",
+      "72-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "72-86",
+      "+3",
+      "J. Holiday makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "7:42.0",
+      "Shooting foul by T. Camara (drawn by M. Smart)",
+      "",
+      "72-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "7:42.0",
+      "M. Smart makes free throw 1 of 2",
+      "+1",
+      "73-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "73-86",
+      "",
+      "C. Love enters the game for T. Camara"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "7:42.0",
+      "M. Smart makes free throw 2 of 2",
+      "+1",
+      "74-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "74-89",
+      "+3",
+      "S. Sharpe makes 3-pt jump shot from 26 ft (assist by C. Love)"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "7:14.0",
+      "Offensive foul by G. Vincent (drawn by S. Cissoko)",
+      "",
+      "74-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "7:14.0",
+      "Turnover by G. Vincent (offensive foul)",
+      "",
+      "74-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "74-89",
+      "",
+      "J. Holiday misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "74-89",
+      "",
+      "Offensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "74-91",
+      "+2",
+      "D. Clingan makes 2-pt hook shot from 2 ft"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "6:42.0",
+      "Shooting foul by S. Sharpe (drawn by M. Smart)",
+      "",
+      "74-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "6:42.0",
+      "M. Smart makes free throw 1 of 2",
+      "+1",
+      "75-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "6:42.0",
+      "K. Bufkin enters the game for J. LaRavia",
+      "",
+      "75-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "6:42.0",
+      "R. Hachimura enters the game for G. Vincent",
+      "",
+      "75-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "75-91",
+      "",
+      "J. Grant enters the game for J. Holiday"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "6:42.0",
+      "M. Smart misses free throw 2 of 2",
+      "",
+      "75-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "75-91",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "6:32.0",
+      "",
+      "",
+      "75-93",
+      "+2",
+      "D. Clingan makes 2-pt dunk from 1 ft (assist by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "6:16.0",
+      "L. James makes 2-pt jump shot from 13 ft",
+      "+2",
+      "77-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "77-96",
+      "+3",
+      "J. Grant makes 3-pt jump shot from 25 ft (assist by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "5:48.0",
+      "L. James misses 3-pt jump shot from 33 ft",
+      "",
+      "77-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "5:48.0",
+      "",
+      "",
+      "77-96",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "77-96",
+      "",
+      "C. Love misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "5:33.0",
+      "Defensive rebound by Team",
+      "",
+      "77-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "5:33.0",
+      "LA Lakers full timeout",
+      "",
+      "77-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "5:33.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "77-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "5:33.0",
+      "D. Timme enters the game for L. James",
+      "",
+      "77-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "5:33.0",
+      "J. Vanderbilt enters the game for M. Kleber",
+      "",
+      "77-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "77-96",
+      "",
+      "Loose ball foul by D. Clingan (drawn by M. Smart)"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "5:17.0",
+      "R. Hachimura makes 3-pt jump shot from 25 ft",
+      "+3",
+      "80-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "80-96",
+      "",
+      "J. Grant misses 2-pt jump shot from 10 ft (block by J. Vanderbilt)"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "4:53.0",
+      "Defensive rebound by R. Hachimura",
+      "",
+      "80-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "4:46.0",
+      "M. Smart misses 2-pt jump shot from 12 ft",
+      "",
+      "80-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "80-96",
+      "",
+      "Defensive rebound by S. Cissoko"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "80-99",
+      "+3",
+      "J. Grant makes 3-pt jump shot from 26 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "4:14.0",
+      "K. Bufkin misses 3-pt jump shot from 24 ft",
+      "",
+      "80-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "4:11.0",
+      "",
+      "",
+      "80-99",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "80-99",
+      "",
+      "Shooting foul by D. Timme (drawn by J. Grant)"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "80-99",
+      "",
+      "J. Grant misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "80-99",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "80-99",
+      "",
+      "D. Reath enters the game for S. Cissoko"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "80-99",
+      "",
+      "R. Williams enters the game for D. Clingan"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "80-100",
+      "+1",
+      "J. Grant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "3:45.0",
+      "M. Smart makes 2-pt layup from 1 ft",
+      "+2",
+      "82-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "82-100",
+      "",
+      "S. Sharpe misses 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "82-100",
+      "",
+      "Offensive rebound by J. Grant"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "82-100",
+      "",
+      "C. Love misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "82-100",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "3:35.0",
+      "Loose ball foul by M. Smart (drawn by R. Williams)",
+      "",
+      "82-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "3:35.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "82-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "3:27.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "82-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "82-102",
+      "+2",
+      "C. Love makes 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "2:59.0",
+      "R. Hachimura makes 2-pt jump shot from 20 ft (assist by D. Timme)",
+      "+2",
+      "84-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "84-102",
+      "",
+      "Turnover by S. Sharpe (bad pass)"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "2:37.0",
+      "L. James enters the game for M. Smart",
+      "",
+      "84-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "84-102",
+      "",
+      "R. Rupert enters the game for S. Sharpe"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "2:26.0",
+      "R. Hachimura makes 2-pt jump shot from 19 ft (assist by D. Timme)",
+      "+2",
+      "86-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "86-102",
+      "",
+      "J. Grant misses 2-pt layup from 4 ft (block by L. James)"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "2:04.0",
+      "Defensive rebound by Team",
+      "",
+      "86-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "1:46.0",
+      "D. Timme makes 2-pt hook shot from 4 ft",
+      "+2",
+      "88-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "88-102",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "88-102",
+      "",
+      "S. Cissoko enters the game for D. Reath"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "88-102",
+      "",
+      "C. Love misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "88-102",
+      "",
+      "Offensive rebound by R. Williams"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "88-104",
+      "+2",
+      "R. Williams makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "1:04.0",
+      "R. Hachimura misses 2-pt jump shot from 7 ft",
+      "",
+      "88-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "88-104",
+      "",
+      "Defensive rebound by J. Grant"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "88-104",
+      "",
+      "Personal foul by K. Bufkin (drawn by J. Grant)"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "88-104",
+      "",
+      "C. Love misses 2-pt layup from 6 ft (block by K. Bufkin)"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "88-104",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "0:37.0",
+      "",
+      "",
+      "88-104",
+      "",
+      "J. Grant misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "88-104",
+      "",
+      "Offensive rebound by S. Cissoko"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "0:22.0",
+      "",
+      "",
+      "88-107",
+      "+3",
+      "S. Cissoko makes 3-pt jump shot from 25 ft (assist by C. Love)"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "0:02.0",
+      "L. James makes 2-pt layup from 2 ft",
+      "+2",
+      "90-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "90-107",
+      "",
+      "Team misses heave shot (block by K. Bufkin)"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "90-107",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "12:00.0",
+      "Technical foul by J. Redick",
+      "",
+      "90-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "12:00.0",
+      "",
+      "",
+      "90-108",
+      "+1",
+      "S. Cissoko makes technical free throw"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "11:53.0",
+      "Personal foul by S. Cissoko (drawn by D. Timme)",
+      "",
+      "90-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "11:41.0",
+      "L. James makes 3-pt jump shot from 26 ft (assist by D. Timme)",
+      "+3",
+      "93-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "93-108",
+      "",
+      "J. Holiday misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "11:22.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "93-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "11:13.0",
+      "K. Bufkin misses 3-pt jump shot from 23 ft",
+      "",
+      "93-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "93-108",
+      "",
+      "Defensive rebound by J. Holiday"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "93-110",
+      "+2",
+      "D. Clingan makes 2-pt layup from 2 ft (assist by J. Holiday)"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "10:56.0",
+      "Turnover by L. James (bad pass; steal by R. Rupert)",
+      "",
+      "93-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "10:52.0",
+      "",
+      "",
+      "93-110",
+      "",
+      "T. Camara misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "10:50.0",
+      "Defensive rebound by L. James",
+      "",
+      "93-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "10:40.0",
+      "J. Vanderbilt makes 2-pt layup from 3 ft (assist by G. Vincent)",
+      "+2",
+      "95-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "95-112",
+      "+2",
+      "S. Cissoko makes 2-pt dunk from 2 ft (assist by R. Rupert)"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "10:12.0",
+      "Offensive foul by J. Vanderbilt (drawn by S. Cissoko)",
+      "",
+      "95-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "10:12.0",
+      "Turnover by J. Vanderbilt (offensive foul)",
+      "",
+      "95-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "95-112",
+      "",
+      "D. Clingan misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "9:53.0",
+      "Defensive rebound by L. James",
+      "",
+      "95-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "9:48.0",
+      "K. Bufkin misses 3-pt jump shot from 27 ft",
+      "",
+      "95-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "95-112",
+      "",
+      "Defensive rebound by T. Camara"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "95-112",
+      "",
+      "S. Cissoko misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "9:29.0",
+      "Defensive rebound by L. James",
+      "",
+      "95-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "9:24.0",
+      "K. Bufkin makes 2-pt layup from 3 ft (assist by J. Vanderbilt)",
+      "+2",
+      "97-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "97-112",
+      "",
+      "R. Rupert misses 2-pt layup from 2 ft (block by L. James)"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "9:14.0",
+      "",
+      "",
+      "97-112",
+      "",
+      "Offensive rebound by R. Rupert"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "97-112",
+      "",
+      "D. Clingan misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "9:07.0",
+      "Defensive rebound by D. Timme",
+      "",
+      "97-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "9:00.0",
+      "Turnover by G. Vincent (bad pass)",
+      "",
+      "97-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "9:00.0",
+      "J. LaRavia enters the game for J. Vanderbilt",
+      "",
+      "97-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "97-112",
+      "",
+      "Flagrant foul type 1 by L. James (drawn by D. Clingan)"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "97-112",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "97-112",
+      "",
+      "D. Clingan misses flagrant free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "97-112",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "8:51.0",
+      "M. Smart enters the game for K. Bufkin",
+      "",
+      "97-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "97-112",
+      "",
+      "C. Love enters the game for S. Cissoko"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "97-113",
+      "+1",
+      "D. Clingan makes flagrant free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "97-115",
+      "+2",
+      "J. Holiday makes 2-pt layup from 2 ft (assist by C. Love)"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "8:28.0",
+      "D. Timme makes 3-pt jump shot from 23 ft (assist by L. James)",
+      "+3",
+      "100-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "100-115",
+      "",
+      "Personal foul by M. Smart (drawn by R. Rupert)"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "100-115",
+      "",
+      "R. Williams enters the game for D. Clingan"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "100-115",
+      "",
+      "T. Camara misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "8:12.0",
+      "Defensive rebound by Team",
+      "",
+      "100-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "8:00.0",
+      "J. LaRavia misses 2-pt layup from 2 ft (block by T. Camara)",
+      "",
+      "100-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "100-115",
+      "",
+      "Defensive rebound by C. Love"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "7:56.0",
+      "",
+      "",
+      "100-115",
+      "",
+      "Offensive foul by R. Rupert (drawn by M. Smart)"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "7:56.0",
+      "",
+      "",
+      "100-115",
+      "",
+      "Turnover by R. Rupert (offensive foul)"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "7:56.0",
+      "K. Bufkin enters the game for J. LaRavia",
+      "",
+      "100-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "7:56.0",
+      "R. Hachimura enters the game for M. Smart",
+      "",
+      "100-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "7:56.0",
+      "",
+      "",
+      "100-115",
+      "",
+      "S. Sharpe enters the game for J. Holiday"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "7:46.0",
+      "Def 3 sec tech foul by Team",
+      "",
+      "100-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "7:46.0",
+      "L. James makes technical free throw",
+      "+1",
+      "101-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "7:39.0",
+      "Turnover by G. Vincent (bad pass; steal by R. Rupert)",
+      "",
+      "101-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "101-115",
+      "",
+      "S. Sharpe misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "7:14.0",
+      "Defensive rebound by L. James",
+      "",
+      "101-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "7:07.0",
+      "K. Bufkin makes 3-pt jump shot from 24 ft (assist by L. James)",
+      "+3",
+      "104-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "104-118",
+      "+3",
+      "T. Camara makes 3-pt jump shot from 23 ft (assist by C. Love)"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "6:25.0",
+      "R. Hachimura misses 3-pt jump shot from 23 ft",
+      "",
+      "104-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "104-118",
+      "",
+      "Defensive rebound by R. Williams"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "104-118",
+      "",
+      "C. Love misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "6:03.0",
+      "Defensive rebound by L. James",
+      "",
+      "104-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "5:58.0",
+      "Turnover by L. James (bad pass; steal by S. Sharpe)",
+      "",
+      "104-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "5:42.0",
+      "",
+      "",
+      "104-121",
+      "+3",
+      "S. Sharpe makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "5:40.0",
+      "LA Lakers full timeout",
+      "",
+      "104-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "5:40.0",
+      "M. Kleber enters the game for L. James",
+      "",
+      "104-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "5:40.0",
+      "J. LaRavia enters the game for G. Vincent",
+      "",
+      "104-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "104-121",
+      "",
+      "J. Grant enters the game for R. Rupert"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "5:25.0",
+      "K. Bufkin misses 3-pt jump shot from 27 ft",
+      "",
+      "104-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "104-121",
+      "",
+      "Defensive rebound by R. Williams"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "104-123",
+      "+2",
+      "S. Sharpe makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "4:55.0",
+      "Personal foul by S. Sharpe (drawn by K. Bufkin)",
+      "",
+      "104-123",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "4:55.0",
+      "D. Knecht enters the game for R. Hachimura",
+      "",
+      "104-123",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "4:44.0",
+      "M. Kleber makes 2-pt hook shot from 3 ft (assist by J. LaRavia)",
+      "+2",
+      "106-123",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "106-123",
+      "",
+      "S. Sharpe misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "106-123",
+      "",
+      "Offensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "106-125",
+      "+2",
+      "C. Love makes 2-pt layup from 2 ft (assist by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "3:57.0",
+      "K. Bufkin misses 2-pt jump shot from 17 ft",
+      "",
+      "106-125",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "3:55.0",
+      "",
+      "",
+      "106-125",
+      "",
+      "Defensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "3:42.0",
+      "",
+      "",
+      "106-128",
+      "+3",
+      "C. Love makes 3-pt jump shot from 25 ft (assist by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "3:40.0",
+      "LA Lakers full timeout",
+      "",
+      "106-128",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "3:40.0",
+      "B. James enters the game for M. Kleber",
+      "",
+      "106-128",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "3:40.0",
+      "N. Smith enters the game for J. LaRavia",
+      "",
+      "106-128",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "106-128",
+      "",
+      "S. Cissoko enters the game for T. Camara"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "106-128",
+      "",
+      "D. Reath enters the game for J. Grant"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "106-128",
+      "",
+      "R. Rupert enters the game for S. Sharpe"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "3:28.0",
+      "Turnover by D. Timme (bad pass)",
+      "",
+      "106-128",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "106-128",
+      "",
+      "Y. Hansen enters the game for R. Williams"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "106-130",
+      "+2",
+      "C. Love makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "2:48.0",
+      "D. Timme makes 2-pt layup at rim (assist by N. Smith)",
+      "+2",
+      "108-130",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "2:25.0",
+      "",
+      "",
+      "108-130",
+      "",
+      "Turnover by C. Love (lost ball; steal by D. Timme)"
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "2:22.0",
+      "N. Smith makes 2-pt layup from 2 ft (assist by D. Timme)",
+      "+2",
+      "110-130",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "110-130",
+      "",
+      "Turnover by C. Love (lost ball; steal by D. Timme)"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "2:06.0",
+      "Turnover by D. Timme (bad pass; steal by R. Rupert)",
+      "",
+      "110-130",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "1:42.0",
+      "",
+      "",
+      "110-130",
+      "",
+      "R. Rupert misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "1:40.0",
+      "Defensive rebound by K. Bufkin",
+      "",
+      "110-130",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "1:36.0",
+      "D. Knecht makes 3-pt jump shot from 28 ft (assist by K. Bufkin)",
+      "+3",
+      "113-130",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "113-132",
+      "+2",
+      "C. Love makes 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "1:06.0",
+      "B. James misses 3-pt jump shot from 27 ft (block by S. Cissoko)",
+      "",
+      "113-132",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "113-132",
+      "",
+      "Defensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "113-132",
+      "",
+      "Turnover by R. Rupert (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "113-132",
+      "",
+      "J. Cooke enters the game for C. Love"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "0:46.0",
+      "D. Timme misses 2-pt layup from 1 ft (block by D. Reath)",
+      "",
+      "113-132",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "113-132",
+      "",
+      "Defensive rebound by J. Cooke"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "0:36.0",
+      "",
+      "",
+      "113-132",
+      "",
+      "Turnover by Y. Hansen (traveling)"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "0:22.0",
+      "N. Smith makes 2-pt jump shot from 16 ft",
+      "+2",
+      "115-132",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "0:22.0",
+      "Shooting foul by R. Rupert (drawn by N. Smith)",
+      "",
+      "115-132",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "0:22.0",
+      "N. Smith makes free throw 1 of 1",
+      "+1",
+      "116-132",
+      "",
+      ""
+    ]
+  }
+]

@@ -1,0 +1,297 @@
+{
+  "2025-2026DAL.xlsx": {
+    "sheets": {
+      "Roster": {
+        "rows": 18,
+        "columns": 9,
+        "first_cols": [
+          "No.",
+          "Player",
+          "Pos",
+          "Ht",
+          "Wt",
+          "Birth Date",
+          "Birth",
+          "Exp",
+          "College"
+        ]
+      },
+      "team and opponent stats": {
+        "rows": 8,
+        "columns": 24,
+        "first_cols": [
+          "Unnamed: 0",
+          "G",
+          "MP",
+          "FG",
+          "FGA",
+          "FG%",
+          "3P",
+          "3PA",
+          "3P%",
+          "2P"
+        ]
+      },
+      "team misc": {
+        "rows": 3,
+        "columns": 23,
+        "first_cols": [
+          "Advanced",
+          "Unnamed: 1",
+          "Offense Four Factors",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Defense Four Factors",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Unnamed: 9"
+        ]
+      },
+      "per game": {
+        "rows": 24,
+        "columns": 30,
+        "first_cols": [
+          "Rk",
+          "Player",
+          "Age",
+          "Pos",
+          "G",
+          "GS",
+          "MP",
+          "FG",
+          "FGA",
+          "FG%"
+        ]
+      },
+      "total": {
+        "rows": 24,
+        "columns": 30,
+        "first_cols": [
+          "Rk",
+          "Player",
+          "Age",
+          "G",
+          "GS",
+          "MP",
+          "FG",
+          "FGA",
+          "FG%",
+          "3P"
+        ]
+      },
+      "per 36 minutes": {
+        "rows": 23,
+        "columns": 30,
+        "first_cols": [
+          "Rk",
+          "Player",
+          "Age",
+          "Pos",
+          "G",
+          "GS",
+          "MP",
+          "FG",
+          "FGA",
+          "FG%"
+        ]
+      },
+      "per 100 poss": {
+        "rows": 23,
+        "columns": 31,
+        "first_cols": [
+          "Rk",
+          "Player",
+          "Age",
+          "G",
+          "GS",
+          "MP",
+          "FG",
+          "FGA",
+          "FG%",
+          "3P"
+        ]
+      },
+      "Advanced": {
+        "rows": 24,
+        "columns": 28,
+        "first_cols": [
+          "Rk",
+          "Player",
+          "Age",
+          "Pos",
+          "G",
+          "GS",
+          "MP",
+          "PER",
+          "TS%",
+          "3PAr"
+        ]
+      },
+      "Adjusted Shooting": {
+        "rows": 31,
+        "columns": 26,
+        "first_cols": [
+          "Unnamed: 0",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Unnamed: 9"
+        ]
+      },
+      "shooting": {
+        "rows": 25,
+        "columns": 30,
+        "first_cols": [
+          "Unnamed: 0",
+          "Unnamed: 1",
+          "% of FGA by Distance",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "FG% by Distance",
+          "Unnamed: 9"
+        ]
+      },
+      "play by play": {
+        "rows": 25,
+        "columns": 24,
+        "first_cols": [
+          "Position Estimate",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "+/- Per 100 Poss",
+          "Unnamed: 6",
+          "Turnovers",
+          "Unnamed: 8",
+          "Fouls Committed"
+        ]
+      },
+      "leaderboards": {
+        "rows": 69,
+        "columns": 1,
+        "first_cols": [
+          "Unnamed: 0"
+        ]
+      },
+      "salaries": {
+        "rows": 18,
+        "columns": 3,
+        "first_cols": [
+          "Rk",
+          "Unnamed: 1",
+          "Salary"
+        ]
+      },
+      "gamelog": {
+        "rows": 90,
+        "columns": 51,
+        "first_cols": [
+          "Unnamed: 0",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Score",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Team"
+        ]
+      },
+      "splits": {
+        "rows": 72,
+        "columns": 43,
+        "first_cols": [
+          "Unnamed: 0",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Team",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Unnamed: 9"
+        ]
+      },
+      "lineups": {
+        "rows": 90,
+        "columns": 25,
+        "first_cols": [
+          "Rk",
+          "Lineup",
+          "MP",
+          "PTS",
+          "FG",
+          "FGA",
+          "FG%",
+          "3P",
+          "3PA",
+          "3P%"
+        ]
+      },
+      "on_off": {
+        "rows": 92,
+        "columns": 33,
+        "first_cols": [
+          "Unnamed: 0",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Team",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Unnamed: 9"
+        ]
+      },
+      "starting lineups": {
+        "rows": 83,
+        "columns": 14,
+        "first_cols": [
+          "G",
+          "Date",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Opponent",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Tm"
+        ]
+      },
+      "44 lineups": {
+        "rows": 44,
+        "columns": 5,
+        "first_cols": [
+          "G",
+          "W",
+          "L",
+          "W/L%",
+          "Starting Lineup"
+        ]
+      },
+      "Depth carts": {
+        "rows": 50,
+        "columns": 1,
+        "first_cols": [
+          "Point Guard"
+        ]
+      },
+      "transactions": {
+        "rows": 47,
+        "columns": 1,
+        "first_cols": [
+          

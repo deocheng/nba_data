@@ -1,0 +1,5183 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Cleveland"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:51.0",
+      "P. Pritchard makes 3-pt jump shot from 25 ft (assist by J. Brown)",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Personal foul by P. Pritchard (drawn by E. Mobley)"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:32.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "J. Tyson misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:29.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:14.0",
+      "J. Brown makes 2-pt jump shot from 18 ft",
+      "+2",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:03.0",
+      "",
+      "",
+      "5-0",
+      "",
+      "D. Hunter misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:00.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:52.0",
+      "P. Pritchard makes 2-pt jump shot from 24 ft",
+      "+2",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "7-2",
+      "+2",
+      "D. Hunter makes 2-pt jump shot from 11 ft (assist by E. Mobley)"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:16.0",
+      "P. Pritchard makes 3-pt jump shot from 25 ft",
+      "+3",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:05.0",
+      "",
+      "",
+      "10-2",
+      "",
+      "Turnover by D. Mitchell (lost ball; steal by J. Walsh)"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:01.0",
+      "Turnover by J. Walsh (bad pass; steal by J. Tyson)",
+      "",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "10-2",
+      "",
+      "J. Tyson misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:43.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:34.0",
+      "J. Walsh makes 3-pt jump shot from 24 ft (assist by S. Hauser)",
+      "+3",
+      "13-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "13-2",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "13-2",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:17.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "13-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:02.0",
+      "J. Brown misses 2-pt jump shot from 14 ft",
+      "",
+      "13-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:00.0",
+      "",
+      "",
+      "13-2",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "13-5",
+      "+3",
+      "D. Hunter makes 3-pt jump shot from 24 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:31.0",
+      "Shooting foul by E. Mobley (drawn by J. Brown)",
+      "",
+      "13-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:31.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "14-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:31.0",
+      "J. Brown misses free throw 2 of 2",
+      "",
+      "14-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "14-5",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "14-5",
+      "",
+      "J. Tyson misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:11.0",
+      "Defensive rebound by X. Tillman",
+      "",
+      "14-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:57.0",
+      "P. Pritchard misses 3-pt jump shot from 25 ft",
+      "",
+      "14-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:55.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "14-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:44.0",
+      "J. Walsh makes 2-pt layup from 1 ft (assist by J. Brown)",
+      "+2",
+      "16-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:44.0",
+      "Shooting foul by D. Hunter (drawn by J. Walsh)",
+      "",
+      "16-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:44.0",
+      "J. Walsh makes free throw 1 of 1",
+      "+1",
+      "17-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "17-5",
+      "",
+      "D. Garland misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:27.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "17-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:21.0",
+      "S. Hauser misses 3-pt jump shot from 25 ft",
+      "",
+      "17-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:19.0",
+      "Offensive rebound by X. Tillman",
+      "",
+      "17-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:15.0",
+      "Turnover by X. Tillman (bad pass; steal by J. Tyson)",
+      "",
+      "17-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "17-8",
+      "+3",
+      "D. Mitchell makes 3-pt jump shot from 26 ft (assist by D. Garland)"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:49.0",
+      "J. Brown misses 2-pt jump shot from 19 ft",
+      "",
+      "17-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "17-8",
+      "",
+      "Defensive rebound by D. Hunter"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "17-8",
+      "",
+      "D. Garland misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:39.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "17-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:34.0",
+      "J. Brown misses 2-pt layup from 5 ft",
+      "",
+      "17-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:33.0",
+      "Offensive rebound by J. Brown",
+      "",
+      "17-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:33.0",
+      "Turnover by J. Brown (out of bounds lost ball)",
+      "",
+      "17-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "17-8",
+      "",
+      "N. Tomlin enters the game for D. Mitchell"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "17-8",
+      "",
+      "D. Wade enters the game for E. Mobley"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "17-11",
+      "+3",
+      "D. Hunter makes 3-pt jump shot from 23 ft (assist by D. Garland)"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:16.0",
+      "Boston full timeout",
+      "",
+      "17-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:16.0",
+      "A. Simons enters the game for S. Hauser",
+      "",
+      "17-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:16.0",
+      "A. Williams enters the game for X. Tillman",
+      "",
+      "17-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:00.0",
+      "P. Pritchard makes 2-pt jump shot from 12 ft",
+      "+2",
+      "19-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "19-11",
+      "",
+      "Shooting foul by P. Pritchard (drawn by D. Garland)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "19-12",
+      "+1",
+      "D. Garland makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "19-13",
+      "+1",
+      "D. Garland makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:52.0",
+      "B. Scheierman enters the game for P. Pritchard",
+      "",
+      "19-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "19-13",
+      "",
+      "D. Garland misses free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:50.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "19-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:33.0",
+      "Shooting foul by D. Wade (drawn by J. Brown)",
+      "",
+      "19-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:33.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "20-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "5:33.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "21-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "5:20.0",
+      "",
+      "",
+      "21-13",
+      "",
+      "Personal foul by J. Brown (drawn by D. Hunter)"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "21-13",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "21-13",
+      "",
+      "C. Porter enters the game for D. Hunter"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:46.0",
+      "Turnover by J. Brown (3 sec)",
+      "",
+      "21-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "21-13",
+      "",
+      "J. Tyson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:32.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "21-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:22.0",
+      "Personal foul by N. Tomlin (drawn by J. Brown)",
+      "",
+      "21-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "21-13",
+      "",
+      "D. Mitchell enters the game for D. Garland"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "21-13",
+      "",
+      "E. Mobley enters the game for J. Tyson"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:14.0",
+      "A. Simons makes 2-pt layup from 1 ft",
+      "+2",
+      "23-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:01.0",
+      "",
+      "",
+      "23-16",
+      "+3",
+      "D. Wade makes 3-pt jump shot from 24 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "3:34.0",
+      "J. Brown misses 2-pt jump shot from 7 ft",
+      "",
+      "23-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "23-16",
+      "",
+      "Defensive rebound by C. Porter"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "23-16",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:18.0",
+      "Defensive rebound by A. Williams",
+      "",
+      "23-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:07.0",
+      "Turnover by J. Brown (lost ball; steal by N. Tomlin)",
+      "",
+      "23-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "23-18",
+      "+2",
+      "N. Tomlin makes 2-pt layup from 1 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:35.0",
+      "A. Simons makes 2-pt jump shot from 13 ft",
+      "+2",
+      "25-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "25-20",
+      "+2",
+      "E. Mobley makes 2-pt jump shot from 11 ft (assist by C. Porter)"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:08.0",
+      "A. Simons misses 2-pt jump shot from 16 ft",
+      "",
+      "25-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "25-20",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:00.0",
+      "",
+      "",
+      "25-20",
+      "",
+      "E. Mobley misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "25-20",
+      "",
+      "Offensive rebound by C. Porter"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "25-22",
+      "+2",
+      "C. Porter makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:36.0",
+      "A. Simons makes 3-pt jump shot from 25 ft",
+      "+3",
+      "28-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:24.0",
+      "",
+      "",
+      "28-24",
+      "+2",
+      "D. Mitchell makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "0:58.0",
+      "J. Walsh misses 3-pt jump shot from 27 ft",
+      "",
+      "28-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "0:56.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "28-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "0:54.0",
+      "Turnover by J. Walsh (lost ball; steal by C. Porter)",
+      "",
+      "28-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "28-24",
+      "",
+      "D. Mitchell misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "28-24",
+      "",
+      "Offensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "28-24",
+      "",
+      "E. Mobley misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:48.0",
+      "Defensive rebound by Team",
+      "",
+      "28-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:48.0",
+      "H. González Peña enters the game for J. Brown",
+      "",
+      "28-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:48.0",
+      "J. Minott enters the game for J. Walsh",
+      "",
+      "28-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:35.0",
+      "H. González Peña misses 3-pt jump shot from 23 ft",
+      "",
+      "28-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:32.0",
+      "Offensive rebound by A. Williams",
+      "",
+      "28-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:28.0",
+      "A. Simons misses 3-pt jump shot from 30 ft",
+      "",
+      "28-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:24.0",
+      "",
+      "",
+      "28-24",
+      "",
+      "Defensive rebound by D. Wade"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "28-24",
+      "",
+      "N. Tomlin misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "28-24",
+      "",
+      "Offensive rebound by C. Porter"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "28-24",
+      "",
+      "Shooting foul by A. Williams (drawn by E. Mobley)"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "28-25",
+      "+1",
+      "E. Mobley makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "28-25",
+      "",
+      "T. Bryant enters the game for N. Tomlin"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "28-26",
+      "+1",
+      "E. Mobley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "28-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Cleveland"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "28-28",
+      "+2",
+      "E. Mobley makes 2-pt jump shot from 9 ft (assist by T. Proctor)"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "11:33.0",
+      "Personal foul by D. Mitchell (drawn by H. González Peña)",
+      "",
+      "28-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "11:22.0",
+      "B. Scheierman makes 2-pt jump shot from 7 ft (assist by A. Simons)",
+      "+2",
+      "30-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "30-31",
+      "+3",
+      "J. Tyson makes 3-pt jump shot from 26 ft (assist by E. Mobley)"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "10:50.0",
+      "Turnover by X. Tillman (out of bounds lost ball)",
+      "",
+      "30-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "30-33",
+      "+2",
+      "E. Mobley makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "10:26.0",
+      "Offensive foul by B. Scheierman (drawn by T. Proctor)",
+      "",
+      "30-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "10:26.0",
+      "Turnover by B. Scheierman (offensive foul)",
+      "",
+      "30-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "30-33",
+      "",
+      "T. Proctor misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "10:08.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "30-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "10:02.0",
+      "Turnover by B. Scheierman (lost ball; steal by D. Mitchell)",
+      "",
+      "30-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "30-33",
+      "",
+      "Turnover by D. Mitchell (bad pass; steal by A. Simons)"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "9:48.0",
+      "B. Scheierman misses 3-pt jump shot from 34 ft",
+      "",
+      "30-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "9:46.0",
+      "Offensive rebound by Team",
+      "",
+      "30-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "9:46.0",
+      "S. Hauser enters the game for B. Scheierman",
+      "",
+      "30-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "30-33",
+      "",
+      "T. Bryant enters the game for N. Tomlin"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "9:41.0",
+      "X. Tillman makes 3-pt jump shot from 25 ft (assist by S. Hauser)",
+      "+3",
+      "33-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "33-36",
+      "+3",
+      "J. Tyson makes 3-pt jump shot from 25 ft (assist by T. Proctor)"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "9:20.0",
+      "A. Simons makes 2-pt jump shot from 8 ft",
+      "+2",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "9:20.0",
+      "Shooting foul by T. Proctor (drawn by A. Simons)",
+      "",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "9:20.0",
+      "A. Simons misses free throw 1 of 1",
+      "",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:01.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "E. Mobley misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "8:55.0",
+      "Defensive rebound by X. Tillman",
+      "",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "8:40.0",
+      "A. Simons makes 2-pt jump shot from 9 ft",
+      "+2",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "37-39",
+      "+3",
+      "T. Proctor makes 3-pt jump shot from 25 ft (assist by J. Tyson)"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "8:12.0",
+      "J. Minott misses 3-pt jump shot from 27 ft",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "8:11.0",
+      "Offensive rebound by Team",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "Loose ball foul by T. Bryant (drawn by X. Tillman)"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "D. Garland enters the game for D. Mitchell"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "C. Porter enters the game for E. Mobley"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "D. Wade enters the game for J. Tyson"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "7:56.0",
+      "X. Tillman misses 3-pt jump shot from 25 ft",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "Defensive rebound by T. Bryant"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "Personal foul by A. Simons (drawn by T. Bryant)"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "7:44.0",
+      "P. Pritchard enters the game for H. González Peña",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "D. Garland misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "7:27.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "7:09.0",
+      "A. Simons makes 2-pt layup from 1 ft",
+      "+2",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "7:00.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "D. Wade misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "Offensive rebound by T. Bryant"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "T. Bryant misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "6:55.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "6:53.0",
+      "A. Simons misses 3-pt jump shot from 27 ft",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "6:50.0",
+      "Offensive rebound by J. Minott",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "6:48.0",
+      "J. Minott misses 2-pt jump shot from 9 ft",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "Defensive rebound by T. Proctor"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "39-42",
+      "+3",
+      "D. Garland makes 3-pt jump shot from 26 ft (assist by T. Proctor)"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "6:42.0",
+      "Boston full timeout",
+      "",
+      "39-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "6:42.0",
+      "J. Brown enters the game for J. Minott",
+      "",
+      "39-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "6:42.0",
+      "J. Walsh enters the game for X. Tillman",
+      "",
+      "39-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "39-42",
+      "",
+      "D. Hunter enters the game for T. Proctor"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "6:26.0",
+      "Offensive foul by P. Pritchard (drawn by C. Porter)",
+      "",
+      "39-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "6:26.0",
+      "Turnover by P. Pritchard (offensive foul)",
+      "",
+      "39-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "39-44",
+      "+2",
+      "C. Porter makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:00.0",
+      "S. Hauser makes 2-pt layup from 2 ft (assist by J. Brown)",
+      "+2",
+      "41-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "41-44",
+      "",
+      "Turnover by D. Garland (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "5:37.0",
+      "J. Brown misses 2-pt jump shot from 13 ft",
+      "",
+      "41-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "41-44",
+      "",
+      "Defensive rebound by D. Hunter"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "41-44",
+      "",
+      "Shooting foul by J. Walsh (drawn by T. Bryant)"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "41-45",
+      "+1",
+      "T. Bryant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "41-46",
+      "+1",
+      "T. Bryant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "5:10.0",
+      "P. Pritchard makes 3-pt jump shot from 29 ft (assist by J. Brown)",
+      "+3",
+      "44-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "44-46",
+      "",
+      "C. Porter misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "4:47.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "44-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "4:41.0",
+      "P. Pritchard makes 2-pt layup from 1 ft",
+      "+2",
+      "46-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "46-46",
+      "",
+      "Turnover by C. Porter (step out of bounds)"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "4:18.0",
+      "P. Pritchard makes 3-pt jump shot from 31 ft (assist by J. Brown)",
+      "+3",
+      "49-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "49-46",
+      "",
+      "D. Hunter misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "49-46",
+      "",
+      "Offensive rebound by C. Porter"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "3:53.0",
+      "",
+      "",
+      "49-49",
+      "+3",
+      "D. Garland makes 3-pt jump shot from 25 ft (assist by C. Porter)"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "3:46.0",
+      "Personal foul by D. Hunter (drawn by J. Brown)",
+      "",
+      "49-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "3:46.0",
+      "X. Tillman enters the game for A. Simons",
+      "",
+      "49-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "49-49",
+      "",
+      "D. Mitchell enters the game for T. Bryant"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "49-49",
+      "",
+      "E. Mobley enters the game for C. Porter"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "3:34.0",
+      "J. Brown misses 3-pt jump shot from 25 ft",
+      "",
+      "49-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "49-49",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "49-51",
+      "+2",
+      "E. Mobley makes 2-pt dunk from 1 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "3:16.0",
+      "Turnover by J. Brown (bad pass; steal by D. Mitchell)",
+      "",
+      "49-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "D. Wade misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "Offensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "D. Hunter misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "3:02.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "49-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "2:41.0",
+      "J. Walsh misses 3-pt jump shot from 26 ft",
+      "",
+      "49-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "D. Mitchell misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "2:30.0",
+      "A. Simons enters the game for P. Pritchard",
+      "",
+      "49-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "J. Tyson enters the game for D. Wade"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "J. Tyson misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "Offensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "Turnover by D. Mitchell (bad pass)"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:01.0",
+      "X. Tillman misses 3-pt jump shot from 25 ft",
+      "",
+      "49-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "1:59.0",
+      "Offensive rebound by A. Simons",
+      "",
+      "49-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "1:55.0",
+      "S. Hauser misses 3-pt jump shot from 25 ft",
+      "",
+      "49-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "1:53.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "Defensive rebound by D. Garland"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "1:42.0",
+      "",
+      "",
+      "49-51",
+      "",
+      "J. Tyson misses 2-pt layup from 3 ft (block by J. Walsh)"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "1:38.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "49-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "1:35.0",
+      "J. Brown makes 2-pt layup from 2 ft",
+      "+2",
+      "51-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "D. Hunter misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:21.0",
+      "Defensive rebound by X. Tillman",
+      "",
+      "51-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:05.0",
+      "Shooting foul by J. Tyson (drawn by J. Brown)",
+      "",
+      "51-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "1:05.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "52-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "1:05.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "53-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "0:41.0",
+      "",
+      "",
+      "53-51",
+      "",
+      "D. Mitchell misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "0:38.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "53-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "0:33.0",
+      "J. Brown misses 3-pt jump shot from 30 ft",
+      "",
+      "53-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "0:30.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "53-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "0:29.0",
+      "X. Tillman makes 2-pt jump shot from 7 ft (assist by J. Walsh)",
+      "+2",
+      "55-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "55-51",
+      "",
+      "D. Garland misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "0:05.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "55-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:01.0",
+      "A. Simons makes 3-pt jump shot from 25 ft (assist by J. Brown)",
+      "+3",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "58-51",
+      "",
+      "Turnover by E. Mobley (bad pass; steal by X. Tillman)"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "58-51",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Cleveland"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "11:51.0",
+      "",
+      "",
+      "58-54",
+      "+3",
+      "E. Mobley makes 3-pt jump shot from 25 ft (assist by D. Garland)"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "11:39.0",
+      "Offensive foul by J. Walsh (drawn by D. Garland)",
+      "",
+      "58-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "11:39.0",
+      "Turnover by J. Walsh (offensive foul)",
+      "",
+      "58-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "11:31.0",
+      "",
+      "",
+      "58-54",
+      "",
+      "Turnover by D. Garland (bad pass; steal by X. Tillman)"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "11:28.0",
+      "X. Tillman makes 2-pt layup from 2 ft",
+      "+2",
+      "60-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "60-56",
+      "+2",
+      "E. Mobley makes 2-pt layup from 1 ft (assist by D. Garland)"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "11:05.0",
+      "P. Pritchard makes 2-pt jump shot from 13 ft",
+      "+2",
+      "62-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "62-59",
+      "+3",
+      "E. Mobley makes 3-pt jump shot from 25 ft (assist by D. Garland)"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "10:34.0",
+      "P. Pritchard misses 3-pt jump shot from 32 ft",
+      "",
+      "62-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "10:29.0",
+      "Offensive rebound by S. Hauser",
+      "",
+      "62-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "10:20.0",
+      "X. Tillman misses 3-pt jump shot from 28 ft",
+      "",
+      "62-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "10:18.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "62-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "10:18.0",
+      "J. Walsh makes 2-pt layup from 1 ft",
+      "+2",
+      "64-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "10:18.0",
+      "Shooting foul by J. Tyson (drawn by J. Walsh)",
+      "",
+      "64-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "10:18.0",
+      "J. Walsh makes free throw 1 of 1",
+      "+1",
+      "65-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "65-62",
+      "+3",
+      "J. Tyson makes 3-pt jump shot from 23 ft (assist by D. Garland)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "9:38.0",
+      "P. Pritchard misses 2-pt jump shot from 13 ft",
+      "",
+      "65-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "9:34.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "65-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "9:31.0",
+      "P. Pritchard makes 2-pt jump shot from 10 ft",
+      "+2",
+      "67-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "9:14.0",
+      "",
+      "",
+      "67-62",
+      "",
+      "D. Hunter misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "9:11.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "67-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "9:05.0",
+      "J. Brown makes 3-pt jump shot from 31 ft (assist by P. Pritchard)",
+      "+3",
+      "70-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "70-62",
+      "",
+      "D. Garland misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "8:43.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "70-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "8:22.0",
+      "P. Pritchard misses 3-pt jump shot from 33 ft",
+      "",
+      "70-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "70-62",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "70-62",
+      "",
+      "Turnover by D. Mitchell (bad pass; steal by J. Brown)"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "8:07.0",
+      "S. Hauser makes 2-pt layup from 1 ft (assist by J. Brown)",
+      "+2",
+      "72-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "72-62",
+      "",
+      "E. Mobley misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "7:42.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "72-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "7:35.0",
+      "Turnover by J. Walsh (bad pass; steal by D. Mitchell)",
+      "",
+      "72-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "72-65",
+      "+3",
+      "J. Tyson makes 3-pt jump shot from 23 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "6:59.0",
+      "J. Brown misses 2-pt jump shot from 17 ft",
+      "",
+      "72-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "6:52.0",
+      "Offensive rebound by X. Tillman",
+      "",
+      "72-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "6:52.0",
+      "X. Tillman makes 2-pt layup at rim",
+      "+2",
+      "74-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "74-65",
+      "",
+      "Turnover by D. Garland (bad pass; steal by X. Tillman)"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "6:37.0",
+      "Shooting foul by D. Garland (drawn by J. Brown)",
+      "",
+      "74-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "74-65",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "6:37.0",
+      "J. Minott enters the game for X. Tillman",
+      "",
+      "74-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "6:37.0",
+      "B. Scheierman enters the game for J. Walsh",
+      "",
+      "74-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "74-65",
+      "",
+      "C. Porter enters the game for D. Mitchell"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "74-65",
+      "",
+      "N. Tomlin enters the game for E. Mobley"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "74-65",
+      "",
+      "D. Wade enters the game for J. Tyson"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "6:37.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "75-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "6:37.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "76-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "76-65",
+      "",
+      "D. Wade misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "6:17.0",
+      "Defensive rebound by Team",
+      "",
+      "76-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "6:06.0",
+      "P. Pritchard makes 2-pt layup at rim",
+      "+2",
+      "78-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "5:43.0",
+      "",
+      "",
+      "78-65",
+      "",
+      "Turnover by D. Garland (bad pass; steal by S. Hauser)"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "5:40.0",
+      "Shooting foul by C. Porter (drawn by J. Brown)",
+      "",
+      "78-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "5:40.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "79-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "5:40.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "80-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "80-65",
+      "",
+      "D. Garland misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "5:26.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "80-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "5:23.0",
+      "S. Hauser makes 3-pt jump shot from 28 ft (assist by P. Pritchard)",
+      "+3",
+      "83-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "83-65",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "83-65",
+      "",
+      "D. Mitchell enters the game for D. Hunter"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "83-65",
+      "",
+      "E. Mobley enters the game for C. Porter"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "83-65",
+      "",
+      "E. Mobley misses 2-pt jump shot from 1 ft (block by J. Minott)"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "5:15.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "83-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "5:15.0",
+      "Personal foul by N. Tomlin (drawn by J. Brown)",
+      "",
+      "83-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "4:56.0",
+      "P. Pritchard makes 3-pt jump shot from 32 ft (assist by J. Brown)",
+      "+3",
+      "86-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "86-67",
+      "+2",
+      "D. Mitchell makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "4:25.0",
+      "J. Brown misses 2-pt layup from 1 ft",
+      "",
+      "86-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "86-67",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "86-67",
+      "",
+      "D. Garland misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "86-67",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "4:17.0",
+      "Loose ball foul by J. Brown (drawn by N. Tomlin)",
+      "",
+      "86-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "4:17.0",
+      "A. Simons enters the game for S. Hauser",
+      "",
+      "86-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "4:17.0",
+      "J. Walsh enters the game for B. Scheierman",
+      "",
+      "86-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "86-67",
+      "",
+      "J. Tyson enters the game for D. Garland"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "86-67",
+      "",
+      "D. Mitchell misses 2-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "86-67",
+      "",
+      "Offensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "4:03.0",
+      "",
+      "",
+      "86-69",
+      "+2",
+      "E. Mobley makes 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "3:40.0",
+      "P. Pritchard misses 2-pt jump shot from 17 ft",
+      "",
+      "86-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "86-69",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "86-69",
+      "",
+      "J. Tyson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "86-69",
+      "",
+      "Offensive rebound by J. Tyson"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "86-69",
+      "",
+      "J. Tyson misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "3:30.0",
+      "",
+      "",
+      "86-69",
+      "",
+      "Offensive rebound by J. Tyson"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "86-69",
+      "",
+      "J. Tyson misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "3:28.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "86-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "3:17.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "86-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "3:14.0",
+      "",
+      "",
+      "86-69",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "86-71",
+      "+2",
+      "D. Mitchell makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "3:06.0",
+      "Boston full timeout",
+      "",
+      "86-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "3:06.0",
+      "B. Scheierman enters the game for P. Pritchard",
+      "",
+      "86-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "2:45.0",
+      "B. Scheierman makes 3-pt jump shot from 28 ft (assist by A. Simons)",
+      "+3",
+      "89-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "89-74",
+      "+3",
+      "J. Tyson makes 3-pt jump shot from 25 ft (assist by E. Mobley)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "2:04.0",
+      "A. Simons misses 3-pt jump shot from 34 ft",
+      "",
+      "89-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "2:01.0",
+      "Offensive rebound by B. Scheierman",
+      "",
+      "89-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "1:55.0",
+      "J. Minott misses 2-pt jump shot from 6 ft (block by J. Tyson)",
+      "",
+      "89-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "89-74",
+      "",
+      "Defensive rebound by D. Wade"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "89-74",
+      "",
+      "Turnover by D. Mitchell (bad pass)"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "1:34.0",
+      "J. Minott misses 3-pt jump shot from 23 ft",
+      "",
+      "89-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "1:34.0",
+      "Offensive rebound by Team",
+      "",
+      "89-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "1:34.0",
+      "",
+      "",
+      "89-74",
+      "",
+      "Loose ball foul by D. Wade (drawn by J. Walsh)"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "1:34.0",
+      "J. Walsh makes free throw 1 of 2",
+      "+1",
+      "90-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "1:34.0",
+      "X. Tillman enters the game for J. Minott",
+      "",
+      "90-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "1:34.0",
+      "J. Walsh misses free throw 2 of 2",
+      "",
+      "90-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "90-74",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "90-74",
+      "",
+      "J. Tyson misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "1:05.0",
+      "",
+      "",
+      "90-74",
+      "",
+      "Offensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "90-76",
+      "+2",
+      "E. Mobley makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "0:41.0",
+      "J. Brown misses 3-pt jump shot from 28 ft",
+      "",
+      "90-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "0:38.0",
+      "",
+      "",
+      "90-76",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "90-79",
+      "+3",
+      "E. Mobley makes 3-pt jump shot from 26 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "0:06.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "90-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "0:06.0",
+      "J. Minott enters the game for A. Simons",
+      "",
+      "90-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "90-79",
+      "",
+      "D. Garland enters the game for D. Wade"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "90-79",
+      "",
+      "Personal foul by J. Walsh (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "90-79",
+      "",
+      "D. Mitchell misses 2-pt layup from 1 ft (block by J. Minott)"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:00.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "90-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Cleveland"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "11:36.0",
+      "J. Walsh misses 2-pt layup at rim",
+      "",
+      "90-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "11:33.0",
+      "",
+      "",
+      "90-79",
+      "",
+      "Defensive rebound by N. Tomlin"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "90-81",
+      "+2",
+      "N. Tomlin makes 2-pt layup from 2 ft (assist by T. Proctor)"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "10:57.0",
+      "J. Minott misses 2-pt layup from 2 ft",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "90-81",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "90-83",
+      "+2",
+      "T. Proctor makes 2-pt layup from 2 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "10:43.0",
+      "A. Simons makes 2-pt jump shot from 16 ft",
+      "+2",
+      "92-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "92-83",
+      "",
+      "Personal foul by B. Scheierman (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "10:33.0",
+      "H. González Peña enters the game for J. Minott",
+      "",
+      "92-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "10:33.0",
+      "P. Pritchard enters the game for B. Scheierman",
+      "",
+      "92-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "92-83",
+      "",
+      "D. Hunter enters the game for N. Tomlin"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "10:24.0",
+      "",
+      "",
+      "92-83",
+      "",
+      "J. Tyson misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "92-83",
+      "",
+      "Offensive rebound by J. Tyson"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "10:19.0",
+      "",
+      "",
+      "92-85",
+      "+2",
+      "J. Tyson makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "9:59.0",
+      "Turnover by P. Pritchard (traveling)",
+      "",
+      "92-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "92-88",
+      "+3",
+      "T. Proctor makes 3-pt jump shot from 25 ft (assist by D. Hunter)"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "9:44.0",
+      "Boston full timeout",
+      "",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "9:44.0",
+      "X. Tillman enters the game for H. González Peña",
+      "",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "9:18.0",
+      "A. Simons misses 3-pt jump shot from 25 ft",
+      "",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "92-88",
+      "",
+      "Defensive rebound by D. Hunter"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "92-88",
+      "",
+      "Turnover by D. Hunter (lost ball; steal by J. Walsh)"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "9:15.0",
+      "Shooting foul by D. Mitchell (drawn by J. Walsh)",
+      "",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "9:15.0",
+      "J. Walsh makes free throw 1 of 2",
+      "+1",
+      "93-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "9:15.0",
+      "J. Walsh makes free throw 2 of 2",
+      "+1",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "9:05.0",
+      "",
+      "",
+      "94-88",
+      "",
+      "E. Mobley misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "9:05.0",
+      "Defensive rebound by Team",
+      "",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "8:41.0",
+      "X. Tillman misses 2-pt jump shot from 9 ft (block by J. Tyson)",
+      "",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "8:40.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "8:39.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "8:28.0",
+      "",
+      "",
+      "94-90",
+      "+2",
+      "D. Mitchell makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "8:05.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "94-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "8:04.0",
+      "Offensive rebound by X. Tillman",
+      "",
+      "94-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "7:56.0",
+      "X. Tillman misses 3-pt jump shot from 23 ft",
+      "",
+      "94-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "94-90",
+      "",
+      "Defensive rebound by J. Tyson"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "94-90",
+      "",
+      "Personal foul by S. Hauser (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "7:46.0",
+      "J. Brown enters the game for X. Tillman",
+      "",
+      "94-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "7:46.0",
+      "H. González Peña enters the game for J. Walsh",
+      "",
+      "94-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "94-90",
+      "",
+      "D. Garland enters the game for D. Mitchell"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "94-90",
+      "",
+      "N. Tomlin enters the game for E. Mobley"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "94-90",
+      "",
+      "D. Wade enters the game for J. Tyson"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "94-90",
+      "",
+      "Instant Replay"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "94-90",
+      "",
+      "Turnover by D. Hunter (lost ball; steal by H. González Peña)"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "7:18.0",
+      "H. González Peña makes 3-pt jump shot from 27 ft (assist by P. Pritchard)",
+      "+3",
+      "97-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "7:05.0",
+      "",
+      "",
+      "97-90",
+      "",
+      "D. Garland misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "7:03.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "97-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "6:52.0",
+      "Turnover by J. Brown (traveling)",
+      "",
+      "97-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "97-90",
+      "",
+      "Shooting foul by H. González Peña (drawn by D. Garland)"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "97-90",
+      "",
+      "D. Garland misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "97-90",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "97-91",
+      "+1",
+      "D. Garland makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "6:17.0",
+      "Shooting foul by N. Tomlin (drawn by J. Brown)",
+      "",
+      "97-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "6:17.0",
+      "J. Brown misses free throw 1 of 2",
+      "",
+      "97-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "6:17.0",
+      "Offensive rebound by Team",
+      "",
+      "97-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "6:17.0",
+      "X. Tillman enters the game for H. González Peña",
+      "",
+      "97-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "6:17.0",
+      "J. Walsh enters the game for A. Simons",
+      "",
+      "97-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "97-91",
+      "",
+      "D. Mitchell enters the game for T. Proctor"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "97-91",
+      "",
+      "E. Mobley enters the game for N. Tomlin"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "97-91",
+      "",
+      "J. Tyson enters the game for D. Wade"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "6:17.0",
+      "J. Brown misses free throw 2 of 2",
+      "",
+      "97-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "97-91",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "97-93",
+      "+2",
+      "D. Garland makes 2-pt jump shot from 16 ft (assist by E. Mobley)"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "5:50.0",
+      "Personal foul by D. Mitchell (drawn by J. Brown)",
+      "",
+      "97-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "5:37.0",
+      "Shooting foul by D. Hunter (drawn by J. Brown)",
+      "",
+      "97-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "5:37.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "98-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "5:37.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "99-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "99-93",
+      "",
+      "D. Hunter misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "5:26.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "99-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "5:19.0",
+      "P. Pritchard makes 3-pt jump shot from 31 ft (assist by J. Brown)",
+      "+3",
+      "102-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "102-93",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "4:59.0",
+      "",
+      "",
+      "102-93",
+      "",
+      "Offensive rebound by D. Garland"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "102-93",
+      "",
+      "D. Hunter misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "4:52.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "102-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "4:32.0",
+      "P. Pritchard makes 2-pt layup from 1 ft (assist by J. Brown)",
+      "+2",
+      "104-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "104-93",
+      "",
+      "J. Tyson misses 2-pt layup from 2 ft (block by X. Tillman)"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "4:10.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "104-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "4:09.0",
+      "Boston full timeout",
+      "",
+      "104-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "104-93",
+      "",
+      "N. Tomlin enters the game for D. Hunter"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "4:09.0",
+      "Turnover by (5 sec)",
+      "",
+      "104-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "104-93",
+      "",
+      "N. Tomlin misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "104-93",
+      "",
+      "Offensive rebound by J. Tyson"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "104-95",
+      "+2",
+      "N. Tomlin makes 2-pt layup from 2 ft (assist by D. Garland)"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "3:34.0",
+      "S. Hauser misses 3-pt jump shot from 35 ft",
+      "",
+      "104-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "104-95",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "104-97",
+      "+2",
+      "D. Garland makes 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "3:07.0",
+      "P. Pritchard makes 2-pt jump shot from 13 ft",
+      "+2",
+      "106-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "106-99",
+      "+2",
+      "D. Garland makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "2:24.0",
+      "J. Walsh makes 2-pt layup at rim (assist by J. Brown)",
+      "+2",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "108-99",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "2:12.0",
+      "Defensive rebound by Team",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "1:55.0",
+      "Personal foul by N. Tomlin (drawn by P. Pritchard)",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "1:55.0",
+      "P. Pritchard makes free throw 1 of 2",
+      "+1",
+      "109-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "1:55.0",
+      "P. Pritchard makes free throw 2 of 2",
+      "+1",
+      "110-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "1:49.0",
+      "",
+      "",
+      "110-99",
+      "",
+      "Personal foul by J. Walsh (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "110-102",
+      "+3",
+      "D. Garland makes 3-pt jump shot from 26 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "1:31.0",
+      "Turnover by J. Brown (lost ball)",
+      "",
+      "110-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "1:31.0",
+      "Loose ball foul by J. Brown (drawn by D. Mitchell)",
+      "",
+      "110-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "110-103",
+      "+1",
+      "D. Mitchell makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "110-103",
+      "",
+      "D. Mitchell misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "110-103",
+      "",
+      "Offensive rebound by N. Tomlin"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "110-103",
+      "",
+      "Shooting foul by J. Walsh (drawn by N. Tomlin)"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "110-103",
+      "",
+      "N. Tomlin misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "110-103",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "110-104",
+      "+1",
+      "N. Tomlin makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "1:24.0",
+      "Personal foul by J. Tyson (drawn by P. Pritchard)",
+      "",
+      "110-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "1:24.0",
+      "P. Pritchard makes free throw 1 of 2",
+      "+1",
+      "111-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "1:24.0",
+      "P. Pritchard makes free throw 2 of 2",
+      "+1",
+      "112-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "112-104",
+      "",
+      "D. Garland misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "112-104",
+      "",
+      "Offensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "112-106",
+      "+2",
+      "E. Mobley makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "0:56.0",
+      "P. Pritchard misses 3-pt jump shot from 31 ft",
+      "",
+      "112-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:53.0",
+      "",
+      "",
+      "112-106",
+      "",
+      "Defensive rebound by D. Garland"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "0:45.0",
+      "",
+      "",
+      "112-109",
+      "+3",
+      "D. Mitchell makes 3-pt jump shot from 27 ft (assist by D. Garland)"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "0:26.0",
+      "P. Pritchard makes 2-pt jump shot from 14 ft",
+      "+2",
+      "114-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "114-112",
+      "+3",
+      "D. Mitchell makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:15.0",
+      "Boston full timeout",
+      "",
+      "114-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "0:15.0",
+      "A. Simons enters the game for X. Tillman",
+      "",
+      "114-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "0:05.0",
+      "Personal foul by D. Mitchell (drawn by P. Pritchard)",
+      "",
+      "114-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "0:05.0",
+      "P. Pritchard makes free throw 1 of 2",
+      "+1",
+      "115-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "0:05.0",
+      "X. Tillman enters the game for A. Simons",
+      "",
+      "115-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:05.0",
+      "P. Pritchard makes free throw 2 of 2",
+      "+1",
+      "116-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "116-112",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "0:05.0",
+      "B. Scheierman enters the game for P. Pritchard",
+      "",
+      "116-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "116-112",
+      "",
+      "D. Wade enters the game for N. Tomlin"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "116-115",
+      "+3",
+      "D. Garland makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "0:01.0",
+      "Boston full timeout",
+      "",
+      "116-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "0:01.0",
+      "P. Pritchard enters the game for X. Tillman",
+      "",
+      "116-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "0:01.0",
+      "A. Simons enters the game for J. Walsh",
+      "",
+      "116-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "0:00.0",
+      "Personal foul by D. Mitchell (drawn by J. Brown)",
+      "",
+      "116-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "0:00.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "117-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "0:00.0",
+      "J. Brown misses free throw 2 of 2",
+      "",
+      "117-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "117-115",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "117-115",
+      "",
+      "Cleveland full timeout"
+    ]
+  }
+]

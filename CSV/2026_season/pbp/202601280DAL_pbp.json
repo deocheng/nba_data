@@ -1,0 +1,5557 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Minnesota",
+      "",
+      "Score",
+      "",
+      "Dallas"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "12:00.0",
+      "Violation by Team (delay of game)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:56.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Turnover by P. Washington (bad pass; steal by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:35.0",
+      "J. Randle makes 2-pt jump shot from 17 ft (assist by J. McDaniels)",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Turnover by N. Marshall (bad pass; steal by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:13.0",
+      "J. McDaniels misses 2-pt layup from 4 ft",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Defensive rebound by C. Martin"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "2-2",
+      "+2",
+      "N. Marshall makes 2-pt layup from 6 ft (assist by C. Martin)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:46.0",
+      "R. Gobert misses 2-pt dunk from 2 ft",
+      "",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:41.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Turnover by P. Washington (lost ball; steal by J. Randle)"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:38.0",
+      "J. Randle makes 2-pt dunk from 1 ft",
+      "+2",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "Turnover by D. Gafford (lost ball; steal by R. Gobert)"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:17.0",
+      "D. DiVincenzo misses 3-pt jump shot from 26 ft",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "Defensive rebound by M. Christie"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "M. Christie misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "Offensive rebound by D. Gafford"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "Shooting foul by J. McDaniels (drawn by D. Gafford)"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "D. Gafford misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "4-3",
+      "+1",
+      "D. Gafford makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:51.0",
+      "J. Randle misses 2-pt jump shot from 18 ft",
+      "",
+      "4-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:50.0",
+      "Offensive rebound by Team",
+      "",
+      "4-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:44.0",
+      "J. McDaniels makes 3-pt jump shot from 26 ft (assist by A. Edwards)",
+      "+3",
+      "7-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "7-3",
+      "",
+      "M. Christie misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:26.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "7-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:14.0",
+      "A. Edwards misses 2-pt jump shot from 16 ft",
+      "",
+      "7-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "7-3",
+      "",
+      "Defensive rebound by C. Martin"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "7-5",
+      "+2",
+      "D. Gafford makes 2-pt layup from 2 ft (assist by P. Washington)"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "7-5",
+      "",
+      "Shooting foul by R. Gobert (drawn by D. Gafford)"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "7-6",
+      "+1",
+      "D. Gafford makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:45.0",
+      "Turnover by A. Edwards (bad pass; steal by D. Gafford)",
+      "",
+      "7-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "N. Marshall misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "Offensive rebound by D. Gafford"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:36.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "D. Gafford misses 2-pt layup from 3 ft (block by R. Gobert)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "Offensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:34.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "N. Marshall misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:33.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "Offensive rebound by D. Gafford"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "7-8",
+      "+2",
+      "D. Gafford makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "8:24.0",
+      "Personal foul by D. Gafford (drawn by R. Gobert)",
+      "",
+      "7-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "8:21.0",
+      "Shooting foul by D. Gafford (drawn by A. Edwards)",
+      "",
+      "7-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "8:21.0",
+      "A. Edwards makes free throw 1 of 2",
+      "+1",
+      "8-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "8:21.0",
+      "",
+      "",
+      "8-8",
+      "",
+      "D. Powell enters the game for D. Gafford"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "8:21.0",
+      "A. Edwards makes free throw 2 of 2",
+      "+1",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "9-8",
+      "",
+      "M. Christie misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "8:07.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "7:55.0",
+      "R. Gobert misses 2-pt layup from 3 ft",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "7:53.0",
+      "Offensive rebound by R. Gobert",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "7:53.0",
+      "Shooting foul by D. Powell (drawn by R. Gobert)",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "7:53.0",
+      "R. Gobert makes free throw 1 of 2",
+      "+1",
+      "10-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "7:53.0",
+      "R. Gobert makes free throw 2 of 2",
+      "+1",
+      "11-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "11-10",
+      "+2",
+      "C. Martin makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "7:22.0",
+      "A. Edwards misses 2-pt layup from 6 ft (block by P. Washington)",
+      "",
+      "11-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "11-10",
+      "",
+      "Defensive rebound by C. Martin"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "11-12",
+      "+2",
+      "N. Marshall makes 2-pt layup from 4 ft (assist by C. Martin)"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "7:03.0",
+      "J. Randle makes 2-pt jump shot from 19 ft",
+      "+2",
+      "13-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "6:44.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "M. Christie misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "Offensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "D. Powell misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "Offensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "Turnover by D. Powell (lost ball; steal by A. Edwards)"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "6:29.0",
+      "Shooting foul by N. Marshall (drawn by R. Gobert)",
+      "",
+      "13-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "B. Williams enters the game for C. Martin"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "6:29.0",
+      "R. Gobert misses free throw 1 of 2",
+      "",
+      "13-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "6:29.0",
+      "Offensive rebound by Team",
+      "",
+      "13-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "6:29.0",
+      "R. Gobert misses free throw 2 of 2",
+      "",
+      "13-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "Shooting foul by J. Randle (drawn by B. Williams)"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "13-13",
+      "+1",
+      "B. Williams makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "13-13",
+      "",
+      "B. Williams misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "6:07.0",
+      "",
+      "",
+      "13-13",
+      "",
+      "Offensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "13-13",
+      "",
+      "Turnover by P. Washington (bad pass; steal by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "5:58.0",
+      "A. Edwards misses 3-pt jump shot from 26 ft",
+      "",
+      "13-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "13-13",
+      "",
+      "Defensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "13-13",
+      "",
+      "N. Marshall misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "5:44.0",
+      "Defensive rebound by J. McDaniels",
+      "",
+      "13-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "5:34.0",
+      "J. Randle makes 2-pt jump shot from 8 ft",
+      "+2",
+      "15-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "5:20.0",
+      "",
+      "",
+      "15-13",
+      "",
+      "Shooting foul by R. Gobert (drawn by D. Powell)"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "5:20.0",
+      "",
+      "",
+      "15-13",
+      "",
+      "D. Powell misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "5:20.0",
+      "",
+      "",
+      "15-13",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "5:20.0",
+      "M. Conley enters the game for D. DiVincenzo",
+      "",
+      "15-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "5:20.0",
+      "N. Reid enters the game for R. Gobert",
+      "",
+      "15-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "5:20.0",
+      "",
+      "",
+      "15-13",
+      "",
+      "J. Hardy enters the game for P. Washington"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "5:20.0",
+      "",
+      "",
+      "15-14",
+      "+1",
+      "D. Powell makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "5:07.0",
+      "Turnover by N. Reid (bad pass)",
+      "",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "Shooting foul by M. Conley (drawn by B. Williams)"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "B. Williams misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "15-15",
+      "+1",
+      "B. Williams makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "4:43.0",
+      "J. Randle makes 2-pt jump shot from 21 ft",
+      "+2",
+      "17-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "17-18",
+      "+3",
+      "B. Williams makes 3-pt jump shot from 25 ft (assist by D. Powell)"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "4:17.0",
+      "J. Randle misses 2-pt jump shot from 19 ft",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "Defensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "Turnover by N. Marshall (bad pass; steal by N. Reid)"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "4:03.0",
+      "M. Conley misses 3-pt jump shot from 25 ft",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "4:01.0",
+      "Offensive rebound by J. Randle",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "4:00.0",
+      "J. Randle misses 2-pt layup from 2 ft (block by N. Marshall)",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "Defensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "3:59.0",
+      "J. Clark enters the game for J. Randle",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "C. Martin enters the game for M. Christie"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "B. Williams misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "Offensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "17-20",
+      "+2",
+      "D. Powell makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "3:16.0",
+      "A. Edwards makes 2-pt jump shot from 14 ft",
+      "+2",
+      "19-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "19-22",
+      "+2",
+      "J. Hardy makes 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "2:53.0",
+      "N. Reid makes 2-pt jump shot from 4 ft (assist by M. Conley)",
+      "+2",
+      "21-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "21-22",
+      "",
+      "Shooting foul by N. Reid (drawn by B. Williams)"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "2:44.0",
+      "Minnesota full timeout",
+      "",
+      "21-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "2:44.0",
+      "J. Beringer enters the game for J. McDaniels",
+      "",
+      "21-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "21-22",
+      "",
+      "P. Washington enters the game for N. Marshall"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "21-23",
+      "+1",
+      "B. Williams makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "21-24",
+      "+1",
+      "B. Williams makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "2:35.0",
+      "Shooting foul by P. Washington (drawn by N. Reid)",
+      "",
+      "21-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "2:35.0",
+      "N. Reid makes free throw 1 of 2",
+      "+1",
+      "22-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "2:35.0",
+      "N. Reid makes free throw 2 of 2",
+      "+1",
+      "23-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "23-26",
+      "+2",
+      "C. Martin makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "1:57.0",
+      "N. Reid makes 3-pt jump shot from 23 ft (assist by J. Clark)",
+      "+3",
+      "26-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "26-28",
+      "+2",
+      "J. Hardy makes 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "1:30.0",
+      "M. Conley misses 2-pt jump shot from 7 ft",
+      "",
+      "26-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "26-28",
+      "",
+      "Defensive rebound by B. Williams"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "26-28",
+      "",
+      "Turnover by B. Williams (bad pass; steal by N. Reid)"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "1:17.0",
+      "N. Reid misses 3-pt jump shot from 27 ft",
+      "",
+      "26-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "1:13.0",
+      "Offensive rebound by J. Beringer",
+      "",
+      "26-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "1:12.0",
+      "M. Conley makes 3-pt jump shot from 26 ft (assist by J. Beringer)",
+      "+3",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "P. Washington misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "Offensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "C. Martin misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "0:36.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "0:27.0",
+      "J. Beringer makes 2-pt dunk from 2 ft (assist by A. Edwards)",
+      "+2",
+      "31-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "31-28",
+      "",
+      "Shooting foul by N. Reid (drawn by B. Williams)"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "31-28",
+      "",
+      "B. Williams misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "31-28",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "31-28",
+      "",
+      "M. Christie enters the game for J. Hardy"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "31-29",
+      "+1",
+      "B. Williams makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "0:00.0",
+      "N. Reid misses 3-pt jump shot from 28 ft",
+      "",
+      "31-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "31-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "Time",
+      "Minnesota",
+      "",
+      "Score",
+      "",
+      "Dallas"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "11:46.0",
+      "J. Clark misses 3-pt jump shot from 24 ft",
+      "",
+      "31-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "11:44.0",
+      "Offensive rebound by J. Beringer",
+      "",
+      "31-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "11:39.0",
+      "B. Hyland makes 2-pt jump shot from 7 ft",
+      "+2",
+      "33-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "11:39.0",
+      "Shooting foul by R. Nembhard (drawn by B. Hyland)",
+      "",
+      "33-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "11:39.0",
+      "B. Hyland makes free throw 1 of 1",
+      "+1",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "D. Gafford misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "11:25.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "11:22.0",
+      "J. Clark misses 2-pt layup from 4 ft",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "11:18.0",
+      "",
+      "",
+      "34-31",
+      "+2",
+      "R. Nembhard makes 2-pt layup from 1 ft (assist by P. Washington)"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "11:04.0",
+      "N. Reid misses 3-pt jump shot from 26 ft",
+      "",
+      "34-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "34-31",
+      "",
+      "Defensive rebound by R. Nembhard"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "34-31",
+      "",
+      "P. Washington misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "10:55.0",
+      "Defensive rebound by Team",
+      "",
+      "34-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "10:39.0",
+      "Turnover by N. Reid (bad pass)",
+      "",
+      "34-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "10:26.0",
+      "",
+      "",
+      "34-31",
+      "",
+      "Turnover by R. Nembhard (bad pass; steal by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "10:18.0",
+      "J. Beringer makes 2-pt dunk from 1 ft (assist by N. Reid)",
+      "+2",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "P. Washington misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "10:01.0",
+      "Defensive rebound by B. Hyland",
+      "",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "9:51.0",
+      "D. DiVincenzo misses 3-pt jump shot from 22 ft",
+      "",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "9:37.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "J. Hardy misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "9:34.0",
+      "Defensive rebound by B. Hyland",
+      "",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "9:26.0",
+      "Shooting foul by P. Washington (drawn by J. Beringer)",
+      "",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "9:26.0",
+      "J. Beringer misses free throw 1 of 2",
+      "",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "9:26.0",
+      "Offensive rebound by Team",
+      "",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "9:26.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "N. Marshall enters the game for P. Washington"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "9:26.0",
+      "J. Beringer makes free throw 2 of 2",
+      "+1",
+      "37-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "37-31",
+      "",
+      "Turnover by R. Nembhard (step out of bounds)"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "9:16.0",
+      "J. McDaniels enters the game for J. Clark",
+      "",
+      "37-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "9:01.0",
+      "B. Hyland misses 3-pt jump shot from 25 ft",
+      "",
+      "37-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "37-31",
+      "",
+      "Defensive rebound by M. Kelly"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "37-34",
+      "+3",
+      "J. Hardy makes 3-pt jump shot from 24 ft (assist by M. Kelly)"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "8:37.0",
+      "B. Hyland misses 2-pt jump shot from 15 ft",
+      "",
+      "37-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "37-34",
+      "",
+      "Defensive rebound by M. Kelly"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "37-34",
+      "",
+      "N. Marshall misses 2-pt hook shot from 4 ft"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "8:21.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "37-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "8:19.0",
+      "Turnover by D. DiVincenzo (bad pass; steal by M. Kelly)",
+      "",
+      "37-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "8:14.0",
+      "",
+      "",
+      "37-34",
+      "",
+      "J. Hardy misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "8:10.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "37-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "7:59.0",
+      "J. McDaniels makes 3-pt jump shot from 24 ft (assist by B. Hyland)",
+      "+3",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "7:59.0",
+      "R. Gobert enters the game for J. Beringer",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "7:59.0",
+      "J. Randle enters the game for N. Reid",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "M. Christie enters the game for D. Gafford"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "D. Powell enters the game for M. Kelly"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "J. Hardy misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "7:34.0",
+      "Defensive rebound by B. Hyland",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "7:30.0",
+      "R. Gobert makes 2-pt layup from 2 ft (assist by D. DiVincenzo)",
+      "+2",
+      "42-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "7:30.0",
+      "Shooting foul by R. Nembhard (drawn by R. Gobert)",
+      "",
+      "42-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "7:30.0",
+      "R. Gobert misses free throw 1 of 1",
+      "",
+      "42-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "42-34",
+      "",
+      "Defensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "42-34",
+      "",
+      "N. Marshall misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "7:15.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "42-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "7:12.0",
+      "Personal foul by R. Nembhard (drawn by J. McDaniels)",
+      "",
+      "42-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "42-34",
+      "",
+      "B. Williams enters the game for R. Nembhard"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "6:59.0",
+      "J. McDaniels misses 3-pt jump shot from 24 ft",
+      "",
+      "42-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "42-34",
+      "",
+      "Defensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "42-34",
+      "",
+      "Shooting foul by J. Randle (drawn by M. Christie)"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "42-35",
+      "+1",
+      "M. Christie makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "42-36",
+      "+1",
+      "M. Christie makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "6:35.0",
+      "B. Hyland makes 2-pt layup from 3 ft",
+      "+2",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "6:35.0",
+      "A. Edwards enters the game for D. DiVincenzo",
+      "",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "44-36",
+      "",
+      "C. Martin enters the game for J. Hardy"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "44-36",
+      "",
+      "Turnover by D. Powell (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "5:55.0",
+      "J. Randle makes 2-pt jump shot from 12 ft",
+      "+2",
+      "46-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "46-36",
+      "",
+      "D. Powell misses 2-pt layup from 1 ft (block by R. Gobert)"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "46-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "46-36",
+      "",
+      "M. Christie misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "5:33.0",
+      "Defensive rebound by B. Hyland",
+      "",
+      "46-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "5:30.0",
+      "B. Hyland misses 2-pt layup from 2 ft",
+      "",
+      "46-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "46-36",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "46-36",
+      "",
+      "C. Martin misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "46-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "5:18.0",
+      "Loose ball foul by R. Gobert (drawn by D. Powell)",
+      "",
+      "46-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "5:18.0",
+      "N. Reid enters the game for R. Gobert",
+      "",
+      "46-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "46-36",
+      "",
+      "B. Williams misses 2-pt layup from 1 ft (block by N. Reid)"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "46-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "46-36",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "4:42.0",
+      "J. Randle makes 2-pt layup from 4 ft",
+      "+2",
+      "48-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "48-38",
+      "+2",
+      "B. Williams makes 2-pt layup from 3 ft (assist by D. Powell)"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "4:04.0",
+      "Turnover by A. Edwards (lost ball; steal by C. Martin)",
+      "",
+      "48-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "48-40",
+      "+2",
+      "N. Marshall makes 2-pt layup from 1 ft (assist by C. Martin)"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "3:40.0",
+      "N. Reid misses 2-pt layup from 5 ft",
+      "",
+      "48-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "3:38.0",
+      "Offensive rebound by N. Reid",
+      "",
+      "48-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "3:36.0",
+      "N. Reid makes 2-pt layup from 2 ft",
+      "+2",
+      "50-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "3:14.0",
+      "",
+      "",
+      "50-40",
+      "",
+      "C. Martin misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "50-40",
+      "",
+      "Offensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "50-40",
+      "",
+      "Personal foul by B. Hyland (drawn by D. Powell)"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "3:09.0",
+      "J. Beringer enters the game for B. Hyland",
+      "",
+      "50-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "50-40",
+      "",
+      "D. Gafford enters the game for D. Powell"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "50-40",
+      "",
+      "Personal foul by J. McDaniels (drawn by M. Christie)"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "50-40",
+      "",
+      "Personal foul by J. McDaniels (drawn by M. Christie)"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "50-41",
+      "+1",
+      "M. Christie makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "3:01.0",
+      "D. DiVincenzo enters the game for J. McDaniels",
+      "",
+      "50-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "50-42",
+      "+1",
+      "M. Christie makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "2:45.0",
+      "J. Randle misses 2-pt jump shot from 10 ft",
+      "",
+      "50-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "50-42",
+      "",
+      "Defensive rebound by B. Williams"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "50-42",
+      "",
+      "Shooting foul by J. Beringer (drawn by N. Marshall)"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "2:37.0",
+      "Minnesota full timeout",
+      "",
+      "50-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "50-42",
+      "",
+      "Violation by Team (delay of game)"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "50-43",
+      "+1",
+      "N. Marshall makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "50-44",
+      "+1",
+      "N. Marshall makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "2:28.0",
+      "Shooting foul by C. Martin (drawn by A. Edwards)",
+      "",
+      "50-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "2:28.0",
+      "A. Edwards makes free throw 1 of 2",
+      "+1",
+      "51-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "2:28.0",
+      "A. Edwards makes free throw 2 of 2",
+      "+1",
+      "52-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "52-44",
+      "",
+      "N. Marshall misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "2:14.0",
+      "Defensive rebound by J. Randle",
+      "",
+      "52-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "2:08.0",
+      "N. Reid misses 3-pt jump shot from 25 ft",
+      "",
+      "52-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "52-44",
+      "",
+      "Defensive rebound by M. Christie"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "2:00.0",
+      "",
+      "",
+      "52-44",
+      "",
+      "M. Christie misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "52-44",
+      "",
+      "Offensive rebound by D. Gafford"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "52-44",
+      "",
+      "Turnover by D. Gafford (lost ball; steal by N. Reid)"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "1:50.0",
+      "A. Edwards makes 2-pt jump shot from 12 ft",
+      "+2",
+      "54-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "54-46",
+      "+2",
+      "B. Williams makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "1:15.0",
+      "J. Randle misses 3-pt jump shot from 22 ft",
+      "",
+      "54-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "54-46",
+      "",
+      "Defensive rebound by B. Williams"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "54-46",
+      "",
+      "Shooting foul by D. DiVincenzo (drawn by D. Gafford)"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "54-47",
+      "+1",
+      "D. Gafford makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "54-48",
+      "+1",
+      "D. Gafford makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "0:49.0",
+      "J. Randle misses 3-pt jump shot from 26 ft",
+      "",
+      "54-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "54-48",
+      "",
+      "Defensive rebound by B. Williams"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "54-48",
+      "",
+      "Turnover by B. Williams (lost ball; steal by A. Edwards)"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "0:36.0",
+      "D. DiVincenzo makes 2-pt layup from 1 ft (assist by A. Edwards)",
+      "+2",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "0:17.0",
+      "",
+      "",
+      "56-48",
+      "",
+      "B. Williams misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "0:14.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "0:02.0",
+      "Shooting foul by N. Marshall (drawn by J. Randle)",
+      "",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "0:02.0",
+      "J. Randle makes free throw 1 of 2",
+      "+1",
+      "57-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "0:02.0",
+      "J. Clark enters the game for N. Reid",
+      "",
+      "57-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "57-48",
+      "",
+      "J. Hardy enters the game for C. Martin"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "0:02.0",
+      "J. Randle makes free throw 2 of 2",
+      "+1",
+      "58-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "58-48",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "58-48",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "Time",
+      "Minnesota",
+      "",
+      "Score",
+      "",
+      "Dallas"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "11:48.0",
+      "A. Edwards misses 2-pt jump shot from 13 ft",
+      "",
+      "58-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "58-48",
+      "",
+      "Defensive rebound by C. Martin"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "58-50",
+      "+2",
+      "P. Washington makes 2-pt dunk from 1 ft (assist by C. Martin)"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "11:29.0",
+      "Turnover by R. Gobert (lost ball; steal by C. Martin)",
+      "",
+      "58-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "58-50",
+      "",
+      "D. Gafford misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "11:21.0",
+      "Defensive rebound by A. Edwards",
+      "",
+      "58-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "11:17.0",
+      "J. Randle makes 2-pt layup from 1 ft (assist by A. Edwards)",
+      "+2",
+      "60-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "60-52",
+      "+2",
+      "P. Washington makes 2-pt layup from 8 ft"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "10:41.0",
+      "D. DiVincenzo makes 3-pt jump shot from 27 ft (assist by R. Gobert)",
+      "+3",
+      "63-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "10:29.0",
+      "",
+      "",
+      "63-52",
+      "",
+      "P. Washington misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "63-52",
+      "",
+      "Offensive rebound by D. Gafford"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "63-52",
+      "",
+      "C. Martin misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "10:22.0",
+      "Defensive rebound by J. Randle",
+      "",
+      "63-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "10:16.0",
+      "A. Edwards makes 3-pt jump shot from 24 ft (assist by J. Randle)",
+      "+3",
+      "66-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "66-52",
+      "",
+      "P. Washington misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "10:00.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "66-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "9:53.0",
+      "Shooting foul by D. Gafford (drawn by R. Gobert)",
+      "",
+      "66-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "9:53.0",
+      "R. Gobert misses free throw 1 of 2",
+      "",
+      "66-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "9:53.0",
+      "Offensive rebound by Team",
+      "",
+      "66-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "9:53.0",
+      "R. Gobert misses free throw 2 of 2",
+      "",
+      "66-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "66-52",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "66-54",
+      "+2",
+      "N. Marshall makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "9:22.0",
+      "Turnover by R. Gobert (bad pass)",
+      "",
+      "66-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "66-54",
+      "",
+      "Shooting foul by J. McDaniels (drawn by M. Christie)"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "66-54",
+      "",
+      "M. Christie misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "66-54",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "9:06.0",
+      "M. Conley enters the game for J. McDaniels",
+      "",
+      "66-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "66-55",
+      "+1",
+      "M. Christie makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "8:49.0",
+      "D. DiVincenzo misses 2-pt dunk from 4 ft",
+      "",
+      "66-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "66-55",
+      "",
+      "Defensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "66-55",
+      "",
+      "Turnover by M. Christie (bad pass; steal by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "8:39.0",
+      "D. DiVincenzo misses 2-pt layup from 1 ft",
+      "",
+      "66-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "66-55",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "66-57",
+      "+2",
+      "N. Marshall makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "8:09.0",
+      "R. Gobert makes 2-pt layup from 1 ft (assist by M. Conley)",
+      "+2",
+      "68-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "7:57.0",
+      "",
+      "",
+      "68-57",
+      "",
+      "P. Washington misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "7:55.0",
+      "Defensive rebound by A. Edwards",
+      "",
+      "68-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "7:46.0",
+      "M. Conley misses 3-pt jump shot from 25 ft",
+      "",
+      "68-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "68-57",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "68-57",
+      "",
+      "Turnover by M. Christie (lost ball; steal by M. Conley)"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "7:25.0",
+      "A. Edwards makes 3-pt jump shot from 25 ft (assist by J. Randle)",
+      "+3",
+      "71-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "71-57",
+      "",
+      "Shooting foul by R. Gobert (drawn by N. Marshall)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "71-58",
+      "+1",
+      "N. Marshall makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "7:08.0",
+      "N. Reid enters the game for R. Gobert",
+      "",
+      "71-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "71-58",
+      "",
+      "D. Powell enters the game for D. Gafford"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "71-58",
+      "",
+      "B. Williams enters the game for C. Martin"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "71-58",
+      "",
+      "N. Marshall misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "7:04.0",
+      "Defensive rebound by A. Edwards",
+      "",
+      "71-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "6:58.0",
+      "D. DiVincenzo misses 3-pt jump shot from 24 ft",
+      "",
+      "71-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "6:56.0",
+      "Offensive rebound by J. Randle",
+      "",
+      "71-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "6:53.0",
+      "A. Edwards misses 2-pt jump shot from 14 ft",
+      "",
+      "71-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "6:53.0",
+      "Offensive rebound by Team",
+      "",
+      "71-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "71-58",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "71-58",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "6:44.0",
+      "N. Reid misses 3-pt jump shot from 25 ft",
+      "",
+      "71-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "6:41.0",
+      "Offensive rebound by M. Conley",
+      "",
+      "71-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "6:39.0",
+      "A. Edwards makes 2-pt layup from 1 ft (assist by M. Conley)",
+      "+2",
+      "73-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "73-58",
+      "",
+      "Shooting foul by J. Randle (drawn by P. Washington)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "73-59",
+      "+1",
+      "P. Washington makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "73-59",
+      "",
+      "P. Washington misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "6:27.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "73-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "6:06.0",
+      "N. Reid makes 2-pt hook shot from 6 ft",
+      "+2",
+      "75-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "75-61",
+      "+2",
+      "N. Marshall makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "5:30.0",
+      "A. Edwards misses 2-pt layup from 5 ft",
+      "",
+      "75-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "75-61",
+      "",
+      "Defensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "75-63",
+      "+2",
+      "P. Washington makes 2-pt layup from 1 ft (assist by N. Marshall)"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "5:08.0",
+      "Shooting foul by M. Christie (drawn by J. Randle)",
+      "",
+      "75-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "5:08.0",
+      "J. Randle makes free throw 1 of 2",
+      "+1",
+      "76-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "76-63",
+      "",
+      "J. Hardy enters the game for P. Washington"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "76-63",
+      "",
+      "R. Nembhard enters the game for B. Williams"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "5:08.0",
+      "J. Randle makes free throw 2 of 2",
+      "+1",
+      "77-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "77-65",
+      "+2",
+      "R. Nembhard makes 2-pt jump shot from 13 ft (assist by D. Powell)"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "4:33.0",
+      "J. Randle makes 2-pt layup from 2 ft (assist by N. Reid)",
+      "+2",
+      "79-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "4:33.0",
+      "Shooting foul by N. Marshall (drawn by J. Randle)",
+      "",
+      "79-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "4:33.0",
+      "J. Clark enters the game for D. DiVincenzo",
+      "",
+      "79-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "4:33.0",
+      "J. Randle makes free throw 1 of 1",
+      "+1",
+      "80-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "80-67",
+      "+2",
+      "N. Marshall makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "80-67",
+      "",
+      "Shooting foul by N. Reid (drawn by N. Marshall)"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "80-67",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "80-67",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "4:22.0",
+      "J. Beringer enters the game for J. Randle",
+      "",
+      "80-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "80-67",
+      "",
+      "C. Martin enters the game for M. Christie"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "80-68",
+      "+1",
+      "N. Marshall makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "4:06.0",
+      "A. Edwards misses 2-pt jump shot from 13 ft",
+      "",
+      "80-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "4:03.0",
+      "",
+      "",
+      "80-68",
+      "",
+      "Defensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "80-70",
+      "+2",
+      "D. Powell makes 2-pt layup from 4 ft (assist by R. Nembhard)"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "3:39.0",
+      "Turnover by N. Reid (traveling)",
+      "",
+      "80-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "80-70",
+      "",
+      "P. Washington enters the game for N. Marshall"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "80-72",
+      "+2",
+      "R. Nembhard makes 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "3:07.0",
+      "N. Reid makes 3-pt jump shot from 28 ft (assist by A. Edwards)",
+      "+3",
+      "83-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "2:43.0",
+      "",
+      "",
+      "83-72",
+      "",
+      "R. Nembhard misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "2:40.0",
+      "Defensive rebound by A. Edwards",
+      "",
+      "83-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "2:37.0",
+      "A. Edwards misses 2-pt jump shot from 13 ft",
+      "",
+      "83-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "2:35.0",
+      "Offensive rebound by J. Beringer",
+      "",
+      "83-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "2:35.0",
+      "Shooting foul by D. Powell (drawn by J. Beringer)",
+      "",
+      "83-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "2:35.0",
+      "Technical foul by A. Edwards",
+      "",
+      "83-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "83-72",
+      "",
+      "J. Hardy misses technical free throw"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "2:35.0",
+      "Defensive rebound by Team",
+      "",
+      "83-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "2:35.0",
+      "J. Beringer makes free throw 1 of 2",
+      "+1",
+      "84-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "2:35.0",
+      "J. Beringer makes free throw 2 of 2",
+      "+1",
+      "85-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "85-72",
+      "",
+      "Shooting foul by N. Reid (drawn by P. Washington)"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "85-72",
+      "",
+      "P. Washington misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "85-72",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "2:21.0",
+      "J. Randle enters the game for N. Reid",
+      "",
+      "85-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "85-72",
+      "",
+      "P. Washington misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "2:18.0",
+      "Defensive rebound by J. Clark",
+      "",
+      "85-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "2:09.0",
+      "Shooting foul by D. Powell (drawn by A. Edwards)",
+      "",
+      "85-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "2:09.0",
+      "A. Edwards misses free throw 1 of 2",
+      "",
+      "85-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "2:09.0",
+      "Offensive rebound by Team",
+      "",
+      "85-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "2:09.0",
+      "A. Edwards makes free throw 2 of 2",
+      "+1",
+      "86-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "86-72",
+      "",
+      "Shooting foul by J. Clark (drawn by J. Hardy)"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "86-72",
+      "",
+      "J. Hardy misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "86-72",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "86-73",
+      "+1",
+      "J. Hardy makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "1:35.0",
+      "J. Randle makes 2-pt jump shot from 8 ft",
+      "+2",
+      "88-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "88-73",
+      "",
+      "P. Washington misses 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "88-73",
+      "",
+      "Offensive rebound by C. Martin"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "88-73",
+      "",
+      "C. Martin misses 2-pt layup from 2 ft (block by J. Beringer)"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "88-73",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "88-73",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "0:54.0",
+      "J. Randle misses 3-pt jump shot from 24 ft",
+      "",
+      "88-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "88-73",
+      "",
+      "Defensive rebound by C. Martin"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "0:46.0",
+      "",
+      "",
+      "88-75",
+      "+2",
+      "P. Washington makes 2-pt layup from 1 ft (assist by R. Nembhard)"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "0:30.0",
+      "Shooting foul by D. Powell (drawn by J. Randle)",
+      "",
+      "88-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "0:30.0",
+      "J. Randle makes free throw 1 of 2",
+      "+1",
+      "89-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "0:30.0",
+      "D. DiVincenzo enters the game for M. Conley",
+      "",
+      "89-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "89-75",
+      "",
+      "M. Christie enters the game for D. Powell"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "0:30.0",
+      "J. Randle makes free throw 2 of 2",
+      "+1",
+      "90-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "90-75",
+      "",
+      "R. Nembhard misses 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "0:06.0",
+      "Defensive rebound by A. Edwards",
+      "",
+      "90-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "0:01.0",
+      "J. Randle misses 2-pt layup from 3 ft",
+      "",
+      "90-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by J. Beringer",
+      "",
+      "90-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "0:00.0",
+      "J. Beringer makes 2-pt layup at rim",
+      "+2",
+      "92-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "0:00.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "92-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "Time",
+      "Minnesota",
+      "",
+      "Score",
+      "",
+      "Dallas"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "11:44.0",
+      "",
+      "",
+      "92-75",
+      "",
+      "P. Washington misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "11:42.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "92-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "11:32.0",
+      "J. Beringer misses 2-pt layup from 2 ft (block by P. Washington)",
+      "",
+      "92-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "92-75",
+      "",
+      "Defensive rebound by D. Gafford"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "11:23.0",
+      "",
+      "",
+      "92-77",
+      "+2",
+      "D. Gafford makes 2-pt dunk from 1 ft (assist by J. Hardy)"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "11:06.0",
+      "B. Hyland makes 2-pt layup from 1 ft (assist by J. Randle)",
+      "+2",
+      "94-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "94-77",
+      "",
+      "Personal foul by B. Hyland (drawn by D. Gafford)"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "94-79",
+      "+2",
+      "D. Gafford makes 2-pt dunk from 1 ft (assist by J. Hardy)"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "10:32.0",
+      "Turnover by B. Hyland (bad pass)",
+      "",
+      "94-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "94-79",
+      "",
+      "Shooting foul by J. Beringer (drawn by B. Williams)"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "94-80",
+      "+1",
+      "B. Williams makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "10:21.0",
+      "R. Gobert enters the game for J. Beringer",
+      "",
+      "94-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "94-80",
+      "",
+      "B. Williams misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "10:18.0",
+      "Defensive rebound by J. McDaniels",
+      "",
+      "94-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "10:01.0",
+      "D. DiVincenzo makes 3-pt jump shot from 26 ft (assist by B. Hyland)",
+      "+3",
+      "97-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "97-80",
+      "",
+      "Shooting foul by B. Hyland (drawn by B. Williams)"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "97-81",
+      "+1",
+      "B. Williams makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "97-82",
+      "+1",
+      "B. Williams makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "9:41.0",
+      "J. McDaniels makes 2-pt jump shot from 17 ft",
+      "+2",
+      "99-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "99-84",
+      "+2",
+      "P. Washington makes 2-pt layup from 2 ft (assist by B. Williams)"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "9:11.0",
+      "J. Randle makes 2-pt jump shot from 13 ft",
+      "+2",
+      "101-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "101-86",
+      "+2",
+      "D. Gafford makes 2-pt hook shot from 2 ft (assist by J. Hardy)"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "8:42.0",
+      "Turnover by J. Randle (lost ball; steal by J. Hardy)",
+      "",
+      "101-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "101-89",
+      "+3",
+      "J. Hardy makes 3-pt jump shot from 26 ft (assist by B. Williams)"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "8:36.0",
+      "Minnesota full timeout",
+      "",
+      "101-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "8:36.0",
+      "M. Conley enters the game for B. Hyland",
+      "",
+      "101-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "8:36.0",
+      "N. Reid enters the game for J. Randle",
+      "",
+      "101-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "8:28.0",
+      "Turnover by M. Conley (bad pass)",
+      "",
+      "101-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "8:27.0",
+      "Loose ball foul by D. DiVincenzo (drawn by J. Hardy)",
+      "",
+      "101-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "101-91",
+      "+2",
+      "B. Williams makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "7:56.0",
+      "R. Gobert misses 2-pt layup from 5 ft",
+      "",
+      "101-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "101-91",
+      "",
+      "Defensive rebound by B. Williams"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "101-91",
+      "",
+      "N. Marshall misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "7:49.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "101-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "7:44.0",
+      "J. McDaniels misses 3-pt jump shot from 25 ft",
+      "",
+      "101-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "7:43.0",
+      "Offensive rebound by Team",
+      "",
+      "101-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "101-91",
+      "",
+      "Loose ball foul by B. Williams (drawn by R. Gobert)"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "7:43.0",
+      "A. Edwards enters the game for D. DiVincenzo",
+      "",
+      "101-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "101-91",
+      "",
+      "M. Christie enters the game for J. Hardy"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "101-91",
+      "",
+      "C. Martin enters the game for P. Washington"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "7:36.0",
+      "M. Conley misses 3-pt jump shot from 26 ft",
+      "",
+      "101-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "101-91",
+      "",
+      "Defensive rebound by C. Martin"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "101-91",
+      "",
+      "Turnover by C. Martin (bad pass; steal by R. Gobert)"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "7:14.0",
+      "N. Reid makes 2-pt layup from 4 ft",
+      "+2",
+      "103-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "103-91",
+      "",
+      "B. Williams misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "6:56.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "103-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "6:48.0",
+      "N. Reid makes 3-pt jump shot from 27 ft (assist by J. McDaniels)",
+      "+3",
+      "106-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "106-91",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "106-91",
+      "",
+      "D. Powell enters the game for D. Gafford"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "106-91",
+      "",
+      "P. Washington enters the game for N. Marshall"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "106-91",
+      "",
+      "Personal foul by M. Conley (drawn by M. Christie)"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "106-92",
+      "+1",
+      "M. Christie makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "106-93",
+      "+1",
+      "M. Christie makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "6:21.0",
+      "A. Edwards makes 3-pt jump shot from 29 ft (assist by N. Reid)",
+      "+3",
+      "109-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "6:04.0",
+      "",
+      "",
+      "109-95",
+      "+2",
+      "P. Washington makes 2-pt layup from 3 ft (assist by B. Williams)"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "5:48.0",
+      "Turnover by N. Reid (bad pass; steal by M. Christie)",
+      "",
+      "109-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "109-95",
+      "",
+      "B. Williams misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "5:32.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "109-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "5:18.0",
+      "A. Edwards misses 2-pt layup from 4 ft",
+      "",
+      "109-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "109-95",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "109-97",
+      "+2",
+      "M. Christie makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "4:46.0",
+      "J. McDaniels misses 2-pt layup from 5 ft",
+      "",
+      "109-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "4:43.0",
+      "Offensive rebound by R. Gobert",
+      "",
+      "109-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "4:39.0",
+      "N. Reid makes 2-pt jump shot from 6 ft (assist by M. Conley)",
+      "+2",
+      "111-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "4:25.0",
+      "",
+      "",
+      "111-99",
+      "+2",
+      "P. Washington makes 2-pt layup from 2 ft (assist by D. Powell)"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "4:11.0",
+      "M. Conley makes 3-pt jump shot from 25 ft (assist by A. Edwards)",
+      "+3",
+      "114-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "114-99",
+      "",
+      "B. Williams misses 2-pt layup from 7 ft (block by M. Conley)"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "3:58.0",
+      "Defensive rebound by Team",
+      "",
+      "114-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "114-99",
+      "",
+      "Loose ball foul by B. Williams (drawn by M. Conley)"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "3:58.0",
+      "J. Randle enters the game for R. Gobert",
+      "",
+      "114-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "114-99",
+      "",
+      "J. Hardy enters the game for B. Williams"
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "3:43.0",
+      "A. Edwards misses 2-pt jump shot from 10 ft",
+      "",
+      "114-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "3:40.0",
+      "Offensive rebound by J. Randle",
+      "",
+      "114-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "114-99",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "3:31.0",
+      "N. Reid misses 3-pt jump shot from 26 ft",
+      "",
+      "114-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "114-99",
+      "",
+      "Defensive rebound by C. Martin"
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "3:25.0",
+      "",
+      "",
+      "114-99",
+      "",
+      "P. Washington misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "114-99",
+      "",
+      "Offensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "114-101",
+      "+2",
+      "P. Washington makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "3:08.0",
+      "J. McDaniels misses 3-pt jump shot from 26 ft",
+      "",
+      "114-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "114-101",
+      "",
+      "Defensive rebound by M. Christie"
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "114-103",
+      "+2",
+      "P. Washington makes 2-pt layup at rim (assist by M. Christie)"
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "2:39.0",
+      "J. Randle makes 2-pt layup from 1 ft (assist by M. Conley)",
+      "+2",
+      "116-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "116-105",
+      "+2",
+      "P. Washington makes 2-pt layup from 1 ft (assist by C. Martin)"
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "1:58.0",
+      "J. Randle misses 2-pt jump shot from 18 ft",
+      "",
+      "116-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "116-105",
+      "",
+      "Defensive rebound by M. Christie"
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "1:49.0",
+      "",
+      "",
+      "116-105",
+      "",
+      "Turnover by M. Christie (lost ball; steal by A. Edwards)"
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "1:45.0",
+      "A. Edwards misses 2-pt layup from 4 ft",
+      "",
+      "116-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 495,
+    "cells": [
+      "1:42.0",
+      "",
+      "",
+      "116-105",
+      "",
+      "Defensive rebound by J. Hardy"
+    ]
+  },
+  {
+    "row": 496,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "116-105",
+      "",
+      "M. Christie misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 497,
+    "cells": [
+      "1:28.0",
+      "Defensive rebound by A. Edwards",
+      "",
+      "116-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 498,
+    "cells": [
+      "1:09.0",
+      "N. Reid misses 3-pt jump shot from 27 ft",
+      "",
+      "116-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 499,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "116-105",
+      "",
+      "Defensive rebound by J. Hardy"
+    ]
+  },
+  {
+    "row": 500,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "116-105",
+      "",
+      "P. Washington misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 501,
+    "cells": [
+      "0:56.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "116-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 502,
+    "cells": [
+      "0:34.0",
+      "N. Reid makes 2-pt jump shot from 11 ft (assist by J. Randle)",
+      "+2",
+      "118-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 503,
+    "cells": [
+      "0:22.0",
+      "",
+      "",
+      "118-105",
+      "",
+      "J. Hardy misses 2-pt jump shot from 11 ft (block by A. Edwards)"
+    ]
+  },
+  {
+    "row": 504,
+    "cells": [
+      "0:19.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "118-105",
+      "",
+      ""
+    ]
+  }
+]

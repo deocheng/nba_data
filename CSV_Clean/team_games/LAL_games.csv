@@ -1,0 +1,89 @@
+game_id,team_id,season_id,game_date,game_number,is_home,opp_team_abbr,opp_team_name,result,team_score,opp_score,game_type,is_win
+LAL_2025-10-21_GSW,LAL,2025-2026,2025-10-21,1,True,GSW,Golden State Warriors,L,109,119,regular,False
+LAL_2025-10-24_MIN,LAL,2025-2026,2025-10-24,2,True,MIN,Minnesota Timberwolves,W,128,110,regular,True
+LAL_2025-10-26_SAC,LAL,2025-2026,2025-10-26,3,False,SAC,Sacramento Kings,W,127,120,regular,True
+LAL_2025-10-27_POR,LAL,2025-2026,2025-10-27,4,True,POR,Portland Trail Blazers,L,108,122,regular,False
+LAL_2025-10-29_MIN,LAL,2025-2026,2025-10-29,5,False,MIN,Minnesota Timberwolves,W,116,115,regular,True
+LAL_2025-10-31_MEM,LAL,2025-2026,2025-10-31,6,False,MEM,Memphis Grizzlies,W,117,112,regular,True
+LAL_2025-11-02_MIA,LAL,2025-2026,2025-11-02,7,True,MIA,Miami Heat,W,130,120,regular,True
+LAL_2025-11-03_POR,LAL,2025-2026,2025-11-03,8,False,POR,Portland Trail Blazers,W,123,115,regular,True
+LAL_2025-11-05_SAS,LAL,2025-2026,2025-11-05,9,True,SAS,San Antonio Spurs,W,118,116,regular,True
+LAL_2025-11-08_ATL,LAL,2025-2026,2025-11-08,10,False,ATL,Atlanta Hawks,L,102,122,regular,False
+LAL_2025-11-10_CHO,LAL,2025-2026,2025-11-10,11,False,CHO,Charlotte Hornets,W,121,111,regular,True
+LAL_2025-11-12_OKC,LAL,2025-2026,2025-11-12,12,False,OKC,Oklahoma City Thunder,L,92,121,regular,False
+LAL_2025-11-14_NOP,LAL,2025-2026,2025-11-14,13,False,NOP,New Orleans Pelicans,W,118,104,regular,True
+LAL_2025-11-15_MIL,LAL,2025-2026,2025-11-15,14,False,MIL,Milwaukee Bucks,W,119,95,regular,True
+LAL_2025-11-18_UTA,LAL,2025-2026,2025-11-18,15,True,UTA,Utah Jazz,W,140,126,regular,True
+LAL_2025-11-23_UTA,LAL,2025-2026,2025-11-23,16,False,UTA,Utah Jazz,W,108,106,regular,True
+LAL_2025-11-25_LAC,LAL,2025-2026,2025-11-25,17,True,LAC,Los Angeles Clippers,W,135,118,regular,True
+LAL_2025-11-28_DAL,LAL,2025-2026,2025-11-28,18,True,DAL,Dallas Mavericks,W,129,119,regular,True
+LAL_2025-11-30_NOP,LAL,2025-2026,2025-11-30,19,True,NOP,New Orleans Pelicans,W,133,121,regular,True
+LAL_2025-12-01_PHO,LAL,2025-2026,2025-12-01,20,True,PHO,Phoenix Suns,L,108,125,regular,False
+LAL_2025-12-04_TOR,LAL,2025-2026,2025-12-04,21,False,TOR,Toronto Raptors,W,123,120,regular,True
+LAL_2025-12-05_BOS,LAL,2025-2026,2025-12-05,22,False,BOS,Boston Celtics,L,105,126,regular,False
+LAL_2025-12-07_PHI,LAL,2025-2026,2025-12-07,23,False,PHI,Philadelphia 76ers,W,112,108,regular,True
+LAL_2025-12-10_SAS,LAL,2025-2026,2025-12-10,24,True,SAS,San Antonio Spurs,L,119,132,regular,False
+LAL_2025-12-14_PHO,LAL,2025-2026,2025-12-14,25,False,PHO,Phoenix Suns,W,116,114,regular,True
+LAL_2025-12-18_UTA,LAL,2025-2026,2025-12-18,26,False,UTA,Utah Jazz,W,143,135,regular,True
+LAL_2025-12-20_LAC,LAL,2025-2026,2025-12-20,27,False,LAC,Los Angeles Clippers,L,88,103,regular,False
+LAL_2025-12-23_PHO,LAL,2025-2026,2025-12-23,28,False,PHO,Phoenix Suns,L,108,132,regular,False
+LAL_2025-12-25_HOU,LAL,2025-2026,2025-12-25,29,True,HOU,Houston Rockets,L,96,119,regular,False
+LAL_2025-12-28_SAC,LAL,2025-2026,2025-12-28,30,True,SAC,Sacramento Kings,W,125,101,regular,True
+LAL_2025-12-30_DET,LAL,2025-2026,2025-12-30,31,True,DET,Detroit Pistons,L,106,128,regular,False
+LAL_2026-01-02_MEM,LAL,2025-2026,2026-01-02,32,True,MEM,Memphis Grizzlies,W,128,121,regular,True
+LAL_2026-01-04_MEM,LAL,2025-2026,2026-01-04,33,True,MEM,Memphis Grizzlies,W,120,114,regular,True
+LAL_2026-01-06_NOP,LAL,2025-2026,2026-01-06,34,False,NOP,New Orleans Pelicans,W,111,103,regular,True
+LAL_2026-01-07_SAS,LAL,2025-2026,2026-01-07,35,False,SAS,San Antonio Spurs,L,91,107,regular,False
+LAL_2026-01-09_MIL,LAL,2025-2026,2026-01-09,36,True,MIL,Milwaukee Bucks,L,101,105,regular,False
+LAL_2026-01-12_SAC,LAL,2025-2026,2026-01-12,37,False,SAC,Sacramento Kings,L,112,124,regular,False
+LAL_2026-01-13_ATL,LAL,2025-2026,2026-01-13,38,True,ATL,Atlanta Hawks,W,141,116,regular,True
+LAL_2026-01-15_CHO,LAL,2025-2026,2026-01-15,39,True,CHO,Charlotte Hornets,L,117,135,regular,False
+LAL_2026-01-17_POR,LAL,2025-2026,2026-01-17,40,False,POR,Portland Trail Blazers,L,116,132,regular,False
+LAL_2026-01-18_TOR,LAL,2025-2026,2026-01-18,41,True,TOR,Toronto Raptors,W,110,93,regular,True
+LAL_2026-01-20_DEN,LAL,2025-2026,2026-01-20,42,False,DEN,Denver Nuggets,W,115,107,regular,True
+LAL_2026-01-22_LAC,LAL,2025-2026,2026-01-22,43,False,LAC,Los Angeles Clippers,L,104,112,regular,False
+LAL_2026-01-24_DAL,LAL,2025-2026,2026-01-24,44,False,DAL,Dallas Mavericks,W,116,110,regular,True
+LAL_2026-01-26_CHI,LAL,2025-2026,2026-01-26,45,False,CHI,Chicago Bulls,W,129,118,regular,True
+LAL_2026-01-28_CLE,LAL,2025-2026,2026-01-28,46,False,CLE,Cleveland Cavaliers,L,99,129,regular,False
+LAL_2026-01-30_WAS,LAL,2025-2026,2026-01-30,47,False,WAS,Washington Wizards,W,142,111,regular,True
+LAL_2026-02-01_NYK,LAL,2025-2026,2026-02-01,48,False,NYK,New York Knicks,L,100,112,regular,False
+LAL_2026-02-03_BRK,LAL,2025-2026,2026-02-03,49,False,BRK,Brooklyn Nets,W,125,109,regular,True
+LAL_2026-02-05_PHI,LAL,2025-2026,2026-02-05,50,True,PHI,Philadelphia 76ers,W,119,115,regular,True
+LAL_2026-02-07_GSW,LAL,2025-2026,2026-02-07,51,True,GSW,Golden State Warriors,W,105,99,regular,True
+LAL_2026-02-09_OKC,LAL,2025-2026,2026-02-09,52,True,OKC,Oklahoma City Thunder,L,110,119,regular,False
+LAL_2026-02-10_SAS,LAL,2025-2026,2026-02-10,53,True,SAS,San Antonio Spurs,L,108,136,regular,False
+LAL_2026-02-12_DAL,LAL,2025-2026,2026-02-12,54,True,DAL,Dallas Mavericks,W,124,104,regular,True
+LAL_2026-02-20_LAC,LAL,2025-2026,2026-02-20,55,True,LAC,Los Angeles Clippers,W,125,122,regular,True
+LAL_2026-02-22_BOS,LAL,2025-2026,2026-02-22,56,True,BOS,Boston Celtics,L,89,111,regular,False
+LAL_2026-02-24_ORL,LAL,2025-2026,2026-02-24,57,True,ORL,Orlando Magic,L,109,110,regular,False
+LAL_2026-02-26_PHO,LAL,2025-2026,2026-02-26,58,False,PHO,Phoenix Suns,L,110,113,regular,False
+LAL_2026-02-28_GSW,LAL,2025-2026,2026-02-28,59,False,GSW,Golden State Warriors,W,129,101,regular,True
+LAL_2026-03-01_SAC,LAL,2025-2026,2026-03-01,60,True,SAC,Sacramento Kings,W,128,104,regular,True
+LAL_2026-03-03_NOP,LAL,2025-2026,2026-03-03,61,True,NOP,New Orleans Pelicans,W,110,101,regular,True
+LAL_2026-03-05_DEN,LAL,2025-2026,2026-03-05,62,False,DEN,Denver Nuggets,L,113,120,regular,False
+LAL_2026-03-06_IND,LAL,2025-2026,2026-03-06,63,True,IND,Indiana Pacers,W,128,117,regular,True
+LAL_2026-03-08_NYK,LAL,2025-2026,2026-03-08,64,True,NYK,New York Knicks,W,110,97,regular,True
+LAL_2026-03-10_MIN,LAL,2025-2026,2026-03-10,65,True,MIN,Minnesota Timberwolves,W,120,106,regular,True
+LAL_2026-03-12_CHI,LAL,2025-2026,2026-03-12,66,True,CHI,Chicago Bulls,W,142,130,regular,True
+LAL_2026-03-14_DEN,LAL,2025-2026,2026-03-14,67,True,DEN,Denver Nuggets,W,127,125,regular,True
+LAL_2026-03-16_HOU,LAL,2025-2026,2026-03-16,68,False,HOU,Houston Rockets,W,100,92,regular,True
+LAL_2026-03-18_HOU,LAL,2025-2026,2026-03-18,69,False,HOU,Houston Rockets,W,124,116,regular,True
+LAL_2026-03-19_MIA,LAL,2025-2026,2026-03-19,70,False,MIA,Miami Heat,W,134,126,regular,True
+LAL_2026-03-21_ORL,LAL,2025-2026,2026-03-21,71,False,ORL,Orlando Magic,W,105,104,regular,True
+LAL_2026-03-23_DET,LAL,2025-2026,2026-03-23,72,False,DET,Detroit Pistons,L,110,113,regular,False
+LAL_2026-03-25_IND,LAL,2025-2026,2026-03-25,73,False,IND,Indiana Pacers,W,137,130,regular,True
+LAL_2026-03-27_BRK,LAL,2025-2026,2026-03-27,74,True,BRK,Brooklyn Nets,W,116,99,regular,True
+LAL_2026-03-30_WAS,LAL,2025-2026,2026-03-30,75,True,WAS,Washington Wizards,W,120,101,regular,True
+LAL_2026-03-31_CLE,LAL,2025-2026,2026-03-31,76,True,CLE,Cleveland Cavaliers,W,127,113,regular,True
+LAL_2026-04-02_OKC,LAL,2025-2026,2026-04-02,77,False,OKC,Oklahoma City Thunder,L,96,139,regular,False
+LAL_2026-04-05_DAL,LAL,2025-2026,2026-04-05,78,False,DAL,Dallas Mavericks,L,128,134,regular,False
+LAL_2026-04-07_OKC,LAL,2025-2026,2026-04-07,79,True,OKC,Oklahoma City Thunder,L,87,123,regular,False
+LAL_2026-04-09_GSW,LAL,2025-2026,2026-04-09,80,False,GSW,Golden State Warriors,W,119,103,regular,True
+LAL_2026-04-10_PHO,LAL,2025-2026,2026-04-10,81,True,PHO,Phoenix Suns,W,101,73,regular,True
+LAL_2026-04-12_UTA,LAL,2025-2026,2026-04-12,82,True,UTA,Utah Jazz,W,131,107,regular,True
+LAL_2026-04-18_HOU,LAL,2025-2026,2026-04-18,1,True,HOU,Houston Rockets,W,107,98,playin,True
+LAL_2026-04-21_HOU,LAL,2025-2026,2026-04-21,2,True,HOU,Houston Rockets,W,101,94,playin,True
+LAL_2026-04-24_HOU,LAL,2025-2026,2026-04-24,3,False,HOU,Houston Rockets,W,112,108,playin,True
+LAL_2026-04-26_HOU,LAL,2025-2026,2026-04-26,4,False,HOU,Houston Rockets,L,96,115,playin,False
+LAL_2026-04-29_HOU,LAL,2025-2026,2026-04-29,5,True,HOU,Houston Rockets,L,93,99,playin,False
+LAL_2026-05-01_HOU,LAL,2025-2026,2026-05-01,6,False,HOU,Houston Rockets,W,98,78,playin,True

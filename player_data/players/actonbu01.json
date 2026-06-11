@@ -1,0 +1,24 @@
+{
+  "advanced": [
+    {
+      "year_id": "1967-68",
+      "age": "26",
+      "team_name_abbr": "SDR",
+      "comp_name_abbr": "NBA",
+      "pos": "SF",
+      "games": "23",
+      "mp": "195",
+      "per": "9.5",
+      "ts_pct": ".444",
+      "fta_per_fga_pct": ".392",
+      "ast_pct": "7.5",
+      "ows": "-0.1",
+      "dws": "0.2",
+      "ws": "0.1",
+      "ws_per_48": ".021",
+      "awards": ""
+    }
+  ],
+  "player_id": "actonbu01",
+  "player_name": "Bud Acton"
+}

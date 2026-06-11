@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>最简化测试 - 只显示名字</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #1a1a2e; color: white; padding: 20px; }
+        .player-list { list-style: none; padding: 0; }
+        .player-item { padding: 5px 10px; border-bottom: 1px solid #333; }
+        .error { color: #ff6b6b; }
+        .success { color: #4ecdc4; }
+        .log { background: #0f0f1a; padding: 10px; margin: 10px 0; border-radius: 5px; font-size: 12px; }
+        .btn { padding: 10px 20px; background: #45b7d1; color: white; border: none; border-radius: 5px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>最简化测试 - 只显示名字</h1>
+    <button class="btn" onclick="loadPlayers()">加载球员数据</button>
+    <div class="log" id="log"></div>
+    <ul class="player-list" id="playerList"></ul>
+
+    <script>
+        function log(message, type = 'info') {
+            const logDiv = document.getElementById('log');
+            const colors = { error: '#ff6b6b', success: '#4ecdc4', info: '#45b7d1' };
+            logDiv.innerHTML += `<p style="color: ${colors[type]};">${message}</p>`;
+        }
+
+        async function loadPlayers() {
+            const logDiv = document.getElementById('log');
+            const list = document.getElementById('playerList');
+            
+            logDiv.innerHTML = '';
+            list.innerHTML = '';
+            
+            try {
+                log('开始加载球员数据（只显示名字）...', 'info');
+                
+                let count = 0;
+                let page = 0;
+                const pageSize = 50;
+                let total = 1000;
+                
+                while (page * pageSize < total) {
+                    const response = await fetch(`/api/player-cards-light?limit=${pageSize}&offset=${page * pageSize}`);
+                    const data = await response.json();
+                    
+                    if (!data || !data.success) {
+                        log('获取数据失败', 'error');
+                        break;
+                    }
+                    
+                    total = data.total;
+                    
+                    data.players.forEach(player => {
+                        try {
+                            const li = document.createElement('li');
+                            li.className = 'player-item';
+                            li.textContent = player.name || '未知';
+                            list.appendChild(li);
+                            count++;
+                        } catch (e) {
+                            log(`处理球员失败: ${e.message}`, 'error');
+                        }
+                    });
+                    
+                    log(`已加载第 ${page + 1} 页，共 ${count}/${total} 球员`, 'success');
+                    page++;
+                }
+                
+                log(`加载完成！共 ${count} 个球员`, 'success');
+                
+            } catch (e) {
+                log(`加载失败: ${e.message}`, 'error');
+                console.error(e);
+            }
+        }
+    </script>
+</body>
+</html>

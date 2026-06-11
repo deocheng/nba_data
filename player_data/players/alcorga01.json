@@ -1,0 +1,40 @@
+{
+  "advanced": [
+    {
+      "year_id": "1959-60",
+      "age": "23",
+      "team_name_abbr": "DET",
+      "comp_name_abbr": "NBA",
+      "pos": "C",
+      "games": "58",
+      "mp": "670",
+      "per": "7.6",
+      "ts_pct": ".330",
+      "fta_per_fga_pct": ".269",
+      "ows": "-1.9",
+      "dws": "0.6",
+      "ws": "-1.3",
+      "ws_per_48": "-0.090",
+      "awards": ""
+    },
+    {
+      "year_id": "1960-61",
+      "age": "24",
+      "team_name_abbr": "LAL",
+      "comp_name_abbr": "NBA",
+      "pos": "C",
+      "games": "20",
+      "mp": "174",
+      "per": "2.5",
+      "ts_pct": ".356",
+      "fta_per_fga_pct": ".200",
+      "ows": "-0.2",
+      "dws": "0.2",
+      "ws": "0.0",
+      "ws_per_48": "-0.002",
+      "awards": ""
+    }
+  ],
+  "player_id": "alcorga01",
+  "player_name": "Gary Alcorn"
+}

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试球员数据加载 - 逐步测试</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #1a1a2e; color: white; padding: 20px; }
+        .log { background: #16213e; padding: 10px; margin: 10px 0; border-radius: 5px; font-size: 12px; max-height: 600px; overflow-y: auto; }
+        .error { color: #ff6b6b; }
+        .success { color: #4ecdc4; }
+        .info { color: #45b7d1; }
+        .btn { padding: 10px 20px; background: #45b7d1; color: white; border: none; border-radius: 5px; cursor: pointer; margin-right: 10px; }
+        .progress { width: 100%; background: #16213e; height: 20px; border-radius: 10px; margin: 10px 0; }
+        .progress-bar { height: 100%; background: #45b7d1; border-radius: 10px; transition: width 0.3s; }
+    </style>
+</head>
+<body>
+    <h1>测试球员数据加载 - 逐步测试</h1>
+    <button class="btn" onclick="testInBatches()">分批加载测试</button>
+    <button class="btn" onclick="testOneByOne()">逐个加载测试</button>
+    <button class="btn" onclick="clearLog()">清空日志</button>
+    <div class="progress" id="progress"><div class="progress-bar" id="progressBar"></div></div>
+    <div class="log" id="log"></div>
+
+    <script>
+        let allPlayers = [];
+
+        function log(message, type = 'info') {
+            const logDiv = document.getElementById('log');
+            const colors = { error: '#ff6b6b', success: '#4ecdc4', info: '#45b7d1' };
+            logDiv.innerHTML += `<p style="color: ${colors[type]};">${message}</p>`;
+            logDiv.scrollTop = logDiv.scrollHeight;
+        }
+
+        function clearLog() {
+            document.getElementById('log').innerHTML = '';
+        }
+
+        function updateProgress(percent) {
+            document.getElementById('progressBar').style.width = `${percent}%`;
+        }
+
+        async function fetchPlayers() {
+            log('正在获取球员数据...', 'info');
+            const response = await fetch('/api/player-cards');
+            const data = await response.json();
+            return data.players || [];
+        }
+
+        async function testInBatches() {
+            clearLog();
+            log('开始分批加载测试...', 'info');
+            
+            try {
+                allPlayers = await fetchPlayers();
+                log(`成功获取 ${allPlayers.length} 个球员`, 'success');
+                
+                const batchSize = 50;
+                let currentIndex = 0;
+                
+                while (currentIndex < allPlayers.length) {
+                    const batch = allPlayers.slice(currentIndex, currentIndex + batchSize);
+                    log(`处理批次 ${Math.floor(currentIndex / batchSize) + 1}: 球员 ${currentIndex + 1}-${Math.min(currentIndex + batchSize, allPlayers.length)}`, 'info');
+                    
+                    try {
+                        // 模拟渲染球员卡片
+                        batch.forEach(player => {
+                            if (!player.name) throw new Error('缺少名字');
+                            if (player.avatar_url && !player.avatar_url.startsWith('data:image/')) {
+                                throw new Error('头像URL格式错误');
+                            }
+                        });
+                        log(`批次 ${Math.floor(currentIndex / batchSize) + 1} 处理成功`, 'success');
+                    } catch (e) {
+                        log(`批次 ${Math.floor(currentIndex / batchSize) + 1} 处理失败: ${e.message}`, 'error');
+                        return;
+                    }
+                    
+                    currentIndex += batchSize;
+                    updateProgress((currentIndex / allPlayers.length) * 100);
+                }
+                
+                log('所有批次处理完成！', 'success');
+                updateProgress(100);
+                
+            } catch (e) {
+                log(`测试失败: ${e.message}`, 'error');
+            }
+        }
+
+        async function testOneByOne() {
+            clearLog();
+            log('开始逐个加载测试...', 'info');
+            
+            try {
+                allPlayers = await fetchPlayers();
+                log(`成功获取 ${allPlayers.length} 个球员`, 'success');
+                
+                for (let i = 0; i < allPlayers.length; i++) {
+                    const player = allPlayers[i];
+                    
+                    try {
+                        // 检查每个球员
+                        if (!player.name) {
+                            log(`球员 ${i}: 缺少名字`, 'error');
+                            continue;
+                        }
+                        
+                        // 检查头像
+                        if (player.avatar_url) {
+                            if (!player.avatar_url.startsWith('data:image/')) {
+                                log(`球员 ${player.name}: 头像URL格式错误`, 'error');
+                            } else if (player.avatar_url.length > 1000000) {
+                                log(`球员 ${player.name}: 头像数据过大 (${player.avatar_url.length} bytes)`, 'error');
+                            }
+                        }
+                        
+                        // 检查body_info
+                        if (player.body_info && player.body_info.length > 500) {
+                            log(`球员 ${player.name}: body_info过长`, 'error');
+                        }
+                        
+                        // 检查bio
+                        if (player.bio && player.bio.length > 10000) {
+                            log(`球员 ${player.name}: bio过长 (${player.bio.length} chars)`, 'error');
+                        }
+                        
+                    } catch (e) {
+                        log(`处理球员 ${i} 时出错: ${e.message}`, 'error');
+                    }
+                    
+                    if ((i + 1) % 50 === 0) {
+                        log(`已检查 ${i + 1}/${allPlayers.length} 球员`, 'info');
+                        updateProgress(((i + 1) / allPlayers.length) * 100);
+                    }
+                }
+                
+                log('所有球员检查完成！', 'success');
+                updateProgress(100);
+                
+            } catch (e) {
+                log(`测试失败: ${e.message}`, 'error');
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,337 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang="zh-CN"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;俗人的篮球场 - NBA数据展示&lt;/title&gt;
+    &lt;link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"&gt;
+    &lt;style&gt;
+        :root {
+            --primary-color: #1a1a2e;
+            --secondary-color: #16213e;
+            --accent-color: #e94560;
+            --text-color: #ffffff;
+            --light-color: #ffffffcc;
+        }
+        body {
+            background-color: var(--primary-color);
+            color: var(--text-color);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .navbar {
+            background-color: var(--secondary-color) !important;
+            border-bottom: 2px solid var(--accent-color);
+        }
+        .container {
+            margin-top: 30px;
+        }
+        .nav-tabs {
+            border-bottom: 1px solid var(--secondary-color);
+            margin-bottom: 20px;
+        }
+        .nav-tabs .nav-link {
+            color: var(--light-color);
+            border: none;
+            padding: 12px 24px;
+        }
+        .nav-tabs .nav-link.active {
+            background-color: var(--secondary-color);
+            color: var(--accent-color);
+            border-bottom: 3px solid var(--accent-color);
+        }
+        .player-card {
+            background-color: var(--secondary-color);
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 12px;
+            transition: transform 0.2s ease;
+        }
+        .player-card:hover {
+            transform: translateX(4px);
+            border-left: 4px solid var(--accent-color);
+        }
+        .team-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+            margin-right: 8px;
+            background-color: #334155;
+        }
+        .stat-table {
+            width: 100%;
+            font-size: 13px;
+        }
+        .stat-table td {
+            padding: 4px 8px;
+            text-align: center;
+        }
+        .header-row {
+            color: #94a3b8;
+            border-bottom: 1px solid #334155;
+        }
+        .player-name {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 4px;
+        }
+        .game-info {
+            color: #94a3b8;
+            font-size: 13px;
+            margin-bottom: 12px;
+        }
+        .advanced-stats {
+            display: flex;
+            gap: 12px;
+            margin-top: 12px;
+        }
+        .stat-box {
+            text-align: center;
+            padding: 8px 12px;
+            background-color: #1e293b;
+            border-radius: 6px;
+        }
+        .stat-label {
+            color: #64748b;
+            font-size: 11px;
+        }
+        .stat-value {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .search-box {
+            margin-bottom: 24px;
+        }
+        .page-nav {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 24px;
+        }
+        .page-nav button {
+            background-color: var(--secondary-color);
+            border: none;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 4px;
+        }
+        .page-nav button.active {
+            background-color: var(--accent-color);
+        }
+        .red-card {
+            border-left: 4px solid #ef4444 !important;
+        }
+        .black-card {
+            border-left: 4px solid #64748b !important;
+        }
+        .tag-best {
+            background-color: #10b981;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: bold;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;nav class="navbar navbar-expand-lg navbar-dark"&gt;
+        &lt;div class="container-fluid"&gt;
+            &lt;a class="navbar-brand" href="/"&gt;🏀 俗人的篮球场&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/nav&gt;
+
+    &lt;div class="container"&gt;
+        &lt;div class="search-box"&gt;
+            &lt;input type="text" id="searchInput" class="form-control" placeholder="搜索球队、球员... (e.g. LAL, James, 马刺)"&gt;
+        &lt;/div&gt;
+
+        &lt;ul class="nav nav-tabs" id="navTabs"&gt;
+            &lt;li class="nav-item"&gt;
+                &lt;button class="nav-link active" data-tab="daily"&gt;05月31日参赛球员&lt;/button&gt;
+            &lt;/li&gt;
+            &lt;li class="nav-item"&gt;
+                &lt;button class="nav-link" data-tab="season-best"&gt;常规赛红黑榜&lt;/button&gt;
+            &lt;/li&gt;
+            &lt;li class="nav-item"&gt;
+                &lt;button class="nav-link" data-tab="playoff-best"&gt;季后赛红黑榜&lt;/button&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+
+        &lt;div id="tabContent"&gt;
+            &lt;div id="dailyTab" class="tab-content"&gt;
+                &lt;h3&gt;今日最佳&lt;/h3&gt;
+                &lt;p class="text-muted"&gt;基于gBPM从高到低展示 | 只统计出场时间不少于20分钟的球员&lt;/p&gt;
+                &lt;div id="dailyPlayersList"&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div id="seasonBestTab" class="tab-content" style="display: none;"&gt;
+                &lt;h3&gt;常规赛红黑榜&lt;/h3&gt;
+                &lt;p class="text-muted"&gt;本赛季常规赛 gBPM 最佳100场和最差表现&lt;/p&gt;
+                &lt;div id="seasonBestList"&gt;&lt;/div&gt;
+                &lt;div class="page-nav" id="pageNav"&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            
+            &lt;div id="playoffBestTab" class="tab-content" style="display: none;"&gt;
+                &lt;h3&gt;季后赛红黑榜&lt;/h3&gt;
+                &lt;p class="text-muted"&gt;季后赛 gBPM 最佳和最差表现&lt;/p&gt;
+                &lt;div id="playoffBestList"&gt;Coming Soon...&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;
+        // 模拟数据
+        const mockDailyPlayers = [
+            { team: 'OKC', name: 'Shai Gilgeous-Alexander', date: '05月31日', opponent: '马刺', mins: 43, pts: 35, reb: 9, ast: 4, stl: 3, blk: 1, fg: '12/21', fg3: '2/5', ft: '9/11', ts: '67.7%', gBPM: 32.5, score: 17.9 },
+            { team: 'OKC', name: 'Cason Wallace', date: '05月31日', opponent: '马刺', mins: 36, pts: 17, reb: 7, ast: 5, stl: 2, blk: 1, fg: '6/10', fg3: '5/9', ft: '0/0', ts: '85.0%', gBPM: 18.0, score: 12.2 },
+            { team: 'SAS', name: 'Julian Champagnie', date: '05月31日', opponent: '雷霆', mins: 38, pts: 20, reb: 6, ast: 1, stl: 1, blk: 0, fg: '6/11', fg3: '6/10', ft: '2/3', ts: '81.2%', gBPM: 16.4, score: 11.0 },
+            { team: 'SAS', name: 'Victor Wembanyama', date: '05月31日', opponent: '雷霆', mins: 42, pts: 22, reb: 7, ast: 2, stl: 1, blk: 1, fg: '7/15', fg3: '3/5', ft: '5/7', ts: '60.8%', gBPM: 16.1, score: 8.8 },
+            { team: 'SAS', name: "De'Aaron Fox", date: '05月31日', opponent: '雷霆', mins: 36, pts: 15, reb: 0, ast: 0, stl: 5, blk: 3, fg: '6/12', fg3: '3/7', ft: '0/0', ts: '62.5%', gBPM: 12.7, score: 8.5 },
+            { team: 'OKC', name: 'Jaylin Williams', date: '05月31日', opponent: '马刺', mins: 26, pts: 11, reb: 10, ast: 4, stl: 0, blk: 0, fg: '5/9', fg3: '1/3', ft: '0/0', ts: '61.1%', gBPM: 12.1, score: 5.8 },
+            { team: 'SAS', name: 'Dylan Harper', date: '05月31日', opponent: '雷霆', mins: 27, pts: 12, reb: 7, ast: 3, stl: 2, blk: 0, fg: '5/8', fg3: '2/3', ft: '0/0', ts: '75.0%', gBPM: 11.4, score: 5.3 }
+        ];
+
+        const mockSeasonBest = [
+            { team: 'LAL', name: 'Luka Dončić', date: '03月20日', opponent: '热火', mins: 38, pts: 60, reb: 7, ast: 3, stl: 2, blk: 0, fg: '18/30', fg3: '9/17', ft: '15/19', ts: '78.2%', gBPM: 51.8, score: 32.5, isBest: true },
+            { team: 'LAC', name: 'Kawhi Leonard', date: '12月29日', opponent: '活塞', mins: 39, pts: 55, reb: 11, ast: 2, stl: 3, blk: 0, fg: '17/26', fg3: '5/10', ft: '16/17', ts: '82.1%', gBPM: 51.6, score: 31.7, isBest: true },
+            { team: 'DEN', name: 'Nikola Jokić', date: '12月26日', opponent: '森林狼', mins: 43, pts: 56, reb: 16, ast: 5, stl: 2, blk: 1, fg: '15/21', fg3: '4/6', ft: '22/23', ts: '90.0%', gBPM: 59.8, score: 31.2, isBest: true },
+            { team: 'MIA', name: 'Bam Adebayo', date: '03月11日', opponent: '奇才', mins: 42, pts: 83, reb: 9, ast: 3, stl: 2, blk: 0, fg: '20/43', fg3: '7/22', ft: '36/43', ts: '67.0%', gBPM: 60.5, score: 30.9, isBest: false }
+        ];
+
+        // 渲染球员卡片
+        function renderPlayerCard(player, isRedBlack = false) {
+            let cardClass = 'player-card';
+            if (isRedBlack &amp;&amp; !player.isBest) {
+                cardClass += ' red-card';
+            }
+            if (isRedBlack &amp;&amp; player.isBest) {
+                cardClass += ' black-card';
+            }
+
+            return `
+                &lt;div class="${cardClass}"&gt;
+                    &lt;div class="row"&gt;
+                        &lt;div class="col-md-4"&gt;
+                            &lt;span class="team-badge"&gt;${player.team}&lt;/span&gt;
+                            &lt;span class="player-name"&gt;${player.name}&lt;/span&gt;
+                            ${player.isBest ? '&lt;span class="tag-best ms-2"&gt;最佳&lt;/span&gt;' : ''}
+                            &lt;div class="game-info"&gt;
+                                ${player.date} ${player.opponent ? 'vs ' + player.opponent : ''}
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class="col-md-8"&gt;
+                            &lt;table class="stat-table"&gt;
+                                &lt;tr class="header-row"&gt;
+                                    &lt;td&gt;时间&lt;/td&gt;
+                                    &lt;td&gt;得分&lt;/td&gt;
+                                    &lt;td&gt;篮板&lt;/td&gt;
+                                    &lt;td&gt;助攻&lt;/td&gt;
+                                    &lt;td&gt;抢断&lt;/td&gt;
+                                    &lt;td&gt;盖帽&lt;/td&gt;
+                                    &lt;td&gt;胜负&lt;/td&gt;
+                                    &lt;td&gt;投篮&lt;/td&gt;
+                                    &lt;td&gt;三分&lt;/td&gt;
+                                    &lt;td&gt;罚球&lt;/td&gt;
+                                    &lt;td&gt;TS%&lt;/td&gt;
+                                &lt;/tr&gt;
+                                &lt;tr&gt;
+                                    &lt;td&gt;${player.mins}&lt;/td&gt;
+                                    &lt;td style="font-weight: bold; color: #f97316;"&gt;${player.pts}&lt;/td&gt;
+                                    &lt;td&gt;${player.reb}&lt;/td&gt;
+                                    &lt;td&gt;${player.ast}&lt;/td&gt;
+                                    &lt;td&gt;${player.stl}&lt;/td&gt;
+                                    &lt;td&gt;${player.blk}&lt;/td&gt;
+                                    &lt;td&gt;${player.score &gt; 0 ? '+' : ''}${player.score}&lt;/td&gt;
+                                    &lt;td&gt;${player.fg}&lt;/td&gt;
+                                    &lt;td&gt;${player.fg3}&lt;/td&gt;
+                                    &lt;td&gt;${player.ft}&lt;/td&gt;
+                                    &lt;td&gt;${player.ts}&lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;div class="advanced-stats"&gt;
+                                &lt;div class="stat-box"&gt;
+                                    &lt;div class="stat-label"&gt;gBPM&lt;/div&gt;
+                                    &lt;div class="stat-value" style="color: #10b981;"&gt;${player.gBPM}&lt;/div&gt;
+                                &lt;/div&gt;
+                                &lt;div class="stat-box"&gt;
+                                    &lt;div class="stat-label"&gt;Score&lt;/div&gt;
+                                    &lt;div class="stat-value" style="color: #f97316;"&gt;${player.score}&lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            `;
+        }
+
+        // 渲染每日球员
+        function renderDailyPlayers(players) {
+            const container = document.getElementById('dailyPlayersList');
+            container.innerHTML = players.map(player =&gt; renderPlayerCard(player)).join('');
+        }
+
+        // 渲染红黑榜
+        function renderSeasonBest(players, page = 1) {
+            const container = document.getElementById('seasonBestList');
+            const perPage = 20;
+            const start = (page - 1) * perPage;
+            const end = start + perPage;
+            const pagePlayers = players.slice(start, end);
+            container.innerHTML = pagePlayers.map(player =&gt; renderPlayerCard(player, true)).join('');
+            
+            const totalPages = Math.ceil(players.length / perPage);
+            const pageNav = document.getElementById('pageNav');
+            let pageHtml = '';
+            for (let i = 1; i &lt;= Math.min(totalPages, 5); i++) {
+                pageHtml += `&lt;button class="${i === page ? 'active' : ''}" onclick="renderSeasonBest(mockSeasonBest, ${i})"&gt;${i}&lt;/button&gt;`;
+            }
+            if (totalPages &gt; 5) {
+                pageHtml += '&lt;span style="padding:0 8px"&gt;...&lt;/span&gt;';
+                pageHtml += `&lt;button onclick="renderSeasonBest(mockSeasonBest, ${totalPages})"&gt;${totalPages}&lt;/button&gt;`;
+            }
+            pageNav.innerHTML = pageHtml;
+        }
+
+        // Tab 切换
+        document.querySelectorAll('[data-tab]').forEach(btn =&gt; {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('[data-tab]').forEach(b =&gt; b.classList.remove('active'));
+                this.classList.add('active');
+
+                document.querySelectorAll('.tab-content').forEach(el =&gt; el.style.display = 'none');
+
+                const tab = this.dataset.tab;
+                if (tab === 'daily') {
+                    document.getElementById('dailyTab').style.display = 'block';
+                    renderDailyPlayers(mockDailyPlayers);
+                } else if (tab === 'season-best') {
+                    document.getElementById('seasonBestTab').style.display = 'block';
+                    renderSeasonBest(mockSeasonBest);
+                } else if (tab === 'playoff-best') {
+                    document.getElementById('playoffBestTab').style.display = 'block';
+                }
+            });
+        });
+
+        // 搜索
+        document.getElementById('searchInput').addEventListener('input', function() {
+            const query = this.value.toLowerCase();
+            if (!query) {
+                renderDailyPlayers(mockDailyPlayers);
+                return;
+            }
+            const filtered = mockDailyPlayers.filter(p =&gt; 
+                p.name.toLowerCase().includes(query) || 
+                p.team.toLowerCase().includes(query)
+            );
+            renderDailyPlayers(filtered);
+        });
+
+        // 初始渲染
+        renderDailyPlayers(mockDailyPlayers);
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;

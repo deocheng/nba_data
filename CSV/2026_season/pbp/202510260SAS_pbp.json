@@ -1,0 +1,5326 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "Brooklyn",
+      "",
+      "Score",
+      "",
+      "San Antonio"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "12:00.0",
+      "Violation by Team (jump ball)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:38.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "H. Barnes misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:36.0",
+      "Defensive rebound by Team",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:18.0",
+      "C. Thomas makes 2-pt jump shot from 17 ft",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "2-2",
+      "+2",
+      "S. Castle makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:51.0",
+      "M. Porter misses 3-pt jump shot from 23 ft",
+      "",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "V. Wembanyama misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Offensive rebound by H. Barnes"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "V. Wembanyama misses 2-pt jump shot from 2 ft"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Offensive rebound by H. Barnes"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Turnover by H. Barnes (bad pass; steal by M. Porter)"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:28.0",
+      "C. Thomas makes 2-pt jump shot from 1 ft (assist by M. Porter)",
+      "+2",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:28.0",
+      "Shooting foul by V. Wembanyama (drawn by C. Thomas)",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:28.0",
+      "C. Thomas makes free throw 1 of 1",
+      "+1",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "5-2",
+      "",
+      "Turnover by S. Castle (bad pass; steal by M. Porter)"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "10:12.0",
+      "N. Claxton makes 2-pt dunk from 1 ft",
+      "+2",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "Turnover by H. Barnes (bad pass; steal by B. Saraf)"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:52.0",
+      "B. Saraf misses 3-pt jump shot from 22 ft (block by V. Wembanyama)",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "Turnover by S. Castle (bad pass; steal by N. Claxton)"
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:31.0",
+      "Shooting foul by J. Champagnie (drawn by N. Claxton)",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:31.0",
+      "N. Claxton makes free throw 1 of 2",
+      "+1",
+      "8-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:31.0",
+      "N. Claxton makes free throw 2 of 2",
+      "+1",
+      "9-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "9-2",
+      "",
+      "H. Barnes misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "9:12.0",
+      "Defensive rebound by M. Porter",
+      "",
+      "9-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "9:04.0",
+      "N. Claxton misses 2-pt jump shot from 2 ft (block by V. Wembanyama)",
+      "",
+      "9-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "9:01.0",
+      "",
+      "",
+      "9-2",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "9-5",
+      "+3",
+      "D. Vassell makes 3-pt jump shot from 25 ft (assist by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:32.0",
+      "C. Thomas misses 2-pt jump shot from 14 ft",
+      "",
+      "9-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "9-5",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "9-5",
+      "",
+      "S. Castle misses 2-pt layup from 9 ft"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:22.0",
+      "Defensive rebound by M. Porter",
+      "",
+      "9-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:03.0",
+      "C. Thomas makes 2-pt jump shot from 11 ft (assist by B. Saraf)",
+      "+2",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "11-5",
+      "",
+      "San Antonio full timeout"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "11-5",
+      "",
+      "D. Harper enters the game for S. Castle"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "11-5",
+      "",
+      "Turnover by (5 sec)"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:53.0",
+      "C. Thomas misses 3-pt jump shot from 25 ft",
+      "",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:49.0",
+      "",
+      "",
+      "11-5",
+      "",
+      "Defensive rebound by D. Harper"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "11-5",
+      "",
+      "D. Vassell misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "11-5",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:37.0",
+      "Loose ball foul by N. Claxton (drawn by V. Wembanyama)",
+      "",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "11-7",
+      "+2",
+      "H. Barnes makes 2-pt dunk from 1 ft (assist by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:11.0",
+      "M. Porter makes 3-pt jump shot from 26 ft (assist by T. Mann)",
+      "+3",
+      "14-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "14-9",
+      "+2",
+      "D. Harper makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "14-9",
+      "",
+      "Shooting foul by B. Saraf (drawn by D. Harper)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "14-10",
+      "+1",
+      "D. Harper makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:48.0",
+      "Personal foul by D. Vassell (drawn by M. Porter)",
+      "",
+      "14-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:39.0",
+      "B. Saraf misses 3-pt jump shot from 23 ft",
+      "",
+      "14-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "14-10",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "14-10",
+      "",
+      "Personal foul by M. Porter (drawn by D. Vassell)"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "14-10",
+      "",
+      "B. Biyombo enters the game for H. Barnes"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "14-10",
+      "",
+      "K. Johnson enters the game for V. Wembanyama"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "14-12",
+      "+2",
+      "D. Vassell makes 2-pt jump shot from 14 ft (assist by D. Harper)"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:55.0",
+      "C. Thomas misses 3-pt jump shot from 25 ft",
+      "",
+      "14-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:55.0",
+      "Offensive rebound by Team",
+      "",
+      "14-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:55.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "14-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "14-14",
+      "+2",
+      "K. Johnson makes 2-pt jump shot from 8 ft (assist by D. Harper)"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "14-14",
+      "",
+      "Personal foul by B. Saraf (drawn by K. Johnson)"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "5:31.0",
+      "E. Dёmin enters the game for N. Claxton",
+      "",
+      "14-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "5:31.0",
+      "D. Sharpe enters the game for T. Mann",
+      "",
+      "14-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:31.0",
+      "Z. Williams enters the game for B. Saraf",
+      "",
+      "14-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "14-15",
+      "+1",
+      "K. Johnson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:06.0",
+      "Z. Williams misses 3-pt jump shot from 24 ft",
+      "",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:05.0",
+      "Offensive rebound by Team",
+      "",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "5:00.0",
+      "C. Thomas makes 2-pt jump shot from 18 ft (assist by D. Sharpe)",
+      "+2",
+      "16-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "16-18",
+      "+3",
+      "J. Champagnie makes 3-pt jump shot from 24 ft (assist by D. Harper)"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:35.0",
+      "C. Thomas makes 3-pt jump shot from 25 ft",
+      "+3",
+      "19-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:15.0",
+      "",
+      "",
+      "19-18",
+      "",
+      "D. Vassell misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:15.0",
+      "",
+      "",
+      "19-18",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:15.0",
+      "N. Clowney enters the game for M. Porter",
+      "",
+      "19-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:15.0",
+      "",
+      "",
+      "19-18",
+      "",
+      "S. Castle enters the game for J. Champagnie"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "19-21",
+      "+3",
+      "K. Johnson makes 3-pt jump shot from 24 ft (assist by D. Harper)"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:48.0",
+      "C. Thomas misses 2-pt jump shot from 16 ft",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:47.0",
+      "Offensive rebound by D. Sharpe",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:42.0",
+      "D. Sharpe makes 2-pt hook shot from 4 ft",
+      "+2",
+      "21-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "21-21",
+      "",
+      "K. Johnson misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:29.0",
+      "Defensive rebound by C. Thomas",
+      "",
+      "21-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:26.0",
+      "E. Dёmin misses 3-pt jump shot from 25 ft",
+      "",
+      "21-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "21-21",
+      "",
+      "Defensive rebound by D. Harper"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "21-21",
+      "",
+      "Shooting foul by Z. Williams (drawn by K. Johnson)"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "21-22",
+      "+1",
+      "K. Johnson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "21-22",
+      "",
+      "C. Bryant enters the game for B. Biyombo"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "21-22",
+      "",
+      "V. Wembanyama enters the game for D. Vassell"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:18.0",
+      "Brooklyn full timeout",
+      "",
+      "21-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "21-23",
+      "+1",
+      "K. Johnson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "3:08.0",
+      "Personal foul by C. Bryant (drawn by N. Clowney)",
+      "",
+      "21-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:58.0",
+      "Offensive foul by D. Sharpe (drawn by S. Castle)",
+      "",
+      "21-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "2:58.0",
+      "Turnover by D. Sharpe (offensive foul)",
+      "",
+      "21-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "21-26",
+      "+3",
+      "K. Johnson makes 3-pt jump shot from 24 ft (assist by D. Harper)"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:18.0",
+      "Z. Williams misses 3-pt jump shot from 23 ft",
+      "",
+      "21-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "21-26",
+      "",
+      "Defensive rebound by K. Johnson"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "21-26",
+      "",
+      "Personal foul by Z. Williams (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "21-27",
+      "+1",
+      "V. Wembanyama makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "2:07.0",
+      "T. Martin enters the game for C. Thomas",
+      "",
+      "21-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "21-28",
+      "+1",
+      "V. Wembanyama makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "1:46.0",
+      "E. Dёmin misses 3-pt jump shot from 25 ft",
+      "",
+      "21-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "21-28",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "21-28",
+      "",
+      "Shooting foul by E. Dёmin (drawn by C. Bryant)"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "21-29",
+      "+1",
+      "C. Bryant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "21-30",
+      "+1",
+      "C. Bryant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:17.0",
+      "E. Dёmin misses 3-pt jump shot from 25 ft",
+      "",
+      "21-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "21-30",
+      "",
+      "Defensive rebound by S. Castle"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "21-30",
+      "",
+      "Turnover by C. Bryant (step out of bounds)"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "21-30",
+      "",
+      "J. McLaughlin enters the game for D. Harper"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:02.0",
+      "N. Clowney misses 3-pt jump shot from 26 ft",
+      "",
+      "21-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:59.0",
+      "Offensive rebound by Z. Williams",
+      "",
+      "21-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:59.0",
+      "Shooting foul by J. McLaughlin (drawn by Z. Williams)",
+      "",
+      "21-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:59.0",
+      "Z. Williams makes free throw 1 of 2",
+      "+1",
+      "22-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:59.0",
+      "Z. Williams makes free throw 2 of 2",
+      "+1",
+      "23-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "23-30",
+      "",
+      "Turnover by S. Castle (bad pass; steal by D. Sharpe)"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:31.0",
+      "Turnover by T. Martin (bad pass; steal by V. Wembanyama)",
+      "",
+      "23-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "23-30",
+      "",
+      "Personal foul by T. Martin (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "23-31",
+      "+1",
+      "V. Wembanyama makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "23-31",
+      "",
+      "V. Wembanyama misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:25.0",
+      "Defensive rebound by N. Clowney",
+      "",
+      "23-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "0:10.0",
+      "Brooklyn full timeout",
+      "",
+      "23-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "0:10.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "23-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "0:10.0",
+      "M. Porter enters the game for E. Dёmin",
+      "",
+      "23-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "0:10.0",
+      "C. Thomas enters the game for Z. Williams",
+      "",
+      "23-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "0:10.0",
+      "Away from play foul by C. Bryant (drawn by N. Clowney)",
+      "",
+      "23-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "0:10.0",
+      "N. Clowney makes free throw 1 of 1",
+      "+1",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "0:08.0",
+      "Offensive foul by D. Sharpe (drawn by S. Castle)",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "0:08.0",
+      "Turnover by D. Sharpe (offensive foul)",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "0:08.0",
+      "T. Mann enters the game for M. Porter",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "0:08.0",
+      "Z. Williams enters the game for C. Thomas",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "J. Champagnie enters the game for C. Bryant"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "K. Johnson misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "Time",
+      "Brooklyn",
+      "",
+      "Score",
+      "",
+      "San Antonio"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "11:35.0",
+      "D. Sharpe misses 3-pt jump shot from 25 ft",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "11:32.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "Defensive rebound by S. Castle"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "11:19.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "J. McLaughlin misses 2-pt layup from 8 ft"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "11:15.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "Offensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "11:15.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "V. Wembanyama misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "11:14.0",
+      "Defensive rebound by B. Saraf",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "11:10.0",
+      "D. Sharpe makes 2-pt dunk from 1 ft (assist by B. Saraf)",
+      "+2",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Def 3 sec tech foul by Team"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "J. Champagnie misses technical free throw"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Personal foul by D. Sharpe (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "10:45.0",
+      "N. Claxton enters the game for D. Sharpe",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "26-33",
+      "+2",
+      "V. Wembanyama makes 2-pt layup from 7 ft"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "10:13.0",
+      "N. Claxton makes 2-pt jump shot from 10 ft (assist by B. Saraf)",
+      "+2",
+      "28-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "28-33",
+      "",
+      "V. Wembanyama misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "9:52.0",
+      "Defensive rebound by M. Porter",
+      "",
+      "28-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "9:43.0",
+      "M. Porter misses 3-pt jump shot from 25 ft",
+      "",
+      "28-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "28-33",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "28-33",
+      "",
+      "Shooting foul by B. Saraf (drawn by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "28-34",
+      "+1",
+      "J. Champagnie makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "28-35",
+      "+1",
+      "J. Champagnie makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "9:23.0",
+      "M. Porter makes 3-pt jump shot from 26 ft (assist by N. Claxton)",
+      "+3",
+      "31-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "31-35",
+      "",
+      "Personal foul by M. Porter (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "31-35",
+      "",
+      "H. Barnes misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "8:57.0",
+      "Defensive rebound by Team",
+      "",
+      "31-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "31-35",
+      "",
+      "Loose ball foul by V. Wembanyama (drawn by N. Claxton)"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "31-35",
+      "",
+      "B. Biyombo enters the game for J. McLaughlin"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "31-35",
+      "",
+      "D. Harper enters the game for V. Wembanyama"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "8:42.0",
+      "M. Porter misses 2-pt jump shot from 15 ft",
+      "",
+      "31-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "31-35",
+      "",
+      "Defensive rebound by D. Harper"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "31-38",
+      "+3",
+      "J. Champagnie makes 3-pt jump shot from 24 ft (assist by S. Castle)"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "8:13.0",
+      "B. Saraf misses 2-pt jump shot from 11 ft",
+      "",
+      "31-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "31-38",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "31-38",
+      "",
+      "D. Harper misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "8:07.0",
+      "Defensive rebound by Team",
+      "",
+      "31-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "7:59.0",
+      "Personal foul by S. Castle (drawn by M. Porter)",
+      "",
+      "31-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "7:53.0",
+      "T. Martin misses 3-pt jump shot from 25 ft",
+      "",
+      "31-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "31-38",
+      "",
+      "Defensive rebound by S. Castle"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "31-40",
+      "+2",
+      "S. Castle makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "7:31.0",
+      "M. Porter makes 3-pt jump shot from 25 ft (assist by B. Saraf)",
+      "+3",
+      "34-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "7:16.0",
+      "",
+      "",
+      "34-42",
+      "+2",
+      "S. Castle makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "7:16.0",
+      "",
+      "",
+      "34-42",
+      "",
+      "Shooting foul by Z. Williams (drawn by S. Castle)"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "7:16.0",
+      "E. Dёmin enters the game for T. Martin",
+      "",
+      "34-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "7:16.0",
+      "T. Mann enters the game for B. Saraf",
+      "",
+      "34-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "7:16.0",
+      "C. Thomas enters the game for Z. Williams",
+      "",
+      "34-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "7:16.0",
+      "",
+      "",
+      "34-42",
+      "",
+      "D. Vassell enters the game for J. Champagnie"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "7:16.0",
+      "",
+      "",
+      "34-43",
+      "+1",
+      "S. Castle makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "7:02.0",
+      "M. Porter misses 2-pt jump shot from 6 ft",
+      "",
+      "34-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "34-43",
+      "",
+      "Defensive rebound by S. Castle"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "34-46",
+      "+3",
+      "D. Vassell makes 3-pt jump shot from 23 ft (assist by D. Harper)"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "6:56.0",
+      "Brooklyn full timeout",
+      "",
+      "34-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "6:56.0",
+      "N. Clowney enters the game for M. Porter",
+      "",
+      "34-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "6:51.0",
+      "Personal foul by S. Castle (drawn by E. Dёmin)",
+      "",
+      "34-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "34-46",
+      "",
+      "K. Johnson enters the game for S. Castle"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "6:26.0",
+      "C. Thomas misses 2-pt jump shot from 19 ft",
+      "",
+      "34-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "6:17.0",
+      "Offensive rebound by N. Claxton",
+      "",
+      "34-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "6:17.0",
+      "N. Claxton makes 2-pt dunk at rim",
+      "+2",
+      "36-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "36-46",
+      "",
+      "D. Vassell misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "36-46",
+      "",
+      "Offensive rebound by B. Biyombo"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "36-46",
+      "",
+      "H. Barnes misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "36-46",
+      "",
+      "Offensive rebound by K. Johnson"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "36-48",
+      "+2",
+      "D. Harper makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "5:25.0",
+      "C. Thomas makes 3-pt jump shot from 25 ft",
+      "+3",
+      "39-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "5:25.0",
+      "Flagrant foul type 1 by B. Biyombo (drawn by C. Thomas)",
+      "",
+      "39-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "5:25.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "39-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "5:25.0",
+      "C. Thomas makes flagrant free throw 1 of 1",
+      "+1",
+      "40-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "5:13.0",
+      "C. Thomas misses 3-pt jump shot from 25 ft",
+      "",
+      "40-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "5:09.0",
+      "Offensive rebound by E. Dёmin",
+      "",
+      "40-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "5:07.0",
+      "N. Clowney misses 3-pt jump shot from 23 ft",
+      "",
+      "40-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "40-48",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "40-48",
+      "",
+      "J. Champagnie enters the game for H. Barnes"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "40-48",
+      "",
+      "V. Wembanyama enters the game for B. Biyombo"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "40-51",
+      "+3",
+      "V. Wembanyama makes 3-pt jump shot from 25 ft (assist by D. Vassell)"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "4:43.0",
+      "Brooklyn full timeout",
+      "",
+      "40-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "4:29.0",
+      "Personal foul by D. Vassell (drawn by C. Thomas)",
+      "",
+      "40-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "4:29.0",
+      "C. Thomas makes free throw 1 of 2",
+      "+1",
+      "41-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "4:29.0",
+      "C. Thomas makes free throw 2 of 2",
+      "+1",
+      "42-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "42-51",
+      "",
+      "Turnover by D. Vassell (bad pass; steal by T. Mann)"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "4:22.0",
+      "Personal foul by D. Harper (drawn by C. Thomas)",
+      "",
+      "42-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "4:22.0",
+      "C. Thomas makes free throw 1 of 2",
+      "+1",
+      "43-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "4:22.0",
+      "C. Thomas makes free throw 2 of 2",
+      "+1",
+      "44-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "44-51",
+      "",
+      "V. Wembanyama misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "4:04.0",
+      "Defensive rebound by E. Dёmin",
+      "",
+      "44-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "3:53.0",
+      "T. Mann misses 2-pt jump shot from 13 ft",
+      "",
+      "44-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "44-51",
+      "",
+      "Defensive rebound by D. Harper"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "44-53",
+      "+2",
+      "V. Wembanyama makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "3:36.0",
+      "C. Thomas misses 3-pt jump shot from 26 ft",
+      "",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "Defensive rebound by D. Harper"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "Personal foul by N. Claxton (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "44-54",
+      "+1",
+      "V. Wembanyama makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "44-54",
+      "",
+      "V. Wembanyama misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "3:25.0",
+      "Defensive rebound by N. Claxton",
+      "",
+      "44-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "3:03.0",
+      "N. Claxton misses 3-pt jump shot from 25 ft",
+      "",
+      "44-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "44-54",
+      "",
+      "Defensive rebound by D. Vassell"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "3:02.0",
+      "Loose ball foul by N. Clowney (drawn by D. Harper)",
+      "",
+      "44-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "3:02.0",
+      "Brooklyn full timeout",
+      "",
+      "44-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "3:02.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "44-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "44-55",
+      "+1",
+      "D. Harper makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "3:02.0",
+      "M. Porter enters the game for N. Clowney",
+      "",
+      "44-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "44-56",
+      "+1",
+      "D. Harper makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "2:40.0",
+      "Turnover by C. Thomas (bad pass; steal by V. Wembanyama)",
+      "",
+      "44-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "44-58",
+      "+2",
+      "D. Harper makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "2:23.0",
+      "E. Dёmin misses 3-pt jump shot from 26 ft",
+      "",
+      "44-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "44-58",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "2:15.0",
+      "",
+      "",
+      "44-60",
+      "+2",
+      "V. Wembanyama makes 2-pt dunk from 1 ft (assist by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "1:59.0",
+      "M. Porter makes 2-pt dunk from 1 ft",
+      "+2",
+      "46-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "1:36.0",
+      "",
+      "",
+      "46-60",
+      "",
+      "Personal foul by N. Claxton (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "1:36.0",
+      "",
+      "",
+      "46-61",
+      "+1",
+      "V. Wembanyama makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "1:36.0",
+      "",
+      "",
+      "46-62",
+      "+1",
+      "V. Wembanyama makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "1:30.0",
+      "Turnover by E. Dёmin (lost ball; steal by D. Harper)",
+      "",
+      "46-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "46-64",
+      "+2",
+      "D. Harper makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "1:09.0",
+      "Shooting foul by J. Champagnie (drawn by C. Thomas)",
+      "",
+      "46-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "1:09.0",
+      "C. Thomas makes free throw 1 of 2",
+      "+1",
+      "47-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "1:09.0",
+      "N. Clowney enters the game for N. Claxton",
+      "",
+      "47-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "1:09.0",
+      "T. Martin enters the game for E. Dёmin",
+      "",
+      "47-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "1:09.0",
+      "C. Thomas makes free throw 2 of 2",
+      "+1",
+      "48-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "1:09.0",
+      "J. Wilson enters the game for C. Thomas",
+      "",
+      "48-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "J. Champagnie misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "Offensive rebound by K. Johnson"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "48-66",
+      "+2",
+      "K. Johnson makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "0:37.0",
+      "N. Clowney misses 2-pt layup from 4 ft (block by V. Wembanyama)",
+      "",
+      "48-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "0:31.0",
+      "Offensive rebound by T. Mann",
+      "",
+      "48-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "0:31.0",
+      "T. Mann misses 2-pt layup at rim (block by V. Wembanyama)",
+      "",
+      "48-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "0:31.0",
+      "Offensive rebound by T. Martin",
+      "",
+      "48-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "0:27.0",
+      "T. Martin misses 3-pt jump shot from 23 ft",
+      "",
+      "48-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "48-66",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "48-69",
+      "+3",
+      "V. Wembanyama makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "0:01.0",
+      "M. Porter misses 3-pt jump shot from 26 ft",
+      "",
+      "48-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "0:01.0",
+      "Offensive rebound by Team",
+      "",
+      "48-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "Time",
+      "Brooklyn",
+      "",
+      "Score",
+      "",
+      "San Antonio"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "11:41.0",
+      "M. Porter makes 2-pt jump shot from 14 ft (assist by B. Saraf)",
+      "+2",
+      "50-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "50-71",
+      "+2",
+      "V. Wembanyama makes 2-pt dunk from 1 ft (assist by H. Barnes)"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "11:16.0",
+      "Turnover by J. Wilson (out of bounds lost ball)",
+      "",
+      "50-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "50-71",
+      "",
+      "Personal foul by N. Claxton (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "50-71",
+      "",
+      "D. Vassell misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "50-71",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "11:00.0",
+      "Loose ball foul by J. Wilson (drawn by V. Wembanyama)",
+      "",
+      "50-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "10:47.0",
+      "",
+      "",
+      "50-71",
+      "",
+      "V. Wembanyama misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "10:44.0",
+      "Defensive rebound by N. Claxton",
+      "",
+      "50-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "10:34.0",
+      "B. Saraf misses 2-pt layup from 3 ft",
+      "",
+      "50-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "10:30.0",
+      "Offensive rebound by N. Claxton",
+      "",
+      "50-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "10:30.0",
+      "N. Claxton makes 2-pt layup at rim",
+      "+2",
+      "52-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "52-71",
+      "",
+      "Personal foul by T. Mann (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "10:10.0",
+      "",
+      "",
+      "52-73",
+      "+2",
+      "V. Wembanyama makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "9:50.0",
+      "M. Porter misses 3-pt jump shot from 26 ft",
+      "",
+      "52-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "52-73",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "9:40.0",
+      "",
+      "",
+      "52-76",
+      "+3",
+      "D. Vassell makes 3-pt jump shot from 23 ft (assist by S. Castle)"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "9:33.0",
+      "T. Mann misses 3-pt jump shot from 26 ft",
+      "",
+      "52-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "52-76",
+      "",
+      "Defensive rebound by D. Vassell"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "52-76",
+      "",
+      "D. Vassell misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "52-76",
+      "",
+      "Offensive rebound by S. Castle"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "52-78",
+      "+2",
+      "S. Castle makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "9:08.0",
+      "N. Claxton misses 2-pt jump shot from 11 ft",
+      "",
+      "52-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "9:07.0",
+      "Offensive rebound by N. Claxton",
+      "",
+      "52-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "9:05.0",
+      "T. Mann makes 3-pt jump shot from 25 ft (assist by N. Claxton)",
+      "+3",
+      "55-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "55-81",
+      "+3",
+      "J. Champagnie makes 3-pt jump shot from 23 ft (assist by S. Castle)"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "8:32.0",
+      "Personal foul by S. Castle (drawn by N. Claxton)",
+      "",
+      "55-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "8:32.0",
+      "D. Sharpe enters the game for N. Claxton",
+      "",
+      "55-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "8:32.0",
+      "C. Thomas enters the game for B. Saraf",
+      "",
+      "55-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "8:32.0",
+      "Z. Williams enters the game for J. Wilson",
+      "",
+      "55-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "8:19.0",
+      "C. Thomas misses 2-pt jump shot from 10 ft",
+      "",
+      "55-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "55-81",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "55-81",
+      "",
+      "Turnover by V. Wembanyama (lost ball; steal by D. Sharpe)"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "8:05.0",
+      "Shooting foul by H. Barnes (drawn by M. Porter)",
+      "",
+      "55-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "8:05.0",
+      "M. Porter makes free throw 1 of 3",
+      "+1",
+      "56-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "8:05.0",
+      "M. Porter misses free throw 2 of 3",
+      "",
+      "56-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "8:05.0",
+      "Offensive rebound by Team",
+      "",
+      "56-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "8:05.0",
+      "M. Porter makes free throw 3 of 3",
+      "+1",
+      "57-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "57-81",
+      "",
+      "V. Wembanyama misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "7:39.0",
+      "Defensive rebound by M. Porter",
+      "",
+      "57-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "7:36.0",
+      "Z. Williams makes 3-pt jump shot from 26 ft (assist by M. Porter)",
+      "+3",
+      "60-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "60-81",
+      "",
+      "San Antonio full timeout"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "60-81",
+      "",
+      "B. Biyombo enters the game for H. Barnes"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "60-81",
+      "",
+      "K. Johnson enters the game for V. Wembanyama"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "60-81",
+      "",
+      "Personal foul by Z. Williams (drawn by B. Biyombo)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "60-81",
+      "",
+      "Turnover by S. Castle (bad pass; steal by Z. Williams)"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "7:02.0",
+      "Turnover by D. Sharpe (bad pass)",
+      "",
+      "60-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "60-81",
+      "",
+      "K. Johnson misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "6:43.0",
+      "Defensive rebound by C. Thomas",
+      "",
+      "60-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "6:34.0",
+      "Z. Williams misses 3-pt jump shot from 26 ft",
+      "",
+      "60-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "6:34.0",
+      "Offensive rebound by Team",
+      "",
+      "60-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "6:28.0",
+      "Personal foul by K. Johnson (drawn by D. Sharpe)",
+      "",
+      "60-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "6:17.0",
+      "T. Mann makes 2-pt layup from 2 ft",
+      "+2",
+      "62-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "6:00.0",
+      "",
+      "",
+      "62-81",
+      "",
+      "D. Vassell misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "5:58.0",
+      "Defensive rebound by D. Sharpe",
+      "",
+      "62-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "5:50.0",
+      "C. Thomas misses 3-pt jump shot from 25 ft",
+      "",
+      "62-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "5:50.0",
+      "Offensive rebound by Team",
+      "",
+      "62-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "62-81",
+      "",
+      "D. Harper enters the game for J. Champagnie"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "5:45.0",
+      "D. Sharpe makes 2-pt layup from 2 ft (assist by M. Porter)",
+      "+2",
+      "64-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "64-81",
+      "",
+      "Shooting foul by Z. Williams (drawn by S. Castle)"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "64-81",
+      "",
+      "S. Castle misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "64-81",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "5:37.0",
+      "N. Clowney enters the game for Z. Williams",
+      "",
+      "64-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "64-82",
+      "+1",
+      "S. Castle makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "5:23.0",
+      "Shooting foul by B. Biyombo (drawn by C. Thomas)",
+      "",
+      "64-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "5:23.0",
+      "C. Thomas makes free throw 1 of 2",
+      "+1",
+      "65-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "5:23.0",
+      "C. Thomas makes free throw 2 of 2",
+      "+1",
+      "66-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "4:59.0",
+      "",
+      "",
+      "66-82",
+      "",
+      "S. Castle misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "4:57.0",
+      "Defensive rebound by M. Porter",
+      "",
+      "66-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "4:45.0",
+      "C. Thomas makes 2-pt layup from 1 ft",
+      "+2",
+      "68-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "68-82",
+      "",
+      "San Antonio full timeout"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "68-82",
+      "",
+      "Turnover by D. Vassell (bad pass; steal by T. Mann)"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "4:18.0",
+      "C. Thomas makes 3-pt jump shot from 26 ft (assist by M. Porter)",
+      "+3",
+      "71-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "3:49.0",
+      "",
+      "",
+      "71-82",
+      "",
+      "S. Castle misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "3:47.0",
+      "Defensive rebound by N. Clowney",
+      "",
+      "71-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "3:40.0",
+      "Turnover by C. Thomas (lost ball; steal by K. Johnson)",
+      "",
+      "71-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "71-82",
+      "",
+      "K. Johnson misses 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "3:18.0",
+      "Defensive rebound by N. Clowney",
+      "",
+      "71-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "3:10.0",
+      "Shooting foul by D. Harper (drawn by C. Thomas)",
+      "",
+      "71-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "3:10.0",
+      "C. Thomas makes free throw 1 of 2",
+      "+1",
+      "72-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "72-82",
+      "",
+      "J. Champagnie enters the game for B. Biyombo"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "72-82",
+      "",
+      "J. McLaughlin enters the game for S. Castle"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "72-82",
+      "",
+      "V. Wembanyama enters the game for D. Vassell"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "3:10.0",
+      "C. Thomas makes free throw 2 of 2",
+      "+1",
+      "73-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "2:58.0",
+      "",
+      "",
+      "73-82",
+      "",
+      "D. Harper misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "2:56.0",
+      "Defensive rebound by T. Mann",
+      "",
+      "73-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "2:44.0",
+      "C. Thomas misses 2-pt layup from 2 ft (block by V. Wembanyama)",
+      "",
+      "73-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "2:40.0",
+      "Offensive rebound by D. Sharpe",
+      "",
+      "73-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "2:40.0",
+      "Turnover by D. Sharpe (bad pass; steal by D. Harper)",
+      "",
+      "73-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "73-84",
+      "+2",
+      "J. Champagnie makes 2-pt layup from 1 ft (assist by D. Harper)"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "2:21.0",
+      "M. Porter misses 2-pt jump shot from 17 ft",
+      "",
+      "73-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "73-84",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "2:18.0",
+      "E. Dёmin enters the game for T. Mann",
+      "",
+      "73-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "2:18.0",
+      "J. Wilson enters the game for M. Porter",
+      "",
+      "73-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "2:03.0",
+      "",
+      "",
+      "73-84",
+      "",
+      "D. Harper misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "2:01.0",
+      "Defensive rebound by E. Dёmin",
+      "",
+      "73-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "1:59.0",
+      "N. Clowney makes 3-pt jump shot from 26 ft (assist by E. Dёmin)",
+      "+3",
+      "76-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "1:37.0",
+      "",
+      "",
+      "76-84",
+      "",
+      "V. Wembanyama misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "1:35.0",
+      "Defensive rebound by J. Wilson",
+      "",
+      "76-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "1:21.0",
+      "N. Clowney misses 3-pt jump shot from 27 ft",
+      "",
+      "76-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "76-84",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "1:17.0",
+      "Loose ball foul by D. Sharpe (drawn by K. Johnson)",
+      "",
+      "76-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "76-85",
+      "+1",
+      "K. Johnson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "76-86",
+      "+1",
+      "K. Johnson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "1:02.0",
+      "Personal foul by D. Harper (drawn by C. Thomas)",
+      "",
+      "76-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "1:02.0",
+      "C. Thomas makes free throw 1 of 2",
+      "+1",
+      "77-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "1:02.0",
+      "C. Thomas makes free throw 2 of 2",
+      "+1",
+      "78-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "78-86",
+      "",
+      "Turnover by V. Wembanyama (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "0:30.0",
+      "J. Wilson misses 3-pt jump shot from 26 ft",
+      "",
+      "78-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "78-86",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "78-88",
+      "+2",
+      "D. Harper makes 2-pt layup from 2 ft (assist by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "0:06.0",
+      "C. Thomas makes 3-pt jump shot from 28 ft (assist by J. Wilson)",
+      "+3",
+      "81-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "81-88",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "81-88",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "Time",
+      "Brooklyn",
+      "",
+      "Score",
+      "",
+      "San Antonio"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "11:35.0",
+      "",
+      "",
+      "81-88",
+      "",
+      "S. Castle misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "11:33.0",
+      "Defensive rebound by T. Martin",
+      "",
+      "81-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "11:24.0",
+      "J. Wilson makes 3-pt jump shot from 27 ft (assist by T. Martin)",
+      "+3",
+      "84-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "84-88",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "10:40.0",
+      "N. Clowney makes 3-pt jump shot from 27 ft (assist by T. Martin)",
+      "+3",
+      "87-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "87-88",
+      "",
+      "San Antonio full timeout"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "87-88",
+      "",
+      "D. Vassell enters the game for C. Bryant"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "87-88",
+      "",
+      "Shooting foul by N. Clowney (drawn by S. Castle)"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "87-89",
+      "+1",
+      "S. Castle makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "87-89",
+      "",
+      "S. Castle misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "10:23.0",
+      "Defensive rebound by M. Porter",
+      "",
+      "87-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "10:08.0",
+      "J. Wilson makes 3-pt jump shot from 26 ft (assist by T. Martin)",
+      "+3",
+      "90-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "90-92",
+      "+3",
+      "D. Vassell makes 3-pt jump shot from 28 ft (assist by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "9:32.0",
+      "E. Dёmin makes 3-pt jump shot from 27 ft (assist by N. Clowney)",
+      "+3",
+      "93-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "93-92",
+      "",
+      "Offensive foul by S. Castle (drawn by E. Dёmin)"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "93-92",
+      "",
+      "Turnover by S. Castle (offensive foul)"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "9:07.0",
+      "T. Martin makes 2-pt dunk from 1 ft (assist by N. Clowney)",
+      "+2",
+      "95-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "8:55.0",
+      "",
+      "",
+      "95-92",
+      "",
+      "V. Wembanyama misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "8:51.0",
+      "Defensive rebound by E. Dёmin",
+      "",
+      "95-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "8:40.0",
+      "Shooting foul by J. Champagnie (drawn by T. Martin)",
+      "",
+      "95-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "95-92",
+      "",
+      "San Antonio full timeout"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "95-92",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "8:40.0",
+      "T. Martin makes free throw 1 of 2",
+      "+1",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "8:40.0",
+      "T. Martin makes free throw 2 of 2",
+      "+1",
+      "97-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "97-92",
+      "",
+      "H. Barnes misses 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "97-92",
+      "",
+      "Offensive rebound by S. Castle"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "97-92",
+      "",
+      "S. Castle misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "97-92",
+      "",
+      "Offensive rebound by H. Barnes"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "97-94",
+      "+2",
+      "H. Barnes makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "7:50.0",
+      "T. Martin misses 2-pt jump shot from 15 ft",
+      "",
+      "97-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "97-94",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "97-94",
+      "",
+      "Shooting foul by E. Dёmin (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "97-94",
+      "",
+      "V. Wembanyama misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "97-94",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "7:42.0",
+      "C. Thomas enters the game for T. Martin",
+      "",
+      "97-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "97-94",
+      "",
+      "D. Harper enters the game for S. Castle"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "97-94",
+      "",
+      "K. Johnson enters the game for J. Champagnie"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "97-95",
+      "+1",
+      "V. Wembanyama makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "7:29.0",
+      "Turnover by E. Dёmin (bad pass; steal by V. Wembanyama)",
+      "",
+      "97-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "7:27.0",
+      "",
+      "",
+      "97-97",
+      "+2",
+      "D. Harper makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "7:27.0",
+      "",
+      "",
+      "97-97",
+      "",
+      "Shooting foul by E. Dёmin (drawn by D. Harper)"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "7:27.0",
+      "",
+      "",
+      "97-98",
+      "+1",
+      "D. Harper makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "7:06.0",
+      "C. Thomas misses 2-pt jump shot from 12 ft",
+      "",
+      "97-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "97-98",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "97-100",
+      "+2",
+      "D. Harper makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "6:59.0",
+      "Brooklyn full timeout",
+      "",
+      "97-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "6:59.0",
+      "T. Mann enters the game for E. Dёmin",
+      "",
+      "97-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "6:43.0",
+      "N. Clowney misses 3-pt jump shot from 24 ft (block by V. Wembanyama)",
+      "",
+      "97-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "6:42.0",
+      "Offensive rebound by T. Mann",
+      "",
+      "97-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "6:42.0",
+      "Personal foul by D. Harper (drawn by T. Mann)",
+      "",
+      "97-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "6:42.0",
+      "N. Claxton enters the game for N. Clowney",
+      "",
+      "97-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "6:35.0",
+      "M. Porter misses 3-pt jump shot from 27 ft",
+      "",
+      "97-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "97-100",
+      "",
+      "Defensive rebound by K. Johnson"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "97-100",
+      "",
+      "H. Barnes misses 2-pt layup from 11 ft"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "97-100",
+      "",
+      "Offensive rebound by D. Harper"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "97-103",
+      "+3",
+      "V. Wembanyama makes 3-pt jump shot from 26 ft (assist by D. Harper)"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "5:53.0",
+      "J. Wilson makes 3-pt jump shot from 26 ft (assist by T. Mann)",
+      "+3",
+      "100-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "V. Wembanyama misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "5:32.0",
+      "Defensive rebound by T. Mann",
+      "",
+      "100-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "5:28.0",
+      "M. Porter misses 3-pt jump shot from 24 ft",
+      "",
+      "100-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "Personal foul by T. Mann (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "V. Wembanyama misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "Offensive rebound by K. Johnson"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "H. Barnes misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "4:54.0",
+      "Defensive rebound by T. Mann",
+      "",
+      "100-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "4:31.0",
+      "C. Thomas makes 3-pt jump shot from 24 ft",
+      "+3",
+      "103-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "103-105",
+      "+2",
+      "D. Harper makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "3:50.0",
+      "C. Thomas misses 2-pt jump shot from 7 ft",
+      "",
+      "103-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "103-105",
+      "",
+      "Defensive rebound by D. Vassell"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "103-105",
+      "",
+      "V. Wembanyama misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "103-105",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "3:35.0",
+      "Loose ball foul by J. Wilson (drawn by K. Johnson)",
+      "",
+      "103-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "103-106",
+      "+1",
+      "K. Johnson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "3:35.0",
+      "N. Clowney enters the game for J. Wilson",
+      "",
+      "103-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "103-106",
+      "",
+      "S. Castle enters the game for H. Barnes"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "103-107",
+      "+1",
+      "K. Johnson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "3:20.0",
+      "C. Thomas makes 2-pt jump shot from 13 ft (assist by T. Mann)",
+      "+2",
+      "105-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "105-107",
+      "",
+      "Personal foul by N. Claxton (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "105-107",
+      "",
+      "V. Wembanyama misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "105-107",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "105-108",
+      "+1",
+      "V. Wembanyama makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "2:47.0",
+      "T. Mann makes 2-pt jump shot from 13 ft",
+      "+2",
+      "107-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "107-110",
+      "+2",
+      "K. Johnson makes 2-pt layup from 1 ft (assist by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "2:05.0",
+      "C. Thomas misses 3-pt jump shot from 26 ft",
+      "",
+      "107-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "1:59.0",
+      "Offensive rebound by T. Mann",
+      "",
+      "107-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "1:56.0",
+      "C. Thomas misses 3-pt jump shot from 25 ft",
+      "",
+      "107-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "107-110",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "1:37.0",
+      "",
+      "",
+      "107-110",
+      "",
+      "Personal foul by N. Clowney (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "1:37.0",
+      "",
+      "",
+      "107-110",
+      "",
+      "V. Wembanyama misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "1:37.0",
+      "",
+      "",
+      "107-110",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "1:37.0",
+      "Brooklyn full timeout",
+      "",
+      "107-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "1:37.0",
+      "",
+      "",
+      "107-111",
+      "+1",
+      "V. Wembanyama makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "1:18.0",
+      "T. Mann misses 3-pt jump shot from 26 ft",
+      "",
+      "107-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "107-111",
+      "",
+      "Defensive rebound by K. Johnson"
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "107-113",
+      "+2",
+      "S. Castle makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "0:57.0",
+      "Turnover by C. Thomas (bad pass; steal by D. Vassell)",
+      "",
+      "107-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "107-115",
+      "+2",
+      "D. Vassell makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "0:55.0",
+      "Brooklyn full timeout",
+      "",
+      "107-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "0:52.0",
+      "Personal foul by V. Wembanyama (drawn by C. Thomas)",
+      "",
+      "107-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "0:47.0",
+      "M. Porter misses 2-pt jump shot from 14 ft",
+      "",
+      "107-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "107-115",
+      "",
+      "Defensive rebound by V. Wembanyama"
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "107-117",
+      "+2",
+      "V. Wembanyama makes 2-pt dunk from 2 ft (assist by K. Johnson)"
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "0:30.0",
+      "N. Clowney misses 3-pt jump shot from 27 ft",
+      "",
+      "107-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "107-117",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "107-117",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "0:03.0",
+      "Technical foul by J. Fernández Torres",
+      "",
+      "107-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "107-118",
+      "+1",
+      "V. Wembanyama makes technical free throw"
+    ]
+  }
+]

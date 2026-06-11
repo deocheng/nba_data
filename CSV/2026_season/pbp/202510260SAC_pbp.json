@@ -1,0 +1,5513 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Sacramento"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:55.0",
+      "",
+      "",
+      "0-2",
+      "+2",
+      "K. Ellis makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:32.0",
+      "R. Hachimura makes 2-pt jump shot from 20 ft (assist by D. Ayton)",
+      "+2",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Turnover by D. DeRozan (bad pass; steal by G. Vincent)"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:03.0",
+      "Turnover by G. Vincent (bad pass; steal by K. Ellis)",
+      "",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "2-5",
+      "+3",
+      "Z. LaVine makes 3-pt jump shot from 24 ft (assist by D. DeRozan)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:43.0",
+      "A. Reaves misses 3-pt jump shot from 30 ft",
+      "",
+      "2-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:39.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "D. Sabonis misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:33.0",
+      "Defensive rebound by Team",
+      "",
+      "2-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:19.0",
+      "R. Hachimura makes 2-pt layup from 6 ft (assist by D. Ayton)",
+      "+2",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "Turnover by D. Sabonis (lost ball; steal by R. Hachimura)"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:49.0",
+      "D. Ayton makes 2-pt layup from 6 ft (assist by R. Hachimura)",
+      "+2",
+      "6-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:34.0",
+      "",
+      "",
+      "6-5",
+      "",
+      "D. Schröder misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:34.0",
+      "Defensive rebound by Team",
+      "",
+      "6-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:19.0",
+      "M. Smart makes 2-pt hook shot from 9 ft",
+      "+2",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "8-5",
+      "",
+      "D. Sabonis misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "8:51.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:46.0",
+      "Turnover by A. Reaves (lost ball; steal by K. Ellis)",
+      "",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "8-7",
+      "+2",
+      "Z. LaVine makes 2-pt dunk from 1 ft (assist by D. DeRozan)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:23.0",
+      "D. Ayton makes 2-pt dunk from 4 ft (assist by G. Vincent)",
+      "+2",
+      "10-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "10-7",
+      "",
+      "D. Schröder misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:07.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "10-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:03.0",
+      "Shooting foul by D. Schröder (drawn by R. Hachimura)",
+      "",
+      "10-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:03.0",
+      "R. Hachimura makes free throw 1 of 2",
+      "+1",
+      "11-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:03.0",
+      "R. Hachimura makes free throw 2 of 2",
+      "+1",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "12-7",
+      "",
+      "D. Sabonis misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:42.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:35.0",
+      "Shooting foul by D. Sabonis (drawn by D. Ayton)",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:35.0",
+      "D. Ayton makes free throw 1 of 2",
+      "+1",
+      "13-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:35.0",
+      "D. Ayton misses free throw 2 of 2",
+      "",
+      "13-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "13-7",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "13-10",
+      "+3",
+      "K. Ellis makes 3-pt jump shot from 25 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:57.0",
+      "Shooting foul by D. Sabonis (drawn by G. Vincent)",
+      "",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "13-10",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "13-10",
+      "",
+      "D. Eubanks enters the game for D. Sabonis"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:57.0",
+      "G. Vincent makes free throw 1 of 3",
+      "+1",
+      "14-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:57.0",
+      "G. Vincent makes free throw 2 of 3",
+      "+1",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:57.0",
+      "G. Vincent makes free throw 3 of 3",
+      "+1",
+      "16-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "16-10",
+      "",
+      "K. Ellis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:40.0",
+      "Defensive rebound by R. Hachimura",
+      "",
+      "16-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:31.0",
+      "A. Reaves misses 3-pt jump shot from 26 ft",
+      "",
+      "16-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "16-10",
+      "",
+      "Defensive rebound by D. Eubanks"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:23.0",
+      "",
+      "",
+      "16-13",
+      "+3",
+      "Z. LaVine makes 3-pt jump shot from 24 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:02.0",
+      "Shooting foul by K. Ellis (drawn by A. Reaves)",
+      "",
+      "16-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:02.0",
+      "A. Reaves makes free throw 1 of 3",
+      "+1",
+      "17-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:02.0",
+      "A. Reaves makes free throw 2 of 3",
+      "+1",
+      "18-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:02.0",
+      "J. LaRavia enters the game for R. Hachimura",
+      "",
+      "18-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:02.0",
+      "J. Vanderbilt enters the game for G. Vincent",
+      "",
+      "18-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "18-13",
+      "",
+      "I. Jones enters the game for D. DeRozan"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "18-13",
+      "",
+      "M. Monk enters the game for K. Ellis"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:02.0",
+      "A. Reaves makes free throw 3 of 3",
+      "+1",
+      "19-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "19-13",
+      "",
+      "Z. LaVine misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:47.0",
+      "Defensive rebound by M. Smart",
+      "",
+      "19-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:39.0",
+      "A. Reaves makes 2-pt layup from 5 ft (assist by M. Smart)",
+      "+2",
+      "21-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "21-15",
+      "+2",
+      "D. Schröder makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "21-15",
+      "",
+      "Shooting foul by D. Ayton (drawn by D. Schröder)"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:34.0",
+      "D. Knecht enters the game for M. Smart",
+      "",
+      "21-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "21-16",
+      "+1",
+      "D. Schröder makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "5:24.0",
+      "D. Ayton makes 2-pt dunk from 1 ft (assist by A. Reaves)",
+      "+2",
+      "23-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "23-16",
+      "",
+      "D. Eubanks misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "23-16",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "23-16",
+      "",
+      "Turnover by D. Schröder (bad pass; steal by D. Ayton)"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:51.0",
+      "J. LaRavia misses 2-pt layup from 2 ft",
+      "",
+      "23-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:50.0",
+      "Offensive rebound by J. Vanderbilt",
+      "",
+      "23-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:49.0",
+      "J. Vanderbilt makes 2-pt layup at rim",
+      "+2",
+      "25-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "25-18",
+      "+2",
+      "Z. LaVine makes 2-pt layup from 1 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "25-18",
+      "",
+      "Shooting foul by D. Ayton (drawn by Z. LaVine)"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:46.0",
+      "R. Hachimura enters the game for D. Ayton",
+      "",
+      "25-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "25-18",
+      "",
+      "D. Cardwell enters the game for I. Jones"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "25-19",
+      "+1",
+      "Z. LaVine makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "4:33.0",
+      "A. Reaves makes 2-pt layup from 6 ft",
+      "+2",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "Turnover by Z. LaVine (bad pass)"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "4:05.0",
+      "Turnover by A. Reaves (lost ball; steal by D. Eubanks)",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "M. Monk misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "Offensive rebound by D. Eubanks"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "27-21",
+      "+2",
+      "D. Schröder makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:28.0",
+      "R. Hachimura makes 2-pt jump shot from 12 ft (assist by A. Reaves)",
+      "+2",
+      "29-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:20.0",
+      "",
+      "",
+      "29-21",
+      "",
+      "Turnover by M. Monk (bad pass; steal by J. Vanderbilt)"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:16.0",
+      "R. Hachimura makes 2-pt layup from 2 ft (assist by J. Vanderbilt)",
+      "+2",
+      "31-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "31-21",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "31-21",
+      "",
+      "D. DeRozan enters the game for D. Eubanks"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "31-21",
+      "",
+      "D. Šarić enters the game for Z. LaVine"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "31-21",
+      "",
+      "R. Westbrook enters the game for D. Schröder"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:59.0",
+      "",
+      "",
+      "31-21",
+      "",
+      "Turnover by D. Cardwell (bad pass; steal by J. Vanderbilt)"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "2:57.0",
+      "Turnover by J. Vanderbilt (lost ball; steal by D. Cardwell)",
+      "",
+      "31-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "2:56.0",
+      "",
+      "",
+      "31-21",
+      "",
+      "Personal foul by J. Vanderbilt (drawn by M. Monk)"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "31-23",
+      "+2",
+      "D. DeRozan makes 2-pt jump shot from 12 ft (assist by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "2:21.0",
+      "R. Hachimura misses 3-pt jump shot from 26 ft",
+      "",
+      "31-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "31-23",
+      "",
+      "Defensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "31-25",
+      "+2",
+      "D. DeRozan makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:10.0",
+      "M. Smart enters the game for D. Knecht",
+      "",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:10.0",
+      "G. Vincent enters the game for A. Reaves",
+      "",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "1:52.0",
+      "J. LaRavia misses 2-pt jump shot from 8 ft",
+      "",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "Defensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "1:40.0",
+      "",
+      "",
+      "31-27",
+      "+2",
+      "D. DeRozan makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "1:30.0",
+      "Personal foul by D. Cardwell (drawn by J. Vanderbilt)",
+      "",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "1:30.0",
+      "J. Vanderbilt makes free throw 1 of 2",
+      "+1",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "1:30.0",
+      "J. Vanderbilt makes free throw 2 of 2",
+      "+1",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "33-27",
+      "",
+      "D. Šarić misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:10.0",
+      "Defensive rebound by G. Vincent",
+      "",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:06.0",
+      "J. Vanderbilt misses 2-pt layup from 4 ft (block by D. Cardwell)",
+      "",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:06.0",
+      "Offensive rebound by Team",
+      "",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:02.0",
+      "J. LaRavia makes 3-pt jump shot from 25 ft (assist by M. Smart)",
+      "+3",
+      "36-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "D. Schröder enters the game for D. Šarić"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "D. DeRozan misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "Offensive rebound by R. Westbrook"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "Shooting foul by J. Vanderbilt (drawn by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "R. Westbrook misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "R. Westbrook misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:33.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "36-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:22.0",
+      "G. Vincent misses 3-pt jump shot from 27 ft",
+      "",
+      "36-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "Defensive rebound by D. DeRozan"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "D. Schröder misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Sacramento"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:43.0",
+      "G. Vincent misses 2-pt jump shot from 19 ft (block by M. Monk)",
+      "",
+      "36-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "Defensive rebound by K. Ellis"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "36-29",
+      "+2",
+      "M. Monk makes 2-pt jump shot from 14 ft (assist by D. Sabonis)"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "11:10.0",
+      "Turnover by D. Ayton (lost ball; steal by D. Sabonis)",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "36-29",
+      "",
+      "Turnover by R. Westbrook (bad pass; steal by J. LaRavia)"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "11:06.0",
+      "Personal foul by M. Monk (drawn by J. LaRavia)",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:52.0",
+      "D. Ayton misses 2-pt jump shot from 13 ft",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:49.0",
+      "",
+      "",
+      "36-29",
+      "",
+      "Defensive rebound by K. Ellis"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:35.0",
+      "",
+      "",
+      "36-32",
+      "+3",
+      "R. Westbrook makes 3-pt jump shot from 23 ft (assist by K. Ellis)"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:22.0",
+      "M. Smart misses 2-pt jump shot from 18 ft",
+      "",
+      "36-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "36-32",
+      "",
+      "Defensive rebound by R. Westbrook"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:12.0",
+      "",
+      "",
+      "36-34",
+      "+2",
+      "R. Westbrook makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "10:03.0",
+      "M. Smart misses 3-pt jump shot from 23 ft",
+      "",
+      "36-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "10:01.0",
+      "Offensive rebound by Team",
+      "",
+      "36-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "36-34",
+      "",
+      "Loose ball foul by K. Ellis (drawn by G. Vincent)"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "10:01.0",
+      "D. Knecht enters the game for J. LaRavia",
+      "",
+      "36-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:58.0",
+      "Shooting foul by K. Ellis (drawn by M. Smart)",
+      "",
+      "36-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:58.0",
+      "M. Smart makes free throw 1 of 2",
+      "+1",
+      "37-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "37-34",
+      "",
+      "Z. LaVine enters the game for K. Ellis"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:58.0",
+      "M. Smart makes free throw 2 of 2",
+      "+1",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "38-34",
+      "",
+      "Personal foul by R. Hachimura (drawn by D. DeRozan)"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "38-36",
+      "+2",
+      "D. DeRozan makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "38-36",
+      "",
+      "Shooting foul by R. Hachimura (drawn by D. DeRozan)"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "38-37",
+      "+1",
+      "D. DeRozan makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "9:34.0",
+      "G. Vincent misses 3-pt jump shot from 28 ft",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "9:31.0",
+      "",
+      "",
+      "38-37",
+      "",
+      "Defensive rebound by D. DeRozan"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "38-37",
+      "",
+      "D. DeRozan misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "9:17.0",
+      "Defensive rebound by D. Knecht",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "9:01.0",
+      "D. Knecht misses 3-pt jump shot from 29 ft",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "38-37",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "38-37",
+      "",
+      "D. Sabonis misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "38-37",
+      "",
+      "Offensive rebound by R. Westbrook"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:36.0",
+      "",
+      "",
+      "38-40",
+      "+3",
+      "D. DeRozan makes 3-pt jump shot from 23 ft (assist by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "8:34.0",
+      "Offensive foul by G. Vincent (drawn by M. Monk)",
+      "",
+      "38-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "8:34.0",
+      "Turnover by G. Vincent (offensive foul)",
+      "",
+      "38-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "8:34.0",
+      "",
+      "",
+      "38-40",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "8:34.0",
+      "",
+      "",
+      "38-40",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "8:34.0",
+      "A. Reaves enters the game for G. Vincent",
+      "",
+      "38-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "38-40",
+      "",
+      "D. DeRozan misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "8:23.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "38-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "8:14.0",
+      "M. Smart misses 3-pt jump shot from 25 ft",
+      "",
+      "38-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "8:14.0",
+      "",
+      "",
+      "38-40",
+      "",
+      "Defensive rebound by D. DeRozan"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "38-40",
+      "",
+      "D. DeRozan misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "38-40",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "8:01.0",
+      "J. LaRavia enters the game for D. Ayton",
+      "",
+      "38-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "8:01.0",
+      "J. Vanderbilt enters the game for R. Hachimura",
+      "",
+      "38-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "38-40",
+      "",
+      "D. Schröder enters the game for M. Monk"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "38-40",
+      "",
+      "Z. LaVine misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "7:59.0",
+      "Defensive rebound by D. Knecht",
+      "",
+      "38-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "7:44.0",
+      "A. Reaves makes 3-pt jump shot from 27 ft (assist by M. Smart)",
+      "+3",
+      "41-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "41-40",
+      "",
+      "Z. LaVine misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "41-40",
+      "",
+      "Offensive rebound by D. Schröder"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "41-43",
+      "+3",
+      "R. Westbrook makes 3-pt jump shot from 23 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "7:13.0",
+      "A. Reaves makes 2-pt jump shot from 15 ft",
+      "+2",
+      "43-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "43-43",
+      "",
+      "D. DeRozan misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "43-43",
+      "",
+      "Offensive rebound by D. Schröder"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "43-46",
+      "+3",
+      "R. Westbrook makes 3-pt jump shot from 25 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "6:33.0",
+      "A. Reaves misses 2-pt jump shot from 14 ft",
+      "",
+      "43-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "6:30.0",
+      "",
+      "",
+      "43-46",
+      "",
+      "Defensive rebound by R. Westbrook"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "43-46",
+      "",
+      "R. Westbrook misses 2-pt layup from 1 ft (block by D. Knecht)"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "6:25.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "43-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "6:13.0",
+      "D. Knecht makes 2-pt layup from 4 ft (assist by J. LaRavia)",
+      "+2",
+      "45-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:54.0",
+      "",
+      "",
+      "45-46",
+      "",
+      "D. Schröder misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:52.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "45-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:44.0",
+      "M. Smart makes 2-pt jump shot from 7 ft (assist by A. Reaves)",
+      "+2",
+      "47-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "47-48",
+      "+2",
+      "D. DeRozan makes 2-pt jump shot from 5 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "5:23.0",
+      "Turnover by D. Knecht (lost ball; steal by D. Sabonis)",
+      "",
+      "47-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "47-48",
+      "",
+      "D. DeRozan misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "5:09.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "47-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:01.0",
+      "A. Reaves makes 2-pt layup from 4 ft",
+      "+2",
+      "49-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "49-50",
+      "+2",
+      "D. Sabonis makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "4:22.0",
+      "Shooting foul by D. Sabonis (drawn by A. Reaves)",
+      "",
+      "49-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "4:22.0",
+      "LA Lakers full timeout",
+      "",
+      "49-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "4:22.0",
+      "D. Ayton enters the game for D. Knecht",
+      "",
+      "49-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "4:22.0",
+      "R. Hachimura enters the game for J. LaRavia",
+      "",
+      "49-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "49-50",
+      "",
+      "D. Cardwell enters the game for D. DeRozan"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "49-50",
+      "",
+      "M. Monk enters the game for D. Sabonis"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "4:22.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "50-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "4:22.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "51-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "4:08.0",
+      "",
+      "",
+      "51-52",
+      "+2",
+      "D. Schröder makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "51-52",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:47.0",
+      "G. Vincent enters the game for M. Smart",
+      "",
+      "51-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:39.0",
+      "Turnover by D. Ayton (bad pass; steal by M. Monk)",
+      "",
+      "51-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "51-52",
+      "",
+      "Z. LaVine misses 2-pt layup from 2 ft (block by D. Ayton)"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "51-52",
+      "",
+      "Offensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "51-55",
+      "+3",
+      "M. Monk makes 3-pt jump shot from 22 ft (assist by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "3:18.0",
+      "Personal foul by M. Monk (drawn by A. Reaves)",
+      "",
+      "51-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "3:18.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "52-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "3:18.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "53-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "53-55",
+      "",
+      "D. Schröder misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "3:00.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "53-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "2:54.0",
+      "A. Reaves misses 2-pt layup from 2 ft",
+      "",
+      "53-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "2:53.0",
+      "Offensive rebound by D. Ayton",
+      "",
+      "53-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "2:52.0",
+      "D. Ayton makes 2-pt layup at rim",
+      "+2",
+      "55-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "55-57",
+      "+2",
+      "M. Monk makes 2-pt jump shot from 6 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "2:18.0",
+      "Offensive foul by J. Vanderbilt (drawn by D. Schröder)",
+      "",
+      "55-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "2:18.0",
+      "Turnover by J. Vanderbilt (offensive foul)",
+      "",
+      "55-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "2:18.0",
+      "J. LaRavia enters the game for J. Vanderbilt",
+      "",
+      "55-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "55-57",
+      "",
+      "Turnover by R. Westbrook (bad pass; steal by R. Hachimura)"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "2:00.0",
+      "Shooting foul by D. Cardwell (drawn by A. Reaves)",
+      "",
+      "55-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "2:00.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "56-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "2:00.0",
+      "",
+      "",
+      "56-57",
+      "",
+      "D. DeRozan enters the game for R. Westbrook"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "2:00.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "57-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "57-57",
+      "",
+      "Personal foul by J. LaRavia (drawn by M. Monk)"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "57-57",
+      "",
+      "Turnover by D. Cardwell (off goaltending)"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "1:30.0",
+      "D. Ayton makes 2-pt jump shot from 6 ft (assist by A. Reaves)",
+      "+2",
+      "59-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "59-60",
+      "+3",
+      "D. DeRozan makes 3-pt jump shot from 23 ft (assist by M. Monk)"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "1:00.0",
+      "D. Ayton makes 2-pt jump shot from 10 ft (assist by A. Reaves)",
+      "+2",
+      "61-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "61-60",
+      "",
+      "D. DeRozan misses 3-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "0:49.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "61-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "0:43.0",
+      "J. LaRavia misses 3-pt jump shot from 23 ft",
+      "",
+      "61-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "61-60",
+      "",
+      "Defensive rebound by D. DeRozan"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "61-60",
+      "",
+      "D. Schröder misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "0:27.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "61-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "0:12.0",
+      "Def 3 sec tech foul by Team",
+      "",
+      "61-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "0:12.0",
+      "A. Reaves makes technical free throw",
+      "+1",
+      "62-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "0:10.0",
+      "Turnover by J. LaRavia (bad pass; steal by D. Schröder)",
+      "",
+      "62-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "62-62",
+      "+2",
+      "Z. LaVine makes 2-pt dunk at rim (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "0:01.0",
+      "A. Reaves misses 2-pt jump shot from 16 ft",
+      "",
+      "62-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "62-62",
+      "",
+      "Defensive rebound by M. Monk"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Sacramento"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "11:50.0",
+      "G. Vincent misses 3-pt jump shot from 25 ft",
+      "",
+      "62-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "11:47.0",
+      "",
+      "",
+      "62-62",
+      "",
+      "Defensive rebound by Z. LaVine"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "11:42.0",
+      "",
+      "",
+      "62-62",
+      "",
+      "Z. LaVine misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "11:39.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "62-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "11:30.0",
+      "D. Ayton makes 2-pt jump shot from 15 ft (assist by A. Reaves)",
+      "+2",
+      "64-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "64-62",
+      "",
+      "Turnover by K. Ellis (bad pass; steal by A. Reaves)"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "11:16.0",
+      "D. Ayton makes 2-pt dunk from 1 ft (assist by A. Reaves)",
+      "+2",
+      "66-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "66-62",
+      "",
+      "D. DeRozan misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "10:54.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "66-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "10:41.0",
+      "A. Reaves misses 2-pt jump shot from 5 ft",
+      "",
+      "66-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "66-62",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "66-65",
+      "+3",
+      "D. Schröder makes 3-pt jump shot from 31 ft (assist by D. DeRozan)"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "10:06.0",
+      "Shooting foul by K. Ellis (drawn by R. Hachimura)",
+      "",
+      "66-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "10:06.0",
+      "R. Hachimura makes free throw 1 of 2",
+      "+1",
+      "67-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "67-65",
+      "",
+      "M. Monk enters the game for K. Ellis"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "10:06.0",
+      "R. Hachimura makes free throw 2 of 2",
+      "+1",
+      "68-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "9:45.0",
+      "",
+      "",
+      "68-65",
+      "",
+      "D. Schröder misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "9:42.0",
+      "Defensive rebound by M. Smart",
+      "",
+      "68-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "9:33.0",
+      "A. Reaves misses 2-pt jump shot from 11 ft",
+      "",
+      "68-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "9:31.0",
+      "",
+      "",
+      "68-65",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "9:27.0",
+      "",
+      "",
+      "68-65",
+      "",
+      "M. Monk misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "9:22.0",
+      "Defensive rebound by R. Hachimura",
+      "",
+      "68-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "9:15.0",
+      "Shooting foul by D. Schröder (drawn by M. Smart)",
+      "",
+      "68-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "9:15.0",
+      "M. Smart makes free throw 1 of 2",
+      "+1",
+      "69-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "9:15.0",
+      "M. Smart makes free throw 2 of 2",
+      "+1",
+      "70-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "70-65",
+      "",
+      "D. DeRozan misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "70-65",
+      "",
+      "Offensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "70-68",
+      "+3",
+      "D. Schröder makes 3-pt jump shot from 23 ft (assist by D. Sabonis)"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:35.0",
+      "R. Hachimura makes 2-pt hook shot from 5 ft",
+      "+2",
+      "72-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "72-68",
+      "",
+      "M. Monk misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "8:21.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "72-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "8:19.0",
+      "Shooting foul by M. Monk (drawn by A. Reaves)",
+      "",
+      "72-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "8:19.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "73-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "8:19.0",
+      "J. LaRavia enters the game for G. Vincent",
+      "",
+      "73-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "8:19.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "74-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "74-68",
+      "",
+      "Shooting foul by J. LaRavia (drawn by Z. LaVine)"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "74-69",
+      "+1",
+      "Z. LaVine makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "74-70",
+      "+1",
+      "Z. LaVine makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "8:02.0",
+      "D. Ayton misses 2-pt dunk from 2 ft",
+      "",
+      "74-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "74-70",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "7:56.0",
+      "",
+      "",
+      "74-72",
+      "+2",
+      "Z. LaVine makes 2-pt layup from 2 ft (assist by D. Sabonis)"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "7:42.0",
+      "J. LaRavia misses 3-pt jump shot from 25 ft",
+      "",
+      "74-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "7:39.0",
+      "Offensive rebound by D. Ayton",
+      "",
+      "74-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "7:39.0",
+      "D. Ayton misses 2-pt layup from 4 ft",
+      "",
+      "74-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "7:38.0",
+      "Offensive rebound by Team",
+      "",
+      "74-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "7:34.0",
+      "A. Reaves misses 3-pt jump shot from 23 ft (block by M. Monk)",
+      "",
+      "74-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "7:32.0",
+      "Offensive rebound by M. Smart",
+      "",
+      "74-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "7:31.0",
+      "M. Smart misses 2-pt layup from 2 ft",
+      "",
+      "74-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "74-72",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "74-74",
+      "+2",
+      "Z. LaVine makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "7:02.0",
+      "A. Reaves misses 2-pt jump shot from 14 ft",
+      "",
+      "74-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "74-74",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "74-76",
+      "+2",
+      "Z. LaVine makes 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "6:29.0",
+      "Shooting foul by D. DeRozan (drawn by M. Smart)",
+      "",
+      "74-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "74-76",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "6:29.0",
+      "J. Vanderbilt enters the game for R. Hachimura",
+      "",
+      "74-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "6:29.0",
+      "M. Smart misses free throw 1 of 2",
+      "",
+      "74-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "6:29.0",
+      "Offensive rebound by Team",
+      "",
+      "74-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "6:29.0",
+      "M. Smart makes free throw 2 of 2",
+      "+1",
+      "75-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "75-76",
+      "",
+      "Z. LaVine misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "6:11.0",
+      "Defensive rebound by Team",
+      "",
+      "75-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "75-76",
+      "",
+      "Loose ball foul by D. Sabonis (drawn by J. Vanderbilt)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "6:11.0",
+      "C. Mañon enters the game for M. Smart",
+      "",
+      "75-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "6:11.0",
+      "J. Vanderbilt misses free throw 1 of 2",
+      "",
+      "75-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "6:11.0",
+      "Offensive rebound by Team",
+      "",
+      "75-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "75-76",
+      "",
+      "D. Cardwell enters the game for D. DeRozan"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "75-76",
+      "",
+      "R. Westbrook enters the game for D. Sabonis"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "6:11.0",
+      "J. Vanderbilt makes free throw 2 of 2",
+      "+1",
+      "76-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "76-79",
+      "+3",
+      "M. Monk makes 3-pt jump shot from 26 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "5:43.0",
+      "D. Ayton misses 2-pt layup from 4 ft",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "5:42.0",
+      "Offensive rebound by D. Ayton",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "5:41.0",
+      "D. Ayton misses 2-pt layup at rim",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "5:40.0",
+      "Offensive rebound by J. LaRavia",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "5:39.0",
+      "J. LaRavia misses 2-pt layup at rim",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "76-79",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "76-79",
+      "",
+      "R. Westbrook misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "5:28.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "5:16.0",
+      "Shooting foul by D. Cardwell (drawn by A. Reaves)",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "5:16.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "77-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "5:16.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "78-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "5:03.0",
+      "",
+      "",
+      "78-79",
+      "",
+      "R. Westbrook misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "78-79",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "78-79",
+      "",
+      "Z. LaVine misses 2-pt layup from 4 ft (block by C. Mañon)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "4:58.0",
+      "Defensive rebound by C. Mañon",
+      "",
+      "78-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "4:43.0",
+      "Turnover by D. Ayton (lost ball; steal by R. Westbrook)",
+      "",
+      "78-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "78-82",
+      "+3",
+      "M. Monk makes 3-pt jump shot from 23 ft (assist by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "4:22.0",
+      "C. Mañon misses 3-pt jump shot from 25 ft",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "4:19.0",
+      "Offensive rebound by A. Reaves",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "4:10.0",
+      "J. Vanderbilt makes 2-pt layup from 1 ft (assist by A. Reaves)",
+      "+2",
+      "80-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "80-82",
+      "",
+      "D. Cardwell misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "80-82",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "80-82",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "3:38.0",
+      "R. Hachimura enters the game for D. Ayton",
+      "",
+      "80-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "3:28.0",
+      "A. Reaves makes 3-pt jump shot from 25 ft (assist by J. LaRavia)",
+      "+3",
+      "83-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "83-82",
+      "",
+      "Shooting foul by R. Hachimura (drawn by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "83-83",
+      "+1",
+      "R. Westbrook makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "3:12.0",
+      "M. Smart enters the game for C. Mañon",
+      "",
+      "83-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "83-83",
+      "",
+      "D. Carter enters the game for D. Schröder"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "83-84",
+      "+1",
+      "R. Westbrook makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "3:11.0",
+      "Personal foul by D. Carter (drawn by A. Reaves)",
+      "",
+      "83-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "3:11.0",
+      "A. Reaves misses free throw 1 of 2",
+      "",
+      "83-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "3:11.0",
+      "Offensive rebound by Team",
+      "",
+      "83-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "3:11.0",
+      "",
+      "",
+      "83-84",
+      "",
+      "D. DeRozan enters the game for Z. LaVine"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "3:11.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "84-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "84-84",
+      "",
+      "R. Westbrook misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "2:56.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "84-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "2:56.0",
+      "Personal foul by D. Cardwell (drawn by A. Reaves)",
+      "",
+      "84-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "2:56.0",
+      "LA Lakers full timeout",
+      "",
+      "84-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "2:56.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "85-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "2:56.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "86-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "86-84",
+      "",
+      "Shooting foul by M. Smart (drawn by M. Monk)"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "86-85",
+      "+1",
+      "M. Monk makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "86-86",
+      "+1",
+      "M. Monk makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "2:28.0",
+      "J. Vanderbilt misses 2-pt dunk from 2 ft",
+      "",
+      "86-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "86-86",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "86-86",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "86-86",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "86-86",
+      "",
+      "D. Šarić enters the game for D. Cardwell"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "2:20.0",
+      "",
+      "",
+      "86-86",
+      "",
+      "R. Westbrook misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "2:18.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "86-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "2:14.0",
+      "J. Vanderbilt makes 2-pt layup from 1 ft (assist by J. LaRavia)",
+      "+2",
+      "88-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "88-88",
+      "+2",
+      "D. DeRozan makes 2-pt jump shot from 17 ft (assist by M. Monk)"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "1:38.0",
+      "A. Reaves makes 3-pt jump shot from 30 ft (assist by M. Smart)",
+      "+3",
+      "91-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "91-88",
+      "",
+      "Turnover by D. Šarić (lost ball; steal by A. Reaves)"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "1:18.0",
+      "A. Reaves makes 2-pt layup from 1 ft",
+      "+2",
+      "93-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "93-90",
+      "+2",
+      "D. DeRozan makes 2-pt jump shot from 18 ft (assist by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "0:44.0",
+      "Turnover by R. Hachimura (bad pass; steal by D. Carter)",
+      "",
+      "93-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "93-90",
+      "",
+      "Offensive foul by D. Carter (drawn by A. Reaves)"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "93-90",
+      "",
+      "Turnover by D. Carter (offensive foul)"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "0:40.0",
+      "D. Knecht enters the game for A. Reaves",
+      "",
+      "93-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "0:27.0",
+      "Shooting foul by M. Monk (drawn by J. LaRavia)",
+      "",
+      "93-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "0:27.0",
+      "J. LaRavia makes free throw 1 of 2",
+      "+1",
+      "94-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "94-90",
+      "",
+      "Z. LaVine enters the game for D. Carter"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "94-90",
+      "",
+      "D. Schröder enters the game for D. Šarić"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "0:27.0",
+      "J. LaRavia makes free throw 2 of 2",
+      "+1",
+      "95-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "95-90",
+      "",
+      "D. DeRozan misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "0:03.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "95-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "0:01.0",
+      "Turnover by M. Smart (lost ball; steal by M. Monk)",
+      "",
+      "95-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "95-90",
+      "",
+      "M. Monk misses 3-pt jump shot from 34 ft"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "95-90",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Sacramento"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "11:47.0",
+      "",
+      "",
+      "95-90",
+      "",
+      "R. Westbrook misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "95-90",
+      "",
+      "Offensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "95-92",
+      "+2",
+      "D. Sabonis makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "11:28.0",
+      "D. Ayton misses 2-pt jump shot from 6 ft",
+      "",
+      "95-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "95-92",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "11:21.0",
+      "",
+      "",
+      "95-94",
+      "+2",
+      "Z. LaVine makes 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "11:09.0",
+      "M. Smart misses 3-pt jump shot from 25 ft",
+      "",
+      "95-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "95-94",
+      "",
+      "Defensive rebound by Z. LaVine"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "95-97",
+      "+3",
+      "R. Westbrook makes 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "10:40.0",
+      "Turnover by D. Knecht (bad pass)",
+      "",
+      "95-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "95-97",
+      "",
+      "Flagrant foul type 1 by D. Ayton (drawn by K. Ellis)"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "95-97",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "95-97",
+      "",
+      "K. Ellis misses flagrant free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "95-97",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "95-98",
+      "+1",
+      "K. Ellis makes flagrant free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "10:35.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Personal foul by D. Knecht (drawn by K. Ellis)"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Z. LaVine misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Offensive rebound by R. Westbrook"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "K. Ellis misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Offensive rebound by Z. LaVine"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "10:12.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "K. Ellis misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "10:10.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "10:00.0",
+      "M. Smart makes 2-pt jump shot from 7 ft",
+      "+2",
+      "97-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "97-101",
+      "+3",
+      "D. Sabonis makes 3-pt jump shot from 26 ft (assist by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "9:24.0",
+      "D. Knecht misses 3-pt jump shot from 25 ft",
+      "",
+      "97-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "97-101",
+      "",
+      "Defensive rebound by D. DeRozan"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "97-101",
+      "",
+      "Z. LaVine misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "97-101",
+      "",
+      "Offensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "97-101",
+      "",
+      "Turnover by Z. LaVine (step out of bounds)"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "9:11.0",
+      "A. Reaves enters the game for D. Knecht",
+      "",
+      "97-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "8:59.0",
+      "A. Reaves makes 3-pt jump shot from 27 ft",
+      "+3",
+      "100-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "100-101",
+      "",
+      "Shooting foul by J. LaRavia (drawn by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "100-101",
+      "",
+      "R. Westbrook misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "100-101",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "8:46.0",
+      "J. Vanderbilt enters the game for J. LaRavia",
+      "",
+      "100-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "100-101",
+      "",
+      "R. Westbrook misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "8:42.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "100-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "8:28.0",
+      "A. Reaves makes 3-pt jump shot from 25 ft",
+      "+3",
+      "103-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "103-101",
+      "",
+      "Offensive foul by D. Sabonis (drawn by J. Vanderbilt)"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "103-101",
+      "",
+      "Turnover by D. Sabonis (offensive foul)"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "8:11.0",
+      "LA Lakers full timeout",
+      "",
+      "103-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "8:11.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "103-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "103-101",
+      "",
+      "D. Schröder enters the game for K. Ellis"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "7:56.0",
+      "D. Ayton makes 2-pt hook shot from 4 ft (assist by M. Smart)",
+      "+2",
+      "105-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "105-101",
+      "",
+      "D. DeRozan misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "7:38.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "105-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "7:37.0",
+      "Turnover by J. Vanderbilt (bad pass; steal by D. DeRozan)",
+      "",
+      "105-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "105-101",
+      "",
+      "D. DeRozan misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "105-101",
+      "",
+      "Offensive rebound by R. Westbrook"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "7:34.0",
+      "J. LaRavia enters the game for M. Smart",
+      "",
+      "105-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "105-101",
+      "",
+      "D. DeRozan misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "7:25.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "105-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "7:08.0",
+      "R. Hachimura misses 2-pt jump shot from 19 ft",
+      "",
+      "105-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "105-101",
+      "",
+      "Defensive rebound by D. DeRozan"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "105-101",
+      "",
+      "Z. LaVine misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "6:58.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "105-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "6:46.0",
+      "A. Reaves makes 3-pt jump shot from 25 ft (assist by J. LaRavia)",
+      "+3",
+      "108-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "108-104",
+      "+3",
+      "Z. LaVine makes 3-pt jump shot from 28 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "6:02.0",
+      "R. Hachimura makes 2-pt jump shot from 10 ft",
+      "+2",
+      "110-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "5:48.0",
+      "",
+      "",
+      "110-104",
+      "",
+      "Z. LaVine misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "5:45.0",
+      "Defensive rebound by R. Hachimura",
+      "",
+      "110-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "5:32.0",
+      "D. Ayton misses 2-pt jump shot from 10 ft",
+      "",
+      "110-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "5:31.0",
+      "Offensive rebound by D. Ayton",
+      "",
+      "110-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "5:30.0",
+      "D. Ayton makes 2-pt dunk from 1 ft",
+      "+2",
+      "112-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "112-106",
+      "+2",
+      "R. Westbrook makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "4:48.0",
+      "R. Hachimura makes 2-pt dunk from 3 ft (assist by A. Reaves)",
+      "+2",
+      "114-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "114-106",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "114-106",
+      "",
+      "K. Ellis enters the game for R. Westbrook"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "114-106",
+      "",
+      "Turnover by D. Schröder (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "4:18.0",
+      "J. LaRavia makes 3-pt jump shot from 26 ft (assist by R. Hachimura)",
+      "+3",
+      "117-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "4:03.0",
+      "",
+      "",
+      "117-109",
+      "+3",
+      "D. Schröder makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "3:43.0",
+      "Turnover by R. Hachimura (3 sec)",
+      "",
+      "117-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "117-111",
+      "+2",
+      "Z. LaVine makes 2-pt layup from 7 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "117-111",
+      "",
+      "Shooting foul by D. Ayton (drawn by Z. LaVine)"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "3:32.0",
+      "LA Lakers full timeout",
+      "",
+      "117-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "3:32.0",
+      "Instant Replay (Challenge: Stands)",
+      "",
+      "117-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "117-112",
+      "+1",
+      "Z. LaVine makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "3:18.0",
+      "J. LaRavia makes 2-pt layup from 1 ft (assist by J. Vanderbilt)",
+      "+2",
+      "119-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "3:18.0",
+      "Shooting foul by K. Ellis (drawn by J. LaRavia)",
+      "",
+      "119-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "3:18.0",
+      "J. LaRavia makes free throw 1 of 1",
+      "+1",
+      "120-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "120-112",
+      "",
+      "D. Schröder misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "120-112",
+      "",
+      "Offensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "120-114",
+      "+2",
+      "D. Sabonis makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "2:42.0",
+      "A. Reaves misses 3-pt jump shot from 29 ft",
+      "",
+      "120-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "120-114",
+      "",
+      "Defensive rebound by Z. LaVine"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "120-116",
+      "+2",
+      "D. Schröder makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "2:00.0",
+      "A. Reaves makes 2-pt jump shot from 11 ft (assist by J. LaRavia)",
+      "+2",
+      "122-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "122-116",
+      "",
+      "D. Schröder misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "1:48.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "122-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "1:44.0",
+      "J. LaRavia misses 2-pt layup from 2 ft (block by D. Schröder)",
+      "",
+      "122-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "1:43.0",
+      "Offensive rebound by J. LaRavia",
+      "",
+      "122-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "1:39.0",
+      "Turnover by J. LaRavia (bad pass; steal by D. Sabonis)",
+      "",
+      "122-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "122-119",
+      "+3",
+      "Z. LaVine makes 3-pt jump shot from 27 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "1:10.0",
+      "J. LaRavia misses 3-pt jump shot from 23 ft",
+      "",
+      "122-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "122-119",
+      "",
+      "Defensive rebound by D. Sabonis"
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "122-119",
+      "",
+      "Z. LaVine misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "1:00.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "122-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "0:42.0",
+      "R. Hachimura misses 2-pt layup from 3 ft",
+      "",
+      "122-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "0:41.0",
+      "Offensive rebound by D. Ayton",
+      "",
+      "122-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "0:40.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "122-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "0:40.0",
+      "M. Smart enters the game for J. Vanderbilt",
+      "",
+      "122-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "0:32.0",
+      "Shooting foul by K. Ellis (drawn by A. Reaves)",
+      "",
+      "122-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "122-119",
+      "",
+      "R. Westbrook enters the game for K. Ellis"
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "0:32.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "123-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 495,
+    "cells": [
+      "0:32.0",
+      "J. Vanderbilt enters the game for J. LaRavia",
+      "",
+      "123-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 496,
+    "cells": [
+      "0:32.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "124-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 497,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "124-119",
+      "",
+      "D. Schröder misses 2-pt layup from 7 ft"
+    ]
+  },
+  {
+    "row": 498,
+    "cells": [
+      "0:23.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "124-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 499,
+    "cells": [
+      "0:23.0",
+      "Personal foul by Z. LaVine (drawn by A. Reaves)",
+      "",
+      "124-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 500,
+    "cells": [
+      "0:23.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "125-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 501,
+    "cells": [
+      "0:23.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "126-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 502,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "126-119",
+      "",
+      "Personal foul by A. Reaves (drawn by D. Sabonis)"
+    ]
+  },
+  {
+    "row": 503,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "126-120",
+      "+1",
+      "D. Sabonis makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 504,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "126-120",
+      "",
+      "D. Sabonis misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 505,
+    "cells": [
+      "0:06.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "126-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 506,
+    "cells": [
+      "0:06.0",
+      "Personal foul by R. Westbrook (drawn by D. Ayton)",
+      "",
+      "126-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 507,
+    "cells": [
+      "0:06.0",
+      "D. Ayton makes free throw 1 of 2",
+      "+1",
+      "127-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 508,
+    "cells": [
+      "0:06.0",
+      "D. Ayton misses free throw 2 of 2",
+      "",
+      "127-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 509,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "127-120",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 510,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "127-120",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 511,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "127-120",
+      "",
+      "D. Schröder misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 512,
+    "cells": [
+      "0:01.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "127-120",
+      "",
+      ""
+    ]
+  }
+]

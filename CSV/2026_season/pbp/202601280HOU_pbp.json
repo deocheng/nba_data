@@ -1,0 +1,5238 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "San Antonio",
+      "",
+      "Score",
+      "",
+      "Houston"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:42.0",
+      "Turnover by V. Wembanyama (lost ball; steal by T. Eason)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "0-2",
+      "+2",
+      "A. Şengün makes 2-pt jump shot from 16 ft (assist by K. Durant)"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:13.0",
+      "V. Wembanyama makes 2-pt layup from 2 ft (assist by S. Castle)",
+      "+2",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "2-4",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 20 ft (assist by A. Thompson)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "10:44.0",
+      "V. Wembanyama misses 3-pt jump shot from 26 ft",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:41.0",
+      "",
+      "",
+      "2-4",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "2-6",
+      "+2",
+      "A. Thompson makes 2-pt dunk from 3 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:23.0",
+      "Personal foul by T. Eason (drawn by V. Wembanyama)",
+      "",
+      "2-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:13.0",
+      "D. Fox makes 2-pt jump shot from 12 ft",
+      "+2",
+      "4-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "4-8",
+      "+2",
+      "A. Şengün makes 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "9:33.0",
+      "Shooting foul by T. Eason (drawn by V. Wembanyama)",
+      "",
+      "4-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:33.0",
+      "V. Wembanyama makes free throw 1 of 2",
+      "+1",
+      "5-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "5-8",
+      "",
+      "J. Okogie enters the game for T. Eason"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:33.0",
+      "V. Wembanyama makes free throw 2 of 2",
+      "+1",
+      "6-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "6-10",
+      "+2",
+      "A. Thompson makes 2-pt layup from 8 ft (assist by J. Okogie)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:13.0",
+      "Shooting foul by J. Okogie (drawn by D. Fox)",
+      "",
+      "6-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:13.0",
+      "D. Fox makes free throw 1 of 2",
+      "+1",
+      "7-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:13.0",
+      "D. Fox makes free throw 2 of 2",
+      "+1",
+      "8-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "8-10",
+      "",
+      "Shooting foul by S. Castle (drawn by A. Thompson)"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "8-11",
+      "+1",
+      "A. Thompson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "8-12",
+      "+1",
+      "A. Thompson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:47.0",
+      "H. Barnes makes 2-pt layup from 6 ft (assist by D. Fox)",
+      "+2",
+      "10-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:36.0",
+      "",
+      "",
+      "10-14",
+      "+2",
+      "A. Şengün makes 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:25.0",
+      "S. Castle misses 2-pt layup from 1 ft",
+      "",
+      "10-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "10-14",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "10-17",
+      "+3",
+      "K. Durant makes 3-pt jump shot from 25 ft (assist by J. Smith)"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:13.0",
+      "San Antonio full timeout",
+      "",
+      "10-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:05.0",
+      "D. Fox misses 3-pt jump shot from 25 ft",
+      "",
+      "10-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "10-17",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "10-17",
+      "",
+      "Turnover by K. Durant (bad pass)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:39.0",
+      "H. Barnes makes 3-pt jump shot from 23 ft (assist by D. Fox)",
+      "+3",
+      "13-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "13-19",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 20 ft (assist by A. Thompson)"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:14.0",
+      "Offensive foul by V. Wembanyama (drawn by A. Şengün)",
+      "",
+      "13-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:14.0",
+      "Turnover by V. Wembanyama (offensive foul)",
+      "",
+      "13-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:14.0",
+      "L. Kornet enters the game for V. Wembanyama",
+      "",
+      "13-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:00.0",
+      "",
+      "",
+      "13-19",
+      "",
+      "A. Şengün misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:58.0",
+      "Defensive rebound by J. Champagnie",
+      "",
+      "13-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:47.0",
+      "Turnover by D. Fox (bad pass)",
+      "",
+      "13-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:47.0",
+      "K. Johnson enters the game for J. Champagnie",
+      "",
+      "13-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:47.0",
+      "D. Vassell enters the game for D. Fox",
+      "",
+      "13-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "13-21",
+      "+2",
+      "A. Şengün makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:13.0",
+      "Turnover by K. Johnson (lost ball; steal by A. Thompson)",
+      "",
+      "13-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "13-21",
+      "",
+      "J. Smith misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:00.0",
+      "Defensive rebound by H. Barnes",
+      "",
+      "13-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "5:49.0",
+      "D. Vassell makes 2-pt jump shot from 13 ft (assist by S. Castle)",
+      "+2",
+      "15-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:36.0",
+      "",
+      "",
+      "15-21",
+      "",
+      "Personal foul by K. Johnson (drawn by K. Durant)"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:36.0",
+      "D. Harper enters the game for H. Barnes",
+      "",
+      "15-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:36.0",
+      "",
+      "",
+      "15-21",
+      "",
+      "R. Sheppard enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "15-21",
+      "",
+      "Turnover by A. Şengün (bad pass)"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:11.0",
+      "K. Johnson makes 2-pt jump shot from 8 ft (assist by L. Kornet)",
+      "+2",
+      "17-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "17-24",
+      "+3",
+      "J. Smith makes 3-pt jump shot from 24 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "4:40.0",
+      "D. Vassell makes 3-pt jump shot from 24 ft (assist by D. Harper)",
+      "+3",
+      "20-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "20-24",
+      "",
+      "R. Sheppard misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "4:27.0",
+      "Defensive rebound by Team",
+      "",
+      "20-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:27.0",
+      "D. Fox enters the game for S. Castle",
+      "",
+      "20-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:13.0",
+      "D. Harper makes 2-pt layup from 1 ft",
+      "+2",
+      "22-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:01.0",
+      "",
+      "",
+      "22-24",
+      "",
+      "K. Durant misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "22-24",
+      "",
+      "Offensive rebound by J. Okogie"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "22-26",
+      "+2",
+      "J. Smith makes 2-pt jump shot from 11 ft (assist by J. Okogie)"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "3:42.0",
+      "D. Harper misses 2-pt jump shot from 13 ft (block by R. Sheppard)",
+      "",
+      "22-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "3:41.0",
+      "Offensive rebound by D. Harper",
+      "",
+      "22-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "3:38.0",
+      "D. Harper makes 2-pt layup from 1 ft",
+      "+2",
+      "24-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "3:24.0",
+      "",
+      "",
+      "24-28",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 10 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:12.0",
+      "D. Fox misses 2-pt jump shot from 16 ft",
+      "",
+      "24-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "24-28",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "2:51.0",
+      "",
+      "",
+      "24-31",
+      "+3",
+      "R. Sheppard makes 3-pt jump shot from 26 ft (assist by K. Durant)"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "2:43.0",
+      "D. Vassell misses 3-pt jump shot from 22 ft",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "24-34",
+      "+3",
+      "A. Şengün makes 3-pt jump shot from 26 ft (assist by K. Durant)"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "2:14.0",
+      "Shooting foul by A. Şengün (drawn by L. Kornet)",
+      "",
+      "24-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "24-34",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "24-34",
+      "",
+      "C. Capela enters the game for K. Durant"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "24-34",
+      "",
+      "D. Finney-Smith enters the game for J. Okogie"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "24-34",
+      "",
+      "A. Thompson enters the game for A. Şengün"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:14.0",
+      "L. Kornet misses free throw 1 of 2",
+      "",
+      "24-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:14.0",
+      "Offensive rebound by Team",
+      "",
+      "24-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:14.0",
+      "L. Kornet misses free throw 2 of 2",
+      "",
+      "24-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "24-34",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "24-34",
+      "",
+      "R. Sheppard misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "1:50.0",
+      "Defensive rebound by K. Johnson",
+      "",
+      "24-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "1:30.0",
+      "K. Johnson makes 2-pt jump shot from 8 ft",
+      "+2",
+      "26-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "26-36",
+      "+2",
+      "C. Capela makes 2-pt hook shot from 2 ft"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "0:48.0",
+      "D. Fox misses 2-pt jump shot from 7 ft",
+      "",
+      "26-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "Defensive rebound by C. Capela"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "0:38.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "R. Sheppard misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "Offensive rebound by C. Capela"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "C. Capela misses 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "Offensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "D. Finney-Smith misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "0:30.0",
+      "Defensive rebound by L. Kornet",
+      "",
+      "26-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:27.0",
+      "D. Vassell misses 3-pt jump shot from 26 ft",
+      "",
+      "26-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "A. Thompson misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "Offensive rebound by C. Capela"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "C. Capela misses 2-pt hook shot from 6 ft"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "Time",
+      "San Antonio",
+      "",
+      "Score",
+      "",
+      "Houston"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "11:42.0",
+      "",
+      "",
+      "26-36",
+      "",
+      "R. Sheppard misses 2-pt hook shot from 9 ft"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "11:40.0",
+      "Defensive rebound by S. Castle",
+      "",
+      "26-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "11:35.0",
+      "S. Castle makes 2-pt layup from 1 ft",
+      "+2",
+      "28-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "28-38",
+      "+2",
+      "A. Thompson makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "11:08.0",
+      "K. Johnson misses 2-pt jump shot from 22 ft",
+      "",
+      "28-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "28-38",
+      "",
+      "Defensive rebound by C. Capela"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "28-40",
+      "+2",
+      "A. Thompson makes 2-pt dunk from 3 ft"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "10:49.0",
+      "K. Johnson misses 2-pt layup from 3 ft (block by C. Capela)",
+      "",
+      "28-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "10:47.0",
+      "",
+      "",
+      "28-40",
+      "",
+      "Defensive rebound by R. Sheppard"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "28-40",
+      "",
+      "K. Durant misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "10:33.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "28-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "10:17.0",
+      "S. Castle makes 2-pt jump shot from 10 ft (assist by K. Johnson)",
+      "+2",
+      "30-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "9:52.0",
+      "",
+      "",
+      "30-40",
+      "",
+      "K. Durant misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "9:52.0",
+      "Defensive rebound by S. Castle",
+      "",
+      "30-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "9:37.0",
+      "S. Castle makes 3-pt jump shot from 24 ft (assist by V. Wembanyama)",
+      "+3",
+      "33-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "9:37.0",
+      "H. Barnes enters the game for D. Harper",
+      "",
+      "33-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "9:37.0",
+      "C. Bryant enters the game for K. Johnson",
+      "",
+      "33-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "33-40",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "9:00.0",
+      "J. Champagnie makes 2-pt dunk from 3 ft (assist by S. Castle)",
+      "+2",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "35-42",
+      "+2",
+      "A. Thompson makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "8:27.0",
+      "V. Wembanyama misses 2-pt dunk from 2 ft (block by C. Capela)",
+      "",
+      "35-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "35-42",
+      "",
+      "Defensive rebound by D. Finney-Smith"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "8:23.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "35-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "35-42",
+      "",
+      "T. Eason enters the game for R. Sheppard"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "35-42",
+      "",
+      "A. Thompson misses 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "8:06.0",
+      "",
+      "",
+      "35-42",
+      "",
+      "Offensive rebound by K. Durant"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "35-42",
+      "",
+      "K. Durant misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "8:01.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "35-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "7:55.0",
+      "V. Wembanyama makes 2-pt jump shot from 9 ft",
+      "+2",
+      "37-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "37-42",
+      "",
+      "Turnover by A. Thompson (bad pass; steal by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "7:38.0",
+      "V. Wembanyama makes 2-pt dunk from 1 ft (assist by S. Castle)",
+      "+2",
+      "39-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "39-44",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "6:56.0",
+      "Turnover by S. Castle (lost ball; steal by A. Thompson)",
+      "",
+      "39-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "39-46",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 15 ft (assist by A. Thompson)"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "6:44.0",
+      "Turnover by J. Champagnie (bad pass; steal by T. Eason)",
+      "",
+      "39-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "39-46",
+      "",
+      "T. Eason misses 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "39-46",
+      "",
+      "Offensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "39-49",
+      "+3",
+      "T. Eason makes 3-pt jump shot from 23 ft (assist by K. Durant)"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "6:34.0",
+      "San Antonio full timeout",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "6:34.0",
+      "D. Fox enters the game for C. Bryant",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "6:34.0",
+      "L. Kornet enters the game for J. Champagnie",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "6:34.0",
+      "D. Vassell enters the game for V. Wembanyama",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "39-49",
+      "",
+      "J. Okogie enters the game for C. Capela"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "39-49",
+      "",
+      "A. Şengün enters the game for K. Durant"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "39-49",
+      "",
+      "R. Sheppard enters the game for D. Finney-Smith"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "39-49",
+      "",
+      "J. Smith enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "6:13.0",
+      "H. Barnes misses 2-pt jump shot from 8 ft (block by J. Okogie)",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "6:13.0",
+      "Offensive rebound by Team",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "6:08.0",
+      "H. Barnes makes 2-pt jump shot from 10 ft (assist by S. Castle)",
+      "+2",
+      "41-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "5:48.0",
+      "",
+      "",
+      "41-52",
+      "+3",
+      "T. Eason makes 3-pt jump shot from 23 ft (assist by J. Smith)"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "5:35.0",
+      "S. Castle misses 2-pt jump shot from 10 ft",
+      "",
+      "41-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "41-52",
+      "",
+      "Defensive rebound by J. Okogie"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "41-55",
+      "+3",
+      "J. Smith makes 3-pt jump shot from 26 ft (assist by J. Okogie)"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "5:04.0",
+      "S. Castle makes 2-pt layup from 8 ft",
+      "+2",
+      "43-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "43-55",
+      "",
+      "A. Şengün misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "4:45.0",
+      "Defensive rebound by L. Kornet",
+      "",
+      "43-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "4:34.0",
+      "Turnover by S. Castle (bad pass; steal by A. Şengün)",
+      "",
+      "43-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "43-55",
+      "",
+      "A. Şengün misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "43-55",
+      "",
+      "Offensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "43-55",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "43-55",
+      "",
+      "Violation by Team (delay of game)"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "4:17.0",
+      "K. Johnson enters the game for S. Castle",
+      "",
+      "43-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "4:17.0",
+      "V. Wembanyama enters the game for L. Kornet",
+      "",
+      "43-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "43-55",
+      "",
+      "R. Sheppard misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "43-55",
+      "",
+      "Offensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "43-55",
+      "",
+      "A. Şengün misses 2-pt hook shot from 4 ft (block by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "4:05.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "43-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "3:56.0",
+      "K. Johnson misses 3-pt jump shot from 26 ft",
+      "",
+      "43-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "43-55",
+      "",
+      "Defensive rebound by J. Okogie"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "43-57",
+      "+2",
+      "R. Sheppard makes 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "3:33.0",
+      "D. Vassell misses 3-pt jump shot from 24 ft",
+      "",
+      "43-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "43-57",
+      "",
+      "Defensive rebound by R. Sheppard"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "43-59",
+      "+2",
+      "R. Sheppard makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "3:22.0",
+      "San Antonio full timeout",
+      "",
+      "43-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "3:22.0",
+      "D. Harper enters the game for D. Vassell",
+      "",
+      "43-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "3:10.0",
+      "D. Fox makes 2-pt jump shot from 13 ft (assist by K. Johnson)",
+      "+2",
+      "45-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "45-59",
+      "",
+      "J. Okogie misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "2:52.0",
+      "Defensive rebound by K. Johnson",
+      "",
+      "45-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "2:44.0",
+      "Turnover by D. Harper (bad pass; steal by J. Smith)",
+      "",
+      "45-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "45-59",
+      "",
+      "Shooting foul by V. Wembanyama (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "45-60",
+      "+1",
+      "A. Şengün makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "45-60",
+      "",
+      "A. Şengün misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "45-60",
+      "",
+      "Offensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "45-60",
+      "",
+      "A. Şengün misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "2:38.0",
+      "Defensive rebound by K. Johnson",
+      "",
+      "45-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "2:29.0",
+      "D. Harper makes 2-pt layup from 1 ft (assist by K. Johnson)",
+      "+2",
+      "47-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "47-62",
+      "+2",
+      "A. Şengün makes 2-pt hook shot from 6 ft"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "47-62",
+      "",
+      "Shooting foul by V. Wembanyama (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "47-62",
+      "",
+      "A. Şengün misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "2:12.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "47-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "1:52.0",
+      "K. Johnson misses 2-pt jump shot from 8 ft",
+      "",
+      "47-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "1:50.0",
+      "Offensive rebound by K. Johnson",
+      "",
+      "47-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "1:50.0",
+      "K. Johnson makes 2-pt layup at rim",
+      "+2",
+      "49-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "49-62",
+      "",
+      "J. Smith misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "1:31.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "49-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "1:26.0",
+      "V. Wembanyama makes 2-pt dunk from 1 ft (assist by D. Fox)",
+      "+2",
+      "51-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "51-62",
+      "",
+      "J. Okogie misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "1:06.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "51-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "1:02.0",
+      "Personal foul by J. Smith (drawn by V. Wembanyama)",
+      "",
+      "51-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "51-62",
+      "",
+      "K. Durant enters the game for J. Okogie"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "51-62",
+      "",
+      "A. Thompson enters the game for R. Sheppard"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "0:55.0",
+      "Personal foul by A. Şengün (drawn by V. Wembanyama)",
+      "",
+      "51-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "0:55.0",
+      "V. Wembanyama misses free throw 1 of 2",
+      "",
+      "51-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "0:55.0",
+      "Offensive rebound by Team",
+      "",
+      "51-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "0:55.0",
+      "V. Wembanyama makes free throw 2 of 2",
+      "+1",
+      "52-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "52-62",
+      "",
+      "K. Durant misses 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "0:33.0",
+      "Defensive rebound by D. Harper",
+      "",
+      "52-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "0:27.0",
+      "D. Fox makes 2-pt jump shot from 8 ft (assist by D. Harper)",
+      "+2",
+      "54-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "54-62",
+      "",
+      "T. Eason misses 2-pt jump shot from 11 ft (block by D. Harper)"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "54-62",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "54-62",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "54-62",
+      "",
+      "J. Okogie enters the game for A. Şengün"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "0:02.0",
+      "Turnover by D. Fox (bad pass; steal by J. Okogie)",
+      "",
+      "54-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "54-62",
+      "",
+      "J. Okogie misses 3-pt jump shot from 32 ft"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "54-62",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "Time",
+      "San Antonio",
+      "",
+      "Score",
+      "",
+      "Houston"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "11:49.0",
+      "",
+      "",
+      "54-62",
+      "",
+      "A. Thompson misses 2-pt dunk from 6 ft (block by D. Fox)"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "11:48.0",
+      "Defensive rebound by D. Fox",
+      "",
+      "54-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "11:44.0",
+      "H. Barnes misses 3-pt jump shot from 24 ft",
+      "",
+      "54-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "11:42.0",
+      "",
+      "",
+      "54-62",
+      "",
+      "Defensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "54-64",
+      "+2",
+      "A. Thompson makes 2-pt dunk from 2 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "54-64",
+      "",
+      "Shooting foul by J. Champagnie (drawn by A. Thompson)"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "54-65",
+      "+1",
+      "A. Thompson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "11:19.0",
+      "Shooting foul by J. Smith (drawn by V. Wembanyama)",
+      "",
+      "54-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "11:19.0",
+      "V. Wembanyama makes free throw 1 of 2",
+      "+1",
+      "55-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "11:19.0",
+      "V. Wembanyama makes free throw 2 of 2",
+      "+1",
+      "56-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "56-65",
+      "",
+      "A. Şengün misses 2-pt hook shot from 7 ft (block by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "10:57.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "56-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "10:49.0",
+      "S. Castle makes 2-pt dunk from 2 ft (assist by D. Fox)",
+      "+2",
+      "58-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "58-68",
+      "+3",
+      "K. Durant makes 3-pt jump shot from 24 ft (assist by A. Thompson)"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "10:25.0",
+      "Turnover by D. Fox (bad pass; steal by A. Şengün)",
+      "",
+      "58-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "58-68",
+      "",
+      "Turnover by J. Smith (bad pass; steal by S. Castle)"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "10:15.0",
+      "Personal foul by T. Eason (drawn by S. Castle)",
+      "",
+      "58-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "10:04.0",
+      "V. Wembanyama makes 2-pt jump shot from 14 ft",
+      "+2",
+      "60-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "60-68",
+      "",
+      "A. Şengün misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "9:36.0",
+      "",
+      "",
+      "60-68",
+      "",
+      "Offensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "9:36.0",
+      "",
+      "",
+      "60-70",
+      "+2",
+      "A. Thompson makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "9:20.0",
+      "Offensive foul by V. Wembanyama (drawn by A. Şengün)",
+      "",
+      "60-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "9:20.0",
+      "Turnover by V. Wembanyama (offensive foul)",
+      "",
+      "60-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "60-70",
+      "",
+      "A. Thompson misses 2-pt layup from 10 ft"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "60-70",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "9:02.0",
+      "",
+      "",
+      "60-70",
+      "",
+      "Offensive foul by J. Smith (drawn by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "9:02.0",
+      "",
+      "",
+      "60-70",
+      "",
+      "Turnover by J. Smith (offensive foul)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "8:49.0",
+      "D. Fox makes 3-pt jump shot from 25 ft (assist by V. Wembanyama)",
+      "+3",
+      "63-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "8:28.0",
+      "",
+      "",
+      "63-72",
+      "+2",
+      "T. Eason makes 2-pt jump shot from 9 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "8:12.0",
+      "S. Castle misses 2-pt layup from 2 ft (block by T. Eason)",
+      "",
+      "63-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "8:10.0",
+      "Offensive rebound by S. Castle",
+      "",
+      "63-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "8:07.0",
+      "S. Castle misses 2-pt layup from 3 ft",
+      "",
+      "63-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "63-72",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "63-72",
+      "",
+      "J. Smith misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "7:57.0",
+      "",
+      "",
+      "63-72",
+      "",
+      "Offensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "7:57.0",
+      "",
+      "",
+      "63-72",
+      "",
+      "T. Eason misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "63-72",
+      "",
+      "Offensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "63-72",
+      "",
+      "T. Eason misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "63-72",
+      "",
+      "Offensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "63-74",
+      "+2",
+      "A. Şengün makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "7:52.0",
+      "San Antonio full timeout",
+      "",
+      "63-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "7:52.0",
+      "K. Johnson enters the game for S. Castle",
+      "",
+      "63-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "7:52.0",
+      "L. Kornet enters the game for V. Wembanyama",
+      "",
+      "63-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "7:37.0",
+      "K. Johnson makes 2-pt jump shot from 8 ft (assist by D. Fox)",
+      "+2",
+      "65-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "65-76",
+      "+2",
+      "A. Thompson makes 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "7:17.0",
+      "J. Champagnie misses 3-pt jump shot from 23 ft",
+      "",
+      "65-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "65-76",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "65-76",
+      "",
+      "Shooting foul by K. Johnson (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "65-76",
+      "",
+      "A. Şengün misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "65-76",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "65-76",
+      "",
+      "A. Şengün misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "7:03.0",
+      "Defensive rebound by J. Champagnie",
+      "",
+      "65-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "6:53.0",
+      "K. Johnson makes 2-pt layup from 8 ft (assist by D. Fox)",
+      "+2",
+      "67-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "67-76",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "67-76",
+      "",
+      "R. Sheppard enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "67-76",
+      "",
+      "A. Şengün misses 2-pt hook shot from 8 ft (block by L. Kornet)"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "6:32.0",
+      "Defensive rebound by D. Fox",
+      "",
+      "67-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "6:19.0",
+      "J. Champagnie misses 3-pt jump shot from 23 ft",
+      "",
+      "67-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "67-76",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "67-76",
+      "",
+      "Technical foul by T. Eason"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "6:15.0",
+      "Technical foul by L. Kornet",
+      "",
+      "67-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "67-76",
+      "",
+      "A. Thompson misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "6:02.0",
+      "Defensive rebound by K. Johnson",
+      "",
+      "67-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "5:47.0",
+      "K. Johnson makes 3-pt jump shot from 27 ft (assist by H. Barnes)",
+      "+3",
+      "70-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "70-78",
+      "+2",
+      "A. Thompson makes 2-pt jump shot from 12 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "5:17.0",
+      "K. Johnson misses 3-pt jump shot from 25 ft",
+      "",
+      "70-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "70-78",
+      "",
+      "Defensive rebound by R. Sheppard"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "70-78",
+      "",
+      "T. Eason misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "70-78",
+      "",
+      "Offensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "70-78",
+      "",
+      "K. Durant misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "5:04.0",
+      "Defensive rebound by K. Johnson",
+      "",
+      "70-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "5:00.0",
+      "Shooting foul by R. Sheppard (drawn by D. Fox)",
+      "",
+      "70-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "5:00.0",
+      "D. Fox makes free throw 1 of 2",
+      "+1",
+      "71-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "5:00.0",
+      "D. Harper enters the game for H. Barnes",
+      "",
+      "71-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "5:00.0",
+      "D. Vassell enters the game for J. Champagnie",
+      "",
+      "71-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "71-78",
+      "",
+      "J. Okogie enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "5:00.0",
+      "D. Fox makes free throw 2 of 2",
+      "+1",
+      "72-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "72-78",
+      "",
+      "R. Sheppard misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "4:43.0",
+      "Defensive rebound by D. Harper",
+      "",
+      "72-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "4:40.0",
+      "D. Harper makes 2-pt layup from 2 ft",
+      "+2",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "4:40.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "4:40.0",
+      "S. Castle enters the game for D. Fox",
+      "",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "4:40.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "J. Smith enters the game for J. Okogie"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "4:21.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "Turnover by K. Durant (bad pass; steal by S. Castle)"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "4:15.0",
+      "D. Vassell misses 3-pt jump shot from 23 ft",
+      "",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "4:13.0",
+      "Offensive rebound by Team",
+      "",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "Loose ball foul by T. Eason (drawn by S. Castle)"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "D. Finney-Smith enters the game for T. Eason"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "4:01.0",
+      "S. Castle misses 3-pt jump shot from 26 ft",
+      "",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "Defensive rebound by R. Sheppard"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "Turnover by D. Finney-Smith (step out of bounds)"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "3:33.0",
+      "D. Harper misses 3-pt jump shot from 26 ft",
+      "",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "Defensive rebound by K. Durant"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "D. Finney-Smith misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "3:20.0",
+      "Defensive rebound by S. Castle",
+      "",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "3:16.0",
+      "Shooting foul by D. Finney-Smith (drawn by S. Castle)",
+      "",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "3:16.0",
+      "S. Castle misses free throw 1 of 2",
+      "",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "3:16.0",
+      "Offensive rebound by Team",
+      "",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "3:16.0",
+      "S. Castle makes free throw 2 of 2",
+      "+1",
+      "75-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "75-78",
+      "",
+      "Turnover by D. Finney-Smith (bad pass; steal by D. Vassell)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "2:50.0",
+      "K. Johnson makes 2-pt layup from 3 ft",
+      "+2",
+      "77-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "77-78",
+      "",
+      "Turnover by R. Sheppard (bad pass)"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "77-78",
+      "",
+      "A. Thompson enters the game for A. Şengün"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "2:22.0",
+      "K. Johnson misses 2-pt hook shot from 11 ft (block by K. Durant)",
+      "",
+      "77-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "2:19.0",
+      "Offensive rebound by L. Kornet",
+      "",
+      "77-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "2:15.0",
+      "D. Harper makes 2-pt layup from 2 ft (assist by K. Johnson)",
+      "+2",
+      "79-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "1:59.0",
+      "",
+      "",
+      "79-78",
+      "",
+      "A. Thompson misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "1:56.0",
+      "Defensive rebound by S. Castle",
+      "",
+      "79-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "1:47.0",
+      "D. Vassell misses 2-pt layup from 9 ft (block by R. Sheppard)",
+      "",
+      "79-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "79-78",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "79-80",
+      "+2",
+      "R. Sheppard makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "1:20.0",
+      "Turnover by D. Harper (lost ball; steal by R. Sheppard)",
+      "",
+      "79-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "79-80",
+      "",
+      "Shooting foul by K. Johnson (drawn by K. Durant)"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "79-81",
+      "+1",
+      "K. Durant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "1:18.0",
+      "D. Fox enters the game for K. Johnson",
+      "",
+      "79-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "1:18.0",
+      "V. Wembanyama enters the game for L. Kornet",
+      "",
+      "79-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "79-82",
+      "+1",
+      "K. Durant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "1:01.0",
+      "D. Fox makes 3-pt jump shot from 25 ft (assist by S. Castle)",
+      "+3",
+      "82-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "0:38.0",
+      "",
+      "",
+      "82-82",
+      "",
+      "Personal foul by D. Harper (drawn by K. Durant)"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "0:38.0",
+      "",
+      "",
+      "82-83",
+      "+1",
+      "K. Durant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "0:38.0",
+      "",
+      "",
+      "82-83",
+      "",
+      "J. Okogie enters the game for R. Sheppard"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:38.0",
+      "",
+      "",
+      "82-84",
+      "+1",
+      "K. Durant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:29.0",
+      "S. Castle makes 2-pt layup from 1 ft (assist by D. Fox)",
+      "+2",
+      "84-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:14.0",
+      "",
+      "",
+      "84-86",
+      "+2",
+      "A. Thompson makes 2-pt dunk from 1 ft (assist by K. Durant)"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "0:01.0",
+      "D. Fox misses 3-pt jump shot from 26 ft",
+      "",
+      "84-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "0:01.0",
+      "Offensive rebound by Team",
+      "",
+      "84-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "Time",
+      "San Antonio",
+      "",
+      "Score",
+      "",
+      "Houston"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "11:47.0",
+      "Shooting foul by A. Şengün (drawn by V. Wembanyama)",
+      "",
+      "84-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "11:47.0",
+      "V. Wembanyama makes free throw 1 of 2",
+      "+1",
+      "85-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "11:47.0",
+      "V. Wembanyama makes free throw 2 of 2",
+      "+1",
+      "86-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "11:31.0",
+      "",
+      "",
+      "86-86",
+      "",
+      "R. Sheppard misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "11:31.0",
+      "Defensive rebound by J. Champagnie",
+      "",
+      "86-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "11:24.0",
+      "J. Champagnie misses 3-pt jump shot from 26 ft",
+      "",
+      "86-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "11:23.0",
+      "Offensive rebound by V. Wembanyama",
+      "",
+      "86-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "11:20.0",
+      "V. Wembanyama misses 2-pt layup from 3 ft (block by A. Thompson)",
+      "",
+      "86-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "11:19.0",
+      "Offensive rebound by V. Wembanyama",
+      "",
+      "86-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "11:12.0",
+      "Shooting foul by D. Finney-Smith (drawn by V. Wembanyama)",
+      "",
+      "86-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "11:12.0",
+      "V. Wembanyama makes free throw 1 of 2",
+      "+1",
+      "87-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "11:12.0",
+      "Violation by Team (delay of game)",
+      "",
+      "87-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "11:12.0",
+      "V. Wembanyama misses free throw 2 of 2",
+      "",
+      "87-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "10:49.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "Personal foul by D. Vassell (drawn by A. Thompson)"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "R. Sheppard misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "Offensive rebound by R. Sheppard"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "A. Thompson misses 2-pt jump shot from 20 ft (block by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "A. Thompson misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "10:11.0",
+      "Defensive rebound by D. Fox",
+      "",
+      "87-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "10:07.0",
+      "V. Wembanyama misses 3-pt jump shot from 28 ft",
+      "",
+      "87-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "10:05.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "Personal foul by S. Castle (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "87-86",
+      "",
+      "A. Şengün misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "9:45.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "87-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "9:40.0",
+      "Shooting foul by A. Şengün (drawn by V. Wembanyama)",
+      "",
+      "87-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "9:40.0",
+      "V. Wembanyama makes free throw 1 of 2",
+      "+1",
+      "88-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "9:40.0",
+      "V. Wembanyama makes free throw 2 of 2",
+      "+1",
+      "89-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "89-86",
+      "",
+      "A. Şengün misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:16.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "89-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:00.0",
+      "V. Wembanyama makes 2-pt jump shot from 18 ft",
+      "+2",
+      "91-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "91-86",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "8:48.0",
+      "H. Barnes enters the game for J. Champagnie",
+      "",
+      "91-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "91-86",
+      "",
+      "K. Durant enters the game for A. Şengün"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "91-86",
+      "",
+      "T. Eason enters the game for R. Sheppard"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "8:34.0",
+      "",
+      "",
+      "91-86",
+      "",
+      "A. Thompson misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "8:32.0",
+      "Defensive rebound by D. Vassell",
+      "",
+      "91-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "8:25.0",
+      "S. Castle makes 2-pt layup from 2 ft",
+      "+2",
+      "93-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "8:25.0",
+      "Shooting foul by K. Durant (drawn by S. Castle)",
+      "",
+      "93-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "8:25.0",
+      "S. Castle misses free throw 1 of 1",
+      "",
+      "93-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "93-86",
+      "",
+      "Defensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "93-86",
+      "",
+      "A. Thompson misses 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "8:12.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "93-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:08.0",
+      "V. Wembanyama makes 2-pt layup from 6 ft",
+      "+2",
+      "95-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:08.0",
+      "Shooting foul by K. Durant (drawn by V. Wembanyama)",
+      "",
+      "95-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "8:08.0",
+      "V. Wembanyama misses free throw 1 of 1",
+      "",
+      "95-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "95-86",
+      "",
+      "Defensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "95-86",
+      "",
+      "Shooting foul by H. Barnes (drawn by K. Durant)"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "95-87",
+      "+1",
+      "K. Durant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "95-87",
+      "",
+      "A. Şengün enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "95-88",
+      "+1",
+      "K. Durant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "7:29.0",
+      "V. Wembanyama misses 3-pt jump shot from 25 ft",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "T. Eason misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "7:11.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "Offensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "7:00.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "K. Durant misses 2-pt jump shot from 14 ft (block by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "6:57.0",
+      "K. Johnson enters the game for D. Vassell",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "6:45.0",
+      "D. Fox misses 3-pt jump shot from 25 ft",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "6:43.0",
+      "Offensive rebound by V. Wembanyama",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "6:43.0",
+      "V. Wembanyama misses 2-pt layup from 1 ft",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "A. Şengün misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "6:26.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "6:22.0",
+      "Turnover by V. Wembanyama (bad pass; steal by T. Eason)",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "K. Durant misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "6:08.0",
+      "Defensive rebound by D. Fox",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "6:05.0",
+      "Turnover by D. Fox (bad pass; steal by A. Thompson)",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "6:00.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "Turnover by A. Thompson (bad pass; steal by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "5:56.0",
+      "D. Fox makes 2-pt layup from 2 ft (assist by V. Wembanyama)",
+      "+2",
+      "97-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "97-90",
+      "+2",
+      "T. Eason makes 2-pt jump shot from 22 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "5:29.0",
+      "V. Wembanyama misses 2-pt jump shot from 15 ft",
+      "",
+      "97-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "97-90",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "97-90",
+      "",
+      "Shooting foul by S. Castle (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "5:18.0",
+      "San Antonio full timeout",
+      "",
+      "97-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "5:18.0",
+      "D. Harper enters the game for S. Castle",
+      "",
+      "97-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "5:18.0",
+      "L. Kornet enters the game for D. Fox",
+      "",
+      "97-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "5:18.0",
+      "D. Vassell enters the game for V. Wembanyama",
+      "",
+      "97-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "97-90",
+      "",
+      "J. Smith enters the game for D. Finney-Smith"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "97-91",
+      "+1",
+      "A. Şengün makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "97-92",
+      "+1",
+      "A. Şengün makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "5:00.0",
+      "D. Harper makes 2-pt layup from 1 ft (assist by K. Johnson)",
+      "+2",
+      "99-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "99-94",
+      "+2",
+      "A. Thompson makes 2-pt layup from 2 ft (assist by K. Durant)"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "4:21.0",
+      "H. Barnes makes 2-pt jump shot from 7 ft (assist by D. Harper)",
+      "+2",
+      "101-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "4:03.0",
+      "",
+      "",
+      "101-94",
+      "",
+      "K. Durant misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "4:03.0",
+      "Defensive rebound by D. Harper",
+      "",
+      "101-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "3:56.0",
+      "D. Harper makes 2-pt layup from 1 ft",
+      "+2",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "103-96",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "3:26.0",
+      "D. Harper makes 2-pt layup from 1 ft",
+      "+2",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "105-96",
+      "",
+      "J. Smith misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "3:03.0",
+      "Defensive rebound by K. Johnson",
+      "",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "2:44.0",
+      "K. Johnson misses 3-pt jump shot from 26 ft",
+      "",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "2:42.0",
+      "Offensive rebound by L. Kornet",
+      "",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "2:39.0",
+      "K. Johnson makes 2-pt dunk from 2 ft (assist by L. Kornet)",
+      "+2",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "2:39.0",
+      "S. Castle enters the game for H. Barnes",
+      "",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "2:39.0",
+      "D. Fox enters the game for L. Kornet",
+      "",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "2:39.0",
+      "V. Wembanyama enters the game for D. Vassell",
+      "",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "R. Sheppard enters the game for T. Eason"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "A. Thompson misses 2-pt layup from 8 ft (block by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "2:20.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "Turnover by K. Durant (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "2:09.0",
+      "D. Harper misses 3-pt jump shot from 26 ft",
+      "",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "A. Şengün misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "1:52.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "1:40.0",
+      "Turnover by D. Fox (lost ball; steal by A. Thompson)",
+      "",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "1:36.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "J. Smith misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "1:34.0",
+      "Defensive rebound by D. Fox",
+      "",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "1:31.0",
+      "V. Wembanyama makes 2-pt dunk from 2 ft (assist by D. Fox)",
+      "+2",
+      "109-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "109-96",
+      "",
+      "A. Şengün misses 2-pt hook shot from 12 ft"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "109-96",
+      "",
+      "Offensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "109-96",
+      "",
+      "A. Thompson misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "1:06.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "109-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "0:51.0",
+      "Shooting foul by A. Şengün (drawn by V. Wembanyama)",
+      "",
+      "109-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:51.0",
+      "V. Wembanyama makes free throw 1 of 2",
+      "+1",
+      "110-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "110-96",
+      "",
+      "C. Capela enters the game for K. Durant"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "110-96",
+      "",
+      "D. Finney-Smith enters the game for A. Şengün"
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "110-96",
+      "",
+      "A. Holiday enters the game for R. Sheppard"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "110-96",
+      "",
+      "J. Okogie enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "110-96",
+      "",
+      "J. Tate enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "0:51.0",
+      "V. Wembanyama makes free throw 2 of 2",
+      "+1",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "111-96",
+      "",
+      "Personal take foul by K. Johnson (drawn by C. Capela)"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "111-96",
+      "",
+      "C. Capela misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "111-96",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "0:40.0",
+      "B. Biyombo enters the game for S. Castle",
+      "",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "0:40.0",
+      "C. Bryant enters the game for D. Fox",
+      "",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "0:40.0",
+      "J. McLaughlin enters the game for K. Johnson",
+      "",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "0:40.0",
+      "L. Waters enters the game for V. Wembanyama",
+      "",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "111-97",
+      "+1",
+      "C. Capela makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "0:21.0",
+      "J. McLaughlin misses 2-pt jump shot from 16 ft",
+      "",
+      "111-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "111-97",
+      "",
+      "Defensive rebound by D. Finney-Smith"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "111-99",
+      "+2",
+      "C. Capela makes 2-pt dunk from 1 ft (assist by A. Holiday)"
+    ]
+  }
+]

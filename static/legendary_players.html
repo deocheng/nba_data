@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA传奇球员</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #FFFFFF;
+            min-height: 100vh;
+            color: #333333;
+        }
+        
+        .navbar {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid rgba(11, 61, 145, 0.1);
+        }
+        
+        .navbar h1 {
+            font-size: 1.8rem;
+            color: #0b3d91;
+        }
+        
+        .navbar nav {
+            margin-top: 0.5rem;
+        }
+        
+        .navbar nav a {
+            color: rgba(11, 61, 145, 0.8);
+            text-decoration: none;
+            margin-right: 2rem;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+        
+        .navbar nav a:hover,
+        .navbar nav a.active {
+            background: rgba(11, 61, 145, 0.15);
+            color: #0b3d91;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .player-selector {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+        
+        .player-btn {
+            background: #f8f9fa;
+            border: 2px solid rgba(11, 61, 145, 0.2);
+            border-radius: 10px;
+            padding: 0.8rem 1.5rem;
+            color: #333;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .player-btn:hover,
+        .player-btn.active {
+            background: rgba(11, 61, 145, 0.15);
+            border-color: #0b3d91;
+            transform: scale(1.05);
+            color: #0b3d91;
+        }
+        
+        .player-card {
+            background: #f8f9fa;
+            border-radius: 20px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(11, 61, 145, 0.1);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+        
+        .player-header {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .player-avatar {
+            width: 150px;
+            height: 190px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            font-weight: bold;
+            color: #fff;
+            overflow: hidden;
+            background: transparent;
+        }
+
+        .player-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            border-radius: 8px;
+        }
+        
+        .player-info {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .player-info h2 {
+            font-size: 2.5rem;
+            color: #1e90ff;
+            margin-bottom: 0.5rem;
+        }
+        
+        .player-info .english-name {
+            font-size: 1.2rem;
+            color: #aaa;
+            margin-bottom: 1rem;
+        }
+        
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+        
+        .info-item {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 0.8rem;
+            border-radius: 10px;
+        }
+        
+        .info-item .label {
+            font-size: 0.8rem;
+            color: #888;
+            margin-bottom: 0.3rem;
+        }
+        
+        .info-item .value {
+            font-size: 1.1rem;
+            color: #fff;
+            font-weight: 500;
+        }
+        
+        .honors-section {
+            margin-top: 2rem;
+        }
+        
+        .honors-section h3 {
+            font-size: 1.3rem;
+            margin-bottom: 1rem;
+            color: #1e90ff;
+        }
+        
+        .honors-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .honor-badge {
+            background: linear-gradient(135deg, #ffd700 0%, #ff8c00 100%);
+            color: #000;
+            padding: 0.8rem 1.5rem;
+            border-radius: 25px;
+            font-weight: bold;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+        
+        .honor-badge:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 20px rgba(255, 215, 0, 0.4);
+        }
+        
+        .stats-section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .stats-section h3 {
+            font-size: 1.3rem;
+            margin-bottom: 1.5rem;
+            color: #1e90ff;
+        }
+        
+        .career-stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+        }
+        
+        .stat-card {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 1.5rem;
+            border-radius: 15px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+        
+        .stat-card:hover {
+            background: rgba(30, 144, 255, 0.1);
+            transform: translateY(-5px);
+        }
+        
+        .stat-card .stat-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #1e90ff;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-card .stat-label {
+            font-size: 0.9rem;
+            color: #888;
+        }
+        
+        .timeline-section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .timeline-section h3 {
+            font-size: 1.3rem;
+            margin-bottom: 1.5rem;
+            color: #1e90ff;
+        }
+        
+        .timeline {
+            position: relative;
+            padding-left: 30px;
+        }
+        
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 10px;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: linear-gradient(180deg, #1e90ff 0%, #0f3460 100%);
+            border-radius: 3px;
+        }
+        
+        .timeline-item {
+            position: relative;
+            margin-bottom: 2rem;
+        }
+        
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -24px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 12px;
+            height: 12px;
+            background: #1e90ff;
+            border-radius: 50%;
+            border: 3px solid rgba(30, 144, 255, 0.3);
+        }
+        
+        .timeline-content {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 1.5rem;
+            border-radius: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        .timeline-period {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #1e90ff;
+        }
+        
+        .timeline-team {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .team-logo {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+        
+        .timeline-description {
+            color: #888;
+        }
+        
+        .season-section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .season-section h3 {
+            font-size: 1.3rem;
+            margin-bottom: 1.5rem;
+            color: #1e90ff;
+        }
+        
+        .season-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .season-table th,
+        .season-table td {
+            padding: 1rem;
+            text-align: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .season-table th {
+            background: rgba(30, 144, 255, 0.1);
+            color: #1e90ff;
+            font-weight: 600;
+        }
+        
+        .season-table tr:hover {
+            background: rgba(30, 144, 255, 0.1);
+        }
+        
+        .chart-section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .chart-section h3 {
+            font-size: 1.3rem;
+            margin-bottom: 1.5rem;
+            color: #1e90ff;
+        }
+        
+        .chart-container {
+            height: 400px;
+        }
+        
+        @media (max-width: 768px) {
+            .player-header {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .info-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .honors-grid {
+                justify-content: center;
+            }
+            
+            .season-table {
+                font-size: 0.8rem;
+            }
+            
+            .season-table th,
+            .season-table td {
+                padding: 0.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <h1>NBA数据</h1>
+        <nav>
+            <a href="/">球队</a>
+            <a href="/team-history" target="_blank">球队历史</a>
+            <a href="/matchup" target="_blank">球队对阵</a>
+            <a href="/player-compare" target="_blank">球员对比</a>
+            <a href="/legendary-players" class="active">传奇球员</a>
+            <a href="/player-radar" target="_blank">能力雷达图</a>
+            <a href="/rankings" target="_blank">高阶数据</a>
+            <a href="/spurs" target="_blank">马刺专区</a>
+        </nav>
+    </nav>
+    
+    <div class="container">
+        <div class="player-selector">
+            <button class="player-btn active" data-player="michael_jordan">迈克尔·乔丹</button>
+            <button class="player-btn" data-player="kobe_bryant">科比·布莱恩特</button>
+            <button class="player-btn" data-player="tim_duncan">蒂姆·邓肯</button>
+            <button class="player-btn" data-player="lebron_james">勒布朗·詹姆斯</button>
+            <button class="player-btn" data-player="victor_wembanyama">维克托·文班亚巴</button>
+        </div>
+        
+        <div style="text-align: center; margin-bottom: 20px;">
+            <a href="#" id="viewProfileLink" class="player-btn" style="text-decoration: none; display: inline-block;">
+                🔍 查看完整球员详情
+            </a>
+        </div>
+        
+        <div class="player-card" id="playerCard">
+            <div class="player-header">
+                <div class="player-avatar" id="playerAvatar">MJ</div>
+                <div class="player-info">
+                    <h2 id="playerName">迈克尔·乔丹</h2>
+                    <div class="english-name" id="englishName">Michael Jordan</div>
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <div class="label">位置</div>
+                            <div class="value" id="position">得分后卫 (SG)</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="label">身高</div>
+                            <div class="value" id="height">198 cm</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="label">体重</div>
+                            <div class="value" id="weight">98 kg</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="label">球衣号码</div>
+                            <div class="value" id="jersey">23</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="label">出生日期</div>
+                            <div class="value" id="birthDate">1963年2月17日</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="label">出生地</div>
+                            <div class="value" id="birthPlace">美国纽约布鲁克林</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="label">选秀年份</div>
+                            <div class="value" id="draftYear">1984年第一轮第3顺位</div>
+                        </div>
+                        <div class="info-item">
+                            <div class="label">退役年份</div>
+                            <div class="value" id="retireYear">2003年</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="honors-section">
+                <h3>🏆 生涯荣誉</h3>
+                <div class="honors-grid" id="honorsGrid">
+                    <div class="honor-badge">总冠军 x6</div>
+                    <div class="honor-badge">MVP x5</div>
+                    <div class="honor-badge">FMVP x6</div>
+                    <div class="honor-badge">得分王 x10</div>
+                    <div class="honor-badge">全明星 x14</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="stats-section">
+            <h3>📊 生涯技术统计</h3>
+            <div class="career-stats-grid" id="careerStats">
+                <div class="stat-card">
+                    <div class="stat-value">30.1</div>
+                    <div class="stat-label">场均得分</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">6.2</div>
+                    <div class="stat-label">场均篮板</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">5.3</div>
+                    <div class="stat-label">场均助攻</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">2.3</div>
+                    <div class="stat-label">场均抢断</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">0.8</div>
+                    <div class="stat-label">场均盖帽</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">49.7%</div>
+                    <div class="stat-label">投篮命中率</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">32.7%</div>
+                    <div class="stat-label">三分命中率</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">83.5%</div>
+                    <div class="stat-label">罚球命中率</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="chart-section">
+            <h3>🎯 能力值雷达图</h3>
+            <div class="chart-container">
+                <canvas id="radarChart"></canvas>
+            </div>
+        </div>
+        
+        <div class="timeline-section">
+            <h3>⏱️ 职业生涯时间线</h3>
+            <div class="timeline" id="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <div class="timeline-period">1984 - 1993</div>
+                        <div class="timeline-team">
+                            <div class="team-logo">CHI</div>
+                            <span>芝加哥公牛</span>
+                        </div>
+                        <div class="timeline-description">第一个公牛时期</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="chart-section">
+            <h3>📈 赛季得分趋势</h3>
+            <div class="chart-container">
+                <canvas id="scoreChart"></canvas>
+            </div>
+        </div>
+        
+        <div class="season-section">
+            <h3>📋 赛季详细数据</h3>
+            <table class="season-table" id="seasonTable">
+                <thead>
+                    <tr>
+                        <th>赛季</th>
+                        <th>球队</th>
+                        <th>场次</th>
+                        <th>场均得分</th>
+                        <th>场均篮板</th>
+                        <th>场均助攻</th>
+                        <th>场均抢断</th>
+                        <th>场均盖帽</th>
+                        <th>投篮%</th>
+                        <th>三分%</th>
+                        <th>罚球%</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+    <script>
+        let currentPlayer = 'michael_jordan';
+        let scoreChart = null;
+        
+        async function loadPlayerData(playerId) {
+            currentPlayer = playerId;
+            
+            // 更新查看详情链接
+            const viewProfileLink = document.getElementById('viewProfileLink');
+            if (viewProfileLink) {
+                viewProfileLink.href = `/player-profile?id=${playerId}`;
+            }
+            
+            document.querySelectorAll('.player-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            document.querySelector(`[data-player="${playerId}"]`).classList.add('active');
+            
+            const [info, stats, seasons, timeline] = await Promise.all([
+                fetch(`/api/legendary_players/${playerId}`).then(r => r.json()),
+                fetch(`/api/legendary_players/${playerId}/stats`).then(r => r.json()),
+                fetch(`/api/legendary_players/${playerId}/seasons`).then(r => r.json()),
+                fetch(`/api/legendary_players/${playerId}/timeline`).then(r => r.json())
+            ]);
+            
+            updatePlayerInfo(info);
+            updateCareerStats(stats);
+            updateRadarChart(stats);
+            updateTimeline(timeline);
+            updateSeasonTable(seasons);
+            updateScoreChart(seasons);
+        }
+        
+        function updatePlayerInfo(info) {
+            document.getElementById('playerAvatar').textContent = info.name.charAt(0);
+            document.getElementById('playerName').textContent = info.name;
+            document.getElementById('englishName').textContent = info.english_name;
+            document.getElementById('position').textContent = `${info.position_cn} (${info.position})`;
+            document.getElementById('height').textContent = `${info.height} cm`;
+            document.getElementById('weight').textContent = `${info.weight} kg`;
+            document.getElementById('jersey').textContent = info.jersey_number;
+            
+            const birthDate = new Date(info.birth_date);
+            document.getElementById('birthDate').textContent = `${birthDate.getFullYear()}年${birthDate.getMonth() + 1}月${birthDate.getDate()}日`;
+            document.getElementById('birthPlace').textContent = info.birth_place;
+            document.getElementById('draftYear').textContent = `${info.draft_year}年${info.draft_pick}`;
+            document.getElementById('retireYear').textContent = info.retire_year ? `${info.retire_year}年` : '现役';
+            
+            const honorsGrid = document.getElementById('honorsGrid');
+            const honors = [];
+            if (info.honors.championships > 0) honors.push(`总冠军 x${info.honors.championships}`);
+            if (info.honors.mvp > 0) honors.push(`MVP x${info.honors.mvp}`);
+            if (info.honors.fmvp > 0) honors.push(`FMVP x${info.honors.fmvp}`);
+            if (info.honors.scoring_champ > 0) honors.push(`得分王 x${info.honors.scoring_champ}`);
+            if (info.honors.all_star > 0) honors.push(`全明星 x${info.honors.all_star}`);
+            if (info.honors.defensive_player > 0) honors.push(`最佳防守球员 x${info.honors.defensive_player}`);
+            if (info.honors.rookie_of_year > 0) honors.push('年度最佳新秀');
+            
+            honorsGrid.innerHTML = honors.map(h => `<div class="honor-badge">${h}</div>`).join('');
+        }
+        
+        function updateCareerStats(stats) {
+            const statsMap = {
+                'avg_points': '场均得分',
+                'avg_rebounds': '场均篮板',
+                'avg_assists': '场均助攻',
+                'avg_steals': '场均抢断',
+                'avg_blocks': '场均盖帽',
+                'fg_pct': '投篮命中率',
+                'three_pct': '三分命中率',
+                'ft_pct': '罚球命中率'
+            };
+            
+            const grid = document.getElementById('careerStats');
+            grid.innerHTML = Object.entries(statsMap).map(([key, label]) => {
+                let value = stats[key] || 0;
+                if (key.includes('_pct')) {
+                    value = `${(value * 100).toFixed(1)}%`;
+                }
+                return `
+                    <div class="stat-card">
+                        <div class="stat-value">${value}</div>
+                        <div class="stat-label">${label}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        function updateTimeline(timeline) {
+            const container = document.getElementById('timeline');
+            container.innerHTML = timeline.map(item => `
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <div class="timeline-period">${item.start_year} - ${item.end_year}</div>
+                        <div class="timeline-team">
+                            <div class="team-logo">${item.team}</div>
+                            <span>${item.team_name}</span>
+                        </div>
+                        <div class="timeline-description">${item.description}</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        function updateSeasonTable(seasons) {
+            const tbody = document.querySelector('#seasonTable tbody');
+            tbody.innerHTML = seasons.map(season => `
+                <tr>
+                    <td>${season.season}</td>
+                    <td>${season.team}</td>
+                    <td>${season.games}</td>
+                    <td>${season.avg_points}</td>
+                    <td>${season.avg_rebounds}</td>
+                    <td>${season.avg_assists}</td>
+                    <td>${season.avg_steals}</td>
+                    <td>${season.avg_blocks}</td>
+                    <td>${(season.fg_pct * 100).toFixed(1)}%</td>
+                    <td>${(season.three_pct * 100).toFixed(1)}%</td>
+                    <td>${(season.ft_pct * 100).toFixed(1)}%</td>
+                </tr>
+            `).join('');
+        }
+        
+        function updateScoreChart(seasons) {
+            if (scoreChart) {
+                scoreChart.destroy();
+            }
+            
+            if (!seasons || seasons.length === 0) {
+                document.getElementById('scoreChart').parentElement.innerHTML = '<div class="no-data">暂无赛季数据</div>';
+                return;
+            }
+            
+            const ctx = document.getElementById('scoreChart').getContext('2d');
+            scoreChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: seasons.map(s => s.season),
+                    datasets: [{
+                        label: '场均得分',
+                        data: seasons.map(s => parseFloat(s.avg_points || 0)),
+                        borderColor: '#1e90ff',
+                        backgroundColor: 'rgba(30, 144, 255, 0.1)',
+                        tension: 0.3,
+                        fill: true
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: { color: 'rgba(255, 255, 255, 0.1)' },
+                            ticks: { color: '#fff' }
+                        },
+                        x: {
+                            grid: { color: 'rgba(255, 255, 255, 0.1)' },
+                            ticks: { color: '#fff', maxRotation: 45, minRotation: 45 }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: { color: '#fff' }
+                        }
+                    }
+                }
+            });
+        }
+        
+        let radarChart = null;
+        
+        function updateRadarChart(stats) {
+            if (radarChart) {
+                radarChart.destroy();
+            }
+            
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            
+            const labels = ['得分', '篮板', '助攻', '抢断', '盖帽', '命中率'];
+            const data = [
+                parseFloat(stats.avg_points || 0) / 40 * 100,
+                parseFloat(stats.avg_rebounds || 0) / 20 * 100,
+                parseFloat(stats.avg_assists || 0) / 15 * 100,
+                parseFloat(stats.avg_steals || 0) / 5 * 100,
+                parseFloat(stats.avg_blocks || 0) / 5 * 100,
+                parseFloat(stats.fg_pct || 0) * 100
+            ];
+            
+            radarChart = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: '能力值',
+                        data: data,
+                        backgroundColor: 'rgba(30, 144, 255, 0.2)',
+                        borderColor: '#1e90ff',
+                        borderWidth: 2,
+                        pointBackgroundColor: '#1e90ff',
+                        pointBorderColor: '#fff',
+                        pointHoverBackgroundColor: '#fff',
+                        pointHoverBorderColor: '#1e90ff'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            beginAtZero: true,
+                            max: 100,
+                            grid: { color: 'rgba(255, 255, 255, 0.1)' },
+                            angleLines: { color: 'rgba(255, 255, 255, 0.1)' },
+                            pointLabels: { color: '#fff', font: { size: 12 } },
+                            ticks: { color: '#888', backdropColor: 'transparent', stepSize: 20 }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    }
+                }
+            });
+        }
+        
+        document.querySelectorAll('.player-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                loadPlayerData(btn.dataset.player);
+            });
+        });
+        
+        loadPlayerData('michael_jordan');
+    </script>
+</body>
+</html>

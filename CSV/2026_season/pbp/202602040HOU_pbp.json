@@ -1,0 +1,4996 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Houston"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:43.0",
+      "D. White makes 3-pt jump shot from 27 ft (assist by B. Scheierman)",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Personal foul by B. Scheierman (drawn by K. Durant)"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "J. Smith misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:16.0",
+      "Defensive rebound by R. Harper",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:08.0",
+      "L. Garza misses 3-pt jump shot from 25 ft",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Defensive rebound by K. Durant"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "A. Şengün misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:50.0",
+      "Defensive rebound by R. Harper",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:29.0",
+      "B. Scheierman misses 3-pt jump shot from 26 ft",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "3-2",
+      "+2",
+      "A. Thompson makes 2-pt jump shot from 21 ft (assist by T. Eason)"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:51.0",
+      "L. Garza misses 3-pt jump shot from 26 ft",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "Defensive rebound by K. Durant"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "K. Durant misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:28.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:22.0",
+      "D. White misses 3-pt jump shot from 26 ft",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:19.0",
+      "Offensive rebound by Team",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:09.0",
+      "L. Garza makes 2-pt layup from 3 ft (assist by D. White)",
+      "+2",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "5-4",
+      "+2",
+      "A. Şengün makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:34.0",
+      "L. Garza misses 3-pt jump shot from 26 ft",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:32.0",
+      "Offensive rebound by L. Garza",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:21.0",
+      "D. White misses 2-pt jump shot from 4 ft",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:20.0",
+      "Offensive rebound by L. Garza",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:19.0",
+      "Turnover by L. Garza (lost ball; steal by A. Şengün)",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "5-7",
+      "+3",
+      "T. Eason makes 3-pt jump shot from 26 ft (assist by J. Smith)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:01.0",
+      "N. Queta makes 2-pt layup from 2 ft (assist by D. White)",
+      "+2",
+      "7-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "7-7",
+      "",
+      "A. Thompson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:44.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "7-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:23.0",
+      "D. White misses 3-pt jump shot from 24 ft",
+      "",
+      "7-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "7-7",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "7-9",
+      "+2",
+      "T. Eason makes 2-pt layup from 3 ft (assist by J. Smith)"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "6:57.0",
+      "B. Scheierman misses 3-pt jump shot from 27 ft",
+      "",
+      "7-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "7-9",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "7-9",
+      "",
+      "Shooting foul by D. White (drawn by K. Durant)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "7-9",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:35.0",
+      "P. Pritchard enters the game for R. Harper",
+      "",
+      "7-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:35.0",
+      "J. Walsh enters the game for N. Queta",
+      "",
+      "7-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "7-9",
+      "",
+      "J. Okogie enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "7-10",
+      "+1",
+      "K. Durant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "7-11",
+      "+1",
+      "K. Durant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:21.0",
+      "D. White makes 2-pt jump shot from 15 ft (assist by P. Pritchard)",
+      "+2",
+      "9-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "9-13",
+      "+2",
+      "A. Şengün makes 2-pt hook shot from 4 ft"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "5:35.0",
+      "Personal foul by A. Thompson (drawn by L. Garza)",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "5:23.0",
+      "Shooting foul by A. Thompson (drawn by L. Garza)",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "Instant Replay (Challenge: Stands)"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:23.0",
+      "H. González Peña enters the game for B. Scheierman",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:23.0",
+      "J. Minott enters the game for D. White",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "R. Sheppard enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:23.0",
+      "L. Garza misses free throw 1 of 2",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:23.0",
+      "Offensive rebound by Team",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:23.0",
+      "L. Garza misses free throw 2 of 2",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "9-15",
+      "+2",
+      "J. Okogie makes 2-pt dunk from 2 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:52.0",
+      "P. Pritchard misses 3-pt jump shot from 28 ft",
+      "",
+      "9-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:49.0",
+      "Offensive rebound by L. Garza",
+      "",
+      "9-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:47.0",
+      "Turnover by L. Garza (bad pass; steal by A. Şengün)",
+      "",
+      "9-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "9-15",
+      "",
+      "Shooting foul by J. Minott (drawn by J. Okogie)"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "9-15",
+      "",
+      "J. Okogie misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "9-15",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:43.0",
+      "N. Queta enters the game for L. Garza",
+      "",
+      "9-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "9-15",
+      "",
+      "J. Tate enters the game for T. Eason"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "9-15",
+      "",
+      "J. Okogie misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:43.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "9-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:27.0",
+      "P. Pritchard makes 3-pt jump shot from 29 ft",
+      "+3",
+      "12-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "A. Şengün misses 2-pt hook shot from 9 ft"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "Offensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:49.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "K. Durant misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "Offensive rebound by J. Okogie"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "J. Okogie misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:43.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "12-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:29.0",
+      "H. González Peña misses 2-pt hook shot from 8 ft",
+      "",
+      "12-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "Defensive rebound by K. Durant"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:23.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "R. Sheppard misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:18.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "12-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:06.0",
+      "J. Minott misses 3-pt jump shot from 27 ft",
+      "",
+      "12-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "C. Capela enters the game for A. Şengün"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:45.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "J. Tate misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "12-15",
+      "",
+      "Offensive rebound by C. Capela"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "12-17",
+      "+2",
+      "C. Capela makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:22.0",
+      "J. Walsh misses 3-pt jump shot from 27 ft",
+      "",
+      "12-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:18.0",
+      "Offensive rebound by H. González Peña",
+      "",
+      "12-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:18.0",
+      "H. González Peña makes 2-pt layup from 3 ft",
+      "+2",
+      "14-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:02.0",
+      "",
+      "",
+      "14-17",
+      "",
+      "Personal foul by J. Walsh (drawn by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:02.0",
+      "",
+      "",
+      "14-17",
+      "",
+      "J. Smith enters the game for K. Durant"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "14-17",
+      "",
+      "R. Sheppard misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "14-17",
+      "",
+      "Offensive rebound by C. Capela"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "14-17",
+      "",
+      "C. Capela misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:51.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "14-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "1:42.0",
+      "P. Pritchard makes 2-pt jump shot from 8 ft",
+      "+2",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "1:28.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "R. Sheppard misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "1:27.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "1:24.0",
+      "Turnover by N. Queta (lost ball; steal by C. Capela)",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "R. Sheppard misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "1:18.0",
+      "Defensive rebound by H. González Peña",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "1:02.0",
+      "Turnover by J. Minott (lost ball; steal by J. Tate)",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "Shooting foul by H. González Peña (drawn by J. Tate)"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "J. Tate misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:57.0",
+      "D. White enters the game for H. González Peña",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "J. Tate misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:57.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:49.0",
+      "P. Pritchard misses 2-pt layup from 3 ft",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:48.0",
+      "Offensive rebound by Team",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:34.0",
+      "J. Walsh misses 3-pt jump shot from 27 ft",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "Defensive rebound by R. Sheppard"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "R. Sheppard misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "T. Eason enters the game for R. Sheppard"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:00.0",
+      "P. Pritchard misses 2-pt layup from 5 ft",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:00.0",
+      "Shooting foul by J. Smith (drawn by N. Queta)",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:00.0",
+      "N. Queta makes free throw 1 of 2",
+      "+1",
+      "17-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:00.0",
+      "N. Queta makes free throw 2 of 2",
+      "+1",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Houston"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "11:38.0",
+      "",
+      "",
+      "18-17",
+      "",
+      "J. Tate misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "11:36.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "11:22.0",
+      "D. White misses 2-pt jump shot from 10 ft",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "18-17",
+      "",
+      "Defensive rebound by K. Durant"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "11:09.0",
+      "",
+      "",
+      "18-17",
+      "",
+      "K. Durant misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:09.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "11:09.0",
+      "Personal foul by J. Tate (drawn by N. Queta)",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:49.0",
+      "R. Harper makes 3-pt jump shot from 26 ft (assist by D. White)",
+      "+3",
+      "21-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "21-17",
+      "",
+      "A. Thompson misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:26.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "21-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:07.0",
+      "D. White makes 2-pt jump shot from 4 ft (assist by P. Pritchard)",
+      "+2",
+      "23-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "23-19",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "9:30.0",
+      "H. González Peña misses 2-pt dunk from 2 ft (block by K. Durant)",
+      "",
+      "23-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:30.0",
+      "Offensive rebound by Team",
+      "",
+      "23-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "23-19",
+      "",
+      "T. Eason enters the game for R. Sheppard"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "23-19",
+      "",
+      "J. Smith enters the game for J. Tate"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:22.0",
+      "D. White makes 3-pt jump shot from 26 ft (assist by N. Queta)",
+      "+3",
+      "26-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "26-19",
+      "",
+      "C. Capela misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:03.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "26-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "8:53.0",
+      "Personal foul by C. Capela (drawn by N. Queta)",
+      "",
+      "26-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "8:42.0",
+      "P. Pritchard misses 2-pt jump shot from 10 ft",
+      "",
+      "26-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "26-19",
+      "",
+      "Defensive rebound by K. Durant"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "26-19",
+      "",
+      "A. Thompson misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "26-19",
+      "",
+      "Offensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "26-22",
+      "+3",
+      "J. Smith makes 3-pt jump shot from 25 ft (assist by A. Thompson)"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "7:54.0",
+      "H. González Peña misses 3-pt jump shot from 24 ft",
+      "",
+      "26-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "26-22",
+      "",
+      "Defensive rebound by C. Capela"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "26-25",
+      "+3",
+      "J. Smith makes 3-pt jump shot from 23 ft (assist by A. Thompson)"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "7:43.0",
+      "Boston full timeout",
+      "",
+      "26-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "7:43.0",
+      "L. Garza enters the game for H. González Peña",
+      "",
+      "26-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "7:43.0",
+      "B. Scheierman enters the game for P. Pritchard",
+      "",
+      "26-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "7:43.0",
+      "J. Walsh enters the game for N. Queta",
+      "",
+      "26-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "26-25",
+      "",
+      "A. Şengün enters the game for C. Capela"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "7:26.0",
+      "R. Harper makes 3-pt jump shot from 24 ft (assist by L. Garza)",
+      "+3",
+      "29-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "29-25",
+      "",
+      "Offensive foul by K. Durant (drawn by D. White)"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "29-25",
+      "",
+      "Turnover by K. Durant (offensive foul)"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:04.0",
+      "Shooting foul by T. Eason (drawn by L. Garza)",
+      "",
+      "29-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:04.0",
+      "L. Garza makes free throw 1 of 2",
+      "+1",
+      "30-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:04.0",
+      "L. Garza makes free throw 2 of 2",
+      "+1",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "A. Şengün misses 2-pt hook shot from 6 ft"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "Offensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "Shooting foul by J. Walsh (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "31-26",
+      "+1",
+      "A. Şengün makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "31-27",
+      "+1",
+      "A. Şengün makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "6:32.0",
+      "Turnover by D. White (out of bounds lost ball)",
+      "",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "6:32.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "A. Holiday enters the game for K. Durant"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "A. Şengün misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "Offensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "A. Şengün misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "Offensive rebound by A. Holiday"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:14.0",
+      "",
+      "",
+      "31-30",
+      "+3",
+      "A. Holiday makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:06.0",
+      "Offensive foul by L. Garza (drawn by A. Thompson)",
+      "",
+      "31-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:06.0",
+      "Turnover by L. Garza (offensive foul)",
+      "",
+      "31-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "31-30",
+      "",
+      "Shooting foul by B. Scheierman (drawn by A. Thompson)"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "31-31",
+      "+1",
+      "A. Thompson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "5:59.0",
+      "P. Pritchard enters the game for R. Harper",
+      "",
+      "31-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "31-31",
+      "",
+      "A. Thompson misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "5:59.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "31-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "5:41.0",
+      "B. Scheierman makes 2-pt jump shot from 11 ft (assist by P. Pritchard)",
+      "+2",
+      "33-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "33-31",
+      "",
+      "Shooting foul by D. White (drawn by A. Thompson)"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "33-32",
+      "+1",
+      "A. Thompson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "33-33",
+      "+1",
+      "A. Thompson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:22.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "33-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:21.0",
+      "",
+      "",
+      "33-33",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "33-33",
+      "",
+      "A. Thompson misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:14.0",
+      "Defensive rebound by Team",
+      "",
+      "33-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "33-33",
+      "",
+      "Loose ball foul by A. Thompson (drawn by J. Walsh)"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "33-33",
+      "",
+      "K. Durant enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:01.0",
+      "B. Scheierman misses 3-pt jump shot from 26 ft",
+      "",
+      "33-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:00.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "33-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:56.0",
+      "D. White misses 3-pt jump shot from 28 ft",
+      "",
+      "33-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "33-33",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "33-35",
+      "+2",
+      "A. Şengün makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:14.0",
+      "L. Garza makes 3-pt jump shot from 25 ft",
+      "+3",
+      "36-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "36-35",
+      "",
+      "Turnover by A. Şengün (lost ball; steal by L. Garza)"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:49.0",
+      "Turnover by B. Scheierman (bad pass; steal by K. Durant)",
+      "",
+      "36-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "36-35",
+      "",
+      "Turnover by J. Smith (lost ball; steal by B. Scheierman)"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:39.0",
+      "B. Scheierman misses 3-pt jump shot from 26 ft",
+      "",
+      "36-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "36-35",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "36-35",
+      "",
+      "Personal foul by L. Garza (drawn by J. Smith)"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:35.0",
+      "N. Queta enters the game for J. Walsh",
+      "",
+      "36-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "36-35",
+      "",
+      "Personal foul by B. Scheierman (drawn by K. Durant)"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "36-36",
+      "+1",
+      "K. Durant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:29.0",
+      "R. Harper enters the game for B. Scheierman",
+      "",
+      "36-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "36-37",
+      "+1",
+      "K. Durant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:14.0",
+      "Shooting foul by T. Eason (drawn by D. White)",
+      "",
+      "36-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:14.0",
+      "D. White makes free throw 1 of 2",
+      "+1",
+      "37-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:14.0",
+      "D. White makes free throw 2 of 2",
+      "+1",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:59.0",
+      "",
+      "",
+      "38-37",
+      "",
+      "J. Smith misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:58.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:50.0",
+      "D. White misses 3-pt jump shot from 28 ft",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "38-37",
+      "",
+      "Defensive rebound by A. Holiday"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "38-37",
+      "",
+      "A. Holiday misses 2-pt layup from 5 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "2:38.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "2:33.0",
+      "P. Pritchard misses 3-pt jump shot from 25 ft",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "2:30.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "38-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "2:25.0",
+      "P. Pritchard makes 3-pt jump shot from 25 ft (assist by R. Harper)",
+      "+3",
+      "41-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "2:03.0",
+      "",
+      "",
+      "41-39",
+      "+2",
+      "J. Smith makes 2-pt layup from 3 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:55.0",
+      "P. Pritchard makes 2-pt layup from 4 ft (assist by D. White)",
+      "+2",
+      "43-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "J. Smith misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "Offensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "A. Holiday misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "1:20.0",
+      "Defensive rebound by R. Harper",
+      "",
+      "43-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "1:18.0",
+      "Personal foul by A. Şengün (drawn by P. Pritchard)",
+      "",
+      "43-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "J. Davison enters the game for T. Eason"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "R. Sheppard enters the game for A. Holiday"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "1:18.0",
+      "P. Pritchard makes free throw 1 of 2",
+      "+1",
+      "44-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "1:18.0",
+      "P. Pritchard makes free throw 2 of 2",
+      "+1",
+      "45-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "45-39",
+      "",
+      "K. Durant misses 2-pt jump shot from 13 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "0:57.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "45-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "0:38.0",
+      "D. White makes 2-pt jump shot from 6 ft",
+      "+2",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "47-42",
+      "+3",
+      "J. Smith makes 3-pt jump shot from 22 ft (assist by J. Davison)"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "0:10.0",
+      "P. Pritchard makes 2-pt jump shot from 13 ft",
+      "+2",
+      "49-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "49-42",
+      "",
+      "J. Smith misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "49-42",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Houston"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "11:38.0",
+      "",
+      "",
+      "49-45",
+      "+3",
+      "A. Thompson makes 3-pt jump shot from 24 ft (assist by K. Durant)"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "11:11.0",
+      "D. White misses 3-pt jump shot from 29 ft",
+      "",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "11:11.0",
+      "Offensive rebound by Team",
+      "",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "11:11.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "49-45",
+      "",
+      "J. Smith misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:57.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:36.0",
+      "B. Scheierman makes 3-pt jump shot from 27 ft (assist by D. White)",
+      "+3",
+      "52-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "52-45",
+      "",
+      "K. Durant misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "10:21.0",
+      "Defensive rebound by L. Garza",
+      "",
+      "52-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:06.0",
+      "L. Garza makes 2-pt layup from 5 ft (assist by R. Harper)",
+      "+2",
+      "54-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "10:06.0",
+      "Shooting foul by J. Smith (drawn by L. Garza)",
+      "",
+      "54-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "10:06.0",
+      "L. Garza makes free throw 1 of 1",
+      "+1",
+      "55-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "55-45",
+      "",
+      "A. Şengün misses 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "55-45",
+      "",
+      "Offensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "55-45",
+      "",
+      "J. Smith misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "9:45.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "55-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:45.0",
+      "Turnover by B. Scheierman (bad pass; steal by K. Durant)",
+      "",
+      "55-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "55-47",
+      "+2",
+      "A. Şengün makes 2-pt layup from 5 ft (assist by A. Thompson)"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "55-47",
+      "",
+      "Shooting foul by R. Harper (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "55-48",
+      "+1",
+      "A. Şengün makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "9:30.0",
+      "N. Queta misses 2-pt layup from 2 ft (block by A. Şengün)",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "55-48",
+      "",
+      "Defensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "55-48",
+      "",
+      "A. Thompson misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "9:20.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "9:10.0",
+      "D. White misses 2-pt jump shot from 12 ft",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "9:07.0",
+      "Offensive rebound by R. Harper",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "9:05.0",
+      "R. Harper misses 3-pt jump shot from 27 ft",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "9:02.0",
+      "Offensive rebound by B. Scheierman",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "9:00.0",
+      "D. White makes 3-pt jump shot from 27 ft (assist by B. Scheierman)",
+      "+3",
+      "58-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "58-48",
+      "",
+      "Turnover by A. Thompson (bad pass; steal by N. Queta)"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "8:32.0",
+      "B. Scheierman makes 3-pt jump shot from 25 ft (assist by D. White)",
+      "+3",
+      "61-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "61-48",
+      "",
+      "J. Smith misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "8:02.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "61-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "7:51.0",
+      "D. White makes 3-pt jump shot from 27 ft",
+      "+3",
+      "64-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "64-48",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "64-48",
+      "",
+      "K. Durant misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "7:35.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "64-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "7:20.0",
+      "D. White misses 2-pt jump shot from 16 ft",
+      "",
+      "64-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "7:19.0",
+      "",
+      "",
+      "64-48",
+      "",
+      "Defensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "64-48",
+      "",
+      "K. Durant misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "7:09.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "64-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "7:02.0",
+      "R. Harper makes 3-pt jump shot from 23 ft (assist by B. Scheierman)",
+      "+3",
+      "67-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "67-50",
+      "+2",
+      "A. Thompson makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "6:29.0",
+      "L. Garza misses 3-pt jump shot from 27 ft",
+      "",
+      "67-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "67-50",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "67-50",
+      "",
+      "Shooting foul by R. Harper (drawn by A. Thompson)"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "67-50",
+      "",
+      "A. Thompson misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "67-50",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "6:19.0",
+      "P. Pritchard enters the game for B. Scheierman",
+      "",
+      "67-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "67-50",
+      "",
+      "J. Okogie enters the game for T. Eason"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "67-50",
+      "",
+      "A. Thompson misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "6:19.0",
+      "Defensive rebound by L. Garza",
+      "",
+      "67-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "6:03.0",
+      "D. White makes 2-pt layup from 4 ft (assist by L. Garza)",
+      "+2",
+      "69-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "69-50",
+      "",
+      "Turnover by K. Durant (lost ball; steal by N. Queta)"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "5:17.0",
+      "P. Pritchard misses 2-pt jump shot from 14 ft",
+      "",
+      "69-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "5:15.0",
+      "Offensive rebound by R. Harper",
+      "",
+      "69-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "5:07.0",
+      "D. White makes 3-pt jump shot from 27 ft",
+      "+3",
+      "72-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "72-50",
+      "",
+      "Shooting foul by N. Queta (drawn by A. Thompson)"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "72-51",
+      "+1",
+      "A. Thompson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "4:56.0",
+      "H. González Peña enters the game for N. Queta",
+      "",
+      "72-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "72-51",
+      "",
+      "A. Thompson misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "4:56.0",
+      "Defensive rebound by R. Harper",
+      "",
+      "72-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "4:36.0",
+      "D. White makes 3-pt jump shot from 25 ft",
+      "+3",
+      "75-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "75-51",
+      "",
+      "Turnover by A. Thompson (bad pass)"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "4:02.0",
+      "D. White misses 2-pt jump shot from 15 ft",
+      "",
+      "75-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "3:59.0",
+      "Offensive rebound by H. González Peña",
+      "",
+      "75-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "3:58.0",
+      "D. White misses 3-pt jump shot from 28 ft",
+      "",
+      "75-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "3:56.0",
+      "Offensive rebound by R. Harper",
+      "",
+      "75-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "3:56.0",
+      "R. Harper makes 2-pt dunk at rim",
+      "+2",
+      "77-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "77-51",
+      "",
+      "Turnover by A. Şengün (lost ball; steal by L. Garza)"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "3:41.0",
+      "Turnover by L. Garza (lost ball; steal by A. Thompson)",
+      "",
+      "77-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "77-53",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 17 ft (assist by J. Smith)"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "77-53",
+      "",
+      "Loose ball foul by A. Thompson (drawn by D. White)"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "77-53",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "3:32.0",
+      "Technical foul by D. White",
+      "",
+      "77-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "3:32.0",
+      "N. Queta enters the game for L. Garza",
+      "",
+      "77-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "77-53",
+      "",
+      "C. Capela enters the game for A. Şengün"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "77-53",
+      "",
+      "R. Sheppard enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "77-54",
+      "+1",
+      "K. Durant makes technical free throw"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "3:14.0",
+      "P. Pritchard misses 2-pt layup from 4 ft (block by J. Smith)",
+      "",
+      "77-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "3:09.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "77-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "3:09.0",
+      "N. Queta makes 2-pt layup from 4 ft",
+      "+2",
+      "79-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "79-56",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "2:29.0",
+      "Turnover by P. Pritchard (lost ball; steal by J. Okogie)",
+      "",
+      "79-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "79-56",
+      "",
+      "Personal foul by R. Harper (drawn by J. Smith)"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "2:24.0",
+      "Boston full timeout",
+      "",
+      "79-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "79-56",
+      "",
+      "T. Eason enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "79-58",
+      "+2",
+      "K. Durant makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "1:49.0",
+      "Personal foul by T. Eason (drawn by H. González Peña)",
+      "",
+      "79-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "1:36.0",
+      "D. White misses 3-pt jump shot from 28 ft",
+      "",
+      "79-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "1:36.0",
+      "",
+      "",
+      "79-58",
+      "",
+      "Defensive rebound by R. Sheppard"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "79-58",
+      "",
+      "R. Sheppard misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "1:27.0",
+      "Defensive rebound by D. White",
+      "",
+      "79-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "1:22.0",
+      "R. Harper misses 3-pt jump shot from 28 ft",
+      "",
+      "79-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "79-58",
+      "",
+      "Defensive rebound by C. Capela"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "79-58",
+      "",
+      "Shooting foul by N. Queta (drawn by K. Durant)"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "79-59",
+      "+1",
+      "K. Durant makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "79-60",
+      "+1",
+      "K. Durant makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "0:54.0",
+      "N. Queta makes 2-pt layup from 5 ft (assist by P. Pritchard)",
+      "+2",
+      "81-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "0:46.0",
+      "",
+      "",
+      "81-63",
+      "+3",
+      "R. Sheppard makes 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:29.0",
+      "P. Pritchard misses 2-pt jump shot from 8 ft",
+      "",
+      "81-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:28.0",
+      "Offensive rebound by P. Pritchard",
+      "",
+      "81-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:25.0",
+      "Boston full timeout",
+      "",
+      "81-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "81-63",
+      "",
+      "J. Smith enters the game for C. Capela"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "81-63",
+      "",
+      "A. Thompson enters the game for J. Okogie"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "0:15.0",
+      "D. White misses 2-pt jump shot from 12 ft",
+      "",
+      "81-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "0:12.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "81-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "0:02.0",
+      "R. Harper misses 3-pt jump shot from 25 ft",
+      "",
+      "81-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "0:01.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "81-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "0:01.0",
+      "Shooting foul by R. Sheppard (drawn by N. Queta)",
+      "",
+      "81-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "81-63",
+      "",
+      "Technical foul by I. Udoka"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "0:01.0",
+      "P. Pritchard makes technical free throw",
+      "+1",
+      "82-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "82-63",
+      "",
+      "Technical foul by I. Udoka"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "82-63",
+      "",
+      "I. Udoka ejected from game"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:01.0",
+      "P. Pritchard makes technical free throw",
+      "+1",
+      "83-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:01.0",
+      "N. Queta makes free throw 1 of 2",
+      "+1",
+      "84-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "84-63",
+      "",
+      "C. Capela enters the game for K. Durant"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:01.0",
+      "N. Queta makes free throw 2 of 2",
+      "+1",
+      "85-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Houston"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "11:44.0",
+      "B. Scheierman makes 2-pt jump shot from 5 ft (assist by P. Pritchard)",
+      "+2",
+      "87-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "87-63",
+      "",
+      "R. Sheppard misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "11:28.0",
+      "Defensive rebound by L. Garza",
+      "",
+      "87-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "11:06.0",
+      "J. Walsh misses 2-pt jump shot from 13 ft",
+      "",
+      "87-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "87-63",
+      "",
+      "Defensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "87-66",
+      "+3",
+      "R. Sheppard makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "10:37.0",
+      "B. Scheierman misses 3-pt jump shot from 29 ft",
+      "",
+      "87-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "10:35.0",
+      "",
+      "",
+      "87-66",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "87-66",
+      "",
+      "Turnover by A. Şengün (lost ball; steal by J. Walsh)"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "10:24.0",
+      "Shooting foul by R. Sheppard (drawn by J. Walsh)",
+      "",
+      "87-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "10:24.0",
+      "J. Walsh makes free throw 1 of 2",
+      "+1",
+      "88-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "10:24.0",
+      "J. Walsh makes free throw 2 of 2",
+      "+1",
+      "89-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "89-66",
+      "",
+      "R. Sheppard misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "89-66",
+      "",
+      "Offensive rebound by A. Şengün"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "10:12.0",
+      "",
+      "",
+      "89-69",
+      "+3",
+      "T. Eason makes 3-pt jump shot from 26 ft (assist by A. Şengün)"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "9:47.0",
+      "P. Pritchard makes 3-pt jump shot from 27 ft (assist by N. Queta)",
+      "+3",
+      "92-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "92-69",
+      "",
+      "Turnover by A. Thompson (bad pass)"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:23.0",
+      "L. Garza misses 3-pt jump shot from 24 ft",
+      "",
+      "92-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "92-69",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "92-71",
+      "+2",
+      "J. Smith makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "8:50.0",
+      "B. Scheierman makes 3-pt jump shot from 29 ft (assist by P. Pritchard)",
+      "+3",
+      "95-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "95-71",
+      "",
+      "T. Eason misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "8:27.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "95-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "8:21.0",
+      "L. Garza makes 2-pt layup from 2 ft (assist by B. Scheierman)",
+      "+2",
+      "97-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "97-71",
+      "",
+      "T. Eason misses 2-pt layup from 3 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "8:13.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "97-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "8:09.0",
+      "Turnover by J. Walsh (bad pass; steal by R. Sheppard)",
+      "",
+      "97-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "8:06.0",
+      "",
+      "",
+      "97-71",
+      "",
+      "R. Sheppard misses 2-pt dunk from 2 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "97-71",
+      "",
+      "Offensive rebound by T. Eason"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "97-73",
+      "+2",
+      "T. Eason makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "8:04.0",
+      "Boston full timeout",
+      "",
+      "97-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:04.0",
+      "R. Harper enters the game for J. Walsh",
+      "",
+      "97-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "97-73",
+      "",
+      "J. Okogie enters the game for T. Eason"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "7:40.0",
+      "P. Pritchard makes 2-pt jump shot from 10 ft",
+      "+2",
+      "99-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "99-73",
+      "",
+      "Personal foul by R. Harper (drawn by J. Okogie)"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "7:13.0",
+      "D. White enters the game for B. Scheierman",
+      "",
+      "99-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "99-76",
+      "+3",
+      "R. Sheppard makes 3-pt jump shot from 28 ft (assist by A. Thompson)"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "6:50.0",
+      "L. Garza makes 2-pt jump shot from 8 ft (assist by P. Pritchard)",
+      "+2",
+      "101-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "101-78",
+      "+2",
+      "A. Şengün makes 2-pt hook shot from 6 ft"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "6:19.0",
+      "L. Garza makes 2-pt dunk from 2 ft (assist by D. White)",
+      "+2",
+      "103-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "103-78",
+      "",
+      "A. Şengün misses 2-pt layup from 5 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "6:03.0",
+      "Defensive rebound by Team",
+      "",
+      "103-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "103-78",
+      "",
+      "Technical foul by A. Şengün"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "6:03.0",
+      "P. Pritchard misses technical free throw",
+      "",
+      "103-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "6:03.0",
+      "Offensive rebound by Team",
+      "",
+      "103-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "103-78",
+      "",
+      "A. Şengün ejected from game"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "103-78",
+      "",
+      "C. Capela enters the game for A. Şengün"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "5:48.0",
+      "D. White misses 3-pt jump shot from 28 ft",
+      "",
+      "103-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "5:46.0",
+      "Offensive rebound by R. Harper",
+      "",
+      "103-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "5:42.0",
+      "P. Pritchard makes 3-pt jump shot from 29 ft (assist by R. Harper)",
+      "+3",
+      "106-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "106-78",
+      "",
+      "Houston full timeout"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "106-78",
+      "",
+      "I. Crawford enters the game for J. Okogie"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "106-78",
+      "",
+      "J. Davison enters the game for R. Sheppard"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "106-78",
+      "",
+      "J. Green enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "106-78",
+      "",
+      "A. Holiday enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "106-80",
+      "+2",
+      "J. Davison makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "5:09.0",
+      "P. Pritchard makes 3-pt jump shot from 27 ft",
+      "+3",
+      "109-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "109-82",
+      "+2",
+      "A. Holiday makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "4:34.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "109-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "109-82",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "109-82",
+      "",
+      "J. Davison misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "4:19.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "109-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "4:05.0",
+      "R. Harper misses 3-pt jump shot from 23 ft",
+      "",
+      "109-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "109-82",
+      "",
+      "Defensive rebound by C. Capela"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "109-84",
+      "+2",
+      "A. Holiday makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "3:37.0",
+      "D. White misses 2-pt jump shot from 17 ft (block by I. Crawford)",
+      "",
+      "109-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "109-84",
+      "",
+      "Defensive rebound by I. Crawford"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "109-84",
+      "",
+      "Personal foul by D. White (drawn by I. Crawford)"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "109-86",
+      "+2",
+      "C. Capela makes 2-pt layup from 5 ft (assist by J. Davison)"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "3:02.0",
+      "L. Garza misses 2-pt layup from 8 ft (block by I. Crawford)",
+      "",
+      "109-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "2:59.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "109-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "2:56.0",
+      "P. Pritchard misses 3-pt jump shot from 23 ft",
+      "",
+      "109-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "2:55.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "109-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "2:55.0",
+      "Turnover by N. Queta (out of bounds lost ball)",
+      "",
+      "109-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "109-86",
+      "",
+      "I. Crawford misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "2:38.0",
+      "Defensive rebound by R. Harper",
+      "",
+      "109-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "2:28.0",
+      "L. Garza makes 3-pt jump shot from 26 ft (assist by D. White)",
+      "+3",
+      "112-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "112-88",
+      "+2",
+      "I. Crawford makes 2-pt dunk from 3 ft (assist by A. Holiday)"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "1:46.0",
+      "Turnover by D. White (lost ball; steal by A. Holiday)",
+      "",
+      "112-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "112-90",
+      "+2",
+      "A. Holiday makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "1:41.0",
+      "Personal take foul by A. Holiday (drawn by P. Pritchard)",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "1:41.0",
+      "H. González Peña enters the game for L. Garza",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "1:41.0",
+      "J. Minott enters the game for R. Harper",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "1:41.0",
+      "B. Scheierman enters the game for P. Pritchard",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "1:41.0",
+      "M. Shulga enters the game for N. Queta",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "1:41.0",
+      "X. Tillman enters the game for D. White",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "112-90",
+      "",
+      "J. Okogie enters the game for C. Capela"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "1:19.0",
+      "X. Tillman misses 3-pt jump shot from 23 ft",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "1:14.0",
+      "Offensive rebound by J. Minott",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "1:04.0",
+      "M. Shulga misses 2-pt jump shot from 24 ft",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "112-90",
+      "",
+      "Defensive rebound by J. Davison"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "112-90",
+      "",
+      "J. Davison misses 2-pt layup from 7 ft (block by J. Minott)"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "0:52.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "0:50.0",
+      "Personal foul by A. Holiday (drawn by B. Scheierman)",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "0:50.0",
+      "B. Scheierman makes free throw 1 of 2",
+      "+1",
+      "113-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:50.0",
+      "B. Scheierman makes free throw 2 of 2",
+      "+1",
+      "114-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "0:37.0",
+      "",
+      "",
+      "114-90",
+      "",
+      "J. Green misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "0:35.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "114-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "0:15.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "114-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "114-93",
+      "+3",
+      "J. Green makes 3-pt jump shot from 24 ft (assist by A. Holiday)"
+    ]
+  }
+]

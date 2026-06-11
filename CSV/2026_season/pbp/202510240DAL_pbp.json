@@ -1,0 +1,5535 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "Washington",
+      "",
+      "Score",
+      "",
+      "Dallas"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Turnover by D. Lively (bad pass; steal by K. George)"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:41.0",
+      "K. George misses 3-pt jump shot from 26 ft",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:38.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Def 3 sec tech foul by Team"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "0-1",
+      "+1",
+      "K. Thompson makes technical free throw"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "11:23.0",
+      "",
+      "",
+      "0-1",
+      "",
+      "Personal foul by B. Carrington (drawn by C. Flagg)"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "0-3",
+      "+2",
+      "P. Washington makes 2-pt jump shot from 14 ft (assist by D. Lively)"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "11:03.0",
+      "A. Sarr makes 2-pt layup from 2 ft (assist by C. McCollum)",
+      "+2",
+      "2-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:42.0",
+      "",
+      "",
+      "2-3",
+      "",
+      "K. Thompson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "2-3",
+      "",
+      "Offensive rebound by C. Flagg"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "2-5",
+      "+2",
+      "P. Washington makes 2-pt layup from 3 ft (assist by D. Lively)"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:08.0",
+      "Turnover by C. McCollum (lost ball; steal by K. Thompson)",
+      "",
+      "2-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "D. Lively misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "Offensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "A. Davis misses 2-pt layup at rim (block by A. Sarr)"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "Offensive rebound by D. Lively"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "P. Washington misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:55.0",
+      "Defensive rebound by Team",
+      "",
+      "2-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "Loose ball foul by D. Lively (drawn by A. Sarr)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:47.0",
+      "K. George makes 2-pt dunk from 2 ft (assist by A. Sarr)",
+      "+2",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "Turnover by D. Lively (3 sec)"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:14.0",
+      "Turnover by A. Sarr (lost ball; steal by D. Lively)",
+      "",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "Turnover by A. Davis (lost ball; steal by B. Carrington)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:02.0",
+      "Shooting foul by A. Davis (drawn by B. Carrington)",
+      "",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "9:02.0",
+      "B. Carrington misses free throw 1 of 3",
+      "",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "9:02.0",
+      "Offensive rebound by Team",
+      "",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "9:02.0",
+      "B. Carrington misses free throw 2 of 3",
+      "",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "9:02.0",
+      "Offensive rebound by Team",
+      "",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "9:02.0",
+      "B. Carrington makes free throw 3 of 3",
+      "+1",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:52.0",
+      "",
+      "",
+      "5-7",
+      "+2",
+      "D. Lively makes 2-pt dunk from 1 ft (assist by C. Flagg)"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:41.0",
+      "A. Sarr misses 3-pt jump shot from 25 ft",
+      "",
+      "5-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "5-7",
+      "",
+      "Defensive rebound by K. Thompson"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "5-7",
+      "",
+      "Turnover by P. Washington (bad pass)"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:10.0",
+      "B. Carrington misses 2-pt jump shot from 19 ft",
+      "",
+      "5-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:07.0",
+      "",
+      "",
+      "5-7",
+      "",
+      "Defensive rebound by D. Lively"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "5-10",
+      "+3",
+      "C. Flagg makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:45.0",
+      "A. Sarr misses 2-pt hook shot from 7 ft",
+      "",
+      "5-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "5-10",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "5-10",
+      "",
+      "Personal foul by K. Middleton (drawn by C. Flagg)"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "5-10",
+      "",
+      "M. Christie enters the game for D. Lively"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:34.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "5-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "5-10",
+      "",
+      "M. Christie misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:19.0",
+      "Defensive rebound by B. Carrington",
+      "",
+      "5-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "7:03.0",
+      "Turnover by C. McCollum (bad pass; steal by P. Washington)",
+      "",
+      "5-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "5-13",
+      "+3",
+      "K. Thompson makes 3-pt jump shot from 27 ft (assist by C. Flagg)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:56.0",
+      "Washington full timeout",
+      "",
+      "5-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:41.0",
+      "Def 3 sec tech foul by Team",
+      "",
+      "5-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:41.0",
+      "K. Middleton misses technical free throw",
+      "",
+      "5-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:41.0",
+      "Offensive rebound by Team",
+      "",
+      "5-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:36.0",
+      "A. Sarr makes 2-pt dunk from 2 ft (assist by B. Carrington)",
+      "+2",
+      "7-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "7-13",
+      "",
+      "Personal foul by C. McCollum (drawn by K. Thompson)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "6:18.0",
+      "T. Johnson enters the game for K. George",
+      "",
+      "7-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "7-13",
+      "",
+      "N. Marshall enters the game for C. Flagg"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "7-13",
+      "",
+      "D. Russell enters the game for K. Thompson"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "7-13",
+      "",
+      "Shooting foul by B. Carrington (drawn by D. Russell)"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "7-13",
+      "",
+      "D. Russell misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "7-13",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "7-14",
+      "+1",
+      "D. Russell makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "6:04.0",
+      "Turnover by (8 sec)",
+      "",
+      "7-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "7-14",
+      "",
+      "A. Davis misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:41.0",
+      "Defensive rebound by B. Carrington",
+      "",
+      "7-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:38.0",
+      "T. Johnson misses 3-pt jump shot from 26 ft",
+      "",
+      "7-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "7-14",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:20.0",
+      "",
+      "",
+      "7-14",
+      "",
+      "M. Christie misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "7-14",
+      "",
+      "Offensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "7-16",
+      "+2",
+      "A. Davis makes 2-pt dunk from 2 ft (assist by M. Christie)"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "5:00.0",
+      "K. Middleton makes 2-pt jump shot from 18 ft (assist by A. Sarr)",
+      "+2",
+      "9-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "9-16",
+      "",
+      "P. Washington misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:40.0",
+      "Defensive rebound by A. Sarr",
+      "",
+      "9-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:37.0",
+      "B. Carrington misses 2-pt dunk from 1 ft (block by P. Washington)",
+      "",
+      "9-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "9-16",
+      "",
+      "Defensive rebound by D. Russell"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "9-16",
+      "",
+      "Def 3 sec tech foul by Team"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "9-17",
+      "+1",
+      "A. Davis makes technical free throw"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "4:24.0",
+      "M. Bagley enters the game for C. McCollum",
+      "",
+      "9-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "4:24.0",
+      "C. Kispert enters the game for K. Middleton",
+      "",
+      "9-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "4:24.0",
+      "C. Whitmore enters the game for A. Sarr",
+      "",
+      "9-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "9-17",
+      "",
+      "Away from play foul by M. Bagley (drawn by A. Davis)"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "9-18",
+      "+1",
+      "A. Davis makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "9-20",
+      "+2",
+      "A. Davis makes 2-pt hook shot from 10 ft"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:59.0",
+      "B. Carrington misses 2-pt jump shot from 22 ft",
+      "",
+      "9-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:55.0",
+      "Offensive rebound by C. Whitmore",
+      "",
+      "9-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:51.0",
+      "T. Johnson misses 3-pt jump shot from 32 ft",
+      "",
+      "9-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:49.0",
+      "",
+      "",
+      "9-20",
+      "",
+      "Defensive rebound by M. Christie"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "9-23",
+      "+3",
+      "M. Christie makes 3-pt jump shot from 23 ft (assist by D. Russell)"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:35.0",
+      "Washington full timeout",
+      "",
+      "9-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "3:35.0",
+      "K. George enters the game for B. Carrington",
+      "",
+      "9-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "3:18.0",
+      "C. Whitmore misses 2-pt jump shot from 12 ft",
+      "",
+      "9-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "3:14.0",
+      "",
+      "",
+      "9-23",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "3:11.0",
+      "",
+      "",
+      "9-23",
+      "",
+      "D. Russell misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "3:09.0",
+      "Defensive rebound by M. Bagley",
+      "",
+      "9-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:58.0",
+      "T. Johnson misses 2-pt jump shot from 13 ft",
+      "",
+      "9-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "9-23",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "9-23",
+      "",
+      "Turnover by P. Washington (bad pass; steal by C. Whitmore)"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "2:50.0",
+      "T. Johnson makes 2-pt jump shot from 4 ft",
+      "+2",
+      "11-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "11-25",
+      "+2",
+      "A. Davis makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "2:19.0",
+      "K. George makes 2-pt layup from 4 ft",
+      "+2",
+      "13-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "2:19.0",
+      "Shooting foul by M. Christie (drawn by K. George)",
+      "",
+      "13-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "13-25",
+      "",
+      "C. Flagg enters the game for A. Davis"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "13-25",
+      "",
+      "D. Lively enters the game for P. Washington"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "2:19.0",
+      "K. George makes free throw 1 of 1",
+      "+1",
+      "14-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "2:00.0",
+      "",
+      "",
+      "14-27",
+      "+2",
+      "D. Lively makes 2-pt dunk from 2 ft (assist by D. Russell)"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:47.0",
+      "M. Bagley makes 2-pt layup from 1 ft",
+      "+2",
+      "16-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:36.0",
+      "",
+      "",
+      "16-27",
+      "",
+      "D. Russell misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:33.0",
+      "Defensive rebound by C. Kispert",
+      "",
+      "16-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:22.0",
+      "C. Whitmore misses 3-pt jump shot from 27 ft",
+      "",
+      "16-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:18.0",
+      "Offensive rebound by K. George",
+      "",
+      "16-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "1:14.0",
+      "T. Johnson makes 3-pt jump shot from 28 ft (assist by C. Kispert)",
+      "+3",
+      "19-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "19-29",
+      "+2",
+      "D. Lively makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:50.0",
+      "K. George makes 3-pt jump shot from 25 ft (assist by M. Bagley)",
+      "+3",
+      "22-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "22-29",
+      "",
+      "C. Flagg misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:36.0",
+      "",
+      "",
+      "22-29",
+      "",
+      "Offensive rebound by D. Lively"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "22-29",
+      "",
+      "Shooting foul by M. Bagley (drawn by N. Marshall)"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "22-30",
+      "+1",
+      "N. Marshall makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "22-31",
+      "+1",
+      "N. Marshall makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "22-31",
+      "",
+      "R. Nembhard enters the game for D. Russell"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "22-32",
+      "+1",
+      "N. Marshall makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "0:18.0",
+      "M. Bagley makes 3-pt jump shot from 25 ft (assist by T. Johnson)",
+      "+3",
+      "25-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "25-35",
+      "+3",
+      "M. Christie makes 3-pt jump shot from 23 ft (assist by C. Flagg)"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "0:00.0",
+      "K. George makes 3-pt jump shot from 25 ft (assist by C. Kispert)",
+      "+3",
+      "28-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "0:00.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "28-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "Time",
+      "Washington",
+      "",
+      "Score",
+      "",
+      "Dallas"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "11:41.0",
+      "K. George makes 2-pt jump shot from 17 ft",
+      "+2",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "11:25.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "N. Marshall misses 3-pt jump shot from 23 ft (block by K. George)"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "11:24.0",
+      "Defensive rebound by Team",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "11:11.0",
+      "C. Kispert misses 3-pt jump shot from 26 ft",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "Defensive rebound by D. Lively"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "Turnover by N. Marshall (bad pass; steal by K. George)"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:53.0",
+      "T. Johnson misses 2-pt jump shot from 12 ft",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:49.0",
+      "Offensive rebound by T. Johnson",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "10:49.0",
+      "T. Vukcevic misses 3-pt jump shot from 26 ft",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "10:49.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "Defensive rebound by K. Thompson"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "10:37.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "K. Thompson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "10:34.0",
+      "Defensive rebound by T. Vukcevic",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "10:26.0",
+      "T. Vukcevic misses 2-pt jump shot from 17 ft",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "10:24.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "Defensive rebound by C. Flagg"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "C. Flagg misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "10:10.0",
+      "Defensive rebound by C. Whitmore",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "10:03.0",
+      "C. Whitmore misses 2-pt jump shot from 16 ft",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "Defensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "C. Flagg misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "Offensive rebound by R. Nembhard"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "30-35",
+      "",
+      "C. Flagg misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "9:44.0",
+      "Defensive rebound by C. Kispert",
+      "",
+      "30-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "9:39.0",
+      "K. George makes 2-pt layup from 2 ft (assist by T. Johnson)",
+      "+2",
+      "32-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "P. Washington enters the game for N. Marshall"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "R. Nembhard misses 2-pt layup from 4 ft (block by T. Johnson)"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "9:24.0",
+      "Defensive rebound by T. Johnson",
+      "",
+      "32-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "9:19.0",
+      "C. Whitmore misses 2-pt layup from 3 ft (block by D. Lively)",
+      "",
+      "32-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "Offensive foul by P. Washington (drawn by T. Vukcevic)"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "Turnover by P. Washington (offensive foul)"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "9:04.0",
+      "K. George makes 3-pt jump shot from 28 ft",
+      "+3",
+      "35-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "9:00.0",
+      "",
+      "",
+      "35-35",
+      "",
+      "Turnover by C. Flagg (inbound)"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "9:00.0",
+      "",
+      "",
+      "35-35",
+      "",
+      "A. Davis enters the game for D. Lively"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "8:57.0",
+      "C. Whitmore makes 2-pt layup from 2 ft (assist by K. George)",
+      "+2",
+      "37-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "37-35",
+      "",
+      "K. Thompson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "8:40.0",
+      "Defensive rebound by C. Kispert",
+      "",
+      "37-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "8:36.0",
+      "K. George misses 3-pt jump shot from 27 ft",
+      "",
+      "37-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "8:32.0",
+      "",
+      "",
+      "37-35",
+      "",
+      "Defensive rebound by K. Thompson"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "37-35",
+      "",
+      "R. Nembhard misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "8:19.0",
+      "Defensive rebound by T. Vukcevic",
+      "",
+      "37-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "8:14.0",
+      "C. Whitmore makes 2-pt layup from 2 ft",
+      "+2",
+      "39-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "39-35",
+      "",
+      "A. Davis misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "7:51.0",
+      "Defensive rebound by K. George",
+      "",
+      "39-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "7:47.0",
+      "C. Kispert misses 3-pt jump shot from 28 ft",
+      "",
+      "39-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "39-35",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "39-35",
+      "",
+      "Shooting foul by K. George (drawn by A. Davis)"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "39-36",
+      "+1",
+      "A. Davis makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "7:40.0",
+      "C. McCollum enters the game for K. George",
+      "",
+      "39-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "7:40.0",
+      "W. Riley enters the game for C. Whitmore",
+      "",
+      "39-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "39-36",
+      "",
+      "M. Christie enters the game for C. Flagg"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "39-36",
+      "",
+      "D. Russell enters the game for R. Nembhard"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "39-37",
+      "+1",
+      "A. Davis makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "7:29.0",
+      "C. Kispert makes 2-pt layup from 4 ft",
+      "+2",
+      "41-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "41-37",
+      "",
+      "Turnover by A. Davis (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "7:04.0",
+      "Turnover by T. Vukcevic (lost ball; steal by A. Davis)",
+      "",
+      "41-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "41-39",
+      "+2",
+      "A. Davis makes 2-pt layup from 1 ft (assist by D. Russell)"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "6:42.0",
+      "T. Johnson makes 2-pt jump shot from 13 ft",
+      "+2",
+      "43-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "Loose ball foul by P. Washington (drawn by T. Vukcevic)"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "6:42.0",
+      "T. Vukcevic misses free throw 1 of 1",
+      "",
+      "43-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "6:30.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "D. Russell misses 2-pt layup from 1 ft (block by T. Vukcevic)"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "6:26.0",
+      "Defensive rebound by W. Riley",
+      "",
+      "43-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "6:22.0",
+      "T. Vukcevic misses 3-pt jump shot from 25 ft",
+      "",
+      "43-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "43-39",
+      "",
+      "Turnover by P. Washington (bad pass; steal by W. Riley)"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "6:09.0",
+      "T. Vukcevic makes 2-pt jump shot from 11 ft (assist by C. Kispert)",
+      "+2",
+      "45-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "6:07.0",
+      "",
+      "",
+      "45-39",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "6:07.0",
+      "B. Carrington enters the game for T. Johnson",
+      "",
+      "45-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "6:07.0",
+      "K. Middleton enters the game for C. Kispert",
+      "",
+      "45-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "6:07.0",
+      "",
+      "",
+      "45-39",
+      "",
+      "N. Marshall enters the game for K. Thompson"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "45-39",
+      "",
+      "N. Marshall misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "5:45.0",
+      "Defensive rebound by W. Riley",
+      "",
+      "45-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "5:40.0",
+      "C. McCollum misses 2-pt jump shot from 9 ft",
+      "",
+      "45-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "5:38.0",
+      "",
+      "",
+      "45-39",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "45-41",
+      "+2",
+      "P. Washington makes 2-pt dunk from 2 ft (assist by A. Davis)"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "5:17.0",
+      "C. McCollum misses 2-pt layup from 2 ft",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "45-41",
+      "",
+      "Defensive rebound by D. Russell"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "45-41",
+      "",
+      "A. Davis misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "5:04.0",
+      "Defensive rebound by W. Riley",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "4:58.0",
+      "C. McCollum misses 3-pt jump shot from 26 ft",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "45-41",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "4:53.0",
+      "",
+      "",
+      "45-41",
+      "",
+      "Personal foul by B. Carrington (drawn by M. Christie)"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "4:53.0",
+      "T. Johnson enters the game for B. Carrington",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "4:53.0",
+      "A. Sarr enters the game for T. Vukcevic",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "4:53.0",
+      "",
+      "",
+      "45-41",
+      "",
+      "B. Williams enters the game for D. Russell"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "45-41",
+      "",
+      "Turnover by P. Washington (lost ball; steal by C. McCollum)"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "4:43.0",
+      "Shooting foul by A. Davis (drawn by W. Riley)",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "4:43.0",
+      "W. Riley makes free throw 1 of 2",
+      "+1",
+      "46-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "4:43.0",
+      "W. Riley makes free throw 2 of 2",
+      "+1",
+      "47-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "Personal foul by T. Johnson (drawn by B. Williams)"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "A. Davis misses 2-pt hook shot from 9 ft"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "Offensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "47-43",
+      "+2",
+      "P. Washington makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "4:09.0",
+      "Shooting foul by M. Christie (drawn by W. Riley)",
+      "",
+      "47-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "4:09.0",
+      "W. Riley makes free throw 1 of 2",
+      "+1",
+      "48-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "48-43",
+      "",
+      "C. Flagg enters the game for N. Marshall"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "4:09.0",
+      "W. Riley misses free throw 2 of 2",
+      "",
+      "48-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "48-43",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "48-43",
+      "",
+      "Personal foul by K. Middleton (drawn by A. Davis)"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "3:56.0",
+      "K. George enters the game for W. Riley",
+      "",
+      "48-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "48-45",
+      "+2",
+      "A. Davis makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "3:34.0",
+      "K. Middleton misses 2-pt jump shot from 10 ft",
+      "",
+      "48-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "3:32.0",
+      "Offensive rebound by A. Sarr",
+      "",
+      "48-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "3:31.0",
+      "Turnover by A. Sarr (lost ball; steal by B. Williams)",
+      "",
+      "48-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "3:15.0",
+      "",
+      "",
+      "48-45",
+      "",
+      "A. Davis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "3:11.0",
+      "Defensive rebound by K. George",
+      "",
+      "48-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "3:07.0",
+      "T. Johnson makes 3-pt jump shot from 27 ft (assist by K. George)",
+      "+3",
+      "51-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "51-48",
+      "+3",
+      "P. Washington makes 3-pt jump shot from 25 ft (assist by C. Flagg)"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "2:35.0",
+      "K. George misses 2-pt jump shot from 12 ft",
+      "",
+      "51-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "51-48",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "2:26.0",
+      "",
+      "",
+      "51-48",
+      "",
+      "B. Williams misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "2:22.0",
+      "Defensive rebound by A. Sarr",
+      "",
+      "51-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "2:13.0",
+      "T. Johnson makes 3-pt jump shot from 27 ft (assist by A. Sarr)",
+      "+3",
+      "54-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "54-50",
+      "+2",
+      "C. Flagg makes 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "1:41.0",
+      "T. Johnson makes 2-pt jump shot from 15 ft (assist by K. George)",
+      "+2",
+      "56-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "56-52",
+      "+2",
+      "A. Davis makes 2-pt jump shot from 9 ft (assist by B. Williams)"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "1:14.0",
+      "A. Sarr makes 2-pt dunk from 1 ft (assist by K. Middleton)",
+      "+2",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "0:58.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "Turnover by P. Washington (bad pass; steal by K. Middleton)"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "0:55.0",
+      "K. Middleton misses 2-pt layup from 2 ft (block by A. Davis)",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "0:54.0",
+      "Offensive rebound by Team",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "K. Thompson enters the game for B. Williams"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "0:52.0",
+      "K. Middleton misses 2-pt layup from 3 ft",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "0:50.0",
+      "Offensive rebound by K. George",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "0:50.0",
+      "Offensive foul by A. Sarr (drawn by A. Davis)",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "0:50.0",
+      "Turnover by A. Sarr (offensive foul)",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "0:38.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "Turnover by C. Flagg (lost ball; steal by K. Middleton)"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "0:30.0",
+      "K. Middleton misses 3-pt jump shot from 24 ft",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "Defensive rebound by K. Thompson"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "K. Thompson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "0:01.0",
+      "Defensive rebound by K. George",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "Time",
+      "Washington",
+      "",
+      "Score",
+      "",
+      "Dallas"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "11:49.0",
+      "K. Middleton misses 3-pt jump shot from 24 ft",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "11:44.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "P. Washington misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "11:27.0",
+      "Defensive rebound by K. George",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "11:23.0",
+      "K. Middleton makes 3-pt jump shot from 23 ft (assist by A. Sarr)",
+      "+3",
+      "61-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "11:04.0",
+      "",
+      "",
+      "61-52",
+      "",
+      "Personal foul by K. Middleton (drawn by A. Davis)"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "61-52",
+      "",
+      "C. Flagg misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "10:54.0",
+      "Defensive rebound by K. George",
+      "",
+      "61-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "10:49.0",
+      "C. McCollum makes 3-pt jump shot from 24 ft (assist by K. George)",
+      "+3",
+      "64-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "64-54",
+      "+2",
+      "C. Flagg makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "10:21.0",
+      "K. Middleton makes 2-pt jump shot from 19 ft (assist by A. Sarr)",
+      "+2",
+      "66-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "66-56",
+      "+2",
+      "P. Washington makes 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "9:50.0",
+      "B. Carrington misses 2-pt jump shot from 11 ft",
+      "",
+      "66-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "66-56",
+      "",
+      "Defensive rebound by D. Lively"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "66-56",
+      "",
+      "Turnover by P. Washington (bad pass)"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "9:33.0",
+      "A. Sarr makes 2-pt layup from 7 ft (assist by C. McCollum)",
+      "+2",
+      "68-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "68-56",
+      "",
+      "P. Washington misses 2-pt jump shot from 7 ft (block by K. George)"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "9:05.0",
+      "Defensive rebound by K. George",
+      "",
+      "68-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "9:01.0",
+      "B. Carrington misses 2-pt layup from 4 ft (block by C. Flagg)",
+      "",
+      "68-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "9:01.0",
+      "",
+      "",
+      "68-56",
+      "",
+      "Defensive rebound by D. Lively"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "68-56",
+      "",
+      "Flagrant foul type 1 by C. McCollum (drawn by C. Flagg)"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "68-56",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "68-57",
+      "+1",
+      "K. Thompson makes flagrant free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "68-58",
+      "+1",
+      "K. Thompson makes flagrant free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "68-60",
+      "+2",
+      "K. Thompson makes 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "8:27.0",
+      "Shooting foul by C. Flagg (drawn by K. George)",
+      "",
+      "68-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "8:27.0",
+      "K. George makes free throw 1 of 2",
+      "+1",
+      "69-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "8:27.0",
+      "K. George makes free throw 2 of 2",
+      "+1",
+      "70-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "70-60",
+      "",
+      "A. Davis misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "8:08.0",
+      "Defensive rebound by K. Middleton",
+      "",
+      "70-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "7:58.0",
+      "Turnover by K. George (bad pass; steal by A. Davis)",
+      "",
+      "70-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "70-60",
+      "",
+      "K. Thompson misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "70-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "70-60",
+      "",
+      "M. Christie enters the game for D. Lively"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "70-60",
+      "",
+      "Turnover by A. Davis (bad pass; steal by K. Middleton)"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "7:33.0",
+      "A. Sarr misses 2-pt jump shot from 6 ft",
+      "",
+      "70-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "70-60",
+      "",
+      "Defensive rebound by C. Flagg"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "70-60",
+      "",
+      "C. Flagg misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "7:18.0",
+      "Defensive rebound by C. McCollum",
+      "",
+      "70-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "7:15.0",
+      "K. George makes 3-pt jump shot from 23 ft (assist by K. Middleton)",
+      "+3",
+      "73-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "73-60",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "73-60",
+      "",
+      "J. Hardy enters the game for C. Flagg"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "73-60",
+      "",
+      "R. Nembhard enters the game for K. Thompson"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "73-60",
+      "",
+      "J. Hardy misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "73-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "6:53.0",
+      "Loose ball foul by K. George (drawn by A. Davis)",
+      "",
+      "73-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "73-63",
+      "+3",
+      "J. Hardy makes 3-pt jump shot from 25 ft (assist by A. Davis)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "6:31.0",
+      "K. Middleton misses 3-pt jump shot from 26 ft",
+      "",
+      "73-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "6:28.0",
+      "Offensive rebound by C. McCollum",
+      "",
+      "73-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "6:26.0",
+      "C. McCollum misses 3-pt jump shot from 23 ft",
+      "",
+      "73-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "6:23.0",
+      "",
+      "",
+      "73-63",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "73-63",
+      "",
+      "J. Hardy misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "73-63",
+      "",
+      "Offensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "73-63",
+      "",
+      "A. Davis misses 2-pt dunk from 2 ft (block by A. Sarr)"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "6:05.0",
+      "Defensive rebound by A. Sarr",
+      "",
+      "73-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "5:56.0",
+      "K. George makes 3-pt jump shot from 22 ft (assist by B. Carrington)",
+      "+3",
+      "76-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "76-65",
+      "+2",
+      "R. Nembhard makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "5:20.0",
+      "Shooting foul by R. Nembhard (drawn by A. Sarr)",
+      "",
+      "76-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "5:20.0",
+      "A. Sarr makes free throw 1 of 2",
+      "+1",
+      "77-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "5:20.0",
+      "T. Johnson enters the game for K. George",
+      "",
+      "77-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "5:20.0",
+      "A. Sarr makes free throw 2 of 2",
+      "+1",
+      "78-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "78-65",
+      "",
+      "A. Davis misses 2-pt hook shot from 4 ft"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "78-65",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "5:04.0",
+      "M. Bagley enters the game for A. Sarr",
+      "",
+      "78-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "78-67",
+      "+2",
+      "J. Hardy makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "4:50.0",
+      "Shooting foul by J. Hardy (drawn by C. McCollum)",
+      "",
+      "78-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "4:50.0",
+      "C. McCollum misses free throw 1 of 2",
+      "",
+      "78-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "4:50.0",
+      "Offensive rebound by Team",
+      "",
+      "78-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "4:50.0",
+      "C. McCollum makes free throw 2 of 2",
+      "+1",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "79-67",
+      "",
+      "J. Hardy misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "4:29.0",
+      "Defensive rebound by K. Middleton",
+      "",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "4:18.0",
+      "Shooting foul by A. Davis (drawn by M. Bagley)",
+      "",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "4:18.0",
+      "M. Bagley misses free throw 1 of 2",
+      "",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "4:18.0",
+      "Offensive rebound by Team",
+      "",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "4:18.0",
+      "C. Kispert enters the game for B. Carrington",
+      "",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "4:18.0",
+      "C. Whitmore enters the game for K. Middleton",
+      "",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "79-67",
+      "",
+      "N. Marshall enters the game for A. Davis"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "4:18.0",
+      "M. Bagley makes free throw 2 of 2",
+      "+1",
+      "80-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "80-67",
+      "",
+      "R. Nembhard misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "3:56.0",
+      "Defensive rebound by C. Whitmore",
+      "",
+      "80-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "3:53.0",
+      "C. Whitmore makes 2-pt layup from 1 ft",
+      "+2",
+      "82-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "82-70",
+      "+3",
+      "J. Hardy makes 3-pt jump shot from 26 ft (assist by P. Washington)"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "3:08.0",
+      "T. Johnson misses 2-pt jump shot from 17 ft",
+      "",
+      "82-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "3:04.0",
+      "Offensive rebound by M. Bagley",
+      "",
+      "82-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "3:04.0",
+      "M. Bagley misses 2-pt layup at rim",
+      "",
+      "82-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "3:04.0",
+      "Offensive rebound by M. Bagley",
+      "",
+      "82-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "3:04.0",
+      "M. Bagley makes 2-pt layup at rim",
+      "+2",
+      "84-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "84-70",
+      "",
+      "P. Washington misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "2:48.0",
+      "Defensive rebound by T. Johnson",
+      "",
+      "84-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "2:42.0",
+      "T. Johnson makes 2-pt jump shot from 6 ft",
+      "+2",
+      "86-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "86-70",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "2:41.0",
+      "K. George enters the game for C. McCollum",
+      "",
+      "86-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "86-70",
+      "",
+      "A. Davis enters the game for R. Nembhard"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "86-70",
+      "",
+      "B. Williams enters the game for P. Washington"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "86-70",
+      "",
+      "Shooting foul by T. Johnson (drawn by A. Davis)"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "86-71",
+      "+1",
+      "A. Davis makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "86-71",
+      "",
+      "C. Flagg enters the game for M. Christie"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "86-72",
+      "+1",
+      "A. Davis makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "2:17.0",
+      "K. George makes 3-pt jump shot from 28 ft",
+      "+3",
+      "89-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "89-74",
+      "+2",
+      "A. Davis makes 2-pt dunk from 2 ft (assist by N. Marshall)"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "1:46.0",
+      "C. Whitmore misses 3-pt jump shot from 25 ft",
+      "",
+      "89-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "89-74",
+      "",
+      "Defensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "1:34.0",
+      "",
+      "",
+      "89-76",
+      "+2",
+      "A. Davis makes 2-pt jump shot from 17 ft (assist by N. Marshall)"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "1:32.0",
+      "Washington full timeout",
+      "",
+      "89-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "1:18.0",
+      "Turnover by K. George (lost ball; steal by N. Marshall)",
+      "",
+      "89-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "89-76",
+      "",
+      "N. Marshall misses 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "89-76",
+      "",
+      "Offensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "89-78",
+      "+2",
+      "A. Davis makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "0:56.0",
+      "Personal foul by B. Williams (drawn by C. Whitmore)",
+      "",
+      "89-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "0:56.0",
+      "Instant Replay (Challenge: Stands)",
+      "",
+      "89-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "89-78",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "0:56.0",
+      "C. Whitmore makes free throw 1 of 2",
+      "+1",
+      "90-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "0:56.0",
+      "C. Whitmore makes free throw 2 of 2",
+      "+1",
+      "91-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "91-78",
+      "",
+      "B. Williams misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "0:45.0",
+      "Defensive rebound by Team",
+      "",
+      "91-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "0:35.0",
+      "K. George misses 2-pt jump shot from 17 ft",
+      "",
+      "91-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "91-78",
+      "",
+      "Defensive rebound by C. Flagg"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "0:21.0",
+      "",
+      "",
+      "91-78",
+      "",
+      "J. Hardy misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "0:17.0",
+      "Defensive rebound by C. Kispert",
+      "",
+      "91-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "Time",
+      "Washington",
+      "",
+      "Score",
+      "",
+      "Dallas"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "91-78",
+      "",
+      "N. Marshall misses 2-pt layup from 4 ft (block by K. George)"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "11:38.0",
+      "Defensive rebound by K. George",
+      "",
+      "91-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "11:31.0",
+      "C. Whitmore misses 3-pt jump shot from 25 ft",
+      "",
+      "91-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "91-78",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "91-78",
+      "",
+      "Personal foul by C. Kispert (drawn by C. Flagg)"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "91-78",
+      "",
+      "Offensive foul by C. Flagg (drawn by K. George)"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "91-78",
+      "",
+      "Turnover by C. Flagg (offensive foul)"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "10:58.0",
+      "T. Johnson misses 3-pt jump shot from 26 ft",
+      "",
+      "91-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "91-78",
+      "",
+      "Defensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "91-81",
+      "+3",
+      "P. Washington makes 3-pt jump shot from 23 ft (assist by N. Marshall)"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "10:35.0",
+      "C. Kispert makes 3-pt jump shot from 25 ft (assist by C. Whitmore)",
+      "+3",
+      "94-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "94-81",
+      "",
+      "Shooting foul by K. George (drawn by C. Flagg)"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "94-82",
+      "+1",
+      "C. Flagg makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "94-83",
+      "+1",
+      "C. Flagg makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "10:08.0",
+      "Turnover by K. George (bad pass)",
+      "",
+      "94-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "94-86",
+      "+3",
+      "M. Christie makes 3-pt jump shot from 25 ft (assist by C. Flagg)"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "9:55.0",
+      "Washington full timeout",
+      "",
+      "94-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "9:33.0",
+      "M. Bagley misses 3-pt jump shot from 25 ft",
+      "",
+      "94-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "94-86",
+      "",
+      "Defensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "94-86",
+      "",
+      "M. Christie misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "9:16.0",
+      "Defensive rebound by M. Bagley",
+      "",
+      "94-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "9:12.0",
+      "Turnover by C. Whitmore (lost ball; steal by D. Lively)",
+      "",
+      "94-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "94-88",
+      "+2",
+      "D. Lively makes 2-pt hook shot from 8 ft (assist by M. Christie)"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "8:52.0",
+      "Personal foul by N. Marshall (drawn by K. George)",
+      "",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "8:52.0",
+      "B. Carrington enters the game for K. George",
+      "",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "8:52.0",
+      "C. McCollum enters the game for C. Whitmore",
+      "",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "8:52.0",
+      "",
+      "",
+      "94-88",
+      "",
+      "A. Davis enters the game for D. Lively"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "8:44.0",
+      "M. Bagley makes 2-pt layup from 1 ft (assist by C. Kispert)",
+      "+2",
+      "96-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "96-90",
+      "+2",
+      "P. Washington makes 2-pt layup from 4 ft (assist by A. Davis)"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "96-90",
+      "",
+      "Shooting foul by C. Kispert (drawn by P. Washington)"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "8:25.0",
+      "K. Middleton enters the game for T. Johnson",
+      "",
+      "96-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "96-90",
+      "",
+      "P. Washington misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "8:23.0",
+      "Defensive rebound by B. Carrington",
+      "",
+      "96-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "8:17.0",
+      "Turnover by B. Carrington (lost ball; steal by N. Marshall)",
+      "",
+      "96-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "8:14.0",
+      "",
+      "",
+      "96-90",
+      "",
+      "Turnover by P. Washington (bad pass)"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "8:14.0",
+      "",
+      "",
+      "96-90",
+      "",
+      "J. Hardy enters the game for M. Christie"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "8:01.0",
+      "C. McCollum makes 2-pt layup from 2 ft",
+      "+2",
+      "98-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "98-90",
+      "",
+      "Shooting foul by C. Kispert (drawn by J. Hardy)"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "98-90",
+      "",
+      "J. Hardy misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "98-90",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "98-91",
+      "+1",
+      "J. Hardy makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "7:39.0",
+      "Shooting foul by N. Marshall (drawn by B. Carrington)",
+      "",
+      "98-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "7:39.0",
+      "B. Carrington makes free throw 1 of 3",
+      "+1",
+      "99-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "7:39.0",
+      "B. Carrington makes free throw 2 of 3",
+      "+1",
+      "100-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "100-91",
+      "",
+      "D. Lively enters the game for P. Washington"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "7:39.0",
+      "B. Carrington makes free throw 3 of 3",
+      "+1",
+      "101-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "101-91",
+      "",
+      "Shooting foul by M. Bagley (drawn by A. Davis)"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "101-92",
+      "+1",
+      "A. Davis makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "101-93",
+      "+1",
+      "A. Davis makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "7:11.0",
+      "C. McCollum misses 2-pt jump shot from 11 ft",
+      "",
+      "101-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "7:07.0",
+      "",
+      "",
+      "101-93",
+      "",
+      "Defensive rebound by C. Flagg"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "101-93",
+      "",
+      "Shooting foul by M. Bagley (drawn by C. Flagg)"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "101-94",
+      "+1",
+      "C. Flagg makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "101-95",
+      "+1",
+      "C. Flagg makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "6:48.0",
+      "B. Carrington misses 2-pt jump shot from 5 ft",
+      "",
+      "101-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "101-95",
+      "",
+      "Defensive rebound by N. Marshall"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "101-97",
+      "+2",
+      "C. Flagg makes 2-pt dunk from 1 ft (assist by N. Marshall)"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "6:34.0",
+      "C. Kispert makes 2-pt layup from 1 ft (assist by C. McCollum)",
+      "+2",
+      "103-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "6:34.0",
+      "Shooting foul by C. Flagg (drawn by C. Kispert)",
+      "",
+      "103-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "6:34.0",
+      "A. Sarr enters the game for M. Bagley",
+      "",
+      "103-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "103-97",
+      "",
+      "P. Washington enters the game for N. Marshall"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "6:34.0",
+      "C. Kispert misses free throw 1 of 1",
+      "",
+      "103-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "103-97",
+      "",
+      "Defensive rebound by P. Washington"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "103-99",
+      "+2",
+      "C. Flagg makes 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "5:55.0",
+      "C. McCollum misses 3-pt jump shot from 25 ft",
+      "",
+      "103-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "5:42.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "C. Flagg misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "5:40.0",
+      "Defensive rebound by A. Sarr",
+      "",
+      "103-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "5:39.0",
+      "Turnover by A. Sarr (bad pass; steal by P. Washington)",
+      "",
+      "103-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "5:36.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "P. Washington misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "5:35.0",
+      "Defensive rebound by A. Sarr",
+      "",
+      "103-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "5:28.0",
+      "K. Middleton misses 3-pt jump shot from 25 ft",
+      "",
+      "103-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "5:25.0",
+      "Offensive rebound by A. Sarr",
+      "",
+      "103-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "5:24.0",
+      "A. Sarr misses 2-pt layup from 2 ft (block by A. Davis)",
+      "",
+      "103-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "Defensive rebound by J. Hardy"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "Shooting foul by A. Sarr (drawn by A. Davis)"
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "A. Davis misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "5:16.0",
+      "K. George enters the game for C. Kispert",
+      "",
+      "103-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "M. Christie enters the game for C. Flagg"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "N. Marshall enters the game for D. Lively"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "103-99",
+      "",
+      "A. Davis misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "5:14.0",
+      "Defensive rebound by K. Middleton",
+      "",
+      "103-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "4:55.0",
+      "A. Sarr makes 2-pt layup from 3 ft (assist by B. Carrington)",
+      "+2",
+      "105-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "4:40.0",
+      "",
+      "",
+      "105-99",
+      "",
+      "Turnover by A. Davis (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "4:27.0",
+      "B. Carrington makes 3-pt jump shot from 23 ft (assist by C. McCollum)",
+      "+3",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "4:27.0",
+      "Personal foul by P. Washington (drawn by K. Middleton)",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "4:27.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "108-99",
+      "",
+      "C. Flagg enters the game for J. Hardy"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "4:27.0",
+      "K. Middleton misses free throw 1 of 1",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "108-99",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "108-99",
+      "",
+      "Turnover by A. Davis (bad pass)"
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "4:15.0",
+      "Offensive foul by K. George (drawn by C. Flagg)",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "4:15.0",
+      "Turnover by K. George (offensive foul)",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "108-102",
+      "+3",
+      "C. Flagg makes 3-pt jump shot from 25 ft (assist by A. Davis)"
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "3:35.0",
+      "K. Middleton misses 2-pt jump shot from 15 ft",
+      "",
+      "108-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "3:33.0",
+      "Offensive rebound by Team",
+      "",
+      "108-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "3:33.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "108-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "108-102",
+      "",
+      "Turnover by C. Flagg (bad pass; steal by B. Carrington)"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "3:12.0",
+      "Turnover by K. George (traveling)",
+      "",
+      "108-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "108-102",
+      "",
+      "Dallas full timeout"
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "108-102",
+      "",
+      "Turnover by C. Flagg (lost ball; steal by A. Sarr)"
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "2:44.0",
+      "K. Middleton makes 2-pt jump shot from 12 ft",
+      "+2",
+      "110-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "110-102",
+      "",
+      "Shooting foul by K. George (drawn by A. Davis)"
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "110-103",
+      "+1",
+      "A. Davis makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "110-103",
+      "",
+      "A. Davis misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "2:22.0",
+      "Defensive rebound by K. George",
+      "",
+      "110-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "2:03.0",
+      "K. George makes 3-pt jump shot from 23 ft (assist by C. McCollum)",
+      "+3",
+      "113-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "113-103",
+      "",
+      "A. Davis misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "1:42.0",
+      "Defensive rebound by K. George",
+      "",
+      "113-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 495,
+    "cells": [
+      "1:20.0",
+      "K. Middleton misses 2-pt layup from 3 ft",
+      "",
+      "113-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 496,
+    "cells": [
+      "1:17.0",
+      "Offensive rebound by A. Sarr",
+      "",
+      "113-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 497,
+    "cells": [
+      "1:17.0",
+      "A. Sarr misses 2-pt layup at rim",
+      "",
+      "113-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 498,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "113-103",
+      "",
+      "Defensive rebound by A. Davis"
+    ]
+  },
+  {
+    "row": 499,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "113-105",
+      "+2",
+      "N. Marshall makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 500,
+    "cells": [
+      "1:03.0",
+      "Personal foul by N. Marshall (drawn by K. George)",
+      "",
+      "113-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 501,
+    "cells": [
+      "1:03.0",
+      "K. George makes free throw 1 of 2",
+      "+1",
+      "114-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 502,
+    "cells": [
+      "1:03.0",
+      "K. George makes free throw 2 of 2",
+      "+1",
+      "115-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 503,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "115-105",
+      "",
+      "M. Christie misses 2-pt layup from 3 ft (block by A. Sarr)"
+    ]
+  },
+  {
+    "row": 504,
+    "cells": [
+      "0:48.0",
+      "Defensive rebound by K. Middleton",
+      "",
+      "115-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 505,
+    "cells": [
+      "0:43.0",
+      "Personal foul by N. Marshall (drawn by A. Sarr)",
+      "",
+      "115-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 506,
+    "cells": [
+      "0:43.0",
+      "A. Sarr makes free throw 1 of 2",
+      "+1",
+      "116-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 507,
+    "cells": [
+      "0:43.0",
+      "A. Sarr makes free throw 2 of 2",
+      "+1",
+      "117-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 508,
+    "cells": [
+      "0:37.0",
+      "",
+      "",
+      "117-105",
+      "",
+      "C. Flagg misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 509,
+    "cells": [
+      "0:34.0",
+      "Defensive rebound by A. Sarr",
+      "",
+      "117-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 510,
+    "cells": [
+      "0:22.0",
+      "Turnover by B. Carrington (bad pass; steal by C. Flagg)",
+      "",
+      "117-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 511,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "117-107",
+      "+2",
+      "N. Marshall makes 2-pt dunk from 1 ft (assist by C. Flagg)"
+    ]
+  },
+  {
+    "row": 512,
+    "cells": [
+      "0:16.0",
+      "Washington full timeout",
+      "",
+      "117-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 513,
+    "cells": [
+      "0:16.0",
+      "Washington full timeout",
+      "",
+      "117-107",
+      "",
+      ""
+    ]
+  }
+]

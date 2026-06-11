@@ -1,0 +1,37 @@
+{
+  "advanced": [
+    {
+      "year_id": "2018-19",
+      "age": "25",
+      "team_name_abbr": "DEN",
+      "comp_name_abbr": "NBA",
+      "pos": "SG",
+      "games": "7",
+      "games_started": "0",
+      "mp": "22",
+      "per": "8.2",
+      "ts_pct": ".322",
+      "fg3a_per_fga_pct": ".400",
+      "fta_per_fga_pct": ".200",
+      "orb_pct": "4.9",
+      "drb_pct": "14.8",
+      "trb_pct": "9.8",
+      "ast_pct": "37.1",
+      "stl_pct": "4.5",
+      "blk_pct": "0.0",
+      "tov_pct": "15.5",
+      "usg_pct": "25.0",
+      "ows": "-0.1",
+      "dws": "0.0",
+      "ws": "0.0",
+      "ws_per_48": "-0.051",
+      "obpm": "-7.9",
+      "dbpm": "2.1",
+      "bpm": "-5.8",
+      "vorp": "0.0",
+      "awards": ""
+    }
+  ],
+  "player_id": "akoonde01",
+  "player_name": "DeVaughn Akoon-Purcell"
+}

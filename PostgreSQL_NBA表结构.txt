@@ -1,0 +1,153 @@
+-- 1. 球员基础信息
+CREATE TABLE players (
+    player_id       VARCHAR(30) PRIMARY KEY,
+    full_name       VARCHAR(100) NOT NULL,
+    birth_date      DATE,
+    draft_year      SMALLINT,
+    draft_round     SMALLINT,
+    draft_pick      SMALLINT,
+    height_cm       SMALLINT,
+    weight_kg       SMALLINT,
+    primary_position VARCHAR(20),
+    created_at      TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- 2. 球队信息
+CREATE TABLE teams (
+    team_id         VARCHAR(10) PRIMARY KEY,   -- LAL, GSW, MIA 等
+    full_name       VARCHAR(100) NOT NULL,
+    city            VARCHAR(50),
+    abbreviation    VARCHAR(5),
+    conference      VARCHAR(10),               -- Eastern / Western
+    division        VARCHAR(30),
+    created_at      TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- 3. 赛季维度表
+CREATE TABLE seasons (
+    season_id       VARCHAR(10) PRIMARY KEY,   -- '1996-97', '2025-26'
+    start_year      SMALLINT NOT NULL,
+    end_year        SMALLINT NOT NULL,
+    is_playoff      BOOLEAN DEFAULT FALSE,
+    created_at      TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- 4. 核心表：球员-球队-赛季汇总（最重要）
+CREATE TABLE player_team_seasons (
+    id                  BIGSERIAL PRIMARY KEY,
+    
+    player_id           VARCHAR(30) NOT NULL REFERENCES players(player_id),
+    team_id             VARCHAR(10) NOT NULL REFERENCES teams(team_id),
+    season_id           VARCHAR(10) NOT NULL REFERENCES seasons(season_id),
+    
+    age                 SMALLINT,                    -- 该赛季年龄
+    games_played        SMALLINT,
+    games_started       SMALLINT,
+    minutes_total       INTEGER,                     -- 总分钟
+    minutes_per_game    NUMERIC(6,2),
+    
+    -- 基础统计（Total）
+    pts_total           INTEGER,
+    reb_total           INTEGER,
+    ast_total           INTEGER,
+    stl_total           INTEGER,
+    blk_total           INTEGER,
+    tov_total           INTEGER,
+    fg_total            INTEGER,
+    fga_total           INTEGER,
+    fg3_total           INTEGER,
+    fg3a_total          INTEGER,
+    ft_total            INTEGER,
+    fta_total           INTEGER,
+    
+    -- 进阶数据（强烈建议在这里存储）
+    per                 NUMERIC(6,2),      -- Player Efficiency Rating
+    bpm                 NUMERIC(5,2),      -- Box Plus/Minus
+    ws                  NUMERIC(6,2),      -- Win Shares
+    ws_per_48           NUMERIC(6,2),
+    ts_pct              NUMERIC(5,4),      -- True Shooting%
+    usg_pct             NUMERIC(5,4),      -- Usage Rate
+    ortg                NUMERIC(6,2),      -- Offensive Rating贡献
+    drtg                NUMERIC(6,2),      -- Defensive Rating
+    
+    data_version        VARCHAR(20) DEFAULT 'v1.0',
+    imported_at         TIMESTAMPTZ DEFAULT NOW(),
+    updated_at          TIMESTAMPTZ DEFAULT NOW(),
+    
+    UNIQUE(player_id, team_id, season_id)     -- 防止重复导入
+);
+
+-- 5. 逐场比赛明细表（用于深度分析）
+CREATE TABLE player_game_logs (
+    id                  BIGSERIAL PRIMARY KEY,
+    player_id           VARCHAR(30) NOT NULL,
+    team_id             VARCHAR(10) NOT NULL,
+    season_id           VARCHAR(10) NOT NULL,
+    game_date           DATE NOT NULL,
+    game_id             VARCHAR(30),
+    opponent_id         VARCHAR(10),
+    is_home             BOOLEAN,
+    result              VARCHAR(5),               -- W / L
+    
+    mp                  VARCHAR(10),              -- "32:45"
+    fg                  SMALLINT,
+    fga                 SMALLINT,
+    fg3                 SMALLINT,
+    fg3a                SMALLINT,
+    ft                  SMALLINT,
+    fta                 SMALLINT,
+    orb                 SMALLINT,
+    drb                 SMALLINT,
+    ast                 SMALLINT,
+    stl                 SMALLINT,
+    blk                 SMALLINT,
+    tov                 SMALLINT,
+    pf                  SMALLINT,
+    pts                 SMALLINT,
+    gmsc                NUMERIC(6,2),
+    plus_minus          INTEGER,
+    
+    FOREIGN KEY (player_id, team_id, season_id) 
+        REFERENCES player_team_seasons(player_id, team_id, season_id)
+);
+
+-- 创建常用索引
+CREATE INDEX idx_player_team_seasons_player ON player_team_seasons(player_id);
+CREATE INDEX idx_player_team_seasons_team ON player_team_seasons(team_id);
+CREATE INDEX idx_player_team_seasons_season ON player_team_seasons(season_id);
+CREATE INDEX idx_player_team_seasons_age ON player_team_seasons(age);
+CREATE INDEX idx_game_logs_player_date ON player_game_logs(player_id, game_date);
+
+
+
+
+
+示例：
+
+-- 1. Kobe 生涯各球队表现
+SELECT 
+    t.full_name,
+    pts.season_id,
+    pts.age,
+    pts.games_played,
+    ROUND(pts.minutes_per_game, 1) AS mpg,
+    ROUND(pts.per, 1) AS per,
+    ROUND(pts.ts_pct*100, 1) AS ts_pct,
+    ROUND(pts.pts_total::numeric / pts.games_played, 1) AS ppg
+FROM player_team_seasons pts
+JOIN teams t ON pts.team_id = t.team_id
+WHERE pts.player_id = 'kobe_bryant'
+ORDER BY pts.season_id;
+
+-- 2. 按年龄段表现（年龄曲线）
+SELECT 
+    age,
+    COUNT(DISTINCT season_id) AS seasons,
+    AVG(per) AS avg_per,
+    AVG(ts_pct) AS avg_ts_pct,
+    SUM(games_played) AS total_games,
+    ROUND(AVG(minutes_per_game), 1) AS mpg
+FROM player_team_seasons
+WHERE player_id = 'kobe_bryant'
+GROUP BY age
+ORDER BY age;

@@ -1,0 +1,5425 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "San Antonio",
+      "",
+      "Score",
+      "",
+      "New York"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:39.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "M. Bridges misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:37.0",
+      "Defensive rebound by S. Castle",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:30.0",
+      "H. Barnes misses 3-pt jump shot from 25 ft",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Defensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:11.0",
+      "",
+      "",
+      "0-3",
+      "+3",
+      "K. Towns makes 3-pt jump shot from 29 ft (assist by J. Brunson)"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:55.0",
+      "D. Vassell makes 2-pt jump shot from 15 ft (assist by S. Castle)",
+      "+2",
+      "2-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "2-5",
+      "+2",
+      "J. Hart makes 2-pt jump shot from 11 ft (assist by O. Anunoby)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:19.0",
+      "D. Vassell misses 3-pt jump shot from 25 ft",
+      "",
+      "2-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "Defensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "2-7",
+      "+2",
+      "O. Anunoby makes 2-pt dunk from 2 ft (assist by J. Brunson)"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "9:54.0",
+      "Turnover by D. Fox (bad pass)",
+      "",
+      "2-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "2-7",
+      "",
+      "M. Bridges misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:42.0",
+      "Defensive rebound by D. Fox",
+      "",
+      "2-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:37.0",
+      "D. Fox makes 2-pt jump shot from 18 ft",
+      "+2",
+      "4-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "4-7",
+      "",
+      "Personal foul by D. Fox (drawn by J. Brunson)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "4-7",
+      "",
+      "J. Brunson misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:07.0",
+      "Defensive rebound by Team",
+      "",
+      "4-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "8:58.0",
+      "L. Kornet makes 2-pt dunk from 2 ft (assist by S. Castle)",
+      "+2",
+      "6-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "6-7",
+      "",
+      "O. Anunoby misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "6-7",
+      "",
+      "Offensive rebound by M. Bridges"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "6-7",
+      "",
+      "K. Towns misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:39.0",
+      "Defensive rebound by D. Vassell",
+      "",
+      "6-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:32.0",
+      "D. Vassell makes 3-pt jump shot from 24 ft (assist by S. Castle)",
+      "+3",
+      "9-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "9-7",
+      "",
+      "J. Brunson misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:13.0",
+      "Defensive rebound by D. Vassell",
+      "",
+      "9-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:04.0",
+      "H. Barnes makes 2-pt layup from 1 ft (assist by S. Castle)",
+      "+2",
+      "11-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "11-10",
+      "+3",
+      "O. Anunoby makes 3-pt jump shot from 24 ft (assist by M. Bridges)"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:29.0",
+      "S. Castle misses 2-pt layup at rim",
+      "",
+      "11-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:28.0",
+      "Offensive rebound by L. Kornet",
+      "",
+      "11-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:28.0",
+      "L. Kornet makes 2-pt layup at rim",
+      "+2",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "13-12",
+      "+2",
+      "J. Brunson makes 2-pt jump shot from 5 ft (assist by J. Hart)"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:03.0",
+      "Shooting foul by J. Hart (drawn by D. Vassell)",
+      "",
+      "13-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:03.0",
+      "D. Vassell makes free throw 1 of 2",
+      "+1",
+      "14-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:03.0",
+      "D. Harper enters the game for D. Fox",
+      "",
+      "14-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:03.0",
+      "V. Wembanyama enters the game for L. Kornet",
+      "",
+      "14-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "14-12",
+      "",
+      "J. Clarkson enters the game for J. Hart"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:03.0",
+      "D. Vassell makes free throw 2 of 2",
+      "+1",
+      "15-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "15-12",
+      "",
+      "M. Bridges misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:50.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "15-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:35.0",
+      "V. Wembanyama misses 2-pt jump shot from 13 ft",
+      "",
+      "15-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:32.0",
+      "Offensive rebound by H. Barnes",
+      "",
+      "15-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:32.0",
+      "H. Barnes makes 2-pt layup at rim",
+      "+2",
+      "17-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:32.0",
+      "",
+      "",
+      "17-12",
+      "",
+      "New York full timeout"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:32.0",
+      "",
+      "",
+      "17-12",
+      "",
+      "J. Hart enters the game for M. Bridges"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:12.0",
+      "",
+      "",
+      "17-15",
+      "+3",
+      "O. Anunoby makes 3-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:50.0",
+      "Turnover by V. Wembanyama (bad pass; steal by J. Hart)",
+      "",
+      "17-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "17-17",
+      "+2",
+      "J. Hart makes 2-pt jump shot from 12 ft (assist by O. Anunoby)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:11.0",
+      "D. Harper misses 2-pt hook shot from 2 ft",
+      "",
+      "17-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "17-17",
+      "",
+      "Defensive rebound by J. Hart"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "4:52.0",
+      "",
+      "",
+      "17-19",
+      "+2",
+      "O. Anunoby makes 2-pt dunk from 3 ft (assist by K. Towns)"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "4:42.0",
+      "H. Barnes makes 2-pt layup from 3 ft (assist by S. Castle)",
+      "+2",
+      "19-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "4:28.0",
+      "",
+      "",
+      "19-21",
+      "+2",
+      "J. Brunson makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "4:27.0",
+      "San Antonio full timeout",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "4:27.0",
+      "J. Champagnie enters the game for H. Barnes",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:27.0",
+      "K. Johnson enters the game for D. Vassell",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "M. Bridges enters the game for O. Anunoby"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "M. Robinson enters the game for K. Towns"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:16.0",
+      "S. Castle misses 2-pt jump shot from 11 ft (block by M. Robinson)",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "Defensive rebound by J. Hart"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "J. Clarkson misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:08.0",
+      "Defensive rebound by D. Harper",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:02.0",
+      "Personal foul by M. Robinson (drawn by V. Wembanyama)",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:02.0",
+      "D. Fox enters the game for S. Castle",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:56.0",
+      "V. Wembanyama misses 2-pt layup from 5 ft",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:55.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "Defensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "J. Brunson misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:41.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:32.0",
+      "D. Harper makes 2-pt layup from 1 ft (assist by D. Fox)",
+      "+2",
+      "21-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "21-24",
+      "+3",
+      "J. Brunson makes 3-pt jump shot from 30 ft (assist by M. Bridges)"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "2:55.0",
+      "D. Harper misses 2-pt layup from 3 ft",
+      "",
+      "21-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "21-24",
+      "",
+      "Defensive rebound by J. Brunson"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "21-24",
+      "",
+      "Turnover by J. Brunson (bad pass)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:44.0",
+      "V. Wembanyama makes 2-pt jump shot from 3 ft (assist by D. Fox)",
+      "+2",
+      "23-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "23-24",
+      "",
+      "J. Brunson misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:26.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "23-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:20.0",
+      "D. Fox misses 3-pt jump shot from 26 ft",
+      "",
+      "23-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:17.0",
+      "Offensive rebound by K. Johnson",
+      "",
+      "23-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:11.0",
+      "V. Wembanyama misses 3-pt jump shot from 26 ft",
+      "",
+      "23-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "23-24",
+      "",
+      "Defensive rebound by J. Hart"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "23-26",
+      "+2",
+      "J. Brunson makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "Shooting foul by J. Champagnie (drawn by J. Brunson)"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "1:50.0",
+      "L. Kornet enters the game for V. Wembanyama",
+      "",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "O. Anunoby enters the game for J. Hart"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "J. Brunson misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:48.0",
+      "Defensive rebound by K. Johnson",
+      "",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:40.0",
+      "D. Harper misses 3-pt jump shot from 24 ft",
+      "",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:38.0",
+      "Offensive rebound by Team",
+      "",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "Loose ball foul by O. Anunoby (drawn by L. Kornet)"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:27.0",
+      "D. Fox makes 2-pt jump shot from 3 ft",
+      "+2",
+      "25-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:05.0",
+      "",
+      "",
+      "25-26",
+      "",
+      "M. Bridges misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "25-26",
+      "",
+      "Offensive rebound by O. Anunoby"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "25-28",
+      "+2",
+      "J. Clarkson makes 2-pt jump shot from 3 ft (assist by O. Anunoby)"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:53.0",
+      "K. Johnson makes 3-pt jump shot from 26 ft (assist by D. Fox)",
+      "+3",
+      "28-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "28-28",
+      "",
+      "J. Clarkson misses 3-pt jump shot from 28 ft (block by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "28-28",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "28-28",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:10.0",
+      "Shooting foul by M. Robinson (drawn by D. Fox)",
+      "",
+      "28-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:10.0",
+      "D. Fox makes free throw 1 of 2",
+      "+1",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:10.0",
+      "S. Castle enters the game for L. Kornet",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "K. Towns enters the game for M. Robinson"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:10.0",
+      "D. Fox makes free throw 2 of 2",
+      "+1",
+      "30-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "30-28",
+      "",
+      "J. Brunson misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "30-28",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "Time",
+      "San Antonio",
+      "",
+      "Score",
+      "",
+      "New York"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "11:42.0",
+      "K. Johnson misses 3-pt jump shot from 23 ft",
+      "",
+      "30-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "11:40.0",
+      "Offensive rebound by L. Kornet",
+      "",
+      "30-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "11:40.0",
+      "L. Kornet makes 2-pt layup at rim",
+      "+2",
+      "32-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "32-30",
+      "+2",
+      "M. Bridges makes 2-pt jump shot from 17 ft (assist by T. Kolek)"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "11:11.0",
+      "J. Champagnie makes 3-pt jump shot from 25 ft (assist by D. Fox)",
+      "+3",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "35-32",
+      "+2",
+      "O. Anunoby makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "35-32",
+      "",
+      "Shooting foul by D. Harper (drawn by O. Anunoby)"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "35-33",
+      "+1",
+      "O. Anunoby makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "10:38.0",
+      "D. Harper makes 3-pt jump shot from 25 ft (assist by D. Fox)",
+      "+3",
+      "38-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "38-35",
+      "+2",
+      "M. Bridges makes 2-pt jump shot from 8 ft (assist by T. Kolek)"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "10:07.0",
+      "D. Harper makes 3-pt jump shot from 25 ft (assist by D. Fox)",
+      "+3",
+      "41-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "41-35",
+      "",
+      "M. Bridges misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "41-35",
+      "",
+      "Offensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "41-37",
+      "+2",
+      "K. Towns makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "9:40.0",
+      "L. Kornet makes 2-pt dunk from 2 ft (assist by D. Fox)",
+      "+2",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "O. Anunoby misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "9:27.0",
+      "Defensive rebound by L. Kornet",
+      "",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "9:22.0",
+      "D. Fox misses 3-pt jump shot from 25 ft",
+      "",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "9:19.0",
+      "Offensive rebound by K. Johnson",
+      "",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "9:16.0",
+      "J. Champagnie misses 3-pt jump shot from 25 ft",
+      "",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "Defensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "T. Kolek misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "9:07.0",
+      "Defensive rebound by J. Champagnie",
+      "",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "8:58.0",
+      "Turnover by D. Fox (bad pass; steal by J. Hart)",
+      "",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "Shooting foul by D. Harper (drawn by O. Anunoby)"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "O. Anunoby misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "8:54.0",
+      "S. Castle enters the game for D. Harper",
+      "",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "8:54.0",
+      "V. Wembanyama enters the game for L. Kornet",
+      "",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "M. Robinson enters the game for J. Hart"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "O. Anunoby misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "43-37",
+      "",
+      "J. Hart enters the game for O. Anunoby"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "43-40",
+      "+3",
+      "T. Kolek makes 3-pt jump shot from 29 ft (assist by M. Bridges)"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:36.0",
+      "D. Fox misses 2-pt jump shot from 10 ft",
+      "",
+      "43-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:34.0",
+      "",
+      "",
+      "43-40",
+      "",
+      "Defensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "43-40",
+      "",
+      "Turnover by M. Robinson (off goaltending)"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:10.0",
+      "V. Wembanyama makes 2-pt jump shot from 16 ft (assist by S. Castle)",
+      "+2",
+      "45-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "45-40",
+      "",
+      "Turnover by T. Kolek (lost ball; steal by D. Fox)"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "7:58.0",
+      "Shooting foul by T. Kolek (drawn by D. Fox)",
+      "",
+      "45-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "7:58.0",
+      "D. Fox makes free throw 1 of 2",
+      "+1",
+      "46-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "7:58.0",
+      "D. Vassell enters the game for J. Champagnie",
+      "",
+      "46-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "J. Brunson enters the game for M. Bridges"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "7:58.0",
+      "D. Fox misses free throw 2 of 2",
+      "",
+      "46-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "7:56.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "Defensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "J. Brunson misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "7:27.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "M. Robinson misses 2-pt layup from 1 ft (block by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "T. Kolek misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:19.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "M. Robinson misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "Offensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "K. Towns misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:17.0",
+      "Defensive rebound by Team",
+      "",
+      "46-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:06.0",
+      "D. Vassell misses 3-pt jump shot from 25 ft",
+      "",
+      "46-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:05.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "Defensive rebound by T. Kolek"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "Personal foul by D. Fox (drawn by J. Brunson)"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "New York full timeout"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:59.0",
+      "H. Barnes enters the game for D. Fox",
+      "",
+      "46-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:59.0",
+      "D. Harper enters the game for K. Johnson",
+      "",
+      "46-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "O. Anunoby enters the game for T. Kolek"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "J. Clarkson enters the game for K. Towns"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "J. Clarkson misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "46-43",
+      "+3",
+      "O. Anunoby makes 3-pt jump shot from 28 ft (assist by J. Hart)"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:13.0",
+      "Shooting foul by M. Robinson (drawn by V. Wembanyama)",
+      "",
+      "46-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:13.0",
+      "V. Wembanyama misses free throw 1 of 2",
+      "",
+      "46-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:13.0",
+      "Offensive rebound by Team",
+      "",
+      "46-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "46-43",
+      "",
+      "K. Towns enters the game for M. Robinson"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:13.0",
+      "V. Wembanyama misses free throw 2 of 2",
+      "",
+      "46-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "46-43",
+      "",
+      "Defensive rebound by J. Hart"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "46-43",
+      "",
+      "J. Brunson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:54.0",
+      "Defensive rebound by S. Castle",
+      "",
+      "46-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:49.0",
+      "D. Vassell misses 3-pt jump shot from 23 ft",
+      "",
+      "46-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:46.0",
+      "Offensive rebound by S. Castle",
+      "",
+      "46-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:44.0",
+      "D. Vassell makes 2-pt dunk from 2 ft (assist by S. Castle)",
+      "+2",
+      "48-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "48-43",
+      "",
+      "Turnover by J. Brunson (bad pass; steal by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:23.0",
+      "S. Castle makes 2-pt dunk from 3 ft (assist by V. Wembanyama)",
+      "+2",
+      "50-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "50-43",
+      "",
+      "New York full timeout"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "50-43",
+      "",
+      "M. Bridges enters the game for J. Hart"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "50-43",
+      "",
+      "M. Bridges misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "4:58.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "50-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:54.0",
+      "V. Wembanyama misses 2-pt dunk from 2 ft",
+      "",
+      "50-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:53.0",
+      "",
+      "",
+      "50-43",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:53.0",
+      "Loose ball foul by S. Castle (drawn by O. Anunoby)",
+      "",
+      "50-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "50-43",
+      "",
+      "K. Towns misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "4:35.0",
+      "Defensive rebound by D. Harper",
+      "",
+      "50-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "4:29.0",
+      "H. Barnes misses 3-pt jump shot from 25 ft",
+      "",
+      "50-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "50-43",
+      "",
+      "Defensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "50-45",
+      "+2",
+      "J. Brunson makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:58.0",
+      "D. Harper misses 3-pt jump shot from 24 ft",
+      "",
+      "50-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:57.0",
+      "Offensive rebound by Team",
+      "",
+      "50-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "50-45",
+      "",
+      "Loose ball foul by O. Anunoby (drawn by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:57.0",
+      "L. Kornet enters the game for V. Wembanyama",
+      "",
+      "50-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "50-45",
+      "",
+      "J. Hart enters the game for J. Clarkson"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:49.0",
+      "D. Vassell misses 2-pt jump shot from 18 ft",
+      "",
+      "50-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "3:47.0",
+      "Offensive rebound by D. Harper",
+      "",
+      "50-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:46.0",
+      "S. Castle misses 3-pt jump shot from 25 ft",
+      "",
+      "50-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "50-45",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:44.0",
+      "Loose ball foul by D. Harper (drawn by K. Towns)",
+      "",
+      "50-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "50-46",
+      "+1",
+      "K. Towns makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "3:44.0",
+      "D. Fox enters the game for D. Harper",
+      "",
+      "50-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "50-47",
+      "+1",
+      "K. Towns makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "3:32.0",
+      "Shooting foul by J. Hart (drawn by S. Castle)",
+      "",
+      "50-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "3:32.0",
+      "S. Castle makes free throw 1 of 2",
+      "+1",
+      "51-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "3:32.0",
+      "J. Champagnie enters the game for H. Barnes",
+      "",
+      "51-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "3:32.0",
+      "S. Castle makes free throw 2 of 2",
+      "+1",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "52-49",
+      "+2",
+      "K. Towns makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "3:03.0",
+      "S. Castle makes 2-pt jump shot from 8 ft",
+      "+2",
+      "54-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "54-51",
+      "+2",
+      "J. Brunson makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "2:30.0",
+      "L. Kornet misses 2-pt layup from 5 ft (block by J. Brunson)",
+      "",
+      "54-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "2:30.0",
+      "Offensive rebound by Team",
+      "",
+      "54-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "2:28.0",
+      "D. Vassell misses 2-pt jump shot from 17 ft",
+      "",
+      "54-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "54-51",
+      "",
+      "Defensive rebound by J. Hart"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "54-51",
+      "",
+      "J. Brunson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "54-51",
+      "",
+      "Offensive rebound by J. Hart"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "54-53",
+      "+2",
+      "J. Hart makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "1:58.0",
+      "S. Castle misses 2-pt jump shot from 10 ft",
+      "",
+      "54-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "1:55.0",
+      "Offensive rebound by L. Kornet",
+      "",
+      "54-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "1:55.0",
+      "L. Kornet makes 2-pt layup at rim",
+      "+2",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "56-53",
+      "",
+      "Personal foul by S. Castle (drawn by J. Brunson)"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "56-54",
+      "+1",
+      "J. Brunson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "56-55",
+      "+1",
+      "J. Brunson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "1:35.0",
+      "D. Vassell makes 3-pt jump shot from 25 ft (assist by D. Fox)",
+      "+3",
+      "59-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "59-55",
+      "",
+      "K. Towns misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "59-55",
+      "",
+      "Offensive rebound by J. Brunson"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "59-55",
+      "",
+      "J. Brunson misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "1:08.0",
+      "Defensive rebound by D. Fox",
+      "",
+      "59-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "1:08.0",
+      "K. Johnson enters the game for S. Castle",
+      "",
+      "59-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "59-55",
+      "",
+      "A. Hukporti enters the game for K. Towns"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "0:55.0",
+      "D. Fox misses 2-pt layup from 3 ft",
+      "",
+      "59-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "0:54.0",
+      "Offensive rebound by L. Kornet",
+      "",
+      "59-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "0:53.0",
+      "J. Champagnie misses 3-pt jump shot from 25 ft",
+      "",
+      "59-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "59-55",
+      "",
+      "Defensive rebound by M. Bridges"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "0:42.0",
+      "",
+      "",
+      "59-57",
+      "+2",
+      "O. Anunoby makes 2-pt layup from 1 ft (assist by J. Brunson)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "0:29.0",
+      "Turnover by D. Fox (lost ball; steal by A. Hukporti)",
+      "",
+      "59-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "59-59",
+      "+2",
+      "O. Anunoby makes 2-pt dunk from 2 ft (assist by J. Brunson)"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "0:07.0",
+      "D. Fox makes 2-pt jump shot from 15 ft",
+      "+2",
+      "61-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "61-59",
+      "",
+      "J. Hart misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "0:00.0",
+      "Defensive rebound by Team",
+      "",
+      "61-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "Time",
+      "San Antonio",
+      "",
+      "Score",
+      "",
+      "New York"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "11:39.0",
+      "D. Fox makes 3-pt jump shot from 30 ft (assist by H. Barnes)",
+      "+3",
+      "64-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "64-59",
+      "",
+      "Personal foul by S. Castle (drawn by J. Brunson)"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "64-59",
+      "",
+      "Offensive foul by K. Towns (drawn by L. Kornet)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "64-59",
+      "",
+      "Turnover by K. Towns (offensive foul)"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "10:56.0",
+      "D. Fox makes 3-pt jump shot from 27 ft",
+      "+3",
+      "67-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "10:39.0",
+      "",
+      "",
+      "67-59",
+      "",
+      "M. Bridges misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "10:37.0",
+      "Defensive rebound by Team",
+      "",
+      "67-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "10:27.0",
+      "L. Kornet misses 2-pt layup from 3 ft",
+      "",
+      "67-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "67-59",
+      "",
+      "Defensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "67-59",
+      "",
+      "Shooting foul by D. Fox (drawn by O. Anunoby)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "67-60",
+      "+1",
+      "O. Anunoby makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "67-61",
+      "+1",
+      "O. Anunoby makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "10:04.0",
+      "L. Kornet makes 2-pt dunk from 2 ft (assist by S. Castle)",
+      "+2",
+      "69-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "69-61",
+      "",
+      "New York full timeout"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "69-61",
+      "",
+      "J. Hart misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "9:40.0",
+      "Defensive rebound by D. Vassell",
+      "",
+      "69-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "9:33.0",
+      "H. Barnes misses 3-pt jump shot from 27 ft",
+      "",
+      "69-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "9:31.0",
+      "",
+      "",
+      "69-61",
+      "",
+      "Defensive rebound by O. Anunoby"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "69-64",
+      "+3",
+      "M. Bridges makes 3-pt jump shot from 23 ft (assist by J. Hart)"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "9:00.0",
+      "D. Vassell misses 3-pt jump shot from 29 ft",
+      "",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "8:58.0",
+      "Offensive rebound by H. Barnes",
+      "",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "8:58.0",
+      "H. Barnes makes 2-pt layup from 1 ft",
+      "+2",
+      "71-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "8:58.0",
+      "Shooting foul by O. Anunoby (drawn by H. Barnes)",
+      "",
+      "71-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "8:58.0",
+      "H. Barnes makes free throw 1 of 1",
+      "+1",
+      "72-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "72-64",
+      "",
+      "J. Brunson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "8:39.0",
+      "Defensive rebound by D. Vassell",
+      "",
+      "72-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "8:31.0",
+      "D. Fox misses 3-pt jump shot from 30 ft",
+      "",
+      "72-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:28.0",
+      "",
+      "",
+      "72-64",
+      "",
+      "Defensive rebound by J. Brunson"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "72-66",
+      "+2",
+      "J. Brunson makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "8:04.0",
+      "S. Castle misses 2-pt jump shot from 15 ft",
+      "",
+      "72-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "72-66",
+      "",
+      "Defensive rebound by J. Hart"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "72-66",
+      "",
+      "Shooting foul by D. Vassell (drawn by M. Bridges)"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "72-67",
+      "+1",
+      "M. Bridges makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "7:58.0",
+      "San Antonio full timeout",
+      "",
+      "72-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "7:58.0",
+      "V. Wembanyama enters the game for L. Kornet",
+      "",
+      "72-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "72-68",
+      "+1",
+      "M. Bridges makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "7:48.0",
+      "Turnover by D. Fox (bad pass; steal by K. Towns)",
+      "",
+      "72-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "72-68",
+      "",
+      "K. Towns misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "7:41.0",
+      "Defensive rebound by D. Vassell",
+      "",
+      "72-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "7:31.0",
+      "V. Wembanyama makes 2-pt dunk at rim (assist by D. Vassell)",
+      "+2",
+      "74-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "74-68",
+      "",
+      "Offensive foul by J. Hart (drawn by D. Vassell)"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "74-68",
+      "",
+      "Turnover by J. Hart (offensive foul)"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "7:21.0",
+      "D. Harper enters the game for D. Fox",
+      "",
+      "74-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "7:12.0",
+      "D. Vassell misses 3-pt jump shot from 29 ft",
+      "",
+      "74-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "7:08.0",
+      "Offensive rebound by D. Harper",
+      "",
+      "74-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "7:04.0",
+      "Shooting foul by J. Hart (drawn by D. Harper)",
+      "",
+      "74-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "7:04.0",
+      "D. Harper makes free throw 1 of 2",
+      "+1",
+      "75-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "7:04.0",
+      "",
+      "",
+      "75-68",
+      "",
+      "J. Clarkson enters the game for J. Hart"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "7:04.0",
+      "D. Harper makes free throw 2 of 2",
+      "+1",
+      "76-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "76-68",
+      "",
+      "O. Anunoby misses 2-pt hook shot from 2 ft"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "6:39.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "76-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "6:33.0",
+      "D. Harper makes 2-pt layup from 3 ft (assist by H. Barnes)",
+      "+2",
+      "78-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "J. Clarkson misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "78-71",
+      "+3",
+      "K. Towns makes 3-pt jump shot from 25 ft (assist by M. Bridges)"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "5:59.0",
+      "S. Castle misses 2-pt jump shot from 6 ft",
+      "",
+      "78-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "5:56.0",
+      "Offensive rebound by S. Castle",
+      "",
+      "78-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "5:56.0",
+      "S. Castle misses 2-pt layup at rim",
+      "",
+      "78-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "5:55.0",
+      "Offensive rebound by S. Castle",
+      "",
+      "78-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "5:50.0",
+      "D. Harper makes 3-pt jump shot from 28 ft (assist by D. Vassell)",
+      "+3",
+      "81-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "81-71",
+      "",
+      "Loose ball foul by J. Brunson (drawn by S. Castle)"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "5:50.0",
+      "J. Champagnie enters the game for H. Barnes",
+      "",
+      "81-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "5:50.0",
+      "S. Castle makes free throw 1 of 1",
+      "+1",
+      "82-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "5:38.0",
+      "",
+      "",
+      "82-71",
+      "",
+      "J. Brunson misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "82-71",
+      "",
+      "Offensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "82-73",
+      "+2",
+      "K. Towns makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "5:20.0",
+      "V. Wembanyama misses 2-pt jump shot from 6 ft",
+      "",
+      "82-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "82-73",
+      "",
+      "Defensive rebound by M. Bridges"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "82-73",
+      "",
+      "K. Towns misses 2-pt layup from 3 ft (block by S. Castle)"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "82-73",
+      "",
+      "Offensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "82-75",
+      "+2",
+      "K. Towns makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "5:06.0",
+      "San Antonio full timeout",
+      "",
+      "82-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "82-75",
+      "",
+      "T. Kolek enters the game for M. Bridges"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "82-75",
+      "",
+      "M. Robinson enters the game for K. Towns"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "4:50.0",
+      "D. Vassell misses 2-pt layup from 3 ft (block by O. Anunoby)",
+      "",
+      "82-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "82-75",
+      "",
+      "Defensive rebound by T. Kolek"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "82-77",
+      "+2",
+      "T. Kolek makes 2-pt hook shot from 2 ft (assist by J. Brunson)"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "4:16.0",
+      "S. Castle makes 2-pt layup from 2 ft",
+      "+2",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "T. Kolek misses 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "3:51.0",
+      "Defensive rebound by V. Wembanyama",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "3:51.0",
+      "K. Johnson enters the game for D. Vassell",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "M. Bridges enters the game for J. Brunson"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "3:31.0",
+      "V. Wembanyama misses 2-pt layup from 3 ft",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "Defensive rebound by M. Bridges"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "84-79",
+      "+2",
+      "M. Bridges makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "3:04.0",
+      "V. Wembanyama makes 3-pt jump shot from 28 ft (assist by S. Castle)",
+      "+3",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "87-79",
+      "",
+      "Turnover by M. Bridges (lost ball; steal by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "2:42.0",
+      "J. Champagnie misses 2-pt layup from 3 ft",
+      "",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "2:40.0",
+      "Offensive rebound by S. Castle",
+      "",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "2:38.0",
+      "V. Wembanyama makes 2-pt layup from 1 ft (assist by S. Castle)",
+      "+2",
+      "89-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "89-81",
+      "+2",
+      "J. Clarkson makes 2-pt jump shot from 13 ft (assist by M. Bridges)"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "2:21.0",
+      "Violation by Team (def goaltending)",
+      "",
+      "89-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "2:11.0",
+      "D. Harper misses 2-pt layup from 2 ft (block by M. Robinson)",
+      "",
+      "89-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "2:08.0",
+      "Offensive rebound by J. Champagnie",
+      "",
+      "89-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "2:07.0",
+      "V. Wembanyama makes 3-pt jump shot from 28 ft (assist by J. Champagnie)",
+      "+3",
+      "92-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "92-84",
+      "+3",
+      "J. Clarkson makes 3-pt jump shot from 26 ft (assist by T. Kolek)"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "1:35.0",
+      "S. Castle misses 2-pt jump shot from 13 ft",
+      "",
+      "92-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:32.0",
+      "Offensive rebound by K. Johnson",
+      "",
+      "92-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "1:32.0",
+      "K. Johnson misses 2-pt layup at rim",
+      "",
+      "92-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "92-84",
+      "",
+      "Defensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "92-87",
+      "+3",
+      "T. Kolek makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "1:06.0",
+      "V. Wembanyama makes 2-pt jump shot from 21 ft (assist by S. Castle)",
+      "+2",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "94-87",
+      "",
+      "J. Clarkson misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:52.0",
+      "Defensive rebound by Team",
+      "",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:52.0",
+      "D. Fox enters the game for S. Castle",
+      "",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:52.0",
+      "L. Kornet enters the game for V. Wembanyama",
+      "",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "94-87",
+      "",
+      "J. Brunson enters the game for O. Anunoby"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "94-87",
+      "",
+      "A. Hukporti enters the game for M. Robinson"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:34.0",
+      "D. Harper misses 2-pt jump shot from 8 ft",
+      "",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "94-87",
+      "",
+      "Defensive rebound by T. Kolek"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "94-89",
+      "+2",
+      "J. Brunson makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:11.0",
+      "Personal foul by J. Clarkson (drawn by D. Fox)",
+      "",
+      "94-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "0:11.0",
+      "D. Vassell enters the game for L. Kornet",
+      "",
+      "94-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "94-89",
+      "",
+      "O. Anunoby enters the game for J. Brunson"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "0:00.0",
+      "D. Vassell misses 2-pt jump shot from 18 ft",
+      "",
+      "94-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "94-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "Time",
+      "San Antonio",
+      "",
+      "Score",
+      "",
+      "New York"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "11:37.0",
+      "",
+      "",
+      "94-89",
+      "",
+      "J. Brunson misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "94-89",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "11:25.0",
+      "",
+      "",
+      "94-89",
+      "",
+      "J. Clarkson misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "94-89",
+      "",
+      "Offensive rebound by J. Clarkson"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "94-89",
+      "",
+      "J. Clarkson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "94-89",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "94-91",
+      "+2",
+      "M. Robinson makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "11:04.0",
+      "V. Wembanyama misses 3-pt jump shot from 27 ft",
+      "",
+      "94-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "94-91",
+      "",
+      "Defensive rebound by J. Brunson"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "94-91",
+      "",
+      "J. Brunson misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "94-91",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "10:52.0",
+      "",
+      "",
+      "94-91",
+      "",
+      "M. Robinson misses 2-pt layup from 3 ft (block by V. Wembanyama)"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "94-91",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "94-94",
+      "+3",
+      "J. Clarkson makes 3-pt jump shot from 28 ft (assist by M. Robinson)"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "10:36.0",
+      "Turnover by D. Fox (bad pass; steal by M. Robinson)",
+      "",
+      "94-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "10:29.0",
+      "",
+      "",
+      "94-94",
+      "",
+      "O. Anunoby misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "94-94",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "94-97",
+      "+3",
+      "J. Clarkson makes 3-pt jump shot from 28 ft (assist by M. Robinson)"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "10:27.0",
+      "San Antonio full timeout",
+      "",
+      "94-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "10:27.0",
+      "H. Barnes enters the game for K. Johnson",
+      "",
+      "94-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "10:17.0",
+      "Shooting foul by O. Anunoby (drawn by D. Fox)",
+      "",
+      "94-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "10:17.0",
+      "D. Fox makes free throw 1 of 2",
+      "+1",
+      "95-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "10:17.0",
+      "D. Fox misses free throw 2 of 2",
+      "",
+      "95-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "95-97",
+      "",
+      "Defensive rebound by O. Anunoby"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "95-97",
+      "",
+      "J. Clarkson misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "9:51.0",
+      "Defensive rebound by D. Harper",
+      "",
+      "95-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "9:46.0",
+      "H. Barnes misses 3-pt jump shot from 24 ft",
+      "",
+      "95-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "95-97",
+      "",
+      "Defensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "95-97",
+      "",
+      "M. Robinson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "95-97",
+      "",
+      "Offensive rebound by O. Anunoby"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "95-100",
+      "+3",
+      "O. Anunoby makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "9:11.0",
+      "Shooting foul by J. Brunson (drawn by H. Barnes)",
+      "",
+      "95-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "9:11.0",
+      "H. Barnes makes free throw 1 of 2",
+      "+1",
+      "96-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "9:11.0",
+      "L. Kornet enters the game for D. Harper",
+      "",
+      "96-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "9:11.0",
+      "D. Vassell enters the game for V. Wembanyama",
+      "",
+      "96-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "96-100",
+      "",
+      "M. Bridges enters the game for O. Anunoby"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "9:11.0",
+      "H. Barnes makes free throw 2 of 2",
+      "+1",
+      "97-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "8:55.0",
+      "",
+      "",
+      "97-102",
+      "+2",
+      "J. Brunson makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "8:42.0",
+      "J. Champagnie misses 3-pt jump shot from 27 ft",
+      "",
+      "97-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "97-102",
+      "",
+      "Defensive rebound by M. Bridges"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "97-102",
+      "",
+      "M. Bridges misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "8:24.0",
+      "Defensive rebound by Team",
+      "",
+      "97-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "8:24.0",
+      "S. Castle enters the game for D. Fox",
+      "",
+      "97-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "8:12.0",
+      "D. Vassell misses 2-pt jump shot from 19 ft",
+      "",
+      "97-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "97-102",
+      "",
+      "Defensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "97-104",
+      "+2",
+      "J. Brunson makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "7:40.0",
+      "Personal foul by T. Kolek (drawn by L. Kornet)",
+      "",
+      "97-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "7:40.0",
+      "San Antonio full timeout",
+      "",
+      "97-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "7:40.0",
+      "Technical foul by M. Johnson",
+      "",
+      "97-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "7:40.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "97-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "97-104",
+      "",
+      "J. Brunson misses technical free throw"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "7:40.0",
+      "Defensive rebound by Team",
+      "",
+      "97-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "7:33.0",
+      "S. Castle makes 2-pt layup from 2 ft (assist by L. Kornet)",
+      "+2",
+      "99-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "99-104",
+      "",
+      "T. Kolek misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "99-104",
+      "",
+      "Offensive rebound by J. Clarkson"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "99-104",
+      "",
+      "J. Brunson misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "7:00.0",
+      "",
+      "",
+      "99-104",
+      "",
+      "Offensive rebound by M. Robinson"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "7:00.0",
+      "",
+      "",
+      "99-106",
+      "+2",
+      "M. Robinson makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "6:51.0",
+      "S. Castle misses 2-pt jump shot from 10 ft",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "6:50.0",
+      "Offensive rebound by L. Kornet",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "6:50.0",
+      "L. Kornet makes 2-pt layup at rim",
+      "+2",
+      "101-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "101-106",
+      "",
+      "Turnover by J. Brunson (bad pass; steal by H. Barnes)"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "6:22.0",
+      "Shooting foul by J. Brunson (drawn by S. Castle)",
+      "",
+      "101-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "6:22.0",
+      "S. Castle makes free throw 1 of 2",
+      "+1",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "6:22.0",
+      "",
+      "",
+      "102-106",
+      "",
+      "O. Anunoby enters the game for M. Bridges"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "6:22.0",
+      "S. Castle misses free throw 2 of 2",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "102-106",
+      "",
+      "Defensive rebound by T. Kolek"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "102-108",
+      "+2",
+      "T. Kolek makes 2-pt layup from 1 ft (assist by J. Brunson)"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "5:52.0",
+      "Turnover by S. Castle (bad pass; steal by J. Clarkson)",
+      "",
+      "102-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "102-108",
+      "",
+      "O. Anunoby misses 3-pt jump shot from 24 ft (block by H. Barnes)"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "102-108",
+      "",
+      "Offensive rebound by O. Anunoby"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "102-108",
+      "",
+      "O. Anunoby misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "5:28.0",
+      "Defensive rebound by H. Barnes",
+      "",
+      "102-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "5:26.0",
+      "S. Castle makes 3-pt jump shot from 25 ft (assist by D. Vassell)",
+      "+3",
+      "105-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "5:02.0",
+      "",
+      "",
+      "105-110",
+      "+2",
+      "J. Clarkson makes 2-pt jump shot from 9 ft (assist by J. Brunson)"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "4:50.0",
+      "H. Barnes misses 2-pt jump shot from 3 ft (block by J. Clarkson)",
+      "",
+      "105-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "105-110",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "4:49.0",
+      "D. Fox enters the game for S. Castle",
+      "",
+      "105-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "4:49.0",
+      "D. Harper enters the game for J. Champagnie",
+      "",
+      "105-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "4:49.0",
+      "V. Wembanyama enters the game for L. Kornet",
+      "",
+      "105-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "105-110",
+      "",
+      "K. Towns enters the game for M. Robinson"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "105-110",
+      "",
+      "J. Clarkson misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "4:25.0",
+      "Defensive rebound by D. Harper",
+      "",
+      "105-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "4:19.0",
+      "V. Wembanyama misses 3-pt jump shot from 28 ft",
+      "",
+      "105-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "105-110",
+      "",
+      "Defensive rebound by O. Anunoby"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "105-110",
+      "",
+      "New York full timeout"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "4:09.0",
+      "S. Castle enters the game for H. Barnes",
+      "",
+      "105-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "105-110",
+      "",
+      "J. Hart enters the game for T. Kolek"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "4:08.0",
+      "",
+      "",
+      "105-110",
+      "",
+      "Offensive foul by K. Towns (drawn by S. Castle)"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "4:08.0",
+      "",
+      "",
+      "105-110",
+      "",
+      "Turnover by K. Towns (offensive foul)"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "3:55.0",
+      "Personal foul by K. Towns (drawn by V. Wembanyama)",
+      "",
+      "105-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "3:55.0",
+      "V. Wembanyama makes free throw 1 of 2",
+      "+1",
+      "106-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "3:55.0",
+      "V. Wembanyama makes free throw 2 of 2",
+      "+1",
+      "107-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "107-112",
+      "+2",
+      "J. Brunson makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "3:24.0",
+      "D. Fox misses 2-pt jump shot from 10 ft (block by J. Hart)",
+      "",
+      "107-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "107-112",
+      "",
+      "Defensive rebound by K. Towns"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "2:58.0",
+      "",
+      "",
+      "107-115",
+      "+3",
+      "J. Hart makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "2:42.0",
+      "D. Harper makes 3-pt jump shot from 30 ft (assist by S. Castle)",
+      "+3",
+      "110-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "110-115",
+      "",
+      "Turnover by J. Brunson (back court)"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "110-115",
+      "",
+      "T. Kolek enters the game for J. Clarkson"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "2:18.0",
+      "V. Wembanyama misses 2-pt jump shot from 22 ft",
+      "",
+      "110-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "2:15.0",
+      "Offensive rebound by D. Harper",
+      "",
+      "110-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "2:12.0",
+      "D. Harper misses 2-pt layup from 1 ft",
+      "",
+      "110-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "110-115",
+      "",
+      "Defensive rebound by O. Anunoby"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "110-118",
+      "+3",
+      "O. Anunoby makes 3-pt jump shot from 24 ft (assist by T. Kolek)"
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "1:48.0",
+      "V. Wembanyama misses 3-pt jump shot from 29 ft",
+      "",
+      "110-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "1:44.0",
+      "Offensive rebound by Team",
+      "",
+      "110-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "1:44.0",
+      "San Antonio full timeout",
+      "",
+      "110-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "1:44.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "110-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "1:44.0",
+      "Turnover by S. Castle (bad pass; steal by K. Towns)",
+      "",
+      "110-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "1:37.0",
+      "",
+      "",
+      "110-118",
+      "",
+      "O. Anunoby misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "110-118",
+      "",
+      "Offensive rebound by O. Anunoby"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "1:24.0",
+      "",
+      "",
+      "110-118",
+      "",
+      "J. Brunson misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "1:22.0",
+      "Defensive rebound by S. Castle",
+      "",
+      "110-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "1:17.0",
+      "D. Fox misses 2-pt layup from 2 ft",
+      "",
+      "110-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "110-118",
+      "",
+      "Defensive rebound by T. Kolek"
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "110-118",
+      "",
+      "Personal take foul by S. Castle (drawn by J. Brunson)"
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "110-118",
+      "",
+      "J. Brunson misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "0:54.0",
+      "Defensive rebound by Team",
+      "",
+      "110-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "0:45.0",
+      "D. Fox misses 3-pt jump shot from 29 ft",
+      "",
+      "110-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "0:42.0",
+      "",
+      "",
+      "110-118",
+      "",
+      "Defensive rebound by J. Hart"
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "110-118",
+      "",
+      "Personal take foul by D. Vassell (drawn by T. Kolek)"
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "110-119",
+      "+1",
+      "T. Kolek makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "110-120",
+      "+1",
+      "T. Kolek makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "0:30.0",
+      "S. Castle misses 3-pt jump shot from 28 ft",
+      "",
+      "110-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "110-120",
+      "",
+      "Defensive rebound by O. Anunoby"
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "0:21.0",
+      "",
+      "",
+      "110-122",
+      "+2",
+      "T. Kolek makes 2-pt layup from 3 ft (assist by J. Brunson)"
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "0:18.0",
+      "D. Harper makes 3-pt jump shot from 30 ft (assist by D. Fox)",
+      "+3",
+      "113-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "113-124",
+      "+2",
+      "J. Hart makes 2-pt layup from 4 ft (assist by T. Kolek)"
+    ]
+  }
+]

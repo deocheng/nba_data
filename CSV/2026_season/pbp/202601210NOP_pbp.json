@@ -1,0 +1,5260 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Detroit",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "12:00.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Violation by Team (jump ball)"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:44.0",
+      "J. Duren makes 2-pt dunk at rim (assist by D. Robinson)",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:32.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Turnover by J. Fears (bad pass; steal by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:28.0",
+      "D. Jenkins makes 3-pt jump shot from 23 ft (assist by T. Harris)",
+      "+3",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "5-0",
+      "",
+      "Z. Williamson misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:15.0",
+      "",
+      "",
+      "5-0",
+      "",
+      "Offensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "5-0",
+      "",
+      "T. Murphy misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "11:08.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "11:01.0",
+      "A. Thompson makes 2-pt layup from 2 ft",
+      "+2",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:49.0",
+      "",
+      "",
+      "7-0",
+      "",
+      "J. Fears misses 2-pt layup from 4 ft (block by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:47.0",
+      "Defensive rebound by D. Robinson",
+      "",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:42.0",
+      "T. Harris misses 3-pt jump shot from 25 ft",
+      "",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:37.0",
+      "",
+      "",
+      "7-0",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "7-0",
+      "",
+      "Turnover by S. Bey (bad pass)"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:12.0",
+      "Turnover by D. Jenkins (bad pass; steal by J. Fears)",
+      "",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "7-0",
+      "",
+      "Turnover by T. Murphy (lost ball; steal by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "10:04.0",
+      "D. Robinson makes 3-pt jump shot from 25 ft (assist by D. Jenkins)",
+      "+3",
+      "10-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:45.0",
+      "",
+      "",
+      "10-0",
+      "",
+      "T. Murphy misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:43.0",
+      "Defensive rebound by T. Harris",
+      "",
+      "10-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:37.0",
+      "Turnover by D. Robinson (bad pass; steal by T. Murphy)",
+      "",
+      "10-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:36.0",
+      "",
+      "",
+      "10-0",
+      "",
+      "Turnover by T. Murphy (step out of bounds)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:29.0",
+      "T. Harris makes 3-pt jump shot from 25 ft (assist by D. Jenkins)",
+      "+3",
+      "13-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "13-0",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "13-0",
+      "",
+      "Def 3 sec tech foul by Team"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "13-1",
+      "+1",
+      "T. Murphy makes technical free throw"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:08.0",
+      "",
+      "",
+      "13-1",
+      "",
+      "Personal foul by D. Jenkins (drawn by J. Fears)"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "13-3",
+      "+2",
+      "D. Queen makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:34.0",
+      "T. Harris misses 2-pt jump shot from 14 ft",
+      "",
+      "13-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:33.0",
+      "",
+      "",
+      "13-3",
+      "",
+      "Defensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "13-5",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "13-5",
+      "",
+      "Shooting foul by T. Harris (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "13-5",
+      "",
+      "Z. Williamson misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:27.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "13-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:22.0",
+      "D. Robinson misses 3-pt jump shot from 25 ft",
+      "",
+      "13-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:18.0",
+      "",
+      "",
+      "13-5",
+      "",
+      "Defensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "13-5",
+      "",
+      "S. Bey misses 2-pt hook shot from 6 ft"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:05.0",
+      "Defensive rebound by T. Harris",
+      "",
+      "13-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "8:04.0",
+      "Turnover by T. Harris (lost ball; steal by S. Bey)",
+      "",
+      "13-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "13-7",
+      "+2",
+      "D. Queen makes 2-pt layup from 2 ft (assist by S. Bey)"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:44.0",
+      "T. Harris misses 3-pt jump shot from 24 ft",
+      "",
+      "13-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "13-7",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "13-7",
+      "",
+      "Shooting foul by D. Jenkins (drawn by J. Fears)"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "13-8",
+      "+1",
+      "J. Fears makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "13-9",
+      "+1",
+      "J. Fears makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:33.0",
+      "Turnover by J. Duren (lost ball; steal by D. Queen)",
+      "",
+      "13-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "7:32.0",
+      "",
+      "",
+      "13-9",
+      "",
+      "Turnover by T. Murphy (bad pass; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "7:31.0",
+      "A. Thompson makes 2-pt layup from 2 ft",
+      "+2",
+      "15-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "15-9",
+      "",
+      "Z. Williamson misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "7:21.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "15-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "7:14.0",
+      "Shooting foul by D. Queen (drawn by J. Duren)",
+      "",
+      "15-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "7:14.0",
+      "J. Duren makes free throw 1 of 2",
+      "+1",
+      "16-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "7:14.0",
+      "J. Ivey enters the game for D. Jenkins",
+      "",
+      "16-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "16-9",
+      "",
+      "K. Matković enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "7:14.0",
+      "J. Duren makes free throw 2 of 2",
+      "+1",
+      "17-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "17-11",
+      "+2",
+      "S. Bey makes 2-pt layup from 2 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "17-11",
+      "",
+      "Shooting foul by D. Robinson (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "17-12",
+      "+1",
+      "S. Bey makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "6:48.0",
+      "A. Thompson misses 2-pt jump shot from 6 ft",
+      "",
+      "17-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "6:47.0",
+      "Offensive rebound by J. Duren",
+      "",
+      "17-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "6:47.0",
+      "J. Duren makes 2-pt dunk from 1 ft",
+      "+2",
+      "19-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "19-12",
+      "",
+      "Turnover by T. Murphy (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "6:11.0",
+      "A. Thompson makes 2-pt layup from 2 ft (assist by J. Ivey)",
+      "+2",
+      "21-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "21-12",
+      "",
+      "S. Bey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:54.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "21-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:49.0",
+      "J. Ivey makes 3-pt jump shot from 25 ft (assist by A. Thompson)",
+      "+3",
+      "24-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "24-14",
+      "+2",
+      "S. Bey makes 2-pt layup from 2 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "5:16.0",
+      "Turnover by J. Duren (bad pass; steal by T. Murphy)",
+      "",
+      "24-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "24-14",
+      "",
+      "T. Murphy misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "5:02.0",
+      "Defensive rebound by Team",
+      "",
+      "24-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "5:02.0",
+      "",
+      "",
+      "24-14",
+      "",
+      "Loose ball foul by S. Bey (drawn by T. Harris)"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "5:02.0",
+      "R. Holland enters the game for T. Harris",
+      "",
+      "24-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "5:02.0",
+      "M. Sasser enters the game for D. Robinson",
+      "",
+      "24-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "5:02.0",
+      "I. Stewart enters the game for A. Thompson",
+      "",
+      "24-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "5:02.0",
+      "",
+      "",
+      "24-14",
+      "",
+      "Y. Missi enters the game for J. Fears"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "5:02.0",
+      "",
+      "",
+      "24-14",
+      "",
+      "J. Poole enters the game for D. Queen"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "4:42.0",
+      "M. Sasser misses 3-pt jump shot from 25 ft",
+      "",
+      "24-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "24-14",
+      "",
+      "Defensive rebound by Y. Missi"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "4:23.0",
+      "",
+      "",
+      "24-17",
+      "+3",
+      "K. Matković makes 3-pt jump shot from 26 ft (assist by J. Poole)"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "4:02.0",
+      "M. Sasser makes 2-pt jump shot from 11 ft (assist by J. Duren)",
+      "+2",
+      "26-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "26-17",
+      "",
+      "S. Bey misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "26-17",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "26-17",
+      "",
+      "M. Peavy enters the game for S. Bey"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "26-19",
+      "+2",
+      "J. Poole makes 2-pt jump shot from 4 ft (assist by M. Peavy)"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:39.0",
+      "Turnover by J. Ivey (bad pass; steal by M. Peavy)",
+      "",
+      "26-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "26-19",
+      "",
+      "J. Poole misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:30.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "26-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:26.0",
+      "Personal foul by K. Matković (drawn by J. Duren)",
+      "",
+      "26-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "3:17.0",
+      "I. Stewart makes 3-pt jump shot from 23 ft (assist by M. Sasser)",
+      "+3",
+      "29-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "29-19",
+      "",
+      "J. Poole misses 2-pt layup from 2 ft (block by J. Duren)"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "29-19",
+      "",
+      "Offensive rebound by Y. Missi"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "29-22",
+      "+3",
+      "M. Peavy makes 3-pt jump shot from 25 ft (assist by Y. Missi)"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:46.0",
+      "J. Duren misses 2-pt jump shot from 17 ft",
+      "",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "29-22",
+      "",
+      "Defensive rebound by Y. Missi"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "29-22",
+      "",
+      "T. Murphy misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:33.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "2:31.0",
+      "Detroit full timeout",
+      "",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "2:31.0",
+      "T. Harris enters the game for J. Duren",
+      "",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "2:17.0",
+      "M. Sasser misses 2-pt layup from 3 ft (block by Y. Missi)",
+      "",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "2:17.0",
+      "Offensive rebound by Team",
+      "",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "2:16.0",
+      "Turnover by I. Stewart (traveling)",
+      "",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "29-25",
+      "+3",
+      "M. Peavy makes 3-pt jump shot from 23 ft (assist by J. Poole)"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "1:41.0",
+      "T. Harris misses 2-pt layup from 2 ft (block by Y. Missi)",
+      "",
+      "29-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "29-25",
+      "",
+      "Defensive rebound by T. Murphy"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "29-25",
+      "",
+      "Z. Williamson enters the game for K. Matković"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "29-25",
+      "",
+      "T. Murphy misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "29-25",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "29-25",
+      "",
+      "Turnover by T. Murphy (lost ball; steal by R. Holland)"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:05.0",
+      "T. Harris makes 2-pt jump shot from 5 ft",
+      "+2",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "31-25",
+      "",
+      "J. Poole misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:45.0",
+      "Defensive rebound by T. Harris",
+      "",
+      "31-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:43.0",
+      "J. Ivey makes 3-pt jump shot from 26 ft (assist by M. Sasser)",
+      "+3",
+      "34-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "34-28",
+      "+3",
+      "T. Murphy makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:12.0",
+      "Turnover by J. Ivey (bad pass; steal by M. Peavy)",
+      "",
+      "34-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "34-30",
+      "+2",
+      "M. Peavy makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:02.0",
+      "I. Stewart misses 3-pt jump shot from 23 ft",
+      "",
+      "34-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:02.0",
+      "Offensive rebound by T. Harris",
+      "",
+      "34-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:01.0",
+      "T. Harris misses 2-pt layup from 2 ft (block by T. Murphy)",
+      "",
+      "34-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "34-30",
+      "",
+      "Defensive rebound by M. Peavy"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "Time",
+      "Detroit",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "34-30",
+      "",
+      "Z. Williamson misses 2-pt layup from 4 ft (block by I. Stewart)"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "11:36.0",
+      "Defensive rebound by I. Stewart",
+      "",
+      "34-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "11:34.0",
+      "Shooting foul by B. McGowens (drawn by R. Holland)",
+      "",
+      "34-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:34.0",
+      "R. Holland makes free throw 1 of 2",
+      "+1",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "11:34.0",
+      "R. Holland misses free throw 2 of 2",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "11:31.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "Defensive rebound by Y. Missi"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "11:25.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "Turnover by Z. Williamson (lost ball; steal by R. Holland)"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "11:21.0",
+      "D. Jenkins makes 2-pt layup from 2 ft",
+      "+2",
+      "37-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "11:21.0",
+      "",
+      "",
+      "37-30",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "11:03.0",
+      "",
+      "",
+      "37-32",
+      "+2",
+      "J. Poole makes 2-pt jump shot from 2 ft (assist by B. McGowens)"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:46.0",
+      "I. Stewart makes 2-pt hook shot from 6 ft",
+      "+2",
+      "39-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:46.0",
+      "Shooting foul by Y. Missi (drawn by I. Stewart)",
+      "",
+      "39-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:46.0",
+      "I. Stewart makes free throw 1 of 1",
+      "+1",
+      "40-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "40-32",
+      "",
+      "J. Poole misses 2-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:30.0",
+      "Defensive rebound by R. Holland",
+      "",
+      "40-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "10:24.0",
+      "M. Sasser makes 3-pt jump shot from 25 ft (assist by R. Holland)",
+      "+3",
+      "43-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "10:22.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "43-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "43-32",
+      "",
+      "Personal foul by D. Jenkins (drawn by J. Poole)"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "43-32",
+      "",
+      "M. Peavy misses 2-pt layup from 4 ft (block by J. Green)"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "43-32",
+      "",
+      "Offensive rebound by M. Peavy"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "43-32",
+      "",
+      "B. McGowens misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "43-32",
+      "",
+      "Offensive rebound by M. Peavy"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "43-34",
+      "+2",
+      "M. Peavy makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:40.0",
+      "D. Jenkins makes 2-pt layup from 1 ft",
+      "+2",
+      "45-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "45-36",
+      "+2",
+      "Z. Williamson makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "9:18.0",
+      "Turnover by D. Jenkins (bad pass; steal by J. Poole)",
+      "",
+      "45-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "45-38",
+      "+2",
+      "J. Poole makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:55.0",
+      "M. Sasser misses 2-pt jump shot from 16 ft",
+      "",
+      "45-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "45-38",
+      "",
+      "Defensive rebound by B. McGowens"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "45-40",
+      "+2",
+      "B. McGowens makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "45-40",
+      "",
+      "Shooting foul by I. Stewart (drawn by B. McGowens)"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:44.0",
+      "D. Robinson enters the game for D. Jenkins",
+      "",
+      "45-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "45-40",
+      "",
+      "K. Matković enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "45-41",
+      "+1",
+      "B. McGowens makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:20.0",
+      "I. Stewart misses 2-pt hook shot from 6 ft",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "45-41",
+      "",
+      "Defensive rebound by M. Peavy"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "8:14.0",
+      "",
+      "",
+      "45-41",
+      "",
+      "K. Matković misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "8:10.0",
+      "Defensive rebound by D. Robinson",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "8:07.0",
+      "Shooting foul by K. Matković (drawn by M. Sasser)",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "8:07.0",
+      "M. Sasser makes free throw 1 of 2",
+      "+1",
+      "46-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "8:07.0",
+      "",
+      "",
+      "46-41",
+      "",
+      "D. Queen enters the game for Y. Missi"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "8:07.0",
+      "M. Sasser makes free throw 2 of 2",
+      "+1",
+      "47-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "Turnover by D. Queen (lost ball; steal by J. Green)"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:42.0",
+      "J. Green makes 3-pt jump shot from 25 ft (assist by D. Robinson)",
+      "+3",
+      "50-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "50-41",
+      "",
+      "J. Poole misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "50-41",
+      "",
+      "Offensive rebound by B. McGowens"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:19.0",
+      "",
+      "",
+      "50-41",
+      "",
+      "M. Peavy misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:19.0",
+      "Defensive rebound by M. Sasser",
+      "",
+      "50-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:05.0",
+      "I. Stewart makes 2-pt layup from 1 ft (assist by R. Holland)",
+      "+2",
+      "52-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "52-41",
+      "",
+      "Shooting foul by R. Holland (drawn by B. McGowens)"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "52-42",
+      "+1",
+      "B. McGowens makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:54.0",
+      "J. Ivey enters the game for R. Holland",
+      "",
+      "52-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:54.0",
+      "A. Thompson enters the game for M. Sasser",
+      "",
+      "52-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "52-42",
+      "",
+      "S. Bey enters the game for M. Peavy"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "52-43",
+      "+1",
+      "B. McGowens makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:43.0",
+      "D. Robinson misses 3-pt jump shot from 25 ft",
+      "",
+      "52-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "52-43",
+      "",
+      "Defensive rebound by J. Poole"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:23.0",
+      "",
+      "",
+      "52-45",
+      "+2",
+      "J. Poole makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "6:10.0",
+      "I. Stewart misses 3-pt jump shot from 27 ft",
+      "",
+      "52-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "6:10.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "52-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "6:06.0",
+      "J. Ivey misses 3-pt jump shot from 26 ft",
+      "",
+      "52-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "6:00.0",
+      "",
+      "",
+      "52-45",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "52-47",
+      "+2",
+      "K. Matković makes 2-pt layup from 2 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:53.0",
+      "Detroit full timeout",
+      "",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:53.0",
+      "J. Duren enters the game for J. Green",
+      "",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:53.0",
+      "T. Harris enters the game for I. Stewart",
+      "",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "52-47",
+      "",
+      "T. Murphy enters the game for B. McGowens"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:31.0",
+      "T. Harris makes 2-pt jump shot from 10 ft",
+      "+2",
+      "54-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "54-47",
+      "",
+      "J. Poole misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "5:09.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "54-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "5:01.0",
+      "J. Duren makes 2-pt dunk from 1 ft (assist by A. Thompson)",
+      "+2",
+      "56-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "56-47",
+      "",
+      "Personal foul by A. Thompson (drawn by T. Murphy)"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "56-47",
+      "",
+      "Personal foul by J. Ivey (drawn by J. Poole)"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "56-48",
+      "+1",
+      "J. Poole makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "56-49",
+      "+1",
+      "J. Poole makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "4:29.0",
+      "J. Duren makes 2-pt layup from 2 ft",
+      "+2",
+      "58-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "58-51",
+      "+2",
+      "S. Bey makes 2-pt jump shot from 14 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:54.0",
+      "A. Thompson misses 2-pt jump shot from 12 ft",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:52.0",
+      "Offensive rebound by J. Duren",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:50.0",
+      "D. Robinson misses 3-pt jump shot from 23 ft",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "58-51",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "58-51",
+      "",
+      "Shooting foul by J. Ivey (drawn by D. Queen)"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "58-52",
+      "+1",
+      "D. Queen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "J. Fears enters the game for J. Poole"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "D. Queen misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:35.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "3:23.0",
+      "D. Robinson misses 2-pt layup from 2 ft",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "3:20.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "Defensive rebound by K. Matković"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "T. Murphy misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "3:13.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "3:10.0",
+      "J. Duren misses 2-pt jump shot from 6 ft",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "3:08.0",
+      "Offensive rebound by J. Duren",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "3:04.0",
+      "J. Ivey misses 3-pt jump shot from 27 ft",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "3:01.0",
+      "Offensive rebound by D. Robinson",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "2:59.0",
+      "J. Duren misses 2-pt layup from 4 ft (block by D. Queen)",
+      "",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "Defensive rebound by K. Matković"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "58-52",
+      "",
+      "Shooting foul by J. Ivey (drawn by J. Fears)"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "58-53",
+      "+1",
+      "J. Fears makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "2:53.0",
+      "M. Sasser enters the game for J. Ivey",
+      "",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "58-54",
+      "+1",
+      "J. Fears makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "2:46.0",
+      "Shooting foul by K. Matković (drawn by A. Thompson)",
+      "",
+      "58-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "2:46.0",
+      "A. Thompson makes free throw 1 of 2",
+      "+1",
+      "59-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "59-54",
+      "",
+      "Y. Missi enters the game for K. Matković"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "2:46.0",
+      "A. Thompson makes free throw 2 of 2",
+      "+1",
+      "60-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "60-54",
+      "",
+      "Turnover by S. Bey (lost ball; steal by J. Duren)"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "2:22.0",
+      "D. Robinson makes 3-pt jump shot from 25 ft (assist by M. Sasser)",
+      "+3",
+      "63-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "63-56",
+      "+2",
+      "J. Fears makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "1:54.0",
+      "D. Robinson makes 2-pt layup from 4 ft (assist by J. Duren)",
+      "+2",
+      "65-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "65-56",
+      "",
+      "S. Bey misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "1:44.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "65-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "1:35.0",
+      "Turnover by D. Robinson (bad pass; steal by S. Bey)",
+      "",
+      "65-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "65-58",
+      "+2",
+      "J. Fears makes 2-pt layup from 1 ft (assist by T. Murphy)"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "1:19.0",
+      "Personal foul by D. Queen (drawn by D. Robinson)",
+      "",
+      "65-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "1:19.0",
+      "D. Robinson misses free throw 1 of 2",
+      "",
+      "65-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "1:19.0",
+      "Offensive rebound by Team",
+      "",
+      "65-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "65-58",
+      "",
+      "Z. Williamson enters the game for D. Queen"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "1:19.0",
+      "D. Robinson makes free throw 2 of 2",
+      "+1",
+      "66-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "66-58",
+      "",
+      "Shooting foul by J. Duren (drawn by T. Murphy)"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "66-59",
+      "+1",
+      "T. Murphy makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "66-60",
+      "+1",
+      "T. Murphy makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "0:57.0",
+      "D. Robinson misses 3-pt jump shot from 26 ft",
+      "",
+      "66-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "66-60",
+      "",
+      "Defensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "66-60",
+      "",
+      "S. Bey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "0:49.0",
+      "Defensive rebound by D. Robinson",
+      "",
+      "66-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "0:33.0",
+      "M. Sasser misses 2-pt jump shot from 11 ft",
+      "",
+      "66-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "0:31.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "66-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "0:30.0",
+      "A. Thompson makes 2-pt layup at rim",
+      "+2",
+      "68-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "68-62",
+      "+2",
+      "Y. Missi makes 2-pt hook shot from 4 ft (assist by T. Murphy)"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "0:00.0",
+      "A. Thompson misses 2-pt jump shot from 11 ft",
+      "",
+      "68-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "68-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "Time",
+      "Detroit",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "11:49.0",
+      "",
+      "",
+      "68-62",
+      "",
+      "Shooting foul by J. Duren (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "11:49.0",
+      "",
+      "",
+      "68-62",
+      "",
+      "Z. Williamson misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "11:49.0",
+      "",
+      "",
+      "68-62",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "11:49.0",
+      "",
+      "",
+      "68-62",
+      "",
+      "Z. Williamson misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "11:46.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "68-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "11:39.0",
+      "Personal foul by J. Fears (drawn by D. Jenkins)",
+      "",
+      "68-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "11:36.0",
+      "D. Robinson misses 3-pt jump shot from 23 ft",
+      "",
+      "68-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "11:33.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "68-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "11:31.0",
+      "D. Jenkins makes 3-pt jump shot from 27 ft (assist by T. Harris)",
+      "+3",
+      "71-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "71-62",
+      "",
+      "J. Fears misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "11:09.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "71-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "10:58.0",
+      "Turnover by T. Harris (step out of bounds)",
+      "",
+      "71-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "71-62",
+      "",
+      "T. Murphy misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "10:46.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "71-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "10:41.0",
+      "D. Jenkins misses 3-pt jump shot from 25 ft",
+      "",
+      "71-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "71-62",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "71-62",
+      "",
+      "Shooting foul by D. Robinson (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "71-63",
+      "+1",
+      "S. Bey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "71-64",
+      "+1",
+      "S. Bey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "10:15.0",
+      "J. Duren makes 2-pt layup from 2 ft (assist by T. Harris)",
+      "+2",
+      "73-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "73-64",
+      "",
+      "S. Bey misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "73-64",
+      "",
+      "Offensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "73-64",
+      "",
+      "Turnover by D. Queen (bad pass; steal by D. Robinson)"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "10:00.0",
+      "Shooting foul by J. Fears (drawn by D. Jenkins)",
+      "",
+      "73-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "10:00.0",
+      "D. Jenkins makes free throw 1 of 2",
+      "+1",
+      "74-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "10:00.0",
+      "D. Jenkins makes free throw 2 of 2",
+      "+1",
+      "75-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "75-66",
+      "+2",
+      "T. Murphy makes 2-pt jump shot from 23 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "9:29.0",
+      "T. Harris misses 3-pt jump shot from 22 ft",
+      "",
+      "75-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "75-66",
+      "",
+      "Defensive rebound by T. Murphy"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "75-68",
+      "+2",
+      "T. Murphy makes 2-pt jump shot from 12 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "8:59.0",
+      "T. Harris makes 3-pt jump shot from 26 ft (assist by D. Jenkins)",
+      "+3",
+      "78-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "T. Murphy misses 2-pt layup from 4 ft (block by D. Robinson)"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "8:44.0",
+      "Defensive rebound by T. Harris",
+      "",
+      "78-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "8:41.0",
+      "D. Jenkins misses 3-pt jump shot from 24 ft",
+      "",
+      "78-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "8:36.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "Turnover by D. Queen (bad pass)"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "K. Matković enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "8:13.0",
+      "A. Thompson misses 2-pt jump shot from 9 ft (block by K. Matković)",
+      "",
+      "78-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "Personal foul by A. Thompson (drawn by J. Fears)"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "Turnover by D. Queen (lost ball; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "7:41.0",
+      "T. Harris misses 2-pt jump shot from 10 ft",
+      "",
+      "78-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "78-68",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "78-70",
+      "+2",
+      "T. Murphy makes 2-pt dunk from 1 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "7:34.0",
+      "Detroit full timeout",
+      "",
+      "78-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "78-70",
+      "",
+      "Y. Missi enters the game for D. Queen"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "7:21.0",
+      "Turnover by D. Jenkins (lost ball; steal by J. Fears)",
+      "",
+      "78-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "78-72",
+      "+2",
+      "J. Fears makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "7:01.0",
+      "D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Duren)",
+      "+3",
+      "81-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "81-72",
+      "",
+      "T. Murphy misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "6:35.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "81-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "6:25.0",
+      "Turnover by T. Harris (bad pass)",
+      "",
+      "81-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "6:06.0",
+      "",
+      "",
+      "81-72",
+      "",
+      "Shooting foul by J. Duren (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "6:06.0",
+      "",
+      "",
+      "81-73",
+      "+1",
+      "S. Bey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "6:06.0",
+      "",
+      "",
+      "81-74",
+      "+1",
+      "S. Bey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "5:45.0",
+      "Personal foul by K. Matković (drawn by D. Robinson)",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "81-74",
+      "",
+      "M. Peavy enters the game for S. Bey"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "5:34.0",
+      "D. Jenkins misses 2-pt layup from 4 ft",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "5:33.0",
+      "Offensive rebound by J. Duren",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "5:33.0",
+      "Shooting foul by K. Matković (drawn by J. Duren)",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "5:33.0",
+      "J. Duren makes free throw 1 of 2",
+      "+1",
+      "82-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "5:33.0",
+      "I. Stewart enters the game for T. Harris",
+      "",
+      "82-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "82-74",
+      "",
+      "K. Looney enters the game for K. Matković"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "5:33.0",
+      "J. Duren makes free throw 2 of 2",
+      "+1",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "J. Fears misses 2-pt jump shot from 10 ft (block by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "5:21.0",
+      "Defensive rebound by D. Jenkins",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "5:08.0",
+      "D. Jenkins misses 2-pt jump shot from 18 ft",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "J. Fears misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "4:53.0",
+      "Defensive rebound by I. Stewart",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "4:39.0",
+      "D. Robinson makes 3-pt jump shot from 26 ft (assist by D. Jenkins)",
+      "+3",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "T. Murphy misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "Offensive rebound by Y. Missi"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "T. Murphy misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "Offensive rebound by Y. Missi"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "86-76",
+      "+2",
+      "Y. Missi makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "3:54.0",
+      "I. Stewart misses 3-pt jump shot from 25 ft",
+      "",
+      "86-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "3:49.0",
+      "",
+      "",
+      "86-76",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "86-78",
+      "+2",
+      "T. Murphy makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "3:22.0",
+      "J. Duren makes 2-pt layup from 2 ft (assist by A. Thompson)",
+      "+2",
+      "88-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "2:58.0",
+      "",
+      "",
+      "88-78",
+      "",
+      "Y. Missi misses 2-pt hook shot from 4 ft"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "88-78",
+      "",
+      "Offensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "88-80",
+      "+2",
+      "J. Fears makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "2:27.0",
+      "D. Jenkins misses 3-pt jump shot from 26 ft",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "2:26.0",
+      "Offensive rebound by Team",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "2:26.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "2:26.0",
+      "",
+      "",
+      "88-80",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "2:26.0",
+      "T. Harris enters the game for J. Duren",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "2:26.0",
+      "R. Holland enters the game for D. Robinson",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "2:26.0",
+      "J. Ivey enters the game for A. Thompson",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "2:26.0",
+      "",
+      "",
+      "88-80",
+      "",
+      "B. McGowens enters the game for J. Fears"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "2:26.0",
+      "",
+      "",
+      "88-80",
+      "",
+      "J. Poole enters the game for T. Murphy"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "88-80",
+      "",
+      "J. Poole misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "2:14.0",
+      "Defensive rebound by J. Ivey",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "2:14.0",
+      "Personal foul by B. McGowens (drawn by J. Ivey)",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "2:14.0",
+      "J. Ivey misses free throw 1 of 2",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "2:14.0",
+      "Offensive rebound by Team",
+      "",
+      "88-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "2:14.0",
+      "J. Ivey makes free throw 2 of 2",
+      "+1",
+      "89-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "89-80",
+      "",
+      "J. Poole misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "2:00.0",
+      "",
+      "",
+      "89-80",
+      "",
+      "Offensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "2:00.0",
+      "",
+      "",
+      "89-82",
+      "+2",
+      "K. Looney makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "1:33.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "89-82",
+      "",
+      "Y. Missi misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "89-82",
+      "",
+      "Offensive rebound by M. Peavy"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "89-84",
+      "+2",
+      "M. Peavy makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:54.0",
+      "D. Jenkins misses 2-pt jump shot from 18 ft",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:53.0",
+      "Offensive rebound by Team",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:53.0",
+      "M. Sasser enters the game for D. Jenkins",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "0:45.0",
+      "R. Holland misses 2-pt layup from 1 ft",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "0:42.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "M. Peavy misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "0:35.0",
+      "Defensive rebound by I. Stewart",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "0:28.0",
+      "T. Harris misses 3-pt jump shot from 26 ft",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "0:00.0",
+      "Team misses heave shot",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "Time",
+      "Detroit",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "11:41.0",
+      "J. Ivey misses 3-pt jump shot from 28 ft",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "B. McGowens misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "11:11.0",
+      "Defensive rebound by I. Stewart",
+      "",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "11:05.0",
+      "R. Holland makes 3-pt jump shot from 27 ft (assist by I. Stewart)",
+      "+3",
+      "92-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "92-84",
+      "",
+      "Turnover by Y. Missi (lost ball; steal by J. Green)"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "10:46.0",
+      "R. Holland makes 2-pt dunk at rim (assist by I. Stewart)",
+      "+2",
+      "94-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "94-84",
+      "",
+      "Shooting foul by R. Holland (drawn by J. Poole)"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "94-85",
+      "+1",
+      "J. Poole makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "94-85",
+      "",
+      "J. Poole misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "10:29.0",
+      "Defensive rebound by J. Green",
+      "",
+      "94-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "10:16.0",
+      "J. Green misses 3-pt jump shot from 25 ft",
+      "",
+      "94-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "94-85",
+      "",
+      "Defensive rebound by M. Peavy"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "10:05.0",
+      "",
+      "",
+      "94-85",
+      "",
+      "J. Poole misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "10:01.0",
+      "Defensive rebound by I. Stewart",
+      "",
+      "94-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "9:55.0",
+      "M. Sasser misses 2-pt layup from 4 ft",
+      "",
+      "94-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "9:52.0",
+      "",
+      "",
+      "94-85",
+      "",
+      "Defensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "94-85",
+      "",
+      "Turnover by J. Poole (bad pass; steal by J. Green)"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "9:44.0",
+      "J. Green makes 2-pt dunk from 1 ft (assist by M. Sasser)",
+      "+2",
+      "96-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "D. Queen enters the game for Y. Missi"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "M. Peavy misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "8:58.0",
+      "Turnover by J. Ivey (lost ball; steal by M. Peavy)",
+      "",
+      "96-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "J. Poole misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "Offensive rebound by K. Looney"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "96-87",
+      "+2",
+      "K. Looney makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "8:25.0",
+      "M. Sasser misses 3-pt jump shot from 26 ft",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "8:22.0",
+      "Offensive rebound by R. Holland",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "8:22.0",
+      "Personal foul by J. Poole (drawn by R. Holland)",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "8:19.0",
+      "Offensive foul by I. Stewart (drawn by B. McGowens)",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "8:19.0",
+      "Turnover by I. Stewart (offensive foul)",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "96-89",
+      "+2",
+      "M. Peavy makes 2-pt layup from 1 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "7:36.0",
+      "J. Green makes 3-pt jump shot from 24 ft (assist by I. Stewart)",
+      "+3",
+      "99-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:27.0",
+      "",
+      "",
+      "99-89",
+      "",
+      "J. Poole misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "7:25.0",
+      "Defensive rebound by Team",
+      "",
+      "99-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "7:25.0",
+      "D. Jenkins enters the game for J. Ivey",
+      "",
+      "99-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "99-89",
+      "",
+      "S. Bey enters the game for K. Looney"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "99-89",
+      "",
+      "T. Murphy enters the game for B. McGowens"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "7:10.0",
+      "R. Holland misses 2-pt layup from 3 ft (block by M. Peavy)",
+      "",
+      "99-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "7:10.0",
+      "Offensive rebound by Team",
+      "",
+      "99-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "7:09.0",
+      "Turnover by D. Jenkins (bad pass)",
+      "",
+      "99-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "99-89",
+      "",
+      "Shooting foul by J. Green (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "99-90",
+      "+1",
+      "S. Bey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "99-91",
+      "+1",
+      "S. Bey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "6:33.0",
+      "M. Sasser makes 2-pt jump shot from 2 ft",
+      "+2",
+      "101-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "101-91",
+      "",
+      "Shooting foul by R. Holland (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "101-92",
+      "+1",
+      "S. Bey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "6:15.0",
+      "T. Harris enters the game for R. Holland",
+      "",
+      "101-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "101-93",
+      "+1",
+      "S. Bey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "5:54.0",
+      "M. Sasser misses 3-pt jump shot from 26 ft",
+      "",
+      "101-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "101-93",
+      "",
+      "Defensive rebound by J. Poole"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "101-96",
+      "+3",
+      "M. Peavy makes 3-pt jump shot from 25 ft (assist by S. Bey)"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "5:24.0",
+      "T. Harris misses 2-pt layup from 2 ft",
+      "",
+      "101-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "101-96",
+      "",
+      "Defensive rebound by T. Murphy"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "101-96",
+      "",
+      "S. Bey misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "101-96",
+      "",
+      "Offensive rebound by M. Peavy"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "101-96",
+      "",
+      "J. Poole misses 2-pt layup from 2 ft (block by I. Stewart)"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "5:10.0",
+      "Defensive rebound by I. Stewart",
+      "",
+      "101-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "5:03.0",
+      "M. Sasser misses 3-pt jump shot from 25 ft",
+      "",
+      "101-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "4:58.0",
+      "Offensive rebound by J. Green",
+      "",
+      "101-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "4:56.0",
+      "Turnover by J. Green (bad pass; steal by J. Poole)",
+      "",
+      "101-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "4:51.0",
+      "",
+      "",
+      "101-96",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "4:51.0",
+      "J. Duren enters the game for J. Green",
+      "",
+      "101-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "4:51.0",
+      "D. Robinson enters the game for M. Sasser",
+      "",
+      "101-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "4:51.0",
+      "A. Thompson enters the game for I. Stewart",
+      "",
+      "101-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "4:51.0",
+      "",
+      "",
+      "101-96",
+      "",
+      "Y. Missi enters the game for D. Queen"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "101-96",
+      "",
+      "S. Bey misses 2-pt layup from 1 ft (block by J. Duren)"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "101-96",
+      "",
+      "Offensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "101-96",
+      "",
+      "Turnover by S. Bey (bad pass; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "4:25.0",
+      "A. Thompson makes 2-pt dunk from 2 ft (assist by D. Robinson)",
+      "+2",
+      "103-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "103-96",
+      "",
+      "T. Murphy misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "4:11.0",
+      "Defensive rebound by Team",
+      "",
+      "103-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "4:00.0",
+      "Personal foul by J. Poole (drawn by D. Robinson)",
+      "",
+      "103-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "3:46.0",
+      "D. Jenkins misses 3-pt jump shot from 27 ft",
+      "",
+      "103-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "3:44.0",
+      "Offensive rebound by Team",
+      "",
+      "103-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "103-96",
+      "",
+      "Loose ball foul by Y. Missi (drawn by J. Duren)"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "3:33.0",
+      "D. Jenkins makes 2-pt jump shot from 2 ft",
+      "+2",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "3:33.0",
+      "Shooting foul by S. Bey (drawn by D. Jenkins)",
+      "",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "3:33.0",
+      "D. Jenkins makes free throw 1 of 1",
+      "+1",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "106-96",
+      "",
+      "Turnover by M. Peavy (bad pass)"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "2:58.0",
+      "Personal foul by J. Poole (drawn by D. Jenkins)",
+      "",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "2:58.0",
+      "D. Jenkins makes free throw 1 of 2",
+      "+1",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "2:58.0",
+      "D. Jenkins misses free throw 2 of 2",
+      "",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "2:56.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "2:47.0",
+      "",
+      "",
+      "107-96",
+      "",
+      "Shooting foul by T. Harris (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "2:47.0",
+      "",
+      "",
+      "107-97",
+      "+1",
+      "S. Bey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "2:47.0",
+      "",
+      "",
+      "107-98",
+      "+1",
+      "S. Bey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "2:28.0",
+      "J. Duren misses 2-pt hook shot from 4 ft",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "2:27.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "2:27.0",
+      "A. Thompson misses 2-pt layup at rim",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "2:26.0",
+      "Offensive rebound by J. Duren",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "2:26.0",
+      "J. Duren makes 2-pt layup at rim",
+      "+2",
+      "109-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "109-101",
+      "+3",
+      "S. Bey makes 3-pt jump shot from 25 ft (assist by Y. Missi)"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "1:44.0",
+      "Shooting foul by Y. Missi (drawn by J. Duren)",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "1:44.0",
+      "J. Duren makes free throw 1 of 2",
+      "+1",
+      "110-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "1:44.0",
+      "J. Duren makes free throw 2 of 2",
+      "+1",
+      "111-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "111-101",
+      "",
+      "T. Murphy misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "1:16.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "111-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "0:56.0",
+      "Shooting foul by Y. Missi (drawn by D. Jenkins)",
+      "",
+      "111-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "0:56.0",
+      "D. Jenkins makes free throw 1 of 2",
+      "+1",
+      "112-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "0:56.0",
+      "J. Green enters the game for D. Robinson",
+      "",
+      "112-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "0:56.0",
+      "D. Jenkins misses free throw 2 of 2",
+      "",
+      "112-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "112-101",
+      "",
+      "Defensive rebound by T. Murphy"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "112-101",
+      "",
+      "J. Poole misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "0:45.0",
+      "Defensive rebound by T. Harris",
+      "",
+      "112-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "0:18.0",
+      "Turnover by D. Jenkins (bad pass; steal by M. Peavy)",
+      "",
+      "112-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "112-104",
+      "+3",
+      "T. Murphy makes 3-pt jump shot from 25 ft (assist by M. Peavy)"
+    ]
+  }
+]

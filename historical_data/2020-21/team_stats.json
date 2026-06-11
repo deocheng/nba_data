@@ -1,0 +1,302 @@
+[
+  {
+    "team_abbr": "BOS",
+    "season": "2020-21",
+    "wins": 39,
+    "losses": 43,
+    "points_per_game": 112.6,
+    "opp_points_per_game": 110.9,
+    "rebounds_per_game": 49.9,
+    "assists_per_game": 24.5
+  },
+  {
+    "team_abbr": "BKN",
+    "season": "2020-21",
+    "wins": 36,
+    "losses": 45,
+    "points_per_game": 107.3,
+    "opp_points_per_game": 110.5,
+    "rebounds_per_game": 40.4,
+    "assists_per_game": 28.0
+  },
+  {
+    "team_abbr": "NYK",
+    "season": "2020-21",
+    "wins": 24,
+    "losses": 54,
+    "points_per_game": 113.8,
+    "opp_points_per_game": 121.3,
+    "rebounds_per_game": 47.5,
+    "assists_per_game": 27.3
+  },
+  {
+    "team_abbr": "PHI",
+    "season": "2020-21",
+    "wins": 41,
+    "losses": 42,
+    "points_per_game": 118.8,
+    "opp_points_per_game": 121.0,
+    "rebounds_per_game": 49.4,
+    "assists_per_game": 27.1
+  },
+  {
+    "team_abbr": "TOR",
+    "season": "2020-21",
+    "wins": 31,
+    "losses": 49,
+    "points_per_game": 108.1,
+    "opp_points_per_game": 126.2,
+    "rebounds_per_game": 40.8,
+    "assists_per_game": 29.8
+  },
+  {
+    "team_abbr": "CHI",
+    "season": "2020-21",
+    "wins": 33,
+    "losses": 48,
+    "points_per_game": 103.1,
+    "opp_points_per_game": 102.4,
+    "rebounds_per_game": 46.9,
+    "assists_per_game": 20.4
+  },
+  {
+    "team_abbr": "CLE",
+    "season": "2020-21",
+    "wins": 24,
+    "losses": 54,
+    "points_per_game": 121.7,
+    "opp_points_per_game": 117.8,
+    "rebounds_per_game": 45.1,
+    "assists_per_game": 26.2
+  },
+  {
+    "team_abbr": "DET",
+    "season": "2020-21",
+    "wins": 25,
+    "losses": 54,
+    "points_per_game": 115.7,
+    "opp_points_per_game": 108.6,
+    "rebounds_per_game": 42.2,
+    "assists_per_game": 21.0
+  },
+  {
+    "team_abbr": "IND",
+    "season": "2020-21",
+    "wins": 34,
+    "losses": 47,
+    "points_per_game": 119.6,
+    "opp_points_per_game": 107.3,
+    "rebounds_per_game": 46.8,
+    "assists_per_game": 25.3
+  },
+  {
+    "team_abbr": "MIL",
+    "season": "2020-21",
+    "wins": 41,
+    "losses": 42,
+    "points_per_game": 122.6,
+    "opp_points_per_game": 128.5,
+    "rebounds_per_game": 40.2,
+    "assists_per_game": 26.4
+  },
+  {
+    "team_abbr": "ATL",
+    "season": "2020-21",
+    "wins": 26,
+    "losses": 53,
+    "points_per_game": 112.5,
+    "opp_points_per_game": 124.8,
+    "rebounds_per_game": 40.8,
+    "assists_per_game": 20.7
+  },
+  {
+    "team_abbr": "CHA",
+    "season": "2020-21",
+    "wins": 30,
+    "losses": 50,
+    "points_per_game": 125.3,
+    "opp_points_per_game": 117.4,
+    "rebounds_per_game": 42.3,
+    "assists_per_game": 20.7
+  },
+  {
+    "team_abbr": "MIA",
+    "season": "2020-21",
+    "wins": 26,
+    "losses": 53,
+    "points_per_game": 115.1,
+    "opp_points_per_game": 105.3,
+    "rebounds_per_game": 42.6,
+    "assists_per_game": 23.6
+  },
+  {
+    "team_abbr": "ORL",
+    "season": "2020-21",
+    "wins": 28,
+    "losses": 51,
+    "points_per_game": 113.0,
+    "opp_points_per_game": 102.8,
+    "rebounds_per_game": 47.0,
+    "assists_per_game": 27.8
+  },
+  {
+    "team_abbr": "WAS",
+    "season": "2020-21",
+    "wins": 43,
+    "losses": 40,
+    "points_per_game": 117.7,
+    "opp_points_per_game": 104.8,
+    "rebounds_per_game": 40.6,
+    "assists_per_game": 20.1
+  },
+  {
+    "team_abbr": "DEN",
+    "season": "2020-21",
+    "wins": 39,
+    "losses": 43,
+    "points_per_game": 103.4,
+    "opp_points_per_game": 104.1,
+    "rebounds_per_game": 42.1,
+    "assists_per_game": 22.9
+  },
+  {
+    "team_abbr": "MIN",
+    "season": "2020-21",
+    "wins": 36,
+    "losses": 45,
+    "points_per_game": 114.5,
+    "opp_points_per_game": 110.8,
+    "rebounds_per_game": 41.7,
+    "assists_per_game": 26.1
+  },
+  {
+    "team_abbr": "OKC",
+    "season": "2020-21",
+    "wins": 23,
+    "losses": 55,
+    "points_per_game": 122.4,
+    "opp_points_per_game": 111.8,
+    "rebounds_per_game": 45.3,
+    "assists_per_game": 21.6
+  },
+  {
+    "team_abbr": "POR",
+    "season": "2020-21",
+    "wins": 29,
+    "losses": 51,
+    "points_per_game": 103.6,
+    "opp_points_per_game": 108.7,
+    "rebounds_per_game": 47.5,
+    "assists_per_game": 20.8
+  },
+  {
+    "team_abbr": "UTA",
+    "season": "2020-21",
+    "wins": 36,
+    "losses": 45,
+    "points_per_game": 110.4,
+    "opp_points_per_game": 108.4,
+    "rebounds_per_game": 41.1,
+    "assists_per_game": 27.1
+  },
+  {
+    "team_abbr": "GSW",
+    "season": "2020-21",
+    "wins": 20,
+    "losses": 60,
+    "points_per_game": 128.7,
+    "opp_points_per_game": 126.3,
+    "rebounds_per_game": 44.0,
+    "assists_per_game": 21.0
+  },
+  {
+    "team_abbr": "LAC",
+    "season": "2020-21",
+    "wins": 20,
+    "losses": 59,
+    "points_per_game": 102.5,
+    "opp_points_per_game": 100.2,
+    "rebounds_per_game": 45.7,
+    "assists_per_game": 27.1
+  },
+  {
+    "team_abbr": "LAL",
+    "season": "2020-21",
+    "wins": 41,
+    "losses": 42,
+    "points_per_game": 113.1,
+    "opp_points_per_game": 103.6,
+    "rebounds_per_game": 41.6,
+    "assists_per_game": 22.9
+  },
+  {
+    "team_abbr": "PHX",
+    "season": "2020-21",
+    "wins": 40,
+    "losses": 42,
+    "points_per_game": 119.5,
+    "opp_points_per_game": 121.7,
+    "rebounds_per_game": 48.3,
+    "assists_per_game": 22.5
+  },
+  {
+    "team_abbr": "SAC",
+    "season": "2020-21",
+    "wins": 20,
+    "losses": 57,
+    "points_per_game": 109.6,
+    "opp_points_per_game": 108.0,
+    "rebounds_per_game": 44.7,
+    "assists_per_game": 21.5
+  },
+  {
+    "team_abbr": "DAL",
+    "season": "2020-21",
+    "wins": 21,
+    "losses": 57,
+    "points_per_game": 127.2,
+    "opp_points_per_game": 117.7,
+    "rebounds_per_game": 44.1,
+    "assists_per_game": 24.2
+  },
+  {
+    "team_abbr": "HOU",
+    "season": "2020-21",
+    "wins": 26,
+    "losses": 53,
+    "points_per_game": 108.2,
+    "opp_points_per_game": 100.6,
+    "rebounds_per_game": 45.3,
+    "assists_per_game": 23.5
+  },
+  {
+    "team_abbr": "MEM",
+    "season": "2020-21",
+    "wins": 35,
+    "losses": 46,
+    "points_per_game": 114.6,
+    "opp_points_per_game": 104.9,
+    "rebounds_per_game": 48.0,
+    "assists_per_game": 29.4
+  },
+  {
+    "team_abbr": "NOP",
+    "season": "2020-21",
+    "wins": 40,
+    "losses": 42,
+    "points_per_game": 125.2,
+    "opp_points_per_game": 128.7,
+    "rebounds_per_game": 47.9,
+    "assists_per_game": 22.2
+  },
+  {
+    "team_abbr": "SAS",
+    "season": "2020-21",
+    "wins": 44,
+    "losses": 39,
+    "points_per_game": 110.5,
+    "opp_points_per_game": 105.9,
+    "rebounds_per_game": 45.8,
+    "assists_per_game": 26.5
+  }
+]

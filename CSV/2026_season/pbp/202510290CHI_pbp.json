@@ -1,0 +1,4886 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "Sacramento",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:47.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "M. Buzelis misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:46.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:37.0",
+      "Z. LaVine misses 3-pt jump shot from 23 ft",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:35.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Turnover by M. Buzelis (lost ball; steal by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "11:18.0",
+      "D. Sabonis makes 2-pt layup from 1 ft (assist by D. Schröder)",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "11:03.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "J. Giddey misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Offensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "2-3",
+      "+3",
+      "M. Buzelis makes 3-pt jump shot from 25 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:35.0",
+      "D. DeRozan makes 2-pt jump shot from 20 ft (assist by R. Westbrook)",
+      "+2",
+      "4-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "4-3",
+      "",
+      "Turnover by T. Jones (bad pass; steal by D. Sabonis)"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:12.0",
+      "Z. LaVine makes 2-pt layup from 2 ft (assist by D. Schröder)",
+      "+2",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:12.0",
+      "",
+      "",
+      "6-3",
+      "",
+      "Violation by Team (def goaltending)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "6-5",
+      "+2",
+      "J. Giddey makes 2-pt layup from 1 ft (assist by N. Vučević)"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:41.0",
+      "R. Westbrook makes 2-pt layup from 1 ft",
+      "+2",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:31.0",
+      "",
+      "",
+      "8-7",
+      "+2",
+      "M. Buzelis makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:18.0",
+      "R. Westbrook misses 3-pt jump shot from 23 ft",
+      "",
+      "8-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "8-7",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:05.0",
+      "",
+      "",
+      "8-9",
+      "+2",
+      "I. Okoro makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:50.0",
+      "R. Westbrook misses 3-pt jump shot from 24 ft",
+      "",
+      "8-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "8-9",
+      "",
+      "Defensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "8-11",
+      "+2",
+      "M. Buzelis makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "8-11",
+      "",
+      "Shooting foul by D. Sabonis (drawn by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "8-12",
+      "+1",
+      "M. Buzelis makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:17.0",
+      "D. Sabonis makes 2-pt layup from 1 ft",
+      "+2",
+      "10-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "10-15",
+      "+3",
+      "N. Vučević makes 3-pt jump shot from 26 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:56.0",
+      "Z. LaVine makes 2-pt jump shot from 14 ft (assist by D. Sabonis)",
+      "+2",
+      "12-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "12-17",
+      "+2",
+      "J. Giddey makes 2-pt layup from 1 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:26.0",
+      "Turnover by Z. LaVine (bad pass; steal by N. Vučević)",
+      "",
+      "12-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "12-17",
+      "",
+      "I. Okoro misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:14.0",
+      "Defensive rebound by D. DeRozan",
+      "",
+      "12-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:01.0",
+      "Z. LaVine misses 3-pt jump shot from 26 ft",
+      "",
+      "12-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "12-17",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "12-17",
+      "",
+      "Personal foul by R. Westbrook (drawn by N. Vučević)"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "12-17",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:53.0",
+      "K. Ellis enters the game for R. Westbrook",
+      "",
+      "12-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "12-17",
+      "",
+      "K. Huerter enters the game for T. Jones"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "12-19",
+      "+2",
+      "K. Huerter makes 2-pt jump shot from 8 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:22.0",
+      "Turnover by D. DeRozan (bad pass; steal by I. Okoro)",
+      "",
+      "12-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "12-19",
+      "",
+      "N. Vučević misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "12-19",
+      "",
+      "Offensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:06.0",
+      "",
+      "",
+      "12-19",
+      "",
+      "I. Okoro misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:03.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "12-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:00.0",
+      "K. Ellis misses 3-pt jump shot from 23 ft",
+      "",
+      "12-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "12-19",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "12-21",
+      "+2",
+      "I. Okoro makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:29.0",
+      "D. Sabonis misses 3-pt jump shot from 25 ft",
+      "",
+      "12-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "12-21",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "12-21",
+      "",
+      "M. Buzelis misses 2-pt jump shot from 2 ft"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "12-21",
+      "",
+      "Offensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "12-21",
+      "",
+      "M. Buzelis misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:15.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "12-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:15.0",
+      "Turnover by D. Schröder (traveling)",
+      "",
+      "12-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:15.0",
+      "M. Monk enters the game for D. DeRozan",
+      "",
+      "12-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "12-24",
+      "+3",
+      "M. Buzelis makes 3-pt jump shot from 25 ft (assist by N. Vučević)"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:50.0",
+      "M. Monk makes 3-pt jump shot from 27 ft (assist by K. Ellis)",
+      "+3",
+      "15-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "15-26",
+      "+2",
+      "J. Giddey makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:22.0",
+      "D. Sabonis makes 2-pt dunk from 1 ft (assist by M. Monk)",
+      "+2",
+      "17-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "17-26",
+      "",
+      "Shooting foul by D. Schröder (drawn by K. Huerter)"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "17-27",
+      "+1",
+      "K. Huerter makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:19.0",
+      "D. Eubanks enters the game for D. Sabonis",
+      "",
+      "17-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:19.0",
+      "R. Westbrook enters the game for D. Schröder",
+      "",
+      "17-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "17-27",
+      "",
+      "A. Dosunmu enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "17-27",
+      "",
+      "J. Smith enters the game for I. Okoro"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "17-27",
+      "",
+      "P. Williams enters the game for N. Vučević"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "17-28",
+      "+1",
+      "K. Huerter makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:05.0",
+      "Z. LaVine makes 3-pt jump shot from 27 ft (assist by R. Westbrook)",
+      "+3",
+      "20-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "20-28",
+      "",
+      "M. Buzelis misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:34.0",
+      "Defensive rebound by D. Eubanks",
+      "",
+      "20-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:31.0",
+      "K. Ellis makes 2-pt dunk from 1 ft (assist by Z. LaVine)",
+      "+2",
+      "22-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "3:15.0",
+      "",
+      "",
+      "22-31",
+      "+3",
+      "P. Williams makes 3-pt jump shot from 26 ft (assist by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:02.0",
+      "Turnover by R. Westbrook (bad pass; steal by M. Buzelis)",
+      "",
+      "22-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:58.0",
+      "",
+      "",
+      "22-31",
+      "",
+      "Turnover by M. Buzelis (bad pass; steal by Z. LaVine)"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:55.0",
+      "D. Eubanks makes 2-pt dunk at rim (assist by Z. LaVine)",
+      "+2",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "P. Williams misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:36.0",
+      "Defensive rebound by Team",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "Loose ball foul by P. Williams (drawn by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:36.0",
+      "Sacramento full timeout",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:36.0",
+      "D. Carter enters the game for K. Ellis",
+      "",
+      "24-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "24-31",
+      "",
+      "J. Phillips enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:24.0",
+      "M. Monk makes 2-pt dunk from 1 ft",
+      "+2",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "J. Smith misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:10.0",
+      "Defensive rebound by Team",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:10.0",
+      "D. DeRozan enters the game for Z. LaVine",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:54.0",
+      "D. Eubanks makes 2-pt dunk from 1 ft (assist by D. DeRozan)",
+      "+2",
+      "28-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "28-34",
+      "+3",
+      "K. Huerter makes 3-pt jump shot from 27 ft (assist by J. Phillips)"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:22.0",
+      "R. Westbrook makes 3-pt jump shot from 23 ft (assist by D. Carter)",
+      "+3",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "0:58.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "J. Phillips misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Offensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "A. Dosunmu misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Offensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "K. Huerter misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:45.0",
+      "Defensive rebound by D. DeRozan",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:30.0",
+      "D. DeRozan makes 2-pt jump shot from 4 ft",
+      "+2",
+      "33-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:23.0",
+      "",
+      "",
+      "33-36",
+      "+2",
+      "A. Dosunmu makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "Time",
+      "Sacramento",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "11:52.0",
+      "Personal foul by J. Phillips (drawn by R. Westbrook)",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "11:52.0",
+      "",
+      "",
+      "33-36",
+      "",
+      "J. Giddey enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "11:45.0",
+      "Personal foul by A. Dosunmu (drawn by D. Eubanks)",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "33-36",
+      "",
+      "I. Okoro enters the game for J. Phillips"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "11:34.0",
+      "D. DeRozan misses 2-pt jump shot from 21 ft",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "11:30.0",
+      "Offensive rebound by D. Carter",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "11:15.0",
+      "D. DeRozan misses 2-pt jump shot from 15 ft",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "33-36",
+      "",
+      "Defensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "33-36",
+      "",
+      "Turnover by I. Okoro (bad pass; steal by M. Monk)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "11:01.0",
+      "M. Monk makes 2-pt layup at rim",
+      "+2",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "10:52.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "A. Dosunmu misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "10:51.0",
+      "Loose ball foul by D. DeRozan (drawn by J. Smith)",
+      "",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "10:44.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "J. Smith misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "10:41.0",
+      "Defensive rebound by M. Monk",
+      "",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "10:26.0",
+      "D. DeRozan makes 2-pt jump shot from 13 ft",
+      "+2",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "I. Okoro misses 2-pt jump shot from 3 ft (block by D. Eubanks)"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "J. Smith misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "10:16.0",
+      "Defensive rebound by Team",
+      "",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "10:04.0",
+      "Personal foul by A. Dosunmu (drawn by D. Eubanks)",
+      "",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "9:58.0",
+      "M. Monk misses 3-pt jump shot from 26 ft",
+      "",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Shooting foul by D. Carter (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "J. Giddey misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "K. Huerter enters the game for A. Dosunmu"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "37-37",
+      "+1",
+      "J. Giddey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "9:36.0",
+      "R. Westbrook makes 2-pt layup from 2 ft",
+      "+2",
+      "39-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:27.0",
+      "",
+      "",
+      "39-39",
+      "+2",
+      "J. Smith makes 2-pt layup from 3 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "9:27.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "Shooting foul by R. Westbrook (drawn by J. Smith)"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:27.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "J. Smith misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:24.0",
+      "Defensive rebound by D. Eubanks",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:11.0",
+      "D. Carter misses 2-pt layup from 3 ft (block by I. Okoro)",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "J. Giddey misses 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "8:56.0",
+      "Defensive rebound by D. DeRozan",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:52.0",
+      "D. Carter misses 3-pt jump shot from 28 ft",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:51.0",
+      "Offensive rebound by D. DeRozan",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:50.0",
+      "Personal foul by I. Okoro (drawn by D. DeRozan)",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "M. Buzelis enters the game for T. Jones"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "N. Vučević enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:41.0",
+      "R. Westbrook makes 2-pt layup at rim",
+      "+2",
+      "41-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "41-39",
+      "",
+      "Shooting foul by D. Eubanks (drawn by K. Huerter)"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "41-40",
+      "+1",
+      "K. Huerter makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:25.0",
+      "D. Sabonis enters the game for D. Carter",
+      "",
+      "41-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:25.0",
+      "D. Schröder enters the game for D. Eubanks",
+      "",
+      "41-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "41-40",
+      "",
+      "P. Williams enters the game for I. Okoro"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "41-40",
+      "",
+      "K. Huerter misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:23.0",
+      "Defensive rebound by R. Westbrook",
+      "",
+      "41-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:05.0",
+      "M. Monk makes 2-pt jump shot from 14 ft (assist by D. DeRozan)",
+      "+2",
+      "43-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "43-40",
+      "",
+      "P. Williams misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:45.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "43-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:38.0",
+      "D. Sabonis makes 2-pt layup from 1 ft (assist by D. DeRozan)",
+      "+2",
+      "45-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "45-40",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:38.0",
+      "K. Ellis enters the game for D. DeRozan",
+      "",
+      "45-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:38.0",
+      "Z. LaVine enters the game for R. Westbrook",
+      "",
+      "45-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "45-40",
+      "",
+      "T. Jones enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "45-40",
+      "",
+      "Turnover by K. Huerter (bad pass; steal by D. Schröder)"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:19.0",
+      "M. Monk makes 2-pt dunk from 1 ft (assist by D. Schröder)",
+      "+2",
+      "47-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "47-42",
+      "+2",
+      "T. Jones makes 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "6:48.0",
+      "D. Schröder misses 2-pt jump shot from 5 ft",
+      "",
+      "47-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "47-42",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "47-42",
+      "",
+      "Turnover by K. Huerter (bad pass)"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "47-42",
+      "",
+      "A. Dosunmu enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:19.0",
+      "D. Sabonis makes 2-pt layup from 2 ft",
+      "+2",
+      "49-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "49-44",
+      "+2",
+      "M. Buzelis makes 2-pt layup from 1 ft (assist by N. Vučević)"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "5:39.0",
+      "Z. LaVine makes 2-pt layup at rim (assist by D. Sabonis)",
+      "+2",
+      "51-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "51-44",
+      "",
+      "N. Vučević misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "51-44",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "51-44",
+      "",
+      "A. Dosunmu misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "51-44",
+      "",
+      "Offensive rebound by A. Dosunmu"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "51-44",
+      "",
+      "Shooting foul by D. Sabonis (drawn by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "51-45",
+      "+1",
+      "A. Dosunmu makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "51-46",
+      "+1",
+      "A. Dosunmu makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:01.0",
+      "D. Sabonis makes 2-pt dunk from 1 ft (assist by D. Schröder)",
+      "+2",
+      "53-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "53-46",
+      "",
+      "N. Vučević misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "4:43.0",
+      "Defensive rebound by D. Schröder",
+      "",
+      "53-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "4:34.0",
+      "Z. LaVine makes 3-pt jump shot from 25 ft (assist by D. Schröder)",
+      "+3",
+      "56-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "56-46",
+      "",
+      "N. Vučević misses 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "4:18.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "56-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "4:13.0",
+      "Z. LaVine makes 2-pt layup from 2 ft (assist by D. Sabonis)",
+      "+2",
+      "58-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "58-46",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "58-46",
+      "",
+      "J. Giddey enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "58-48",
+      "+2",
+      "T. Jones makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "3:38.0",
+      "D. Schröder misses 2-pt jump shot from 7 ft",
+      "",
+      "58-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "58-48",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "58-48",
+      "",
+      "Turnover by J. Giddey (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "3:26.0",
+      "D. DeRozan enters the game for K. Ellis",
+      "",
+      "58-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "3:26.0",
+      "R. Westbrook enters the game for M. Monk",
+      "",
+      "58-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "58-48",
+      "",
+      "K. Huerter enters the game for A. Dosunmu"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:15.0",
+      "Z. LaVine makes 2-pt dunk at rim (assist by D. Schröder)",
+      "+2",
+      "60-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "60-50",
+      "+2",
+      "J. Giddey makes 2-pt layup from 2 ft (assist by K. Huerter)"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "60-50",
+      "",
+      "Shooting foul by R. Westbrook (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:00.0",
+      "K. Ellis enters the game for R. Westbrook",
+      "",
+      "60-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "60-50",
+      "",
+      "M. Buzelis enters the game for P. Williams"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "60-51",
+      "+1",
+      "J. Giddey makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "2:47.0",
+      "Z. LaVine misses 3-pt jump shot from 29 ft",
+      "",
+      "60-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "2:43.0",
+      "",
+      "",
+      "60-51",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "60-53",
+      "+2",
+      "K. Huerter makes 2-pt jump shot from 8 ft (assist by N. Vučević)"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:19.0",
+      "Personal foul by M. Buzelis (drawn by D. DeRozan)",
+      "",
+      "60-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:19.0",
+      "D. DeRozan makes free throw 1 of 2",
+      "+1",
+      "61-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:19.0",
+      "D. DeRozan makes free throw 2 of 2",
+      "+1",
+      "62-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "62-53",
+      "",
+      "Turnover by J. Giddey (lost ball; steal by D. Schröder)"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:07.0",
+      "K. Ellis makes 2-pt dunk from 2 ft (assist by D. Schröder)",
+      "+2",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "1:53.0",
+      "",
+      "",
+      "64-55",
+      "+2",
+      "M. Buzelis makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "1:32.0",
+      "D. DeRozan misses 2-pt jump shot from 22 ft",
+      "",
+      "64-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "64-55",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "64-57",
+      "+2",
+      "M. Buzelis makes 2-pt dunk from 1 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:02.0",
+      "D. Sabonis misses 2-pt jump shot from 9 ft",
+      "",
+      "64-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "64-57",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "64-60",
+      "+3",
+      "T. Jones makes 3-pt jump shot from 23 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "0:33.0",
+      "Turnover by Z. LaVine (lost ball; steal by T. Jones)",
+      "",
+      "64-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "64-62",
+      "+2",
+      "J. Giddey makes 2-pt layup from 1 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "0:11.0",
+      "D. Schröder misses 2-pt layup from 1 ft",
+      "",
+      "64-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "64-62",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "64-62",
+      "",
+      "Turnover by J. Giddey (bad pass; steal by Z. LaVine)"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "Time",
+      "Sacramento",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "11:42.0",
+      "D. DeRozan makes 2-pt jump shot from 18 ft (assist by D. Sabonis)",
+      "+2",
+      "66-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "11:33.0",
+      "",
+      "",
+      "66-65",
+      "+3",
+      "M. Buzelis makes 3-pt jump shot from 22 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "11:14.0",
+      "D. DeRozan misses 2-pt jump shot from 19 ft",
+      "",
+      "66-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "66-65",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "66-67",
+      "+2",
+      "T. Jones makes 2-pt layup from 1 ft (assist by I. Okoro)"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "10:47.0",
+      "D. Schröder misses 3-pt jump shot from 23 ft",
+      "",
+      "66-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "10:44.0",
+      "",
+      "",
+      "66-67",
+      "",
+      "Defensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "66-69",
+      "+2",
+      "N. Vučević makes 2-pt jump shot from 8 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "10:16.0",
+      "D. Sabonis misses 2-pt jump shot from 12 ft",
+      "",
+      "66-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "66-69",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "66-72",
+      "+3",
+      "M. Buzelis makes 3-pt jump shot from 23 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "10:04.0",
+      "Sacramento full timeout",
+      "",
+      "66-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "9:40.0",
+      "R. Westbrook misses 3-pt jump shot from 25 ft",
+      "",
+      "66-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "9:40.0",
+      "",
+      "",
+      "66-72",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "66-75",
+      "+3",
+      "I. Okoro makes 3-pt jump shot from 24 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "9:07.0",
+      "R. Westbrook misses 2-pt jump shot from 3 ft",
+      "",
+      "66-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "9:05.0",
+      "Offensive rebound by R. Westbrook",
+      "",
+      "66-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "9:03.0",
+      "D. Schröder makes 3-pt jump shot from 25 ft (assist by D. Sabonis)",
+      "+3",
+      "69-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "69-75",
+      "",
+      "J. Giddey misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "69-75",
+      "",
+      "Offensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "69-75",
+      "",
+      "J. Giddey misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "69-75",
+      "",
+      "Offensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "69-75",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "8:34.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "69-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "8:28.0",
+      "D. Schröder misses 2-pt layup from 2 ft (block by M. Buzelis)",
+      "",
+      "69-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "69-75",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "69-77",
+      "+2",
+      "N. Vučević makes 2-pt dunk from 1 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "8:01.0",
+      "Shooting foul by I. Okoro (drawn by D. DeRozan)",
+      "",
+      "69-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "8:01.0",
+      "K. Ellis enters the game for R. Westbrook",
+      "",
+      "69-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "69-77",
+      "",
+      "K. Huerter enters the game for T. Jones"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "8:01.0",
+      "D. DeRozan makes free throw 1 of 2",
+      "+1",
+      "70-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "8:01.0",
+      "D. DeRozan misses free throw 2 of 2",
+      "",
+      "70-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "70-77",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "70-79",
+      "+2",
+      "N. Vučević makes 2-pt hook shot from 4 ft (assist by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "7:33.0",
+      "Shooting foul by M. Buzelis (drawn by D. DeRozan)",
+      "",
+      "70-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "7:33.0",
+      "D. DeRozan makes free throw 1 of 2",
+      "+1",
+      "71-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "7:33.0",
+      "D. DeRozan makes free throw 2 of 2",
+      "+1",
+      "72-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "72-81",
+      "+2",
+      "I. Okoro makes 2-pt dunk from 1 ft (assist by N. Vučević)"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "7:06.0",
+      "D. Sabonis misses 3-pt jump shot from 25 ft",
+      "",
+      "72-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "7:02.0",
+      "Offensive rebound by K. Ellis",
+      "",
+      "72-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "7:01.0",
+      "Personal foul by I. Okoro (drawn by Z. LaVine)",
+      "",
+      "72-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "6:50.0",
+      "K. Ellis makes 3-pt jump shot from 23 ft (assist by Z. LaVine)",
+      "+3",
+      "75-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "75-83",
+      "+2",
+      "J. Giddey makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "6:28.0",
+      "Z. LaVine misses 2-pt jump shot from 4 ft",
+      "",
+      "75-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "75-83",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "6:28.0",
+      "D. Eubanks enters the game for D. DeRozan",
+      "",
+      "75-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "6:28.0",
+      "M. Monk enters the game for D. Sabonis",
+      "",
+      "75-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "75-83",
+      "",
+      "A. Dosunmu enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "75-83",
+      "",
+      "P. Williams enters the game for I. Okoro"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "75-83",
+      "",
+      "J. Giddey misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "6:05.0",
+      "Defensive rebound by D. Eubanks",
+      "",
+      "75-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "6:04.0",
+      "Personal foul by P. Williams (drawn by Z. LaVine)",
+      "",
+      "75-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "5:49.0",
+      "D. Schröder makes 2-pt jump shot from 12 ft",
+      "+2",
+      "77-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "5:42.0",
+      "",
+      "",
+      "77-83",
+      "",
+      "N. Vučević misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "5:42.0",
+      "Defensive rebound by Team",
+      "",
+      "77-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "5:23.0",
+      "D. Schröder misses 2-pt layup from 1 ft",
+      "",
+      "77-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "5:21.0",
+      "",
+      "",
+      "77-83",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "77-85",
+      "+2",
+      "K. Huerter makes 2-pt dunk from 1 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "5:04.0",
+      "Z. LaVine makes 2-pt layup from 1 ft",
+      "+2",
+      "79-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "79-88",
+      "+3",
+      "P. Williams makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "4:46.0",
+      "M. Monk makes 2-pt jump shot from 18 ft",
+      "+2",
+      "81-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "81-90",
+      "+2",
+      "N. Vučević makes 2-pt layup from 2 ft (assist by K. Huerter)"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "4:06.0",
+      "Z. LaVine makes 2-pt jump shot from 7 ft",
+      "+2",
+      "83-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "4:06.0",
+      "",
+      "",
+      "83-90",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "4:06.0",
+      "R. Westbrook enters the game for D. Schröder",
+      "",
+      "83-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "4:06.0",
+      "",
+      "",
+      "83-90",
+      "",
+      "T. Jones enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "4:06.0",
+      "",
+      "",
+      "83-90",
+      "",
+      "J. Smith enters the game for N. Vučević"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "83-92",
+      "+2",
+      "J. Smith makes 2-pt layup at rim (assist by K. Huerter)"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "3:34.0",
+      "Personal foul by J. Smith (drawn by D. Eubanks)",
+      "",
+      "83-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "3:34.0",
+      "D. Eubanks misses free throw 1 of 2",
+      "",
+      "83-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "3:34.0",
+      "Offensive rebound by Team",
+      "",
+      "83-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "3:34.0",
+      "D. Eubanks makes free throw 2 of 2",
+      "+1",
+      "84-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "84-94",
+      "+2",
+      "J. Smith makes 2-pt layup from 1 ft (assist by K. Huerter)"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "2:59.0",
+      "M. Monk misses 3-pt jump shot from 22 ft",
+      "",
+      "84-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "84-94",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "84-94",
+      "",
+      "Turnover by T. Jones (traveling)"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "2:46.0",
+      "D. DeRozan enters the game for D. Eubanks",
+      "",
+      "84-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "2:46.0",
+      "D. Sabonis enters the game for Z. LaVine",
+      "",
+      "84-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "2:38.0",
+      "Shooting foul by K. Huerter (drawn by R. Westbrook)",
+      "",
+      "84-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "2:38.0",
+      "R. Westbrook makes free throw 1 of 2",
+      "+1",
+      "85-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "85-94",
+      "",
+      "M. Buzelis enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "2:38.0",
+      "R. Westbrook makes free throw 2 of 2",
+      "+1",
+      "86-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "86-94",
+      "",
+      "A. Dosunmu misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "86-94",
+      "",
+      "Offensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "86-96",
+      "+2",
+      "J. Smith makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "2:17.0",
+      "D. Sabonis makes 2-pt dunk from 1 ft (assist by R. Westbrook)",
+      "+2",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "88-96",
+      "",
+      "P. Williams misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "1:57.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "1:44.0",
+      "D. DeRozan misses 2-pt jump shot from 22 ft",
+      "",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "1:40.0",
+      "",
+      "",
+      "88-96",
+      "",
+      "Defensive rebound by T. Jones"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "88-96",
+      "",
+      "Personal foul by R. Westbrook (drawn by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "88-96",
+      "",
+      "J. Smith misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "1:24.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "1:19.0",
+      "Offensive foul by D. Sabonis (drawn by T. Jones)",
+      "",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "1:19.0",
+      "Turnover by D. Sabonis (offensive foul)",
+      "",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "1:19.0",
+      "D. Carter enters the game for R. Westbrook",
+      "",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "88-96",
+      "",
+      "T. Jones misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "1:03.0",
+      "Defensive rebound by D. Carter",
+      "",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "0:58.0",
+      "Shooting foul by P. Williams (drawn by D. DeRozan)",
+      "",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "0:58.0",
+      "D. DeRozan makes free throw 1 of 2",
+      "+1",
+      "89-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "0:58.0",
+      "D. DeRozan makes free throw 2 of 2",
+      "+1",
+      "90-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "90-96",
+      "",
+      "Turnover by M. Buzelis (lost ball; steal by K. Ellis)"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "90-96",
+      "",
+      "Clear path foul by M. Buzelis"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "90-96",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "0:44.0",
+      "K. Ellis misses clear path free throw 1 of 2",
+      "",
+      "90-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "0:44.0",
+      "Offensive rebound by Team",
+      "",
+      "90-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "0:44.0",
+      "K. Ellis makes clear path free throw 2 of 2",
+      "+1",
+      "91-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "0:32.0",
+      "K. Ellis misses 3-pt jump shot from 29 ft",
+      "",
+      "91-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "91-96",
+      "",
+      "Defensive rebound by A. Dosunmu"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "91-98",
+      "+2",
+      "A. Dosunmu makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "91-98",
+      "",
+      "Shooting foul by K. Ellis (drawn by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "0:26.0",
+      "Z. LaVine enters the game for D. Carter",
+      "",
+      "91-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "91-99",
+      "+1",
+      "A. Dosunmu makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:07.0",
+      "Turnover by D. Sabonis (lost ball; steal by T. Jones)",
+      "",
+      "91-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "91-101",
+      "+2",
+      "M. Buzelis makes 2-pt layup from 1 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "Time",
+      "Sacramento",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "91-101",
+      "",
+      "Turnover by I. Okoro (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "11:26.0",
+      "Offensive foul by D. DeRozan (drawn by M. Buzelis)",
+      "",
+      "91-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "11:26.0",
+      "Turnover by D. DeRozan (offensive foul)",
+      "",
+      "91-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "91-101",
+      "",
+      "M. Buzelis misses 2-pt jump shot from 15 ft (block by D. Carter)"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "91-101",
+      "",
+      "Offensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "91-104",
+      "+3",
+      "J. Giddey makes 3-pt jump shot from 26 ft (assist by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "10:42.0",
+      "Shooting foul by M. Buzelis (drawn by D. DeRozan)",
+      "",
+      "91-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "10:42.0",
+      "D. DeRozan makes free throw 1 of 2",
+      "+1",
+      "92-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "10:42.0",
+      "Z. LaVine enters the game for K. Ellis",
+      "",
+      "92-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "10:42.0",
+      "D. DeRozan makes free throw 2 of 2",
+      "+1",
+      "93-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "10:19.0",
+      "",
+      "",
+      "93-106",
+      "+2",
+      "M. Buzelis makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "10:07.0",
+      "Shooting foul by A. Dosunmu (drawn by Z. LaVine)",
+      "",
+      "93-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "10:07.0",
+      "Z. LaVine makes free throw 1 of 2",
+      "+1",
+      "94-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "10:07.0",
+      "R. Westbrook enters the game for M. Monk",
+      "",
+      "94-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "10:07.0",
+      "",
+      "",
+      "94-106",
+      "",
+      "K. Huerter enters the game for A. Dosunmu"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "10:07.0",
+      "Z. LaVine makes free throw 2 of 2",
+      "+1",
+      "95-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "95-109",
+      "+3",
+      "K. Huerter makes 3-pt jump shot from 29 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "9:39.0",
+      "Z. LaVine misses 3-pt jump shot from 26 ft",
+      "",
+      "95-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "9:36.0",
+      "",
+      "",
+      "95-109",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "95-109",
+      "",
+      "K. Huerter misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "9:28.0",
+      "Defensive rebound by Z. LaVine",
+      "",
+      "95-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "9:24.0",
+      "Shooting foul by J. Giddey (drawn by R. Westbrook)",
+      "",
+      "95-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "9:24.0",
+      "R. Westbrook makes free throw 1 of 2",
+      "+1",
+      "96-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "9:24.0",
+      "D. Sabonis enters the game for D. Carter",
+      "",
+      "96-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "9:24.0",
+      "D. Schröder enters the game for D. Eubanks",
+      "",
+      "96-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "9:24.0",
+      "R. Westbrook misses free throw 2 of 2",
+      "",
+      "96-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "96-109",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "96-111",
+      "+2",
+      "J. Smith makes 2-pt dunk from 1 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "9:12.0",
+      "Sacramento full timeout",
+      "",
+      "96-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "96-111",
+      "",
+      "P. Williams enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "8:53.0",
+      "R. Westbrook misses 2-pt jump shot from 6 ft",
+      "",
+      "96-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "8:49.0",
+      "Offensive rebound by D. Sabonis",
+      "",
+      "96-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "8:49.0",
+      "D. Sabonis misses 2-pt layup at rim",
+      "",
+      "96-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "96-111",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "96-111",
+      "",
+      "Turnover by J. Giddey (lost ball; steal by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "8:31.0",
+      "D. DeRozan makes 2-pt layup from 1 ft",
+      "+2",
+      "98-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "98-114",
+      "+3",
+      "P. Williams makes 3-pt jump shot from 24 ft (assist by I. Okoro)"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "8:10.0",
+      "Shooting foul by K. Huerter (drawn by D. Sabonis)",
+      "",
+      "98-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "8:10.0",
+      "D. Sabonis misses free throw 1 of 2",
+      "",
+      "98-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "8:10.0",
+      "Offensive rebound by Team",
+      "",
+      "98-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "98-114",
+      "",
+      "N. Vučević enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "8:10.0",
+      "D. Sabonis makes free throw 2 of 2",
+      "+1",
+      "99-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "99-114",
+      "",
+      "Shooting foul by D. Schröder (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "99-115",
+      "+1",
+      "J. Giddey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "99-116",
+      "+1",
+      "J. Giddey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "7:40.0",
+      "D. Sabonis makes 3-pt jump shot from 26 ft (assist by D. DeRozan)",
+      "+3",
+      "102-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "102-119",
+      "+3",
+      "K. Huerter makes 3-pt jump shot from 23 ft (assist by N. Vučević)"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "7:04.0",
+      "Z. LaVine makes 2-pt layup from 3 ft (assist by D. Sabonis)",
+      "+2",
+      "104-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "104-119",
+      "",
+      "J. Giddey misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "6:45.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "104-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "6:41.0",
+      "Z. LaVine misses 3-pt jump shot from 26 ft",
+      "",
+      "104-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "104-119",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "104-119",
+      "",
+      "N. Vučević misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "6:25.0",
+      "Defensive rebound by D. DeRozan",
+      "",
+      "104-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "6:20.0",
+      "Z. LaVine makes 2-pt layup from 1 ft (assist by D. DeRozan)",
+      "+2",
+      "106-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "6:00.0",
+      "",
+      "",
+      "106-119",
+      "",
+      "I. Okoro misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "5:58.0",
+      "Defensive rebound by D. Schröder",
+      "",
+      "106-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "5:55.0",
+      "D. Schröder misses 3-pt jump shot from 26 ft",
+      "",
+      "106-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "106-119",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "106-119",
+      "",
+      "Shooting foul by D. Sabonis (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "106-120",
+      "+1",
+      "J. Giddey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "5:37.0",
+      "M. Monk enters the game for D. Schröder",
+      "",
+      "106-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "106-120",
+      "",
+      "M. Buzelis enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "106-120",
+      "",
+      "T. Jones enters the game for P. Williams"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "106-120",
+      "",
+      "J. Giddey misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "106-120",
+      "",
+      "Offensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "106-120",
+      "",
+      "J. Giddey misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "5:23.0",
+      "Defensive rebound by D. Sabonis",
+      "",
+      "106-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "5:11.0",
+      "M. Monk makes 2-pt layup from 2 ft (assist by R. Westbrook)",
+      "+2",
+      "108-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "4:59.0",
+      "",
+      "",
+      "108-120",
+      "",
+      "Turnover by J. Giddey (lost ball; steal by R. Westbrook)"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "4:55.0",
+      "Turnover by M. Monk (bad pass; steal by M. Buzelis)",
+      "",
+      "108-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "108-120",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "108-120",
+      "",
+      "A. Dosunmu enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "4:28.0",
+      "",
+      "",
+      "108-122",
+      "+2",
+      "A. Dosunmu makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "4:07.0",
+      "Z. LaVine misses 3-pt jump shot from 25 ft",
+      "",
+      "108-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "4:03.0",
+      "",
+      "",
+      "108-122",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "108-122",
+      "",
+      "A. Dosunmu misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "3:55.0",
+      "Defensive rebound by Z. LaVine",
+      "",
+      "108-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "3:35.0",
+      "D. Sabonis misses 3-pt jump shot from 23 ft",
+      "",
+      "108-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "3:30.0",
+      "",
+      "",
+      "108-122",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "108-122",
+      "",
+      "Personal foul by Z. LaVine (drawn by N. Vučević)"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "108-124",
+      "+2",
+      "T. Jones makes 2-pt layup from 1 ft (assist by N. Vučević)"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "2:52.0",
+      "Turnover by R. Westbrook (bad pass)",
+      "",
+      "108-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "108-124",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "108-124",
+      "",
+      "Offensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "108-124",
+      "",
+      "I. Okoro misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "2:27.0",
+      "Defensive rebound by D. DeRozan",
+      "",
+      "108-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "2:25.0",
+      "Shooting foul by N. Vučević (drawn by Z. LaVine)",
+      "",
+      "108-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "2:25.0",
+      "Z. LaVine makes free throw 1 of 2",
+      "+1",
+      "109-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "2:25.0",
+      "D. Carter enters the game for D. DeRozan",
+      "",
+      "109-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "2:25.0",
+      "K. Ellis enters the game for D. Sabonis",
+      "",
+      "109-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "2:25.0",
+      "D. Eubanks enters the game for R. Westbrook",
+      "",
+      "109-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "2:25.0",
+      "Z. LaVine makes free throw 2 of 2",
+      "+1",
+      "110-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "2:02.0",
+      "",
+      "",
+      "110-124",
+      "",
+      "N. Vučević misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "2:00.0",
+      "Defensive rebound by Z. LaVine",
+      "",
+      "110-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "1:57.0",
+      "Z. LaVine makes 2-pt dunk at rim",
+      "+2",
+      "112-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "112-124",
+      "",
+      "Turnover by T. Jones (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "1:39.0",
+      "I. Jones enters the game for Z. LaVine",
+      "",
+      "112-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "112-124",
+      "",
+      "K. Huerter enters the game for A. Dosunmu"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "1:16.0",
+      "M. Monk misses 2-pt jump shot from 12 ft",
+      "",
+      "112-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "1:15.0",
+      "Offensive rebound by Team",
+      "",
+      "112-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "112-124",
+      "",
+      "Loose ball foul by M. Buzelis (drawn by I. Jones)"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "1:15.0",
+      "I. Jones makes free throw 1 of 2",
+      "+1",
+      "113-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "1:15.0",
+      "I. Jones misses free throw 2 of 2",
+      "",
+      "113-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "113-124",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "113-124",
+      "",
+      "Shooting foul by D. Eubanks (drawn by N. Vučević)"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "113-125",
+      "+1",
+      "N. Vučević makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "113-126",
+      "+1",
+      "N. Vučević makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "0:48.0",
+      "D. Carter misses 3-pt jump shot from 25 ft",
+      "",
+      "113-126",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "113-126",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "0:21.0",
+      "",
+      "",
+      "113-126",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:12.0",
+      "K. Ellis misses 3-pt jump shot from 26 ft",
+      "",
+      "113-126",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "113-126",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  }
+]

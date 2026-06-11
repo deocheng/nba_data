@@ -1,0 +1,37 @@
+{
+  "advanced": [
+    {
+      "year_id": "2018-19",
+      "age": "21",
+      "team_name_abbr": "CLE",
+      "comp_name_abbr": "NBA",
+      "pos": "SF",
+      "games": "19",
+      "games_started": "3",
+      "mp": "194",
+      "per": "2.7",
+      "ts_pct": ".424",
+      "fg3a_per_fga_pct": ".639",
+      "fta_per_fga_pct": ".111",
+      "orb_pct": "1.6",
+      "drb_pct": "9.6",
+      "trb_pct": "5.4",
+      "ast_pct": "3.4",
+      "stl_pct": "0.3",
+      "blk_pct": "1.8",
+      "tov_pct": "13.7",
+      "usg_pct": "9.9",
+      "ows": "-0.2",
+      "dws": "0.0",
+      "ws": "-0.2",
+      "ws_per_48": "-0.054",
+      "obpm": "-5.9",
+      "dbpm": "-1.6",
+      "bpm": "-7.5",
+      "vorp": "-0.3",
+      "awards": ""
+    }
+  ],
+  "player_id": "adelde01",
+  "player_name": "Deng Adel"
+}

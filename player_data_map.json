@@ -1,0 +1,126 @@
+{
+  "project": "NBA Player Analysis",
+  "generated_date": "2026-04-21",
+  "players_count": 13,
+  "players": [
+    {
+      "player_name": "Tim Duncan",
+      "player_id": "1495",
+      "team_id": "1610612759",
+      "team_abbr": "SAS",
+      "position": "PF/C",
+      "years": "1997-2016",
+      "note": "已退役"
+    },
+    {
+      "player_name": "Manu Ginobili",
+      "player_id": "1849",
+      "team_id": "1610612759",
+      "team_abbr": "SAS",
+      "position": "SG",
+      "years": "2002-2018",
+      "note": "已退役"
+    },
+    {
+      "player_name": "Victor Wembanyama",
+      "player_id": "1630669",
+      "team_id": "1610612759",
+      "team_abbr": "SAS",
+      "position": "C/PF",
+      "years": "2023-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "Nikola Jokic",
+      "player_id": "203999",
+      "team_id": "1610612743",
+      "team_abbr": "DEN",
+      "position": "C",
+      "years": "2015-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "Luka Doncic",
+      "player_id": "1629029",
+      "team_id": "1610612742",
+      "team_abbr": "DAL",
+      "position": "PG/SG",
+      "years": "2018-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "James Harden",
+      "player_id": "201935",
+      "team_id": "1610612751",
+      "team_abbr": "PHI",
+      "position": "SG/PG",
+      "years": "2009-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "Kevin Durant",
+      "player_id": "201142",
+      "team_id": "1610612744",
+      "team_abbr": "PHX",
+      "position": "SF/PF",
+      "years": "2007-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "Russell Westbrook",
+      "player_id": "201566",
+      "team_id": "1610612746",
+      "team_abbr": "LAC",
+      "position": "PG",
+      "years": "2008-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "Stephen Curry",
+      "player_id": "201939",
+      "team_id": "1610612744",
+      "team_abbr": "GSW",
+      "position": "PG",
+      "years": "2009-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "Klay Thompson",
+      "player_id": "202685",
+      "team_id": "1610612744",
+      "team_abbr": "GSW",
+      "position": "SG",
+      "years": "2011-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "De'Aaron Fox",
+      "player_id": "1628389",
+      "team_id": "1610612758",
+      "team_abbr": "SAC",
+      "position": "PG",
+      "years": "2017-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "Scottie Barnes",
+      "player_id": "1630577",
+      "team_id": "1610612761",
+      "team_abbr": "TOR",
+      "position": "SF/PF",
+      "years": "2021-2026",
+      "note": "现役"
+    },
+    {
+      "player_name": "Jalen Harper",
+      "player_id": "1631106",
+      "team_id": "1610612748",
+      "team_abbr": "IND",
+      "position": "PG",
+      "years": "2022-2026",
+      "note": "现役"
+    }
+  ],
+  "directories_created": true,
+  "status": "READY"
+}

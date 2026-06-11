@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>文班亚万测试</title>
+    <style>
+        body { font-family: Arial; background: #1a1a2e; color: white; padding: 20px; }
+        .card { background: white; color: black; padding: 20px; border-radius: 10px; margin: 20px 0; }
+        h1 { color: #45b7d1; }
+        .error { color: red; padding: 20px; background: #fee; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Victor Wembanyama - 测试页面</h1>
+    <div id="result"></div>
+
+    <script>
+        fetch('/api/players/446')
+            .then(res => res.json())
+            .then(data => {
+                if (data.success) {
+                    const p = data.player;
+                    document.getElementById('result').innerHTML = `
+                        <div class="card">
+                            <h2>${p.name}</h2>
+                            <p><strong>绰号:</strong> ${p.nickname || '无'}</p>
+                            <p><strong>身高:</strong> ${p.physical_info?.height || p.height || '无'}</p>
+                            <p><strong>体重:</strong> ${p.physical_info?.weight || p.weight || '无'}</p>
+                            <p><strong>臂展:</strong> ${p.wingspan || '无'}</p>
+                            <p><strong>位置:</strong> ${p.position || '无'}</p>
+                        </div>
+                    `;
+                }
+            })
+            .catch(err => {
+                document.getElementById('result').innerHTML = `<div class="error">加载失败: ${err.message}</div>`;
+            });
+    </script>
+</body>
+</html>

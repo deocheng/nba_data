@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>组件展示 - NBA Data Module</title>
+    
+    <!-- 加载样式 -->
+    <link rel="stylesheet" href="/static/styles/common.css">
+</head>
+<body>
+    <!-- 导航栏容器 -->
+    <div id="navbar-container"></div>
+
+    <div class="container">
+        <h1>🏀 NBA Data Module - 组件展示</h1>
+        <p class="text-muted">模块化的前端组件系统</p>
+
+        <!-- 组件展示区 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">1. 球员卡片组件</h2>
+            </div>
+            <div id="player-cards-container" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem;">
+                <!-- 球员卡片将在这里渲染 -->
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">2. 赛季选择器组件</h2>
+            </div>
+            <div id="season-selector-container"></div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">3. 统计表格组件</h2>
+            </div>
+            <div id="stats-table-container"></div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">4. 雷达图组件</h2>
+            </div>
+            <div id="radar-chart-container"></div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">5. 比赛日志组件</h2>
+            </div>
+            <div id="game-log-container"></div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">6. Tabs 组件</h2>
+            </div>
+            <div id="tabs-container"></div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">7. 荣誉展示组件</h2>
+            </div>
+            <div id="awards-container"></div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">8. 进度条组件</h2>
+            </div>
+            <div id="progress-container"></div>
+        </div>
+    </div>
+
+    <!-- 加载模块 -->
+    <script src="/static/modules/constants.js"></script>
+    <script src="/static/modules/utils.js"></script>
+    <script src="/static/modules/api.js"></script>
+    <script src="/static/modules/components.js"></script>
+    <script src="/static/modules/charts.js"></script>
+
+    <script>
+        // 页面加载完成后初始化组件
+        document.addEventListener('DOMContentLoaded', function() {
+            // 1. 渲染导航栏
+            Components.renderNavbar('navbar-container', 'demo');
+
+            // 2. 渲染球员卡片
+            const samplePlayers = [
+                {
+                    player_id: 'sas_victor_wembanyama',
+                    player_name: 'Victor Wembanyama',
+                    position: 'C',
+                    age: 21,
+                    career_summary: {
+                        avg_points: 24.5,
+                        avg_rebounds: 10.8,
+                        avg_assists: 3.5
+                    }
+                },
+                {
+                    player_id: 'sas_devin_vassell',
+                    player_name: 'Devin Vassell',
+                    position: 'SG',
+                    age: 24,
+                    career_summary: {
+                        avg_points: 18.2,
+                        avg_rebounds: 4.5,
+                        avg_assists: 3.2
+                    }
+                },
+                {
+                    player_id: 'okc_shai_gilgeous_alexander',
+                    player_name: 'Shai Gilgeous-Alexander',
+                    position: 'PG',
+                    age: 26,
+                    career_summary: {
+                        avg_points: 31.4,
+                        avg_rebounds: 5.5,
+                        avg_assists: 6.2
+                    }
+                }
+            ];
+            Components.renderPlayerCardList('player-cards-container', samplePlayers);
+
+            // 3. 渲染赛季选择器
+            Components.renderSeasonSelector('season-selector-container', {
+                currentSeason: '2025-26',
+                seasons: ['2025-26', '2024-25', '2023-24'],
+                onChange: 'handleSeasonChange'
+            });
+
+            // 4. 渲染统计表格
+            const sampleStats = {
+                games: 72,
+                games_started: 72,
+                minutes_played: 33.5,
+                points: 24.5,
+                rebounds: 10.8,
+                assists: 3.5,
+                steals: 1.2,
+                blocks: 3.8,
+                turnovers: 2.1,
+                fg_made: 8.5,
+                fg_att: 18.2,
+                fg_pct: 0.467,
+                three_made: 2.8,
+                three_att: 7.5,
+                three_pct: 0.373,
+                ft_made: 4.7,
+                ft_att: 5.8,
+                ft_pct: 0.810,
+                per: 23.5,
+                ts_pct: 0.585,
+                ws: 8.2,
+                bpm: 5.1
+            };
+            Components.renderStatsTable('stats-table-container', sampleStats, {
+                category: 'basic'
+            });
+
+            // 5. 渲染雷达图
+            document.getElementById('radar-chart-container').innerHTML = Charts.createRadarContainer('radar-chart', '球员能力分析');
+            
+            const radarData = [
+                { label: '得分', value: 24.5, normalized: 100, isTopTier: true, threshold: 20 },
+                { label: '篮板', value: 10.8, normalized: 100, isTopTier: true, threshold: 8 },
+                { label: '助攻', value: 3.5, normalized: 43.75, isTopTier: false, threshold: 8 },
+                { label: '防守', value: 5.0, normalized: 100, isTopTier: true, threshold: 2.5 },
+                { label: '投篮', value: 0.467, normalized: 93.4, isTopTier: true, threshold: 0.50 },
+                { label: '效率', value: 23.5, normalized: 100, isTopTier: true, threshold: 20 }
+            ];
+            Charts.renderRadarChart('radar-chart', radarData);
+
+            // 6. 渲染比赛日志
+            const sampleGames = [
+                {
+                    game_date: '2026-05-15',
+                    opponent: 'DAL',
+                    result: 'W',
+                    points: 28,
+                    rebounds: 12,
+                    assists: 4,
+                    minutes_played: 35.5,
+                    note: ''
+                },
+                {
+                    game_date: '2026-05-10',
+                    opponent: 'MIN',
+                    result: 'L',
+                    points: 18,
+                    rebounds: 9,
+                    assists: 2,
+                    minutes_played: 30.2,
+                    note: '被驱逐出场'
+                },
+                {
+                    game_date: '2026-04-21',
+                    opponent: 'HOU',
+                    result: 'W',
+                    points: 32,
+                    rebounds: 14,
+                    assists: 5,
+                    minutes_played: 38.0,
+                    note: '脑震荡退赛'
+                }
+            ];
+            Components.renderGameLogTable('game-log-container', sampleGames);
+
+            // 7. 渲染Tabs
+            Components.renderTabs('tabs-container', [
+                {
+                    id: 'tab1',
+                    label: '常规赛',
+                    icon: '🏀',
+                    content: '<p>常规赛数据内容...</p>'
+                },
+                {
+                    id: 'tab2',
+                    label: '季后赛',
+                    icon: '🏆',
+                    content: '<p>季后赛数据内容...</p>'
+                },
+                {
+                    id: 'tab3',
+                    label: '生涯',
+                    icon: '📊',
+                    content: '<p>生涯数据内容...</p>'
+                }
+            ]);
+
+            // 8. 渲染荣誉
+            const sampleAwards = [
+                '2025-26 赛季最佳防守球员 (DPOY)',
+                '2025-26 全明星阵容',
+                '2024-25 新秀一阵',
+                '2024-25 盖帽王'
+            ];
+            Components.renderAwards('awards-container', sampleAwards);
+
+            // 9. 渲染进度条
+            const progressFields = [
+                { label: '投篮命中率', value: 46.7, max: 100, color: '#28a745' },
+                { label: '三分命中率', value: 37.3, max: 100, color: '#007bff' },
+                { label: '罚球命中率', value: 81.0, max: 100, color: '#ffc107' }
+            ];
+            
+            progressFields.forEach((field, index) => {
+                const containerId = `progress-${index}`;
+                document.getElementById('progress-container').innerHTML += `<div id="${containerId}"></div>`;
+                Components.renderProgressBar(containerId, field.value, field.max, {
+                    label: field.label,
+                    color: field.color,
+                    showValue: true
+                });
+            });
+        });
+
+        // 赛季切换回调函数
+        function handleSeasonChange(season) {
+            console.log('赛季切换到:', season);
+            Utils.setUrlParam('season', season);
+            // 这里可以添加加载对应赛季数据的逻辑
+        }
+    </script>
+
+    <style>
+        body {
+            font-family: var(--font-family);
+        }
+        
+        h1 {
+            margin-bottom: 1rem;
+            color: #333;
+        }
+        
+        h2 {
+            margin: 0;
+            font-size: 1.25rem;
+        }
+        
+        .text-muted {
+            color: #6c757d;
+            margin-bottom: 2rem;
+        }
+        
+        .card {
+            margin-bottom: 2rem;
+        }
+        
+        .container {
+            max-width: 1400px;
+        }
+    </style>
+</body>
+</html>

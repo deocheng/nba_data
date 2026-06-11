@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>冠军队榜单贡献度分析</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1a1a2e;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .navbar {
+            background-color: #16213e !important;
+            border-bottom: 2px solid #e94560;
+        }
+        .container {
+            max-width: 1200px;
+        }
+        .page-header {
+            text-align: center;
+            margin: 40px 0;
+        }
+        .page-header h1 {
+            font-size: 2.5rem;
+            color: #e94560;
+            margin-bottom: 10px;
+        }
+        .stat-card {
+            background: linear-gradient(135deg, #16213e 0%, #0f3460 100%);
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+        }
+        .season-title {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #e94560;
+            margin-bottom: 15px;
+        }
+        .champion-name {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .stat-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+        .stat-item {
+            background-color: #0f3460;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .stat-label {
+            color: #94a3b8;
+            font-size: 0.9rem;
+            margin-bottom: 8px;
+        }
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #10b981;
+        }
+        .player-list {
+            margin-top: 15px;
+        }
+        .player-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 15px;
+            margin: 5px 0;
+            background-color: #0f3460;
+            border-radius: 8px;
+        }
+        .player-name {
+            font-weight: bold;
+        }
+        .player-contrib {
+            color: #e94560;
+            font-weight: bold;
+        }
+        .chart-container {
+            background: linear-gradient(135deg, #16213e 0%, #0f3460 100%);
+            border-radius: 15px;
+            padding: 30px;
+            margin-top: 30px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+        }
+        .chart-image {
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            display: block;
+            border-radius: 10px;
+        }
+        .highlight-box {
+            background: linear-gradient(135deg, #e94560 0%, #c03550 100%);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+        .highlight-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">🏀 NBA 数据分析</a>
+            <span class="navbar-text">冠军队榜单贡献度分析</span>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="page-header">
+            <h1>🏆 过去五年冠军队榜单贡献度分析</h1>
+            <p class="text-muted">分析夺冠队伍在当赛季联盟领袖榜单中的表现</p>
+            <p class="text-muted">贡献度计算方式：(20 - 名次) / 20</p>
+        </div>
+
+        <div id="results-container"></div>
+
+        <div class="chart-container">
+            <h3 style="color: #e94560; text-align: center; margin-bottom: 20px;">📊 各赛季对比图表</h3>
+            <img src="/static/charts/champion_contribution_chart.png" alt="冠军贡献度对比图" class="chart-image">
+        </div>
+
+        <div class="highlight-box">
+            <div class="highlight-title">💡 关键发现</div>
+            <ul>
+                <li><strong>俄克拉荷马城雷霆 (2023-24)</strong>：平均贡献度最高（88.1%），Shai Gilgeous-Alexander贡献了37.8分，占全队的79.4%</li>
+                <li><strong>波士顿凯尔特人 (2024-25)</strong>：上榜人数最多（7人），阵容深度出色，Jayson Tatum贡献最大（24.6分）</li>
+                <li><strong>金州勇士 (2021-22)</strong>：上榜率最低（49.5%）但仍夺冠，体现了团队篮球的重要性</li>
+                <li><strong>丹佛掘金 (2022-23)</strong>：Nikola Jokić独揽34.85分，占全队的86%，单核带队夺冠</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        const results = [
+            {
+                "season": "2024-25",
+                "champion": "波士顿凯尔特人",
+                "team_abbr": "BOS",
+                "total_categories": 100,
+                "team_categories": 58,
+                "coverage_rate": 0.58,
+                "total_contribution": 44.75,
+                "avg_contribution": 0.77,
+                "player_contributions": {
+                    "Jayson Tatum": 24.6,
+                    "Payton Pritchard": 7.15,
+                    "Derrick White": 4.8,
+                    "Sam Hauser": 2.35,
+                    "Luke Kornet": 2.25,
+                    "Jaylen Brown": 2.1,
+                    "Neemias Queta": 1.5
+                }
+            },
+            {
+                "season": "2023-24",
+                "champion": "俄克拉荷马城雷霆",
+                "team_abbr": "OKC",
+                "total_categories": 100,
+                "team_categories": 54,
+                "coverage_rate": 0.54,
+                "total_contribution": 47.6,
+                "avg_contribution": 0.88,
+                "player_contributions": {
+                    "Shai Gilgeous-Alexander": 37.8,
+                    "Chet Holmgren": 6.65,
+                    "Isaiah Joe": 1.35,
+                    "Cason Wallace": 0.65,
+                    "Jalen Williams": 0.55,
+                    "Luguentz Dort": 0.5,
+                    "Aaron Wiggins": 0.1
+                }
+            },
+            {
+                "season": "2022-23",
+                "champion": "丹佛掘金",
+                "team_abbr": "DEN",
+                "total_categories": 99,
+                "team_categories": 56,
+                "coverage_rate": 0.566,
+                "total_contribution": 40.5,
+                "avg_contribution": 0.72,
+                "player_contributions": {
+                    "Nikola Jokić": 34.85,
+                    "Michael Porter Jr.": 3.15,
+                    "Kentavious Caldwell-Pope": 1.8,
+                    "Aaron Gordon": 0.7
+                }
+            },
+            {
+                "season": "2021-22",
+                "champion": "金州勇士",
+                "team_abbr": "GSW",
+                "total_categories": 101,
+                "team_categories": 50,
+                "coverage_rate": 0.495,
+                "total_contribution": 26.9,
+                "avg_contribution": 0.54,
+                "player_contributions": {
+                    "Stephen Curry": 16.95,
+                    "Kevon Looney": 4.85,
+                    "Jordan Poole": 2.25,
+                    "Gary Payton II": 2.0,
+                    "Jonathan Kuminga": 0.85,
+                    "Andrew Wiggins": 0,
+                    "Otto Porter Jr.": 0
+                }
+            }
+        ];
+
+        function renderResults() {
+            const container = document.getElementById('results-container');
+            
+            container.innerHTML = results.map(result => {
+                const sortedPlayers = Object.entries(result.player_contributions)
+                    .sort((a, b) => b[1] - a[1]);
+                
+                return `
+                    <div class="stat-card">
+                        <div class="season-title">${result.season}赛季</div>
+                        <div class="champion-name">🏆 ${result.champion} (${result.team_abbr})</div>
+                        <div class="stat-grid">
+                            <div class="stat-item">
+                                <div class="stat-label">榜单上榜率</div>
+                                <div class="stat-value">${(result.coverage_rate * 100).toFixed(1)}%</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">平均贡献度</div>
+                                <div class="stat-value">${(result.avg_contribution * 100).toFixed(1)}%</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">上榜类别数</div>
+                                <div class="stat-value">${result.team_categories}/${result.total_categories}</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-label">总贡献值</div>
+                                <div class="stat-value">${result.total_contribution.toFixed(2)}</div>
+                            </div>
+                        </div>
+                        <div class="player-list">
+                            <h5 style="color: #e94560; margin-bottom: 10px;">📋 球员贡献分布</h5>
+                            ${sortedPlayers.map(([player, contrib]) => `
+                                <div class="player-item">
+                                    <span class="player-name">${player}</span>
+                                    <span class="player-contrib">${contrib.toFixed(2)}</span>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        renderResults();
+    </script>
+</body>
+</html>

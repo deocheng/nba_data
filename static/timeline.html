@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>球队历史时间轴</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #fff;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #ff6b6b, #feca57);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .header p {
+            color: #aaa;
+            font-size: 1.1rem;
+        }
+
+        .team-selector {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 40px;
+            flex-wrap: wrap;
+        }
+
+        .team-btn {
+            padding: 10px 20px;
+            border: 2px solid #444;
+            background: rgba(255, 255, 255, 0.05);
+            color: #fff;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+
+        .team-btn:hover, .team-btn.active {
+            background: linear-gradient(90deg, #ff6b6b, #feca57);
+            border-color: transparent;
+            color: #1a1a2e;
+            font-weight: bold;
+        }
+
+        .timeline {
+            position: relative;
+            padding-left: 40px;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 15px;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: linear-gradient(180deg, #ff6b6b, #feca57);
+            border-radius: 2px;
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 40px;
+            padding: 25px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .timeline-item:hover {
+            transform: translateX(10px);
+            box-shadow: 0 10px 40px rgba(255, 107, 107, 0.2);
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -55px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #ff6b6b, #feca57);
+            border: 3px solid #1a1a2e;
+        }
+
+        .timeline-item.champion::before {
+            background: linear-gradient(135deg, #ffd700, #ffaa00);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { box-shadow: 0 0 0 0 rgba(255, 215, 0, 0.7); }
+            50% { box-shadow: 0 0 0 10px rgba(255, 215, 0, 0); }
+        }
+
+        .year-badge {
+            position: absolute;
+            right: 20px;
+            top: 20px;
+            background: linear-gradient(90deg, #ff6b6b, #feca57);
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+            color: #1a1a2e;
+            font-size: 0.9rem;
+        }
+
+        .champion .year-badge {
+            background: linear-gradient(90deg, #ffd700, #ffaa00);
+        }
+
+        .record {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #feca57;
+        }
+
+        .win-rate {
+            font-size: 1.2rem;
+            color: #4ecdc4;
+            margin-bottom: 15px;
+        }
+
+        .players {
+            margin-bottom: 15px;
+        }
+
+        .players h4 {
+            font-size: 0.9rem;
+            color: #aaa;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .players-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .player-tag {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 0.85rem;
+            transition: background 0.3s ease;
+        }
+
+        .player-tag:hover {
+            background: rgba(255, 107, 107, 0.3);
+        }
+
+        .milestone {
+            background: linear-gradient(90deg, rgba(255, 107, 107, 0.2), rgba(254, 202, 87, 0.2));
+            padding: 10px 15px;
+            border-radius: 8px;
+            border-left: 3px solid #ff6b6b;
+        }
+
+        .milestone.champion {
+            border-left-color: #ffd700;
+            background: linear-gradient(90deg, rgba(255, 215, 0, 0.2), rgba(255, 170, 0, 0.2));
+        }
+
+        .milestone i {
+            margin-right: 8px;
+        }
+
+        .filter-bar {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            border: none;
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.85rem;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            background: #4ecdc4;
+            color: #1a1a2e;
+        }
+
+        @media (max-width: 768px) {
+            .timeline {
+                padding-left: 25px;
+            }
+
+            .timeline::before {
+                left: 10px;
+            }
+
+            .timeline-item::before {
+                left: -35px;
+                width: 15px;
+                height: 15px;
+            }
+
+            .year-badge {
+                position: static;
+                display: inline-block;
+                margin-bottom: 10px;
+            }
+
+            .header h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏀 球队历史时间轴</h1>
+            <p>查看球队历年战绩与阵容变化</p>
+        </div>
+
+        <div class="team-selector">
+            <button class="team-btn active" data-team="CHI">芝加哥公牛</button>
+            <button class="team-btn" data-team="LAL">洛杉矶湖人</button>
+            <button class="team-btn" data-team="BOS">波士顿凯尔特人</button>
+            <button class="team-btn" data-team="SAS">圣安东尼奥马刺</button>
+            <button class="team-btn" data-team="HOU">休斯顿火箭</button>
+        </div>
+
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">全部年份</button>
+            <button class="filter-btn" data-filter="champion">总冠军年份</button>
+            <button class="filter-btn" data-filter="playoff">季后赛年份</button>
+        </div>
+
+        <div class="timeline" id="timeline">
+            <div class="loading" style="text-align: center; padding: 50px;">
+                <div style="font-size: 3rem; margin-bottom: 20px;">⏳</div>
+                <p>加载中...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const teams = {
+            CHI: { name: '芝加哥公牛', color: '#CE1141' },
+            LAL: { name: '洛杉矶湖人', color: '#552583' },
+            BOS: { name: '波士顿凯尔特人', color: '#007A33' },
+            SAS: { name: '圣安东尼奥马刺', color: '#C4CED4' },
+            HOU: { name: '休斯顿火箭', color: '#CE1141' }
+        };
+
+        let currentTeam = 'CHI';
+        let currentFilter = 'all';
+
+        document.querySelectorAll('.team-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.team-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentTeam = btn.dataset.team;
+                loadTimeline();
+            });
+        });
+
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentFilter = btn.dataset.filter;
+                loadTimeline();
+            });
+        });
+
+        async function loadTimeline() {
+            const timeline = document.getElementById('timeline');
+            timeline.innerHTML = '<div class="loading" style="text-align: center; padding: 50px;"><div style="font-size: 3rem; margin-bottom: 20px;">⏳</div><p>加载中...</p></div>';
+
+            try {
+                const response = await fetch(`/api/team_timeline/${currentTeam}`);
+                const data = await response.json();
+
+                let items = data;
+                
+                if (currentFilter === 'champion') {
+                    items = items.filter(item => item.champion);
+                }
+
+                if (items.length === 0) {
+                    timeline.innerHTML = '<div style="text-align: center; padding: 50px; color: #aaa;">暂无数据</div>';
+                    return;
+                }
+
+                timeline.innerHTML = items.map(item => `
+                    <div class="timeline-item ${item.champion ? 'champion' : ''}">
+                        <div class="year-badge">${item.year}</div>
+                        <div class="record">${item.wins}-${item.losses}</div>
+                        <div class="win-rate">胜率: ${item.win_rate}%</div>
+                        <div class="players">
+                            <h4>核心球员</h4>
+                            <div class="players-list">
+                                ${item.notable_players.split(',').map(p => `<span class="player-tag">${p.trim()}</span>`).join('')}
+                            </div>
+                        </div>
+                        ${item.milestones ? `<div class="milestone ${item.champion ? 'champion' : ''}">
+                            <i>${item.champion ? '🏆' : '⭐'}</i> ${item.milestones}
+                        </div>` : ''}
+                    </div>
+                `).join('');
+            } catch (error) {
+                timeline.innerHTML = '<div style="text-align: center; padding: 50px; color: #ff6b6b;">加载失败</div>';
+            }
+        }
+
+        loadTimeline();
+    </script>
+</body>
+</html>

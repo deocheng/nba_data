@@ -1,0 +1,302 @@
+{
+  "season": "2025-26",
+  "updated_at": "2026-04-20",
+  "conferences": {
+    "western": {
+      "name": "西部联盟",
+      "rounds": [
+        {
+          "name": "第一轮",
+          "matchups": [
+            {
+              "teams": [
+                {
+                  "seed": 1,
+                  "name": "掘金",
+                  "score": 116,
+                  "opponent_score": 105,
+                  "series_score": "1-0",
+                  "games": [
+                    {
+                      "date": "2026-04-19",
+                      "score": "116-105",
+                      "opponent": "森林狼"
+                    }
+                  ]
+                },
+                {
+                  "seed": 8,
+                  "name": "森林狼",
+                  "score": 105,
+                  "opponent_score": 116,
+                  "series_score": "0-1",
+                  "games": [
+                    {
+                      "date": "2026-04-19",
+                      "score": "105-116",
+                      "opponent": "掘金"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "teams": [
+                {
+                  "seed": 1,
+                  "name": "雷霆",
+                  "score": 119,
+                  "opponent_score": 84,
+                  "series_score": "1-0",
+                  "games": [
+                    {
+                      "date": "2026-04-20",
+                      "score": "119-84",
+                      "opponent": "太阳"
+                    }
+                  ]
+                },
+                {
+                  "seed": 8,
+                  "name": "太阳",
+                  "score": 84,
+                  "opponent_score": 119,
+                  "series_score": "0-1",
+                  "games": [
+                    {
+                      "date": "2026-04-20",
+                      "score": "84-119",
+                      "opponent": "雷霆"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "teams": [
+                {
+                  "seed": 4,
+                  "name": "湖人",
+                  "score": 107,
+                  "opponent_score": 98,
+                  "series_score": "1-0",
+                  "games": [
+                    {
+                      "date": "2026-04-18",
+                      "score": "107-98",
+                      "opponent": "火箭"
+                    }
+                  ]
+                },
+                {
+                  "seed": 5,
+                  "name": "火箭",
+                  "score": 98,
+                  "opponent_score": 107,
+                  "series_score": "0-1",
+                  "games": [
+                    {
+                      "date": "2026-04-18",
+                      "score": "98-107",
+                      "opponent": "湖人"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "teams": [
+                {
+                  "seed": 3,
+                  "name": "马刺",
+                  "score": 111,
+                  "opponent_score": 98,
+                  "series_score": "1-0",
+                  "games": [
+                    {
+                      "date": "2026-04-20",
+                      "score": "111-98",
+                      "opponent": "开拓者"
+                    }
+                  ]
+                },
+                {
+                  "seed": 6,
+                  "name": "开拓者",
+                  "score": 98,
+                  "opponent_score": 111,
+                  "series_score": "0-1",
+                  "games": [
+                    {
+                      "date": "2026-04-20",
+                      "score": "98-111",
+                      "opponent": "马刺"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "西部半决赛",
+          "status": "upcoming"
+        },
+        {
+          "name": "西部决赛",
+          "status": "upcoming"
+        }
+      ]
+    },
+    "eastern": {
+      "name": "东部联盟",
+      "rounds": [
+        {
+          "name": "第一轮",
+          "matchups": [
+            {
+              "teams": [
+                {
+                  "seed": 2,
+                  "name": "凯尔特人",
+                  "score": 123,
+                  "opponent_score": 91,
+                  "series_score": "1-0",
+                  "games": [
+                    {
+                      "date": "2026-04-20",
+                      "score": "123-91",
+                      "opponent": "76人"
+                    }
+                  ]
+                },
+                {
+                  "seed": 7,
+                  "name": "76人",
+                  "score": 91,
+                  "opponent_score": 123,
+                  "series_score": "0-1",
+                  "games": [
+                    {
+                      "date": "2026-04-20",
+                      "score": "91-123",
+                      "opponent": "凯尔特人"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "teams": [
+                {
+                  "seed": 2,
+                  "name": "尼克斯",
+                  "score": 113,
+                  "opponent_score": 102,
+                  "series_score": "1-0",
+                  "games": [
+                    {
+                      "date": "2026-04-19",
+                      "score": "113-102",
+                      "opponent": "老鹰"
+                    }
+                  ]
+                },
+                {
+                  "seed": 7,
+                  "name": "老鹰",
+                  "score": 102,
+                  "opponent_score": 113,
+                  "series_score": "0-1",
+                  "games": [
+                    {
+                      "date": "2026-04-19",
+                      "score": "102-113",
+                      "opponent": "尼克斯"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "teams": [
+                {
+                  "seed": 4,
+                  "name": "骑士",
+                  "score": 126,
+                  "opponent_score": 113,
+                  "series_score": "1-0",
+                  "games": [
+                    {
+                      "date": "2026-04-19",
+                      "score": "126-113",
+                      "opponent": "猛龙"
+                    }
+                  ]
+                },
+                {
+                  "seed": 5,
+                  "name": "猛龙",
+                  "score": 113,
+                  "opponent_score": 126,
+                  "series_score": "0-1",
+                  "games": [
+                    {
+                      "date": "2026-04-19",
+                      "score": "113-126",
+                      "opponent": "骑士"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "teams": [
+                {
+                  "seed": 1,
+                  "name": "活塞",
+                  "score": 101,
+                  "opponent_score": 112,
+                  "series_score": "0-1",
+                  "games": [
+                    {
+                      "date": "2026-04-20",
+                      "score": "101-112",
+                      "opponent": "魔术"
+                    }
+                  ]
+                },
+                {
+                  "seed": 8,
+                  "name": "魔术",
+                  "score": 112,
+                  "opponent_score": 101,
+                  "series_score": "1-0",
+                  "games": [
+                    {
+                      "date": "2026-04-20",
+                      "score": "112-101",
+                      "opponent": "活塞"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "东部半决赛",
+          "status": "upcoming"
+        },
+        {
+          "name": "东部决赛",
+          "status": "upcoming"
+        }
+      ]
+    }
+  },
+  "finals": {
+    "name": "NBA总决赛",
+    "status": "upcoming"
+  }
+}

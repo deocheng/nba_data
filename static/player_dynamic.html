@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA球员详情</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #000; color: #C4CED4; min-height: 100vh; }
+        .navbar { background: rgba(0,0,0,0.9); padding: 1rem; position: fixed; top: 10px; left: 10px; right: 10px; z-index: 100; border-radius: 12px; border: 1px solid rgba(196,206,212,0.2); display: flex; align-items: center; gap: 20px; }
+        .navbar a { color: #C4CED4; text-decoration: none; }
+        .search-box { margin-left: auto; position: relative; }
+        .search-box input { padding: 8px 12px; border-radius: 20px; border: 1px solid rgba(196,206,212,0.3); background: rgba(0,0,0,0.5); color: #C4CED4; }
+        .search-results { position: absolute; top: 100%; left: 0; right: 0; background: #1a1a2e; border: 1px solid rgba(196,206,212,0.2); border-radius: 10px; margin-top: 5px; max-height: 300px; overflow-y: auto; display: none; z-index: 1000; }
+        .search-results.active { display: block; }
+        .search-item { padding: 10px 15px; cursor: pointer; }
+        .search-item:hover { background: rgba(76,206,240,0.2); }
+        .container { padding: 80px 20px 20px; max-width: 1200px; margin: 0 auto; }
+        .player-header { background: linear-gradient(135deg, #0b3d91, #1e4daf); padding: 30px; border-radius: 15px; margin-bottom: 30px; display: none; gap: 30px; align-items: center; }
+        .player-header.loaded { display: flex; }
+        .player-avatar { width: 180px; height: 230px; border-radius: 15px; display: flex; align-items: center; justify-content: center; font-size: 4rem; font-weight: 700; text-transform: uppercase; flex-shrink: 0; overflow: hidden; background: rgba(255,255,255,0.1); }
+        .player-avatar img { width: 100%; height: 100%; object-fit: contain; border-radius: 15px; }
+        .player-info { flex: 1; }
+        .player-name { font-size: 2rem; font-weight: 700; margin-bottom: 10px; }
+        .player-meta { display: flex; gap: 20px; flex-wrap: wrap; }
+        .meta-item { background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 20px; font-size: 0.9rem; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 30px; }
+        .stat-card { background: #1a1a2e; padding: 20px; border-radius: 12px; text-align: center; }
+        .stat-value { font-size: 1.8rem; font-weight: 700; color: #4cc9f0; }
+        .stat-label { font-size: 0.8rem; color: #aaa; text-transform: uppercase; }
+        .section { background: #1a1a2e; padding: 25px; border-radius: 15px; margin-bottom: 20px; display: none; }
+        .section.loaded { display: block; }
+        .section h2 { color: #C4CED4; margin-bottom: 15px; }
+        .no-data { text-align: center; color: #888; padding: 20px; }
+        .loading { display: flex; justify-content: center; padding: 100px; flex-direction: column; align-items: center; }
+        .spinner { width: 40px; height: 40px; border: 4px solid rgba(76,201,240,0.3); border-top-color: #4cc9f0; border-radius: 50%; animation: spin 1s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .loading-text { margin-top: 20px; color: #888; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 12px; text-align: center; border-bottom: 1px solid rgba(196,206,212,0.1); }
+        th { background: rgba(0,0,0,0.3); color: #4cc9f0; }
+        .not-found { text-align: center; padding: 100px 20px; }
+        .not-found h1 { font-size: 3rem; margin-bottom: 20px; }
+        .not-found p { color: #888; margin-bottom: 30px; }
+        .quick-links { display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; }
+        .quick-link { padding: 10px 20px; background: rgba(76,201,240,0.1); border: 1px solid rgba(76,201,240,0.3); border-radius: 25px; color: #4cc9f0; text-decoration: none; }
+        .draft-badge { background: linear-gradient(135deg, #FFD700, #FFA500); color: #333; padding: 15px 25px; border-radius: 10px; font-weight: 700; }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <a href="/"><i class="fas fa-arrow-left"></i> 返回首页</a>
+        <a href="/player-career">球员生涯</a>
+        <a href="/player-compare">球员对比</a>
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="搜索球员...">
+            <div class="search-results" id="searchResults"></div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div id="loadingState" class="loading">
+            <div class="spinner"></div>
+            <div class="loading-text">正在加载球员数据...</div>
+        </div>
+
+        <div id="notFoundState" class="not-found" style="display: none;">
+            <h1><i class="fas fa-search"></i> 球员未找到</h1>
+            <p>抱歉，未找到该球员的资料</p>
+            <div class="quick-links">
+                <a href="/" class="quick-link"><i class="fas fa-home"></i> 返回首页</a>
+                <a href="/player-career" class="quick-link"><i class="fas fa-chart-line"></i> 球员生涯</a>
+                <a href="/player-compare" class="quick-link"><i class="fas fa-users"></i> 球员对比</a>
+            </div>
+        </div>
+
+        <div id="playerContent" style="display: none;">
+            <div class="player-header" id="playerHeader">
+                <div class="player-avatar" id="playerAvatar">-</div>
+                <div class="player-info">
+                    <div class="player-name" id="playerName"></div>
+                    <div class="player-meta" id="playerMeta"></div>
+                    <p id="playerBio" style="margin-top: 15px; opacity: 0.9;"></p>
+                </div>
+            </div>
+
+            <div class="section" id="draftSection">
+                <h2><i class="fas fa-trophy"></i> 选秀信息</h2>
+                <div id="draftInfo" class="draft-badge"></div>
+            </div>
+
+            <div class="stats-grid" id="statsGrid">
+            </div>
+
+            <div class="section" id="careerSection">
+                <h2><i class="fas fa-calendar-alt"></i> 职业生涯履历</h2>
+                <div id="careerTeams"></div>
+            </div>
+
+            <div class="section" id="awardsSection">
+                <h2><i class="fas fa-award"></i> 个人荣誉</h2>
+                <div id="awardsList"></div>
+            </div>
+
+            <div class="section" id="seasonSection">
+                <h2><i class="fas fa-chart-bar"></i> 赛季统计</h2>
+                <div id="seasonContent">
+                    <div class="loading"><div class="spinner"></div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const playerId = window.location.pathname.split('/').pop();
+
+        async function loadPlayerData() {
+            try {
+                const response = await fetch(`/api/player/${playerId}/profile`);
+                const result = await response.json();
+                
+                if (result.success && result.data) {
+                    displayPlayerData(result.data);
+                } else if (!result.success) {
+                    // 尝试从players表获取基础信息
+                    await loadBasicPlayerInfo();
+                }
+            } catch (error) {
+                console.error('加载失败:', error);
+                await loadBasicPlayerInfo();
+            }
+        }
+
+        async function loadBasicPlayerInfo() {
+            try {
+                const response = await fetch(`/api/players/search?q=${playerId}`);
+                const result = await response.json();
+                
+                if (result.success && result.data.length > 0) {
+                    const player = result.data[0];
+                    displayBasicPlayer(player);
+                } else {
+                    showNotFound();
+                }
+            } catch (error) {
+                showNotFound();
+            }
+        }
+
+        function loadPlayerAvatar(playerName, avatarElement) {
+            const avatarPath = `/images/${playerName}.jpg`;
+            const img = new Image();
+            img.onload = function() {
+                avatarElement.innerHTML = `<img src="${avatarPath}" alt="${playerName}">`;
+            };
+            img.onerror = function() {
+                const initials = playerName.split(' ').map(n => n[0]).join('').toUpperCase();
+                avatarElement.textContent = initials;
+            };
+            img.src = avatarPath;
+        }
+
+        function displayPlayerData(data) {
+            const profile = data.profile;
+            
+            // 加载头像
+            const avatarElement = document.getElementById('playerAvatar');
+            loadPlayerAvatar(profile.player_name, avatarElement);
+            
+            document.getElementById('playerName').textContent = profile.player_name;
+            
+            let metaHTML = '';
+            if (profile.physical_info?.position) metaHTML += `<div class="meta-item">位置: ${profile.physical_info.position}</div>`;
+            if (profile.physical_info?.height) metaHTML += `<div class="meta-item">身高: ${profile.physical_info.height}</div>`;
+            if (profile.physical_info?.weight) metaHTML += `<div class="meta-item">体重: ${profile.physical_info.weight}</div>`;
+            document.getElementById('playerMeta').innerHTML = metaHTML;
+            
+            document.getElementById('playerBio').textContent = profile.bio || '暂无简介';
+            
+            if (profile.draft_info) {
+                const draft = profile.draft_info;
+                document.getElementById('draftInfo').textContent = `${draft.year}年NBA选秀 - 第${draft.round}轮第${draft.pick}顺位 - ${draft.team}`;
+                document.getElementById('draftSection').classList.add('loaded');
+            }
+            
+            if (data.career_summary) {
+                const summary = data.career_summary;
+                document.getElementById('statsGrid').innerHTML = `
+                    <div class="stat-card"><div class="stat-value">${summary.total_games}</div><div class="stat-label">总场次</div></div>
+                    <div class="stat-card"><div class="stat-value">${summary.played_games}</div><div class="stat-label">出场次数</div></div>
+                    <div class="stat-card"><div class="stat-value">${summary.inactive_games}</div><div class="stat-label">缺席场次</div></div>
+                `;
+            }
+            
+            if (data.career_averages) {
+                const avgs = data.career_averages;
+                const existingGrid = document.getElementById('statsGrid').innerHTML;
+                document.getElementById('statsGrid').innerHTML = existingGrid + `
+                    <div class="stat-card"><div class="stat-value">${avgs.avg_points}</div><div class="stat-label">场均得分</div></div>
+                    <div class="stat-card"><div class="stat-value">${avgs.avg_rebounds}</div><div class="stat-label">场均篮板</div></div>
+                    <div class="stat-card"><div class="stat-value">${avgs.avg_assists}</div><div class="stat-label">场均助攻</div></div>
+                `;
+            }
+            
+            if (profile.career_teams && profile.career_teams.length > 0) {
+                let teamsHTML = '';
+                profile.career_teams.forEach(team => {
+                    const endYear = team.end_year ? ` - ${team.end_year}` : ' - 至今';
+                    teamsHTML += `<div style="border-left: 3px solid #4cc9f0; margin-left: 15px; padding: 15px; margin-bottom: 15px;">
+                        <div style="font-weight: 700; margin-bottom: 5px;">${team.team}</div>
+                        <div style="color: #888; font-size: 0.9rem;">${team.start_year}${endYear}</div>
+                    </div>`;
+                });
+                document.getElementById('careerTeams').innerHTML = teamsHTML;
+                document.getElementById('careerSection').classList.add('loaded');
+            }
+            
+            if (profile.awards && profile.awards.length > 0) {
+                let awardsHTML = '<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">';
+                profile.awards.forEach(award => {
+                    awardsHTML += `<div style="background: rgba(0,0,0,0.3); padding: 12px; border-radius: 10px; border-left: 4px solid #FFD700;">
+                        <div style="font-weight: 600;">${award.award}</div>
+                        <div style="color: #888; font-size: 0.9rem;">${award.year}年</div>
+                    </div>`;
+                });
+                awardsHTML += '</div>';
+                document.getElementById('awardsList').innerHTML = awardsHTML;
+                document.getElementById('awardsSection').classList.add('loaded');
+            }
+            
+            if (data.seasons && data.seasons.length > 0) {
+                loadSeasonTable(data.seasons);
+            }
+            
+            document.getElementById('loadingState').style.display = 'none';
+            document.getElementById('playerContent').style.display = 'block';
+            document.getElementById('playerHeader').classList.add('loaded');
+        }
+
+        function displayBasicPlayer(player) {
+            // 加载头像
+            const avatarElement = document.getElementById('playerAvatar');
+            loadPlayerAvatar(player.player_name, avatarElement);
+            
+            document.getElementById('playerName').textContent = player.player_name;
+            
+            let metaHTML = '';
+            if (player.position) metaHTML += `<div class="meta-item">位置: ${player.position}</div>`;
+            if (player.college) metaHTML += `<div class="meta-item">${player.college}</div>`;
+            document.getElementById('playerMeta').innerHTML = metaHTML;
+            
+            document.getElementById('playerBio').textContent = '暂无详细简介';
+            
+            document.getElementById('statsGrid').innerHTML = `
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">总场次</div></div>
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">出场次数</div></div>
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">缺席场次</div></div>
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">场均得分</div></div>
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">场均篮板</div></div>
+                <div class="stat-card"><div class="stat-value">-</div><div class="stat-label">场均助攻</div></div>
+            `;
+            
+            document.getElementById('seasonContent').innerHTML = '<div class="no-data">暂无赛季数据</div>';
+            
+            document.getElementById('loadingState').style.display = 'none';
+            document.getElementById('playerContent').style.display = 'block';
+            document.getElementById('playerHeader').classList.add('loaded');
+            document.getElementById('seasonSection').classList.add('loaded');
+        }
+
+        function showNotFound() {
+            document.getElementById('loadingState').style.display = 'none';
+            document.getElementById('playerContent').style.display = 'none';
+            document.getElementById('notFoundState').style.display = 'block';
+        }
+
+        function loadSeasonTable(seasons) {
+            if (!seasons || seasons.length === 0) {
+                document.getElementById('seasonContent').innerHTML = '<div class="no-data">暂无赛季数据</div>';
+                return;
+            }
+            
+            let html = '<table><tr><th>赛季</th><th>类型</th><th>场次</th><th>场均得分</th><th>场均篮板</th><th>场均助攻</th><th>投篮%</th><th>三分%</th><th>罚球%</th></tr>';
+            seasons.forEach(s => {
+                html += `<tr><td>${s.season_id}</td><td>${s.game_type === 'playoff' ? '季后赛' : '常规赛'}</td><td>${s.games}</td><td>${s.avg_points}</td><td>${s.avg_rebounds}</td><td>${s.avg_assists}</td><td>${s.fg_pct}%</td><td>${s.three_pct}%</td><td>${s.ft_pct}%</td></tr>`;
+            });
+            html += '</table>';
+            document.getElementById('seasonContent').innerHTML = html;
+        }
+
+        async function searchPlayers(query) {
+            if (!query.trim()) {
+                document.getElementById('searchResults').classList.remove('active');
+                return;
+            }
+            try {
+                const response = await fetch(`/api/players/search?q=${encodeURIComponent(query)}`);
+                const result = await response.json();
+                if (result.success && result.data.length > 0) {
+                    const html = result.data.map(p => `<div class="search-item" onclick="goToPlayer('${p.player_id}')">${p.player_name} - ${p.position || '未知位置'}</div>`).join('');
+                    document.getElementById('searchResults').innerHTML = html;
+                    document.getElementById('searchResults').classList.add('active');
+                }
+            } catch (error) {
+                console.error('搜索失败:', error);
+            }
+        }
+
+        function goToPlayer(playerId) {
+            window.location.href = `/player/${playerId}`;
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadPlayerData();
+            
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', (e) => searchPlayers(e.target.value));
+            document.addEventListener('click', (e) => {
+                if (!e.target.closest('.search-box')) {
+                    document.getElementById('searchResults').classList.remove('active');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

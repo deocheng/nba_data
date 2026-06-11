@@ -1,0 +1,5095 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "Orlando"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:43.0",
+      "",
+      "",
+      "0-3",
+      "+3",
+      "J. Suggs makes 3-pt jump shot from 26 ft (assist by F. Wagner)"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:26.0",
+      "N. Powell misses 3-pt jump shot from 26 ft",
+      "",
+      "0-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "Defensive rebound by J. Suggs"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "Personal foul by D. Mitchell (drawn by D. Bane)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "Turnover by F. Wagner (back court)"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:56.0",
+      "D. Mitchell makes 2-pt layup from 3 ft (assist by K. Ware)",
+      "+2",
+      "2-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "2-3",
+      "",
+      "J. Suggs misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:35.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "2-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:31.0",
+      "N. Powell makes 2-pt jump shot from 12 ft (assist by D. Mitchell)",
+      "+2",
+      "4-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "4-6",
+      "+3",
+      "P. Banchero makes 3-pt jump shot from 26 ft (assist by J. Suggs)"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "9:56.0",
+      "D. Mitchell makes 2-pt layup from 2 ft",
+      "+2",
+      "6-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "6-6",
+      "",
+      "J. Suggs misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:43.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "6-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:36.0",
+      "B. Adebayo makes 2-pt layup from 2 ft (assist by D. Mitchell)",
+      "+2",
+      "8-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "8-8",
+      "+2",
+      "W. Carter makes 2-pt layup from 1 ft (assist by P. Banchero)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:09.0",
+      "A. Wiggins makes 3-pt jump shot from 26 ft (assist by N. Powell)",
+      "+3",
+      "11-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:00.0",
+      "",
+      "",
+      "11-8",
+      "",
+      "F. Wagner misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "8:58.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "11-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "8:54.0",
+      "Turnover by B. Adebayo (bad pass; steal by J. Suggs)",
+      "",
+      "11-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "11-10",
+      "+2",
+      "P. Banchero makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:39.0",
+      "K. Ware makes 2-pt dunk from 3 ft (assist by D. Mitchell)",
+      "+2",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:31.0",
+      "",
+      "",
+      "13-12",
+      "+2",
+      "J. Suggs makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:23.0",
+      "N. Powell makes 2-pt layup from 7 ft (assist by D. Mitchell)",
+      "+2",
+      "15-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "15-14",
+      "+2",
+      "W. Carter makes 2-pt jump shot from 16 ft (assist by D. Bane)"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "7:35.0",
+      "D. Mitchell misses 2-pt jump shot from 21 ft",
+      "",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "Defensive rebound by J. Suggs"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "Personal foul by N. Powell (drawn by J. Suggs)"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "G. Bitadze enters the game for P. Banchero"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "A. Black enters the game for W. Carter"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "15-16",
+      "+2",
+      "D. Bane makes 2-pt layup from 3 ft (assist by J. Suggs)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:07.0",
+      "A. Wiggins misses 3-pt jump shot from 28 ft",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:05.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "Defensive rebound by F. Wagner"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "15-18",
+      "+2",
+      "F. Wagner makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "6:49.0",
+      "Turnover by N. Powell (out of bounds lost ball)",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Orlando full timeout"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:49.0",
+      "J. Jaquez enters the game for B. Adebayo",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "T. Da Silva enters the game for D. Bane"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "T. Da Silva misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:27.0",
+      "Defensive rebound by D. Mitchell",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:19.0",
+      "A. Wiggins misses 2-pt jump shot from 9 ft",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Defensive rebound by G. Bitadze"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "F. Wagner misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:08.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "5:56.0",
+      "N. Powell misses 2-pt jump shot from 7 ft",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Defensive rebound by G. Bitadze"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "J. Suggs misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:46.0",
+      "Defensive rebound by Team",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:38.0",
+      "Shooting foul by J. Suggs (drawn by N. Powell)",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:38.0",
+      "N. Powell makes free throw 1 of 3",
+      "+1",
+      "16-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:38.0",
+      "N. Powell makes free throw 2 of 3",
+      "+1",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:38.0",
+      "P. Larsson enters the game for A. Wiggins",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:38.0",
+      "N. Powell makes free throw 3 of 3",
+      "+1",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "18-20",
+      "+2",
+      "G. Bitadze makes 2-pt dunk from 2 ft (assist by A. Black)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:10.0",
+      "N. Powell misses 2-pt layup from 5 ft (block by J. Suggs)",
+      "",
+      "18-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "18-20",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "18-20",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "18-20",
+      "",
+      "Orlando full timeout"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:10.0",
+      "D. Smith enters the game for D. Mitchell",
+      "",
+      "18-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "18-22",
+      "+2",
+      "G. Bitadze makes 2-pt dunk from 4 ft (assist by J. Suggs)"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:38.0",
+      "Turnover by K. Ware (out of bounds lost ball)",
+      "",
+      "18-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "18-25",
+      "+3",
+      "T. Da Silva makes 3-pt jump shot from 23 ft (assist by F. Wagner)"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:07.0",
+      "Miami full timeout",
+      "",
+      "18-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:07.0",
+      "B. Adebayo enters the game for K. Ware",
+      "",
+      "18-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:55.0",
+      "Turnover by D. Smith (lost ball; steal by T. Da Silva)",
+      "",
+      "18-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "18-25",
+      "",
+      "J. Suggs misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:29.0",
+      "Defensive rebound by D. Smith",
+      "",
+      "18-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:17.0",
+      "J. Jaquez makes 2-pt jump shot from 10 ft",
+      "+2",
+      "20-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "20-25",
+      "",
+      "F. Wagner misses 2-pt layup from 7 ft (block by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:04.0",
+      "Defensive rebound by N. Powell",
+      "",
+      "20-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "2:49.0",
+      "B. Adebayo makes 3-pt jump shot from 24 ft (assist by N. Powell)",
+      "+3",
+      "23-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "23-25",
+      "",
+      "Shooting foul by J. Jaquez (drawn by A. Black)"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "23-26",
+      "+1",
+      "A. Black makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:42.0",
+      "S. Fontecchio enters the game for N. Powell",
+      "",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "P. Banchero enters the game for G. Bitadze"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "D. Bane enters the game for T. Da Silva"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "W. Carter enters the game for J. Suggs"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "T. Jones enters the game for F. Wagner"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "23-27",
+      "+1",
+      "A. Black makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:32.0",
+      "S. Fontecchio makes 2-pt layup from 5 ft (assist by J. Jaquez)",
+      "+2",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "25-27",
+      "",
+      "Turnover by A. Black (traveling)"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "1:50.0",
+      "J. Jaquez misses 2-pt layup from 3 ft",
+      "",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "25-27",
+      "",
+      "Defensive rebound by W. Carter"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "25-27",
+      "",
+      "T. Jones misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:23.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:19.0",
+      "S. Fontecchio misses 3-pt jump shot from 26 ft",
+      "",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "25-27",
+      "",
+      "Defensive rebound by P. Banchero"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:05.0",
+      "",
+      "",
+      "25-30",
+      "+3",
+      "T. Jones makes 3-pt jump shot from 25 ft (assist by W. Carter)"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "0:52.0",
+      "D. Smith misses 2-pt jump shot from 16 ft (block by D. Bane)",
+      "",
+      "25-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "0:51.0",
+      "Offensive rebound by B. Adebayo",
+      "",
+      "25-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "0:51.0",
+      "B. Adebayo makes 2-pt jump shot from 13 ft (assist by D. Smith)",
+      "+2",
+      "27-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "27-30",
+      "",
+      "A. Black misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:30.0",
+      "Defensive rebound by D. Smith",
+      "",
+      "27-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:08.0",
+      "Shooting foul by A. Black (drawn by D. Smith)",
+      "",
+      "27-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:08.0",
+      "D. Smith makes free throw 1 of 2",
+      "+1",
+      "28-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:08.0",
+      "D. Smith misses free throw 2 of 2",
+      "",
+      "28-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "28-30",
+      "",
+      "Defensive rebound by W. Carter"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "28-30",
+      "",
+      "P. Banchero misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "28-30",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "Orlando"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "11:47.0",
+      "B. Adebayo makes 2-pt jump shot from 12 ft",
+      "+2",
+      "30-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "11:25.0",
+      "",
+      "",
+      "30-30",
+      "",
+      "D. Bane misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "11:23.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "30-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "11:19.0",
+      "P. Larsson misses 2-pt layup from 3 ft",
+      "",
+      "30-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "11:18.0",
+      "Offensive rebound by Team",
+      "",
+      "30-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "11:14.0",
+      "Turnover by J. Jaquez (out of bounds lost ball)",
+      "",
+      "30-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "30-30",
+      "",
+      "A. Black misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "30-30",
+      "",
+      "Offensive rebound by A. Black"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "30-30",
+      "",
+      "Shooting foul by D. Smith (drawn by A. Black)"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "30-31",
+      "+1",
+      "A. Black makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "30-31",
+      "",
+      "T. Da Silva enters the game for P. Banchero"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "30-32",
+      "+1",
+      "A. Black makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "10:47.0",
+      "Personal foul by W. Carter (drawn by B. Adebayo)",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "10:37.0",
+      "B. Adebayo misses 2-pt jump shot from 18 ft",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "Defensive rebound by A. Black"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "W. Carter misses 3-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "10:13.0",
+      "Defensive rebound by D. Smith",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "10:01.0",
+      "D. Smith makes 2-pt layup from 2 ft (assist by S. Fontecchio)",
+      "+2",
+      "32-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "32-32",
+      "",
+      "D. Bane misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "9:52.0",
+      "Defensive rebound by P. Larsson",
+      "",
+      "32-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "9:42.0",
+      "B. Adebayo makes 2-pt jump shot from 4 ft (assist by S. Fontecchio)",
+      "+2",
+      "34-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "34-34",
+      "+2",
+      "T. Jones makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "9:10.0",
+      "B. Adebayo misses 3-pt jump shot from 27 ft",
+      "",
+      "34-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "34-34",
+      "",
+      "Defensive rebound by T. Da Silva"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "34-34",
+      "",
+      "Shooting foul by S. Fontecchio (drawn by A. Black)"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "34-35",
+      "+1",
+      "A. Black makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "34-36",
+      "+1",
+      "A. Black makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "8:47.0",
+      "P. Larsson misses 3-pt jump shot from 24 ft",
+      "",
+      "34-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "34-36",
+      "",
+      "Defensive rebound by W. Carter"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "34-38",
+      "+2",
+      "W. Carter makes 2-pt dunk from 1 ft (assist by A. Black)"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "8:28.0",
+      "B. Adebayo makes 2-pt layup from 2 ft (assist by D. Smith)",
+      "+2",
+      "36-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "36-38",
+      "",
+      "D. Bane misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "8:16.0",
+      "Defensive rebound by S. Fontecchio",
+      "",
+      "36-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "8:14.0",
+      "Personal foul by W. Carter (drawn by J. Jaquez)",
+      "",
+      "36-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "8:14.0",
+      "A. Wiggins enters the game for J. Jaquez",
+      "",
+      "36-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "7:55.0",
+      "B. Adebayo makes 2-pt jump shot from 16 ft",
+      "+2",
+      "38-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "7:55.0",
+      "Shooting foul by W. Carter (drawn by B. Adebayo)",
+      "",
+      "38-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "38-38",
+      "",
+      "G. Bitadze enters the game for W. Carter"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "7:55.0",
+      "B. Adebayo makes free throw 1 of 1",
+      "+1",
+      "39-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "39-40",
+      "+2",
+      "A. Black makes 2-pt layup from 3 ft (assist by G. Bitadze)"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "7:29.0",
+      "A. Wiggins makes 3-pt jump shot from 27 ft (assist by B. Adebayo)",
+      "+3",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "A. Black misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "7:02.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "6:51.0",
+      "B. Adebayo misses 2-pt jump shot from 19 ft",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "Defensive rebound by A. Black"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "T. Jones misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "6:37.0",
+      "Defensive rebound by A. Wiggins",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "6:31.0",
+      "S. Fontecchio misses 3-pt jump shot from 28 ft",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "Orlando full timeout"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "6:31.0",
+      "J. Jaquez enters the game for B. Adebayo",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "6:31.0",
+      "D. Mitchell enters the game for S. Fontecchio",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "6:31.0",
+      "N. Powell enters the game for P. Larsson",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "6:31.0",
+      "K. Ware enters the game for D. Smith",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "J. Richardson enters the game for D. Bane"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "J. Suggs enters the game for A. Black"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "F. Wagner enters the game for T. Jones"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "6:14.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "J. Suggs misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "6:12.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "6:06.0",
+      "N. Powell misses 3-pt jump shot from 26 ft",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "Shooting foul by A. Wiggins (drawn by F. Wagner)"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "F. Wagner misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "F. Wagner misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "5:48.0",
+      "Defensive rebound by A. Wiggins",
+      "",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "5:40.0",
+      "D. Mitchell makes 2-pt jump shot from 5 ft",
+      "+2",
+      "44-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "44-40",
+      "",
+      "Turnover by T. Da Silva (step out of bounds)"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "5:15.0",
+      "J. Jaquez makes 2-pt jump shot from 13 ft",
+      "+2",
+      "46-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "46-40",
+      "",
+      "Turnover by T. Da Silva (bad pass)"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "5:04.0",
+      "N. Powell makes 3-pt jump shot from 26 ft (assist by J. Jaquez)",
+      "+3",
+      "49-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "49-40",
+      "",
+      "Shooting foul by J. Jaquez (drawn by F. Wagner)"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "49-41",
+      "+1",
+      "F. Wagner makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "49-42",
+      "+1",
+      "F. Wagner makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "4:37.0",
+      "J. Jaquez misses 2-pt layup from 7 ft (block by G. Bitadze)",
+      "",
+      "49-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "49-42",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "49-44",
+      "+2",
+      "F. Wagner makes 2-pt layup from 3 ft (assist by J. Richardson)"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "4:24.0",
+      "Violation by Team (def goaltending)",
+      "",
+      "49-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "4:15.0",
+      "Personal foul by J. Richardson (drawn by D. Mitchell)",
+      "",
+      "49-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "4:04.0",
+      "N. Powell makes 2-pt layup from 2 ft",
+      "+2",
+      "51-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "51-46",
+      "+2",
+      "F. Wagner makes 2-pt jump shot from 12 ft (assist by J. Suggs)"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "3:35.0",
+      "Shooting foul by J. Suggs (drawn by N. Powell)",
+      "",
+      "51-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "3:35.0",
+      "N. Powell makes free throw 1 of 3",
+      "+1",
+      "52-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "3:35.0",
+      "N. Powell makes free throw 2 of 3",
+      "+1",
+      "53-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "53-46",
+      "",
+      "D. Bane enters the game for T. Da Silva"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "53-46",
+      "",
+      "A. Black enters the game for J. Suggs"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "3:35.0",
+      "N. Powell makes free throw 3 of 3",
+      "+1",
+      "54-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "54-46",
+      "",
+      "Turnover by A. Black (bad pass; steal by J. Jaquez)"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "3:16.0",
+      "Shooting foul by G. Bitadze (drawn by A. Wiggins)",
+      "",
+      "54-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "3:16.0",
+      "A. Wiggins misses free throw 1 of 2",
+      "",
+      "54-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "3:16.0",
+      "Offensive rebound by Team",
+      "",
+      "54-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "3:16.0",
+      "A. Wiggins misses free throw 2 of 2",
+      "",
+      "54-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "54-46",
+      "",
+      "Defensive rebound by A. Black"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "54-46",
+      "",
+      "Personal foul by D. Mitchell (drawn by F. Wagner)"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "54-47",
+      "+1",
+      "F. Wagner makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:02.0",
+      "B. Adebayo enters the game for D. Mitchell",
+      "",
+      "54-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "54-48",
+      "+1",
+      "F. Wagner makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "2:46.0",
+      "K. Ware misses 3-pt jump shot from 22 ft",
+      "",
+      "54-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "54-48",
+      "",
+      "Defensive rebound by A. Black"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "54-48",
+      "",
+      "D. Bane misses 2-pt layup from 2 ft (block by A. Wiggins)"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "2:40.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "54-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:40.0",
+      "Personal foul by G. Bitadze (drawn by K. Ware)",
+      "",
+      "54-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:40.0",
+      "Miami full timeout",
+      "",
+      "54-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "54-48",
+      "",
+      "P. Banchero enters the game for J. Richardson"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:40.0",
+      "K. Ware makes free throw 1 of 2",
+      "+1",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:40.0",
+      "K. Ware makes free throw 2 of 2",
+      "+1",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "56-48",
+      "",
+      "P. Banchero misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:20.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:10.0",
+      "Turnover by J. Jaquez (lost ball; steal by F. Wagner)",
+      "",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "56-48",
+      "",
+      "F. Wagner misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "56-48",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "2:01.0",
+      "Loose ball foul by B. Adebayo (drawn by G. Bitadze)",
+      "",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "56-49",
+      "+1",
+      "G. Bitadze makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "56-50",
+      "+1",
+      "G. Bitadze makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "1:48.0",
+      "N. Powell misses 2-pt jump shot from 14 ft",
+      "",
+      "56-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "56-50",
+      "",
+      "Defensive rebound by G. Bitadze"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "56-52",
+      "+2",
+      "P. Banchero makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:20.0",
+      "A. Wiggins misses 3-pt jump shot from 25 ft",
+      "",
+      "56-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "56-52",
+      "",
+      "Defensive rebound by P. Banchero"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "56-52",
+      "",
+      "Turnover by P. Banchero (bad pass; steal by A. Wiggins)"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "1:12.0",
+      "A. Wiggins makes 2-pt dunk from 3 ft",
+      "+2",
+      "58-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:58.0",
+      "",
+      "",
+      "58-54",
+      "+2",
+      "G. Bitadze makes 2-pt dunk from 1 ft (assist by A. Black)"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:41.0",
+      "K. Ware misses 2-pt jump shot from 21 ft",
+      "",
+      "58-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "58-54",
+      "",
+      "Defensive rebound by F. Wagner"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "58-57",
+      "+3",
+      "F. Wagner makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:17.0",
+      "J. Jaquez makes 2-pt jump shot from 20 ft",
+      "+2",
+      "60-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "60-57",
+      "",
+      "Turnover by D. Bane (bad pass; steal by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "Orlando"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "11:46.0",
+      "D. Mitchell misses 2-pt jump shot from 7 ft",
+      "",
+      "60-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "11:43.0",
+      "",
+      "",
+      "60-57",
+      "",
+      "Defensive rebound by F. Wagner"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "11:32.0",
+      "",
+      "",
+      "60-60",
+      "+3",
+      "J. Suggs makes 3-pt jump shot from 24 ft (assist by P. Banchero)"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "11:20.0",
+      "Turnover by B. Adebayo (traveling)",
+      "",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "60-60",
+      "",
+      "D. Bane misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "11:06.0",
+      "Defensive rebound by N. Powell",
+      "",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "10:55.0",
+      "Turnover by N. Powell (bad pass)",
+      "",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "60-60",
+      "",
+      "Turnover by F. Wagner (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "10:35.0",
+      "N. Powell misses 2-pt layup from 4 ft",
+      "",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "10:32.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "10:32.0",
+      "Turnover by K. Ware (bad pass)",
+      "",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "60-60",
+      "",
+      "F. Wagner misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:11.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:08.0",
+      "Turnover by N. Powell (out of bounds lost ball)",
+      "",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "60-60",
+      "",
+      "D. Bane misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "9:52.0",
+      "",
+      "",
+      "60-60",
+      "",
+      "Offensive rebound by W. Carter"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "60-60",
+      "",
+      "P. Banchero misses 2-pt jump shot from 6 ft (block by K. Ware)"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "60-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "9:40.0",
+      "",
+      "",
+      "60-63",
+      "+3",
+      "J. Suggs makes 3-pt jump shot from 26 ft (assist by D. Bane)"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "9:24.0",
+      "B. Adebayo misses 2-pt layup from 3 ft",
+      "",
+      "60-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "60-63",
+      "",
+      "Defensive rebound by W. Carter"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "60-63",
+      "",
+      "P. Banchero misses 2-pt layup from 6 ft (block by A. Wiggins)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "60-63",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "60-63",
+      "",
+      "Turnover by J. Suggs (back court)"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "9:06.0",
+      "Shooting foul by F. Wagner (drawn by N. Powell)",
+      "",
+      "60-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "9:06.0",
+      "N. Powell makes free throw 1 of 2",
+      "+1",
+      "61-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "9:06.0",
+      "N. Powell misses free throw 2 of 2",
+      "",
+      "61-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "61-63",
+      "",
+      "Defensive rebound by P. Banchero"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "61-65",
+      "+2",
+      "F. Wagner makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "8:28.0",
+      "N. Powell makes 2-pt jump shot from 19 ft (assist by B. Adebayo)",
+      "+2",
+      "63-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "63-65",
+      "",
+      "Personal foul by N. Powell (drawn by J. Suggs)"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "63-65",
+      "",
+      "Shooting foul by D. Mitchell (drawn by P. Banchero)"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "63-66",
+      "+1",
+      "P. Banchero makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "63-67",
+      "+1",
+      "P. Banchero makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "7:51.0",
+      "Shooting foul by F. Wagner (drawn by A. Wiggins)",
+      "",
+      "63-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "7:51.0",
+      "A. Wiggins makes free throw 1 of 2",
+      "+1",
+      "64-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "64-67",
+      "",
+      "A. Black enters the game for P. Banchero"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "7:51.0",
+      "A. Wiggins misses free throw 2 of 2",
+      "",
+      "64-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "7:49.0",
+      "",
+      "",
+      "64-67",
+      "",
+      "Defensive rebound by W. Carter"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "64-69",
+      "+2",
+      "J. Suggs makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "7:15.0",
+      "B. Adebayo makes 3-pt jump shot from 26 ft (assist by D. Mitchell)",
+      "+3",
+      "67-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "67-72",
+      "+3",
+      "J. Suggs makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "6:43.0",
+      "B. Adebayo misses 2-pt jump shot from 15 ft",
+      "",
+      "67-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "6:42.0",
+      "Offensive rebound by K. Ware",
+      "",
+      "67-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "6:40.0",
+      "Turnover by B. Adebayo (lost ball; steal by A. Black)",
+      "",
+      "67-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "67-72",
+      "",
+      "A. Black misses 2-pt layup from 2 ft (block by N. Powell)"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "6:38.0",
+      "Defensive rebound by Team",
+      "",
+      "67-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "67-72",
+      "",
+      "Orlando full timeout"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "67-72",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "6:38.0",
+      "J. Jaquez enters the game for K. Ware",
+      "",
+      "67-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "67-72",
+      "",
+      "T. Da Silva enters the game for D. Bane"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "6:23.0",
+      "B. Adebayo makes 2-pt jump shot from 15 ft",
+      "+2",
+      "69-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "6:23.0",
+      "Shooting foul by W. Carter (drawn by B. Adebayo)",
+      "",
+      "69-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "6:23.0",
+      "B. Adebayo makes free throw 1 of 1",
+      "+1",
+      "70-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "70-72",
+      "",
+      "J. Suggs misses 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "6:11.0",
+      "Defensive rebound by A. Wiggins",
+      "",
+      "70-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "6:00.0",
+      "A. Wiggins misses 2-pt jump shot from 15 ft",
+      "",
+      "70-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "70-72",
+      "",
+      "Defensive rebound by T. Da Silva"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "70-72",
+      "",
+      "J. Suggs misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "5:49.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "70-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "5:40.0",
+      "D. Mitchell makes 2-pt layup from 1 ft (assist by N. Powell)",
+      "+2",
+      "72-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "72-74",
+      "+2",
+      "J. Suggs makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "5:16.0",
+      "D. Mitchell misses 2-pt layup from 2 ft",
+      "",
+      "72-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "72-74",
+      "",
+      "Defensive rebound by T. Da Silva"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "72-74",
+      "",
+      "J. Suggs misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "5:08.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "72-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "5:04.0",
+      "Turnover by B. Adebayo (bad pass)",
+      "",
+      "72-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "5:04.0",
+      "P. Larsson enters the game for A. Wiggins",
+      "",
+      "72-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "72-74",
+      "",
+      "G. Bitadze enters the game for W. Carter"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "72-74",
+      "",
+      "Technical foul by J. Mosley"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "5:04.0",
+      "N. Powell makes technical free throw",
+      "+1",
+      "73-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "73-74",
+      "",
+      "Personal foul by P. Larsson (drawn by G. Bitadze)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "73-76",
+      "+2",
+      "F. Wagner makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "4:32.0",
+      "Shooting foul by G. Bitadze (drawn by B. Adebayo)",
+      "",
+      "73-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "4:32.0",
+      "D. Smith enters the game for D. Mitchell",
+      "",
+      "73-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "4:32.0",
+      "B. Adebayo misses free throw 1 of 2",
+      "",
+      "73-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "4:32.0",
+      "Offensive rebound by Team",
+      "",
+      "73-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "4:32.0",
+      "B. Adebayo makes free throw 2 of 2",
+      "+1",
+      "74-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "4:25.0",
+      "",
+      "",
+      "74-76",
+      "",
+      "J. Suggs misses 2-pt jump shot from 4 ft (block by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "74-76",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:24.0",
+      "K. Ware enters the game for B. Adebayo",
+      "",
+      "74-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "74-79",
+      "+3",
+      "F. Wagner makes 3-pt jump shot from 29 ft (assist by A. Black)"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:00.0",
+      "P. Larsson misses 2-pt layup from 9 ft",
+      "",
+      "74-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "74-79",
+      "",
+      "Defensive rebound by A. Black"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "74-81",
+      "+2",
+      "J. Suggs makes 2-pt dunk from 3 ft (assist by A. Black)"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "3:36.0",
+      "N. Powell misses 2-pt jump shot from 20 ft",
+      "",
+      "74-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "74-81",
+      "",
+      "Defensive rebound by J. Suggs"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "74-81",
+      "",
+      "F. Wagner misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "3:24.0",
+      "Defensive rebound by N. Powell",
+      "",
+      "74-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "3:21.0",
+      "J. Jaquez makes 2-pt layup from 1 ft (assist by N. Powell)",
+      "+2",
+      "76-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "76-81",
+      "",
+      "A. Black misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "3:05.0",
+      "Defensive rebound by Team",
+      "",
+      "76-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "3:05.0",
+      "S. Fontecchio enters the game for N. Powell",
+      "",
+      "76-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "2:49.0",
+      "J. Jaquez misses 2-pt jump shot from 8 ft",
+      "",
+      "76-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "2:47.0",
+      "",
+      "",
+      "76-81",
+      "",
+      "Defensive rebound by G. Bitadze"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "76-81",
+      "",
+      "A. Black misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:38.0",
+      "Defensive rebound by K. Ware",
+      "",
+      "76-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "2:28.0",
+      "J. Jaquez misses 2-pt jump shot from 13 ft",
+      "",
+      "76-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "2:26.0",
+      "",
+      "",
+      "76-81",
+      "",
+      "Defensive rebound by F. Wagner"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "76-84",
+      "+3",
+      "F. Wagner makes 3-pt jump shot from 26 ft (assist by A. Black)"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "2:06.0",
+      "Shooting foul by J. Suggs (drawn by D. Smith)",
+      "",
+      "76-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "2:06.0",
+      "Miami full timeout",
+      "",
+      "76-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "2:06.0",
+      "B. Adebayo enters the game for K. Ware",
+      "",
+      "76-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "76-84",
+      "",
+      "P. Banchero enters the game for T. Da Silva"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "76-84",
+      "",
+      "D. Bane enters the game for J. Suggs"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "76-84",
+      "",
+      "T. Jones enters the game for F. Wagner"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "2:06.0",
+      "D. Smith makes free throw 1 of 2",
+      "+1",
+      "77-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "2:06.0",
+      "D. Smith makes free throw 2 of 2",
+      "+1",
+      "78-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "78-84",
+      "",
+      "Shooting foul by P. Larsson (drawn by A. Black)"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "78-84",
+      "",
+      "A. Black misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "78-84",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "78-84",
+      "",
+      "A. Black misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "1:49.0",
+      "Defensive rebound by S. Fontecchio",
+      "",
+      "78-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:42.0",
+      "J. Jaquez misses 2-pt layup from 6 ft",
+      "",
+      "78-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "78-84",
+      "",
+      "Defensive rebound by G. Bitadze"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "1:35.0",
+      "",
+      "",
+      "78-84",
+      "",
+      "Turnover by D. Bane (bad pass; steal by B. Adebayo)"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:18.0",
+      "Turnover by B. Adebayo (lost ball; steal by A. Black)",
+      "",
+      "78-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "78-86",
+      "+2",
+      "A. Black makes 2-pt dunk from 2 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "1:05.0",
+      "P. Larsson misses 2-pt jump shot from 9 ft",
+      "",
+      "78-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "1:04.0",
+      "Offensive rebound by B. Adebayo",
+      "",
+      "78-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "1:04.0",
+      "Shooting foul by G. Bitadze (drawn by B. Adebayo)",
+      "",
+      "78-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "1:04.0",
+      "B. Adebayo makes free throw 1 of 2",
+      "+1",
+      "79-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "1:04.0",
+      "B. Adebayo misses free throw 2 of 2",
+      "",
+      "79-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "79-86",
+      "",
+      "Defensive rebound by P. Banchero"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "79-86",
+      "",
+      "Personal foul by D. Smith (drawn by A. Black)"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "79-87",
+      "+1",
+      "A. Black makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "A. Black misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "Offensive rebound by P. Banchero"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:42.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "D. Bane misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:40.0",
+      "Defensive rebound by J. Jaquez",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:34.0",
+      "D. Smith misses 3-pt jump shot from 26 ft",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "Defensive rebound by A. Black"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "D. Bane misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "0:07.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "Time",
+      "Miami",
+      "",
+      "Score",
+      "",
+      "Orlando"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "11:42.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "D. Bane misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "Offensive rebound by G. Bitadze"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "T. Da Silva misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "11:15.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "11:09.0",
+      "S. Fontecchio misses 2-pt hook shot from 6 ft",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "Defensive rebound by G. Bitadze"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "D. Bane misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "10:50.0",
+      "Defensive rebound by D. Smith",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "10:46.0",
+      "Turnover by S. Fontecchio (traveling)",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "D. Bane misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "Offensive rebound by G. Bitadze"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "G. Bitadze misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "10:28.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "10:15.0",
+      "S. Fontecchio makes 3-pt jump shot from 24 ft (assist by A. Wiggins)",
+      "+3",
+      "82-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "9:52.0",
+      "",
+      "",
+      "82-89",
+      "+2",
+      "T. Jones makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "9:45.0",
+      "Turnover by J. Jaquez (traveling)",
+      "",
+      "82-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "9:45.0",
+      "D. Mitchell enters the game for D. Smith",
+      "",
+      "82-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "82-92",
+      "+3",
+      "D. Bane makes 3-pt jump shot from 24 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:18.0",
+      "Personal foul by G. Bitadze (drawn by B. Adebayo)",
+      "",
+      "82-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "82-92",
+      "",
+      "W. Carter enters the game for G. Bitadze"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "9:03.0",
+      "J. Jaquez makes 2-pt layup from 3 ft",
+      "+2",
+      "84-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "84-92",
+      "",
+      "D. Bane misses 2-pt layup from 4 ft (block by A. Wiggins)"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:41.0",
+      "Defensive rebound by S. Fontecchio",
+      "",
+      "84-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "8:36.0",
+      "J. Jaquez makes 2-pt layup from 2 ft",
+      "+2",
+      "86-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "8:21.0",
+      "",
+      "",
+      "86-92",
+      "",
+      "Personal foul by S. Fontecchio (drawn by T. Da Silva)"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "8:21.0",
+      "",
+      "",
+      "86-92",
+      "",
+      "F. Wagner enters the game for D. Bane"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "86-92",
+      "",
+      "F. Wagner misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "8:07.0",
+      "Defensive rebound by D. Mitchell",
+      "",
+      "86-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "7:53.0",
+      "J. Jaquez misses 2-pt hook shot from 9 ft",
+      "",
+      "86-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "86-92",
+      "",
+      "Defensive rebound by F. Wagner"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "86-92",
+      "",
+      "Shooting foul by B. Adebayo (drawn by A. Black)"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "86-93",
+      "+1",
+      "A. Black makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "7:33.0",
+      "P. Larsson enters the game for S. Fontecchio",
+      "",
+      "86-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "7:33.0",
+      "N. Powell enters the game for J. Jaquez",
+      "",
+      "86-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "86-94",
+      "+1",
+      "A. Black makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:24.0",
+      "D. Mitchell makes 2-pt layup from 4 ft",
+      "+2",
+      "88-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "88-94",
+      "",
+      "Shooting foul by D. Mitchell (drawn by W. Carter)"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "7:09.0",
+      "Violation by Team (delay of game)",
+      "",
+      "88-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "88-95",
+      "+1",
+      "W. Carter makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "88-95",
+      "",
+      "W. Carter misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:06.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "88-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "6:52.0",
+      "A. Wiggins makes 2-pt dunk from 2 ft",
+      "+2",
+      "90-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "90-98",
+      "+3",
+      "F. Wagner makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "6:18.0",
+      "Shooting foul by A. Black (drawn by N. Powell)",
+      "",
+      "90-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "90-98",
+      "",
+      "Orlando full timeout"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "90-98",
+      "",
+      "J. Suggs enters the game for T. Jones"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "6:18.0",
+      "N. Powell misses free throw 1 of 2",
+      "",
+      "90-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "6:18.0",
+      "Offensive rebound by Team",
+      "",
+      "90-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "6:18.0",
+      "N. Powell misses free throw 2 of 2",
+      "",
+      "90-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "90-98",
+      "",
+      "Defensive rebound by A. Black"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "90-98",
+      "",
+      "A. Black misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "5:53.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "90-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "5:41.0",
+      "A. Wiggins makes 2-pt jump shot from 14 ft",
+      "+2",
+      "92-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "92-98",
+      "",
+      "F. Wagner misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "5:26.0",
+      "Defensive rebound by A. Wiggins",
+      "",
+      "92-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "5:20.0",
+      "N. Powell makes 3-pt jump shot from 24 ft (assist by P. Larsson)",
+      "+3",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "T. Da Silva misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "4:55.0",
+      "Loose ball foul by D. Mitchell (drawn by W. Carter)",
+      "",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "4:55.0",
+      "J. Jaquez enters the game for P. Larsson",
+      "",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "D. Bane enters the game for A. Black"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "F. Wagner misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Offensive rebound by T. Da Silva"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "4:30.0",
+      "",
+      "",
+      "95-100",
+      "+2",
+      "F. Wagner makes 2-pt layup at rim (assist by D. Bane)"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "4:30.0",
+      "Miami full timeout",
+      "",
+      "95-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "4:14.0",
+      "Personal foul by D. Bane (drawn by N. Powell)",
+      "",
+      "95-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "4:00.0",
+      "A. Wiggins misses 2-pt jump shot from 14 ft",
+      "",
+      "95-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "95-100",
+      "",
+      "Defensive rebound by T. Da Silva"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "95-102",
+      "+2",
+      "F. Wagner makes 2-pt dunk from 3 ft (assist by J. Suggs)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "3:29.0",
+      "N. Powell makes 2-pt jump shot from 6 ft",
+      "+2",
+      "97-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "97-102",
+      "",
+      "J. Suggs misses 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "3:03.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "97-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "3:01.0",
+      "Miami full timeout",
+      "",
+      "97-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "97-102",
+      "",
+      "P. Banchero enters the game for T. Da Silva"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "2:54.0",
+      "N. Powell misses 3-pt jump shot from 26 ft",
+      "",
+      "97-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "97-102",
+      "",
+      "Defensive rebound by P. Banchero"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "97-104",
+      "+2",
+      "F. Wagner makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "2:25.0",
+      "J. Jaquez makes 2-pt jump shot from 11 ft (assist by D. Mitchell)",
+      "+2",
+      "99-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "2:02.0",
+      "",
+      "",
+      "99-104",
+      "",
+      "D. Bane misses 2-pt layup from 9 ft"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "2:00.0",
+      "Defensive rebound by A. Wiggins",
+      "",
+      "99-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "1:57.0",
+      "J. Jaquez makes 2-pt layup from 1 ft (assist by D. Mitchell)",
+      "+2",
+      "101-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "1:35.0",
+      "",
+      "",
+      "101-106",
+      "+2",
+      "J. Suggs makes 2-pt layup from 3 ft (assist by F. Wagner)"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "1:26.0",
+      "N. Powell makes 2-pt layup from 2 ft (assist by B. Adebayo)",
+      "+2",
+      "103-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "103-106",
+      "",
+      "F. Wagner misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "1:03.0",
+      "Defensive rebound by Team",
+      "",
+      "103-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:50.0",
+      "N. Powell makes 2-pt layup from 2 ft",
+      "+2",
+      "105-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "105-106",
+      "",
+      "P. Banchero misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "105-106",
+      "",
+      "Offensive rebound by W. Carter"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "105-106",
+      "",
+      "W. Carter misses 2-pt layup from 3 ft (block by J. Jaquez)"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "105-106",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "105-106",
+      "",
+      "D. Bane misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "0:25.0",
+      "Defensive rebound by B. Adebayo",
+      "",
+      "105-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "0:05.0",
+      "N. Powell misses 2-pt jump shot from 14 ft",
+      "",
+      "105-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "0:05.0",
+      "Offensive rebound by Team",
+      "",
+      "105-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:05.0",
+      "Miami full timeout",
+      "",
+      "105-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "0:05.0",
+      "Miami full timeout",
+      "",
+      "105-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "0:03.0",
+      "Personal foul by W. Carter (drawn by B. Adebayo)",
+      "",
+      "105-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "0:00.0",
+      "B. Adebayo misses 3-pt jump shot from 25 ft",
+      "",
+      "105-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "105-106",
+      "",
+      ""
+    ]
+  }
+]

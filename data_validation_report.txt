@@ -1,0 +1,43 @@
+
+NBA 数据库验证报告
+==================
+生成时间: 2026-05-10 14:52:19
+
+📊 数据表统计:
+----------------------------------------
+roster: 18 条记录
+player_season_stats: 20 条记录
+player_stats_per36: 16 条记录
+player_stats_per100: 16 条记录
+player_advanced_stats: 16 条记录
+player_salaries: 14 条记录
+team_stats: 2 条记录
+rockets_roster: 17 条记录
+injury_report: 2 条记录
+coaching_staff: 7 条记录
+rockets_team_stats: 2 条记录
+rockets_advanced: 1 条记录
+games: 4 条记录
+players: 20 条记录
+player_stats: 10 条记录
+league_leaderboards: 75 条记录
+playoff_stats: 13 条记录
+playoff_per_game: 13 条记录
+spurs_playoff_pbp: 15 条记录
+spurs_playoff_per100: 15 条记录
+spurs_team_info: 2 条记录
+spurs_full_roster: 21 条记录
+spurs_coaching_staff: 3 条记录
+spurs_team_opponent_stats: 2 条记录
+
+📈 总计: 324 条记录
+
+🔍 验证结果:
+----------------------------------------
+✓ 所有数据表已创建
+✓ 索引已创建
+✓ 数据库已备份
+
+📁 文件位置:
+  - 数据库: nba_data.db
+  - 备份: backups\nba_data_backup_20260510_145219.sql

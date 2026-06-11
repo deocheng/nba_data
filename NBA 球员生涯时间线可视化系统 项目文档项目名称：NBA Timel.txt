@@ -1,0 +1,65 @@
+NBA 球员生涯时间线可视化系统 项目文档项目名称：NBA Timeline Explorer
+目标：构建一个具有空间感和层次感的现代化数据可视化平台，以时间轴为核心，展示球员/球队生涯数据，支持深度交互分析。一、项目当前完成情况（截至 2025.06）1. 数据库设计与数据采集核心表结构 已完成并优化：teams, players, games
+player_game_stats（包含基础 + Advanced Box Score）
+play_by_play（逐球数据表，结构已准备）
+
+爬虫系统 已开发完成：Game Log 爬虫（支持 Basic + Advanced 数据，带缓存、重试、进度保存）
+Play-by-Play 爬虫（基础框架已完成）
+
+数据来源：Basketball-Reference（稳定、可扩展）
+
+2. 前端可视化框架UI 风格 已确定：高级现代数据风格（白色背景 + 蓝色时间轴，干净专业且有科技感）
+核心交互流程 已设计完成：主时间线（果实节点）
+点击 Zoom In 进入比赛详情层
+平行球员轨道图
+底部导航系统（前一场 / 后一场 / 当日其他比赛 / 球队下一场）
+
+3. 已完成的前端组件PlayerParallelTracks（球员平行轨道图）—— 已优化
+GameDetailView（比赛详情层，带动画）—— 已完成
+GameFruit（时间线果实节点）—— 基础版完成
+Zustand Store（timelineStore）—— 已完成
+
+二、后续工作计划（优先级排序）Phase 1：核心功能完善（优先，建议 1-2 周内完成）时间轴主视图（TimelineView）横向可缩放滚动时间轴
+果实节点 Hover + 点击效果
+时间筛选（赛季、月份、球队）
+
+PBP Section（逐球数据面板）列表展示 + 按节过滤
+事件高亮（投篮、助攻、失误等）
+与平行轨道联动（hover 事件时高亮对应球员）
+
+数据 API 层创建后端接口（Next.js API Routes 或 FastAPI）
+/api/games, /api/games/[id]/details, /api/players/[id]/timeline
+
+Store 增强添加过滤状态（球队、赛季、胜负）
+搜索功能
+
+Phase 2：高级功能（2-4 周）球员生涯多赛季对比视图
+阵容变化可视化（轨道颜色随时间变化）
+热力图 / Shot Chart 集成（在详情页）
+性能优化（虚拟列表、懒加载）
+响应式适配（移动端支持）
+
+Phase 3：打磨与扩展主题切换（深色模式）
+导出功能（PDF / CSV）
+用户收藏 / 对比功能
+部署（Vercel + Supabase / PostgreSQL）
+性能监控与错误收集
+
+三、技术栈总结后端 / 数据：PostgreSQL + SQLAlchemy
+Python 爬虫系统（已高度模块化）
+
+前端：Next.js 14 (App Router) + TypeScript
+Next.js 14（应用路由器）+ TypeScript
+Tailwind CSS
+尾随 CSS
+Framer Motion（动画）
+帧动效果（动画）
+Zustand（状态管理）
+react-three-fiber（可选，轻量粒子效果）
+
+四、当前优先任务建议本周重点目标：完成 TimelineView + GameFruit
+游戏果实（主时间线）
+完善 PBPSection 并接入真实数据
+打通从时间线点击 → 详情页 → 返回 的完整流程
+优化数据加载逻辑（避免卡顿）
+

@@ -1,0 +1,4809 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Milwaukee"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "0-2",
+      "+2",
+      "K. Kuzma makes 2-pt layup at rim (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:25.0",
+      "P. Pritchard makes 3-pt jump shot from 23 ft (assist by D. White)",
+      "+3",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "Turnover by R. Rollins (bad pass; steal by J. Walsh)"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "10:59.0",
+      "J. Brown makes 2-pt dunk from 2 ft (assist by P. Pritchard)",
+      "+2",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "10:47.0",
+      "",
+      "",
+      "5-2",
+      "",
+      "Turnover by K. Porter (lost ball; steal by J. Walsh)"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:40.0",
+      "Turnover by J. Walsh (lost ball; steal by R. Rollins)",
+      "",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "5-4",
+      "+2",
+      "G. Trent makes 2-pt jump shot from 16 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:17.0",
+      "D. White misses 2-pt jump shot from 18 ft",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:10.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:10.0",
+      "N. Queta misses 2-pt dunk at rim",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:10.0",
+      "",
+      "",
+      "5-4",
+      "",
+      "Defensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "5-4",
+      "",
+      "R. Rollins misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:04.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:59.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "5-4",
+      "",
+      "Defensive rebound by K. Kuzma"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "5-4",
+      "",
+      "Shooting foul by N. Queta (drawn by K. Kuzma)"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "5-5",
+      "+1",
+      "K. Kuzma makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:51.0",
+      "J. Minott enters the game for N. Queta",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "5-6",
+      "+1",
+      "K. Kuzma makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:38.0",
+      "Shooting foul by R. Rollins (drawn by J. Brown)",
+      "",
+      "5-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:38.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "6-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:38.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "7-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "Turnover by K. Porter (bad pass)"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:19.0",
+      "Personal foul by K. Porter (drawn by D. White)",
+      "",
+      "7-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:58.0",
+      "J. Walsh makes 2-pt jump shot from 14 ft",
+      "+2",
+      "9-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "9-6",
+      "",
+      "G. Trent misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:36.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "9-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:32.0",
+      "J. Minott makes 3-pt jump shot from 27 ft (assist by P. Pritchard)",
+      "+3",
+      "12-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:32.0",
+      "",
+      "",
+      "12-6",
+      "",
+      "Milwaukee full timeout"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "12-6",
+      "",
+      "K. Porter misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "12-6",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:11.0",
+      "Loose ball foul by J. Minott (drawn by K. Kuzma)",
+      "",
+      "12-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "12-6",
+      "",
+      "M. Turner misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "12-6",
+      "",
+      "Offensive rebound by G. Trent"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "12-6",
+      "",
+      "G. Trent misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:55.0",
+      "Defensive rebound by D. White",
+      "",
+      "12-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:51.0",
+      "P. Pritchard makes 3-pt jump shot from 28 ft",
+      "+3",
+      "15-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "15-6",
+      "",
+      "Turnover by R. Rollins (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:24.0",
+      "J. Walsh makes 3-pt jump shot from 27 ft (assist by P. Pritchard)",
+      "+3",
+      "18-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "18-6",
+      "",
+      "K. Kuzma misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:08.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "18-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:07.0",
+      "P. Pritchard misses 2-pt layup from 6 ft (block by M. Turner)",
+      "",
+      "18-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:07.0",
+      "",
+      "",
+      "18-6",
+      "",
+      "Defensive rebound by R. Rollins"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "18-6",
+      "",
+      "K. Porter misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "18-6",
+      "",
+      "Offensive rebound by M. Turner"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "18-8",
+      "+2",
+      "M. Turner makes 2-pt layup from 11 ft"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:36.0",
+      "J. Walsh makes 3-pt jump shot from 23 ft (assist by J. Brown)",
+      "+3",
+      "21-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "21-8",
+      "",
+      "Personal foul by D. White (drawn by K. Kuzma)"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:29.0",
+      "S. Hauser enters the game for D. White",
+      "",
+      "21-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:14.0",
+      "",
+      "",
+      "21-8",
+      "",
+      "M. Turner misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:10.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "21-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:04.0",
+      "S. Hauser misses 3-pt jump shot from 27 ft",
+      "",
+      "21-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "21-8",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "21-8",
+      "",
+      "G. Harris enters the game for K. Porter"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "21-11",
+      "+3",
+      "G. Trent makes 3-pt jump shot from 24 ft (assist by R. Rollins)"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:36.0",
+      "Turnover by J. Brown (bad pass)",
+      "",
+      "21-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:36.0",
+      "B. Scheierman enters the game for J. Walsh",
+      "",
+      "21-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "21-13",
+      "+2",
+      "G. Trent makes 2-pt jump shot from 5 ft (assist by R. Rollins)"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:05.0",
+      "S. Hauser misses 3-pt jump shot from 29 ft",
+      "",
+      "21-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "21-13",
+      "",
+      "Defensive rebound by K. Kuzma"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "21-13",
+      "",
+      "R. Rollins misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:54.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "21-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:54.0",
+      "Boston full timeout",
+      "",
+      "21-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "21-13",
+      "",
+      "B. Portis enters the game for K. Kuzma"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:29.0",
+      "P. Pritchard makes 2-pt jump shot from 14 ft (assist by J. Brown)",
+      "+2",
+      "23-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:15.0",
+      "",
+      "",
+      "23-13",
+      "",
+      "M. Turner misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "23-13",
+      "",
+      "Offensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:08.0",
+      "",
+      "",
+      "23-15",
+      "+2",
+      "B. Portis makes 2-pt hook shot from 8 ft"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:58.0",
+      "J. Brown makes 2-pt jump shot from 17 ft (assist by P. Pritchard)",
+      "+2",
+      "25-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:42.0",
+      "",
+      "",
+      "25-18",
+      "+3",
+      "B. Portis makes 3-pt jump shot from 26 ft (assist by R. Rollins)"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:16.0",
+      "Turnover by J. Brown (lost ball; steal by B. Portis)",
+      "",
+      "25-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "25-20",
+      "+2",
+      "R. Rollins makes 2-pt layup from 1 ft (assist by G. Trent)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:56.0",
+      "J. Minott misses 3-pt jump shot from 26 ft",
+      "",
+      "25-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "25-20",
+      "",
+      "Defensive rebound by R. Rollins"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "25-22",
+      "+2",
+      "B. Portis makes 2-pt hook shot from 1 ft (assist by R. Rollins)"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:46.0",
+      "Boston full timeout",
+      "",
+      "25-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:46.0",
+      "N. Queta enters the game for J. Minott",
+      "",
+      "25-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:46.0",
+      "A. Simons enters the game for P. Pritchard",
+      "",
+      "25-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:46.0",
+      "D. White enters the game for B. Scheierman",
+      "",
+      "25-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "25-22",
+      "",
+      "K. Porter enters the game for R. Rollins"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "25-22",
+      "",
+      "J. Sims enters the game for M. Turner"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:31.0",
+      "D. White makes 3-pt jump shot from 27 ft",
+      "+3",
+      "28-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "28-22",
+      "",
+      "G. Harris misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:13.0",
+      "",
+      "",
+      "28-22",
+      "",
+      "Offensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "28-25",
+      "+3",
+      "G. Trent makes 3-pt jump shot from 25 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:47.0",
+      "D. White misses 2-pt jump shot from 16 ft",
+      "",
+      "28-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "28-25",
+      "",
+      "Defensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "28-27",
+      "+2",
+      "B. Portis makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:07.0",
+      "J. Brown makes 2-pt jump shot from 8 ft",
+      "+2",
+      "30-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "30-27",
+      "",
+      "Violation by Team (def goaltending)"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "30-29",
+      "+2",
+      "K. Porter makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:35.0",
+      "J. Brown makes 3-pt jump shot from 28 ft",
+      "+3",
+      "33-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:21.0",
+      "",
+      "",
+      "33-29",
+      "",
+      "Offensive foul by G. Harris (drawn by D. White)"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:21.0",
+      "",
+      "",
+      "33-29",
+      "",
+      "Turnover by G. Harris (offensive foul)"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:00.0",
+      "J. Brown makes 2-pt jump shot from 18 ft",
+      "+2",
+      "35-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Milwaukee"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "11:42.0",
+      "Shooting foul by J. Sims (drawn by N. Queta)",
+      "",
+      "35-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "11:42.0",
+      "N. Queta makes free throw 1 of 2",
+      "+1",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "11:42.0",
+      "N. Queta misses free throw 2 of 2",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "11:38.0",
+      "",
+      "",
+      "36-29",
+      "",
+      "Defensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "36-29",
+      "",
+      "Turnover by J. Sims (lost ball; steal by H. González Peña)"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "11:21.0",
+      "Turnover by D. White (bad pass; steal by R. Rollins)",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "11:15.0",
+      "",
+      "",
+      "36-29",
+      "",
+      "Turnover by J. Sims (bad pass; steal by A. Simons)"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "11:10.0",
+      "A. Simons misses 2-pt layup from 3 ft",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "36-29",
+      "",
+      "Defensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "36-29",
+      "",
+      "J. Sims misses 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "11:05.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "11:00.0",
+      "J. Walsh makes 2-pt layup from 2 ft",
+      "+2",
+      "38-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "10:44.0",
+      "",
+      "",
+      "38-32",
+      "+3",
+      "K. Porter makes 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "10:28.0",
+      "D. White makes 3-pt jump shot from 26 ft",
+      "+3",
+      "41-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "10:10.0",
+      "",
+      "",
+      "41-34",
+      "+2",
+      "K. Porter makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "9:50.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "41-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "9:49.0",
+      "Offensive rebound by H. González Peña",
+      "",
+      "41-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "9:49.0",
+      "H. González Peña misses 2-pt layup at rim",
+      "",
+      "41-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "9:49.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "41-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "9:49.0",
+      "J. Walsh makes 2-pt layup at rim",
+      "+2",
+      "43-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "9:49.0",
+      "Shooting foul by K. Porter (drawn by J. Walsh)",
+      "",
+      "43-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "43-34",
+      "",
+      "K. Kuzma enters the game for J. Sims"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "9:49.0",
+      "J. Walsh makes free throw 1 of 1",
+      "+1",
+      "44-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "9:34.0",
+      "",
+      "",
+      "44-34",
+      "",
+      "R. Rollins misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "9:30.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "44-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "9:14.0",
+      "D. White misses 3-pt jump shot from 26 ft",
+      "",
+      "44-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "44-34",
+      "",
+      "Defensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "9:01.0",
+      "",
+      "",
+      "44-34",
+      "",
+      "R. Rollins misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "8:58.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "44-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "8:40.0",
+      "N. Queta makes 2-pt layup from 1 ft (assist by A. Simons)",
+      "+2",
+      "46-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "8:28.0",
+      "",
+      "",
+      "46-34",
+      "",
+      "K. Porter misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "8:25.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "46-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "8:18.0",
+      "Turnover by D. White (out of bounds lost ball)",
+      "",
+      "46-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "46-36",
+      "+2",
+      "K. Kuzma makes 2-pt layup from 1 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "7:42.0",
+      "A. Simons makes 3-pt jump shot from 25 ft (assist by D. White)",
+      "+3",
+      "49-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "49-38",
+      "+2",
+      "K. Kuzma makes 2-pt layup from 1 ft (assist by R. Rollins)"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "7:10.0",
+      "A. Simons misses 3-pt jump shot from 27 ft",
+      "",
+      "49-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "7:08.0",
+      "Offensive rebound by D. White",
+      "",
+      "49-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "7:08.0",
+      "Personal foul by R. Rollins (drawn by D. White)",
+      "",
+      "49-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "7:08.0",
+      "J. Minott enters the game for N. Queta",
+      "",
+      "49-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "7:08.0",
+      "P. Pritchard enters the game for D. White",
+      "",
+      "49-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "49-38",
+      "",
+      "M. Turner enters the game for G. Harris"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "6:57.0",
+      "P. Pritchard makes 3-pt jump shot from 25 ft (assist by H. González Peña)",
+      "+3",
+      "52-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "52-38",
+      "",
+      "R. Rollins misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "6:38.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "52-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "6:31.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "52-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "52-38",
+      "",
+      "Defensive rebound by K. Kuzma"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "6:23.0",
+      "",
+      "",
+      "52-38",
+      "",
+      "Turnover by K. Kuzma (lost ball; steal by J. Walsh)"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "6:18.0",
+      "H. González Peña misses 3-pt jump shot from 26 ft",
+      "",
+      "52-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "52-38",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "52-38",
+      "",
+      "Milwaukee full timeout"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "6:16.0",
+      "J. Brown enters the game for J. Walsh",
+      "",
+      "52-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "52-38",
+      "",
+      "G. Trent enters the game for B. Portis"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "52-40",
+      "+2",
+      "K. Porter makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "52-40",
+      "",
+      "Shooting foul by J. Minott (drawn by K. Porter)"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "52-41",
+      "+1",
+      "K. Porter makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "5:42.0",
+      "Personal foul by M. Turner (drawn by J. Brown)",
+      "",
+      "52-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "5:29.0",
+      "H. González Peña makes 2-pt layup from 1 ft (assist by J. Minott)",
+      "+2",
+      "54-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "54-43",
+      "+2",
+      "R. Rollins makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "4:58.0",
+      "J. Minott misses 2-pt layup from 2 ft (block by M. Turner)",
+      "",
+      "54-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "54-43",
+      "",
+      "Defensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "54-43",
+      "",
+      "Shooting foul by J. Brown (drawn by K. Kuzma)"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "54-44",
+      "+1",
+      "K. Kuzma makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "4:54.0",
+      "J. Walsh enters the game for J. Minott",
+      "",
+      "54-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "54-45",
+      "+1",
+      "K. Kuzma makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "4:48.0",
+      "Personal foul by K. Kuzma (drawn by J. Brown)",
+      "",
+      "54-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "4:48.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "55-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "4:48.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "56-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "56-47",
+      "+2",
+      "K. Kuzma makes 2-pt jump shot from 12 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "4:27.0",
+      "Shooting foul by K. Porter (drawn by J. Brown)",
+      "",
+      "56-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "4:27.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "57-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "4:27.0",
+      "N. Queta enters the game for A. Simons",
+      "",
+      "57-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "4:27.0",
+      "J. Brown misses free throw 2 of 2",
+      "",
+      "57-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "4:24.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "57-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "4:24.0",
+      "Shooting foul by M. Turner (drawn by N. Queta)",
+      "",
+      "57-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "4:24.0",
+      "N. Queta misses free throw 1 of 2",
+      "",
+      "57-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "4:24.0",
+      "Offensive rebound by Team",
+      "",
+      "57-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "57-47",
+      "",
+      "G. Harris enters the game for K. Porter"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "4:24.0",
+      "N. Queta makes free throw 2 of 2",
+      "+1",
+      "58-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "58-47",
+      "",
+      "K. Kuzma misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "58-47",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "4:09.0",
+      "Loose ball foul by P. Pritchard (drawn by M. Turner)",
+      "",
+      "58-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "58-49",
+      "+2",
+      "K. Kuzma makes 2-pt jump shot from 20 ft (assist by R. Rollins)"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "3:45.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "58-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "58-49",
+      "",
+      "Defensive rebound by G. Harris"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "58-51",
+      "+2",
+      "K. Kuzma makes 2-pt layup from 3 ft (assist by G. Harris)"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "58-51",
+      "",
+      "Shooting foul by J. Brown (drawn by K. Kuzma)"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "3:41.0",
+      "D. White enters the game for H. González Peña",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "58-51",
+      "",
+      "K. Kuzma misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "3:41.0",
+      "Defensive rebound by Team",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "3:23.0",
+      "Offensive foul by J. Brown (drawn by K. Kuzma)",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "3:23.0",
+      "Turnover by J. Brown (offensive foul)",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "3:23.0",
+      "S. Hauser enters the game for J. Brown",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "58-54",
+      "+3",
+      "R. Rollins makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "2:49.0",
+      "Shooting foul by R. Rollins (drawn by D. White)",
+      "",
+      "58-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "2:49.0",
+      "Boston full timeout",
+      "",
+      "58-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "2:49.0",
+      "",
+      "",
+      "58-54",
+      "",
+      "C. Anthony enters the game for R. Rollins"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "2:49.0",
+      "D. White makes free throw 1 of 3",
+      "+1",
+      "59-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "2:49.0",
+      "D. White makes free throw 2 of 3",
+      "+1",
+      "60-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "2:49.0",
+      "D. White makes free throw 3 of 3",
+      "+1",
+      "61-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "61-54",
+      "",
+      "C. Anthony misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "61-54",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "2:27.0",
+      "Loose ball foul by J. Walsh (drawn by M. Turner)",
+      "",
+      "61-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "61-54",
+      "",
+      "M. Turner misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "61-54",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "61-55",
+      "+1",
+      "M. Turner makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:08.0",
+      "N. Queta misses 2-pt layup from 5 ft (block by K. Kuzma)",
+      "",
+      "61-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:07.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "61-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:07.0",
+      "J. Walsh makes 2-pt layup at rim",
+      "+2",
+      "63-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "63-55",
+      "",
+      "G. Trent misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "1:41.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "63-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "1:39.0",
+      "Personal foul by K. Kuzma (drawn by N. Queta)",
+      "",
+      "63-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "1:39.0",
+      "N. Queta makes free throw 1 of 2",
+      "+1",
+      "64-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:39.0",
+      "N. Queta misses free throw 2 of 2",
+      "",
+      "64-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:35.0",
+      "",
+      "",
+      "64-55",
+      "",
+      "Defensive rebound by M. Turner"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "64-55",
+      "",
+      "M. Turner misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "1:22.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "64-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "1:21.0",
+      "Turnover by N. Queta (traveling)",
+      "",
+      "64-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "64-57",
+      "+2",
+      "K. Kuzma makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:04.0",
+      "S. Hauser misses 3-pt jump shot from 23 ft",
+      "",
+      "64-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "64-57",
+      "",
+      "Defensive rebound by C. Anthony"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "64-60",
+      "+3",
+      "G. Trent makes 3-pt jump shot from 25 ft (assist by C. Anthony)"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "0:37.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "64-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "64-60",
+      "",
+      "Defensive rebound by M. Turner"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "64-60",
+      "",
+      "Turnover by K. Kuzma (bad pass)"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:01.0",
+      "J. Walsh makes 3-pt jump shot from 23 ft (assist by D. White)",
+      "+3",
+      "67-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "67-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Milwaukee"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "11:41.0",
+      "N. Queta makes 2-pt dunk from 1 ft (assist by J. Brown)",
+      "+2",
+      "69-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "Offensive foul by K. Kuzma (drawn by J. Walsh)"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "Turnover by K. Kuzma (offensive foul)"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "Milwaukee full timeout"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "R. Rollins enters the game for C. Anthony"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "11:05.0",
+      "J. Brown misses 2-pt jump shot from 18 ft",
+      "",
+      "69-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "11:02.0",
+      "Offensive rebound by P. Pritchard",
+      "",
+      "69-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "10:57.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "69-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "10:52.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "Defensive rebound by K. Kuzma"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "G. Trent misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "10:45.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "69-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "10:34.0",
+      "J. Brown makes 2-pt jump shot from 1 ft (assist by P. Pritchard)",
+      "+2",
+      "71-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "71-62",
+      "+2",
+      "K. Kuzma makes 2-pt hook shot from 1 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "10:02.0",
+      "J. Brown misses 2-pt jump shot from 15 ft",
+      "",
+      "71-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "71-62",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "71-62",
+      "",
+      "Shooting foul by J. Walsh (drawn by K. Porter)"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "71-63",
+      "+1",
+      "K. Porter makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "71-64",
+      "+1",
+      "K. Porter makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "9:34.0",
+      "Turnover by D. White (bad pass; steal by K. Porter)",
+      "",
+      "71-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "71-64",
+      "",
+      "R. Rollins misses 2-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "71-64",
+      "",
+      "Offensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "71-67",
+      "+3",
+      "K. Kuzma makes 3-pt jump shot from 23 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "8:58.0",
+      "Turnover by J. Brown (bad pass)",
+      "",
+      "71-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "71-69",
+      "+2",
+      "K. Kuzma makes 2-pt layup from 1 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "8:48.0",
+      "Boston full timeout",
+      "",
+      "71-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "8:29.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "71-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "8:26.0",
+      "Offensive rebound by J. Brown",
+      "",
+      "71-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "8:24.0",
+      "D. White misses 3-pt jump shot from 26 ft",
+      "",
+      "71-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "8:24.0",
+      "Offensive rebound by Team",
+      "",
+      "71-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "8:15.0",
+      "J. Walsh misses 2-pt layup from 4 ft",
+      "",
+      "71-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "71-69",
+      "",
+      "Defensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "71-71",
+      "+2",
+      "K. Kuzma makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "8:10.0",
+      "Violation by Team (def goaltending)",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "7:55.0",
+      "J. Brown misses 2-pt jump shot from 15 ft",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "7:53.0",
+      "Offensive rebound by Team",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "7:49.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "7:46.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "7:38.0",
+      "J. Walsh misses 3-pt jump shot from 27 ft",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "71-71",
+      "",
+      "Defensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "71-71",
+      "",
+      "Turnover by R. Rollins (bad pass)"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "7:24.0",
+      "J. Minott enters the game for P. Pritchard",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "7:24.0",
+      "A. Simons enters the game for N. Queta",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "7:09.0",
+      "Shooting foul by R. Rollins (drawn by J. Brown)",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "7:09.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "72-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "72-71",
+      "",
+      "G. Harris enters the game for R. Rollins"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "7:09.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "73-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "7:00.0",
+      "",
+      "",
+      "73-71",
+      "",
+      "Personal foul by J. Walsh (drawn by K. Porter)"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "73-73",
+      "+2",
+      "K. Kuzma makes 2-pt layup from 1 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "6:36.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "73-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "6:35.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "73-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "6:33.0",
+      "Turnover by D. White (traveling)",
+      "",
+      "73-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "73-73",
+      "",
+      "Shooting foul by J. Minott (drawn by K. Porter)"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "73-74",
+      "+1",
+      "K. Porter makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "73-75",
+      "+1",
+      "K. Porter makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "6:00.0",
+      "J. Brown makes 2-pt jump shot from 11 ft",
+      "+2",
+      "75-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "75-75",
+      "",
+      "M. Turner misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "5:35.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "75-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "5:35.0",
+      "Personal foul by K. Porter (drawn by J. Brown)",
+      "",
+      "75-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "75-75",
+      "",
+      "B. Portis enters the game for K. Kuzma"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "5:17.0",
+      "D. White misses 3-pt jump shot from 26 ft",
+      "",
+      "75-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "75-75",
+      "",
+      "Defensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "75-78",
+      "+3",
+      "B. Portis makes 3-pt jump shot from 23 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "4:45.0",
+      "J. Brown makes 2-pt jump shot from 14 ft",
+      "+2",
+      "77-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "77-80",
+      "+2",
+      "B. Portis makes 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "3:59.0",
+      "J. Brown misses 2-pt jump shot from 10 ft",
+      "",
+      "77-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "77-80",
+      "",
+      "Defensive rebound by K. Porter"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "77-82",
+      "+2",
+      "B. Portis makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "77-82",
+      "",
+      "Technical foul by B. Portis"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "3:34.0",
+      "J. Brown makes technical free throw",
+      "+1",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "3:34.0",
+      "S. Hauser enters the game for J. Walsh",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "C. Anthony enters the game for K. Porter"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "3:18.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "Defensive rebound by G. Harris"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "Personal foul by S. Hauser (drawn by B. Portis)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "3:09.0",
+      "P. Pritchard enters the game for D. White",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "B. Portis misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "3:00.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "2:52.0",
+      "Personal foul by C. Anthony (drawn by J. Brown)",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "2:46.0",
+      "Personal foul by G. Harris (drawn by J. Brown)",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "2:35.0",
+      "J. Brown misses 3-pt jump shot from 25 ft",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "Defensive rebound by G. Trent"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "Offensive foul by M. Turner (drawn by J. Minott)"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "Turnover by M. Turner (offensive foul)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "K. Kuzma enters the game for G. Trent"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "2:14.0",
+      "S. Hauser misses 3-pt jump shot from 27 ft",
+      "",
+      "78-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "Defensive rebound by K. Kuzma"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "78-82",
+      "",
+      "Personal foul by A. Simons (drawn by M. Turner)"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "78-83",
+      "+1",
+      "M. Turner makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "78-83",
+      "",
+      "M. Turner misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "2:00.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "78-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "1:43.0",
+      "Shooting foul by C. Anthony (drawn by J. Minott)",
+      "",
+      "78-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "1:43.0",
+      "J. Minott makes free throw 1 of 2",
+      "+1",
+      "79-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "1:43.0",
+      "H. González Peña enters the game for J. Brown",
+      "",
+      "79-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "1:43.0",
+      "J. Minott misses free throw 2 of 2",
+      "",
+      "79-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "79-83",
+      "",
+      "Defensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "79-85",
+      "+2",
+      "C. Anthony makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "1:10.0",
+      "Turnover by J. Minott (bad pass; steal by C. Anthony)",
+      "",
+      "79-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "79-85",
+      "",
+      "Turnover by C. Anthony (lost ball; steal by J. Minott)"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "0:45.0",
+      "A. Simons misses 2-pt jump shot from 7 ft",
+      "",
+      "79-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "0:42.0",
+      "",
+      "",
+      "79-85",
+      "",
+      "Defensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "79-87",
+      "+2",
+      "C. Anthony makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "0:25.0",
+      "A. Simons misses 3-pt jump shot from 27 ft",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "0:24.0",
+      "Offensive rebound by Team",
+      "",
+      "79-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "0:24.0",
+      "",
+      "",
+      "79-87",
+      "",
+      "Loose ball foul by C. Anthony (drawn by H. González Peña)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "0:24.0",
+      "H. González Peña makes free throw 1 of 2",
+      "+1",
+      "80-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "0:24.0",
+      "H. González Peña misses free throw 2 of 2",
+      "",
+      "80-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "80-87",
+      "",
+      "Defensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "80-87",
+      "",
+      "K. Kuzma misses 2-pt jump shot from 14 ft (block by S. Hauser)"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "0:02.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "80-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:01.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "80-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:01.0",
+      "Offensive rebound by Team",
+      "",
+      "80-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:00.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "80-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Milwaukee"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "11:43.0",
+      "",
+      "",
+      "80-90",
+      "+3",
+      "B. Portis makes 3-pt jump shot from 24 ft (assist by C. Anthony)"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "11:20.0",
+      "N. Queta makes 2-pt dunk from 1 ft (assist by P. Pritchard)",
+      "+2",
+      "82-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "11:03.0",
+      "",
+      "",
+      "82-93",
+      "+3",
+      "B. Portis makes 3-pt jump shot from 24 ft (assist by R. Rollins)"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "10:45.0",
+      "S. Hauser misses 3-pt jump shot from 28 ft",
+      "",
+      "82-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "82-93",
+      "",
+      "Defensive rebound by C. Anthony"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "10:37.0",
+      "",
+      "",
+      "82-95",
+      "+2",
+      "K. Kuzma makes 2-pt layup from 2 ft (assist by C. Anthony)"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "10:34.0",
+      "Boston full timeout",
+      "",
+      "82-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "10:17.0",
+      "J. Walsh makes 2-pt layup at rim (assist by P. Pritchard)",
+      "+2",
+      "84-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "84-95",
+      "",
+      "K. Kuzma misses 2-pt hook shot from 4 ft"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "9:58.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "84-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "9:50.0",
+      "S. Hauser misses 3-pt jump shot from 27 ft",
+      "",
+      "84-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "9:46.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "84-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "9:41.0",
+      "S. Hauser misses 3-pt jump shot from 27 ft",
+      "",
+      "84-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "9:38.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "84-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "9:30.0",
+      "S. Hauser misses 2-pt layup from 8 ft",
+      "",
+      "84-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "84-95",
+      "",
+      "Defensive rebound by K. Kuzma"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "84-98",
+      "+3",
+      "R. Rollins makes 3-pt jump shot from 26 ft (assist by G. Harris)"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "9:03.0",
+      "Personal foul by R. Rollins (drawn by P. Pritchard)",
+      "",
+      "84-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "9:03.0",
+      "J. Brown enters the game for S. Hauser",
+      "",
+      "84-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "9:03.0",
+      "D. White enters the game for A. Simons",
+      "",
+      "84-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "9:03.0",
+      "",
+      "",
+      "84-98",
+      "",
+      "K. Porter enters the game for R. Rollins"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "8:55.0",
+      "J. Brown misses 3-pt jump shot from 25 ft",
+      "",
+      "84-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "84-98",
+      "",
+      "Defensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "84-98",
+      "",
+      "Turnover by C. Anthony (bad pass)"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "8:23.0",
+      "J. Brown makes 2-pt layup from 1 ft",
+      "+2",
+      "86-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "86-98",
+      "",
+      "Milwaukee full timeout"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "86-100",
+      "+2",
+      "B. Portis makes 2-pt jump shot from 17 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "7:38.0",
+      "J. Brown makes 3-pt jump shot from 25 ft",
+      "+3",
+      "89-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "7:27.0",
+      "",
+      "",
+      "89-103",
+      "+3",
+      "C. Anthony makes 3-pt jump shot from 27 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "7:03.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "89-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "7:01.0",
+      "Offensive rebound by Team",
+      "",
+      "89-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "7:01.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "89-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "89-103",
+      "",
+      "J. Sims enters the game for K. Kuzma"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "89-106",
+      "+3",
+      "B. Portis makes 3-pt jump shot from 26 ft (assist by K. Porter)"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "6:29.0",
+      "D. White makes 2-pt layup from 5 ft",
+      "+2",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "6:12.0",
+      "",
+      "",
+      "91-106",
+      "",
+      "C. Anthony misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "6:09.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "6:03.0",
+      "D. White misses 3-pt jump shot from 26 ft",
+      "",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "6:00.0",
+      "Offensive rebound by Team",
+      "",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "5:51.0",
+      "J. Brown misses 2-pt layup from 6 ft (block by G. Harris)",
+      "",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "5:51.0",
+      "Offensive rebound by Team",
+      "",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "5:43.0",
+      "P. Pritchard misses 2-pt jump shot from 14 ft",
+      "",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "5:41.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "5:41.0",
+      "N. Queta misses 2-pt layup at rim",
+      "",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "91-106",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "5:41.0",
+      "Loose ball foul by N. Queta (drawn by C. Anthony)",
+      "",
+      "91-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "91-108",
+      "+2",
+      "K. Porter makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "5:26.0",
+      "Boston full timeout",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "5:26.0",
+      "H. González Peña enters the game for J. Brown",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "5:26.0",
+      "S. Hauser enters the game for P. Pritchard",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "5:26.0",
+      "J. Minott enters the game for N. Queta",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "5:26.0",
+      "B. Scheierman enters the game for J. Walsh",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "5:26.0",
+      "A. Simons enters the game for D. White",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "5:05.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "91-108",
+      "",
+      "Defensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "91-108",
+      "",
+      "K. Porter misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "4:46.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "4:42.0",
+      "H. González Peña misses 2-pt layup from 8 ft (block by C. Anthony)",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "91-108",
+      "",
+      "Defensive rebound by C. Anthony"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "91-108",
+      "",
+      "G. Harris misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "4:32.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "4:27.0",
+      "S. Hauser misses 3-pt jump shot from 26 ft",
+      "",
+      "91-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "4:23.0",
+      "",
+      "",
+      "91-108",
+      "",
+      "Defensive rebound by J. Sims"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "91-110",
+      "+2",
+      "C. Anthony makes 2-pt jump shot from 2 ft"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "4:04.0",
+      "B. Scheierman misses 3-pt jump shot from 26 ft",
+      "",
+      "91-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "91-110",
+      "",
+      "Defensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "91-112",
+      "+2",
+      "K. Porter makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "3:29.0",
+      "H. González Peña makes 3-pt jump shot from 27 ft (assist by A. Simons)",
+      "+3",
+      "94-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "94-114",
+      "+2",
+      "J. Sims makes 2-pt layup from 1 ft (assist by C. Anthony)"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "3:02.0",
+      "Personal foul by C. Anthony (drawn by J. Minott)",
+      "",
+      "94-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "2:54.0",
+      "Shooting foul by C. Anthony (drawn by A. Simons)",
+      "",
+      "94-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "2:54.0",
+      "A. Simons makes free throw 1 of 2",
+      "+1",
+      "95-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "2:54.0",
+      "A. Simons makes free throw 2 of 2",
+      "+1",
+      "96-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "96-114",
+      "",
+      "B. Portis misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "2:36.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "96-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "2:33.0",
+      "Turnover by S. Hauser (traveling)",
+      "",
+      "96-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "96-114",
+      "",
+      "Turnover by K. Porter (bad pass; steal by J. Minott)"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "2:18.0",
+      "S. Hauser misses 3-pt jump shot from 26 ft",
+      "",
+      "96-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "96-114",
+      "",
+      "Defensive rebound by B. Portis"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "96-114",
+      "",
+      "G. Harris misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "1:53.0",
+      "Defensive rebound by H. González Peña",
+      "",
+      "96-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "1:53.0",
+      "Personal take foul by B. Portis (drawn by A. Simons)",
+      "",
+      "96-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "1:53.0",
+      "",
+      "",
+      "96-114",
+      "",
+      "T. Antetokounmpo enters the game for G. Harris"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "1:53.0",
+      "",
+      "",
+      "96-114",
+      "",
+      "A. Coffey enters the game for K. Porter"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "1:53.0",
+      "",
+      "",
+      "96-114",
+      "",
+      "A. Jackson enters the game for B. Portis"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "1:53.0",
+      "",
+      "",
+      "96-114",
+      "",
+      "P. Nance enters the game for J. Sims"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "1:40.0",
+      "A. Simons makes 2-pt jump shot from 18 ft",
+      "+2",
+      "98-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "98-114",
+      "",
+      "P. Nance misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "1:16.0",
+      "Defensive rebound by H. González Peña",
+      "",
+      "98-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "1:12.0",
+      "J. Minott makes 3-pt jump shot from 27 ft (assist by S. Hauser)",
+      "+3",
+      "101-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "101-116",
+      "+2",
+      "P. Nance makes 2-pt layup from 2 ft (assist by C. Anthony)"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "0:52.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "101-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "101-116",
+      "",
+      "Defensive rebound by P. Nance"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "101-116",
+      "",
+      "T. Antetokounmpo misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "0:26.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "101-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "0:24.0",
+      "Turnover by S. Hauser (bad pass)",
+      "",
+      "101-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "101-116",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "101-116",
+      "",
+      ""
+    ]
+  }
+]

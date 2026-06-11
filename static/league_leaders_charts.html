@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025-26赛季联盟领袖数据图表</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1a1a2e;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .navbar {
+            background-color: #16213e !important;
+            border-bottom: 2px solid #e94560;
+        }
+        .chart-container {
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #16213e;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+        .chart-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            color: #e94560;
+            text-align: center;
+        }
+        .chart-image {
+            width: 100%;
+            max-width: 900px;
+            margin: 0 auto;
+            display: block;
+            border-radius: 8px;
+        }
+        .top-players {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #0f3460;
+            border-radius: 8px;
+        }
+        .top-players h5 {
+            color: #e94560;
+            margin-bottom: 15px;
+        }
+        .player-item {
+            padding: 8px 12px;
+            margin: 5px 0;
+            background-color: #16213e;
+            border-radius: 4px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .player-name {
+            font-weight: bold;
+        }
+        .player-value {
+            color: #10b981;
+        }
+        .category-nav {
+            margin-bottom: 30px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+        }
+        .category-btn {
+            background-color: #16213e;
+            border: 1px solid #e94560;
+            color: #ffffff;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        .category-btn:hover, .category-btn.active {
+            background-color: #e94560;
+            color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">🏀 NBA 数据分析</a>
+            <span class="navbar-text">2025-26赛季联盟领袖</span>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="category-nav" id="categoryNav"></div>
+        
+        <div id="chartsContainer"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const chartsData = [
+            {
+                "category": "Points",
+                "chart_url": "/static/charts/2025-26_Points.png",
+                "top_players": ["Luka Doncic", "Shai Gilgeous-Alexander", "Jaylen Brown", "Kevin Durant", "Tyrese Maxey"],
+                "top_values": [2143, 2117, 2038, 2026, 1980],
+                "top_teams": ["LAL", "OKC", "BOS", "HOU", "PHI"]
+            },
+            {
+                "category": "Points Per Game",
+                "chart_url": "/static/charts/2025-26_Points_Per_Game.png",
+                "top_players": ["Luka Doncic", "Shai Gilgeous-Alexander", "Anthony Edwards", "Jaylen Brown", "Tyrese Maxey"],
+                "top_values": [33.5, 31.1, 28.8, 28.7, 28.3],
+                "top_teams": ["LAL", "OKC", "MIN", "BOS", "PHI"]
+            },
+            {
+                "category": "Total Rebounds",
+                "chart_url": "/static/charts/2025-26_Total_Rebounds.png",
+                "top_players": ["Domantas Sabonis", "Rudy Gobert", "Karl-Anthony Towns", "Nikola Jokic", "Ivica Zubac"],
+                "top_values": [956, 871, 839, 799, 733],
+                "top_teams": ["SAC", "MIN", "NYK", "DEN", "LAC"]
+            },
+            {
+                "category": "Rebounds Per Game",
+                "chart_url": "/static/charts/2025-26_Rebounds_Per_Game.png",
+                "top_players": ["Domantas Sabonis", "Rudy Gobert", "Karl-Anthony Towns", "Ivica Zubac", "Nikola Jokic"],
+                "top_values": [14.9, 13.6, 12.5, 11.5, 11.0],
+                "top_teams": ["SAC", "MIN", "NYK", "LAC", "DEN"]
+            },
+            {
+                "category": "Assists",
+                "chart_url": "/static/charts/2025-26_Assists.png",
+                "top_players": ["Tyus Jones", "Trae Young", "Darius Garland", "Cade Cunningham", "LaMelo Ball"],
+                "top_values": [647, 620, 598, 575, 564],
+                "top_teams": ["PHO", "ATL", "CLE", "DET", "CHA"]
+            },
+            {
+                "category": "Assists Per Game",
+                "chart_url": "/static/charts/2025-26_Assists_Per_Game.png",
+                "top_players": ["Tyus Jones", "Trae Young", "Darius Garland", "LaMelo Ball", "Cade Cunningham"],
+                "top_values": [10.1, 9.7, 9.3, 9.1, 8.9],
+                "top_teams": ["PHO", "ATL", "CLE", "CHA", "DET"]
+            },
+            {
+                "category": "Steals",
+                "chart_url": "/static/charts/2025-26_Steals.png",
+                "top_players": ["De'Aaron Fox", "Shai Gilgeous-Alexander", "Matisse Thybulle", "Jalen Williams", "Alex Caruso"],
+                "top_values": [145, 132, 125, 118, 112],
+                "top_teams": ["SAS", "OKC", "POR", "OKC", "CHI"]
+            },
+            {
+                "category": "Offensive Rebounds",
+                "chart_url": "/static/charts/2025-26_Offensive_Rebounds.png",
+                "top_players": ["Ivica Zubac", "Domantas Sabonis", "Jonas Valanciunas", "Jalen Duren", "Rudy Gobert"],
+                "top_values": [233, 221, 198, 187, 175],
+                "top_teams": ["LAC", "SAC", "WAS", "DET", "MIN"]
+            },
+            {
+                "category": "Defensive Rebounds",
+                "chart_url": "/static/charts/2025-26_Defensive_Rebounds.png",
+                "top_players": ["Domantas Sabonis", "Rudy Gobert", "Karl-Anthony Towns", "Nikola Jokic", "Ivica Zubac"],
+                "top_values": [735, 696, 661, 634, 500],
+                "top_teams": ["SAC", "MIN", "NYK", "DEN", "LAC"]
+            },
+            {
+                "category": "Defensive Rebounds Per Game",
+                "chart_url": "/static/charts/2025-26_Defensive_Rebounds_Per_Game.png",
+                "top_players": ["Domantas Sabonis", "Rudy Gobert", "Karl-Anthony Towns", "Nikola Jokic", "Ivica Zubac"],
+                "top_values": [11.5, 10.9, 9.9, 8.8, 7.8],
+                "top_teams": ["SAC", "MIN", "NYK", "DEN", "LAC"]
+            },
+            {
+                "category": "Offensive Rebounds Per Game",
+                "chart_url": "/static/charts/2025-26_Offensive_Rebounds_Per_Game.png",
+                "top_players": ["Ivica Zubac", "Domantas Sabonis", "Jonas Valanciunas", "Jalen Duren", "Rudy Gobert"],
+                "top_values": [3.6, 3.5, 3.1, 2.9, 2.7],
+                "top_teams": ["LAC", "SAC", "WAS", "DET", "MIN"]
+            }
+        ];
+
+        function renderCategoryNav() {
+            const nav = document.getElementById('categoryNav');
+            nav.innerHTML = chartsData.map((chart, index) => 
+                `<button class="category-btn ${index === 0 ? 'active' : ''}" data-index="${index}">${chart.category}</button>`
+            ).join('');
+            
+            nav.querySelectorAll('.category-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    renderChart(parseInt(this.dataset.index));
+                });
+            });
+        }
+
+        function renderChart(index) {
+            const chart = chartsData[index];
+            const container = document.getElementById('chartsContainer');
+            
+            container.innerHTML = `
+                <div class="chart-container">
+                    <div class="chart-title">2025-26赛季 ${chart.category} 前20名</div>
+                    <img src="${chart.chart_url}" alt="${chart.category} Chart" class="chart-image">
+                    <div class="top-players">
+                        <h5>前5名球员</h5>
+                        ${chart.top_players.map((player, i) => 
+                            `<div class="player-item">
+                                <span class="player-name">${i + 1}. ${player} (${chart.top_teams[i]})</span>
+                                <span class="player-value">${chart.top_values[i]}</span>
+                            </div>`
+                        ).join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        renderCategoryNav();
+        renderChart(0);
+    </script>
+</body>
+</html>

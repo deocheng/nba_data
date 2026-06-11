@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA球员对比</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #FFFFFF;
+            min-height: 100vh;
+            color: #333333;
+        }
+
+        .navbar {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid rgba(11, 61, 145, 0.1);
+        }
+
+        .navbar h1 {
+            font-size: 1.8rem;
+            color: #0b3d91;
+        }
+
+        .navbar nav {
+            margin-top: 0.5rem;
+        }
+
+        .navbar nav a {
+            color: rgba(11, 61, 145, 0.8);
+            text-decoration: none;
+            margin-right: 2rem;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .navbar nav a:hover,
+        .navbar nav a.active {
+            background: rgba(11, 61, 145, 0.15);
+            color: #0b3d91;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #0b3d91;
+            font-size: 1.8rem;
+        }
+
+        .player-selector {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .player-picker {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .player-picker label {
+            margin-bottom: 0.5rem;
+            font-weight: bold;
+            color: #666;
+        }
+
+        .player-picker select {
+            padding: 0.8rem 1.2rem;
+            font-size: 1rem;
+            background: #fff;
+            border: 1px solid rgba(11, 61, 145, 0.3);
+            border-radius: 8px;
+            color: #333;
+            min-width: 200px;
+            cursor: pointer;
+        }
+
+        .player-picker select option {
+            background: #fff;
+            color: #333;
+        }
+
+        .vs-badge {
+            display: flex;
+            align-items: center;
+            font-size: 2rem;
+            font-weight: bold;
+            color: #0b3d91;
+        }
+
+        .season-selector {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .season-selector label {
+            margin-right: 1rem;
+            color: #aaa;
+        }
+
+        .season-selector select {
+            padding: 0.6rem 1rem;
+            font-size: 1rem;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid #1e90ff;
+            border-radius: 8px;
+            color: #fff;
+            cursor: pointer;
+        }
+
+        .compare-btn {
+            display: block;
+            margin: 0 auto 2rem;
+            padding: 0.8rem 2rem;
+            font-size: 1.1rem;
+            background: linear-gradient(135deg, #1e90ff, #00bfff);
+            border: none;
+            border-radius: 8px;
+            color: #fff;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .compare-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(30, 144, 255, 0.4);
+        }
+
+        .comparison-results {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .player-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 1.5rem;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .player-card .player-name {
+            color: #1e90ff;
+            margin-bottom: 1rem;
+            font-size: 1.3rem;
+            text-align: center;
+        }
+
+        .player-info {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .info-item {
+            padding: 0.5rem;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        .info-item label {
+            color: #888;
+            font-size: 0.75rem;
+            display: block;
+            margin-bottom: 0.2rem;
+        }
+
+        .info-item value {
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .section-title {
+            font-size: 0.85rem;
+            color: #1e90ff;
+            margin-bottom: 0.75rem;
+            padding-bottom: 0.3rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            text-align: center;
+        }
+
+        .physical-section,
+        .stats-section,
+        .advanced-section {
+            margin-bottom: 1rem;
+        }
+
+        .physical-section .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 0.4rem;
+        }
+
+        .stats-section .stats-grid,
+        .advanced-section .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 0.4rem;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 0.6rem 0.3rem;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 4px;
+            min-height: 65px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .stat-item .value {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #fff;
+            line-height: 1.2;
+        }
+
+        .stat-item .label {
+            font-size: 0.7rem;
+            color: #888;
+            margin-top: 0.2rem;
+        }
+
+        .stat-item .label {
+            font-size: 0.7rem;
+            color: #888;
+            margin-top: 0.3rem;
+        }
+
+        .difference-section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .difference-section h3 {
+            color: #1e90ff;
+            margin-bottom: 1rem;
+        }
+
+        .difference-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 0.5rem;
+        }
+
+        .diff-item {
+            text-align: center;
+            padding: 0.8rem 0.5rem;
+            border-radius: 4px;
+        }
+
+        .diff-item.positive {
+            background: rgba(0, 255, 0, 0.1);
+            color: #00ff00;
+        }
+
+        .diff-item.negative {
+            background: rgba(255, 0, 0, 0.1);
+            color: #ff0000;
+        }
+
+        .diff-item.zero {
+            background: rgba(255, 255, 255, 0.05);
+            color: #888;
+        }
+
+        .chart-section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .chart-section h3 {
+            color: #1e90ff;
+            margin-bottom: 1rem;
+        }
+
+        .chart-container {
+            height: 300px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .radar-chart-container {
+            height: 400px;
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            nav a {
+                margin-left: 1rem;
+                margin-right: 1rem;
+            }
+
+            .player-selector {
+                gap: 1rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <h1>NBA数据</h1>
+        <nav>
+            <a href="/">球队</a>
+            <a href="/team-history" target="_blank">球队历史</a>
+            <a href="/matchup" target="_blank">球队对阵</a>
+            <a href="/player-compare" class="active">球员对比</a>
+            <a href="/legendary-players" target="_blank">传奇球员</a>
+            <a href="/player-radar" target="_blank">能力雷达图</a>
+            <a href="/rankings" target="_blank">高阶数据</a>
+            <a href="/spurs" target="_blank">马刺专区</a>
+        </nav>
+    </nav>
+
+    <div class="container">
+        <h2 class="section-title">球员数据对比</h2>
+
+        <div class="player-selector">
+            <div class="player-picker">
+                <label>选择球员 A</label>
+                <select id="player1-select">
+                    <option value="">请选择</option>
+                </select>
+            </div>
+            <div class="vs-badge">VS</div>
+            <div class="player-picker">
+                <label>选择球员 B</label>
+                <select id="player2-select">
+                    <option value="">请选择</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="season-selector">
+            <label>选择赛季:</label>
+            <select id="season-select">
+                <option value="career">生涯总览</option>
+            </select>
+        </div>
+
+        <button class="compare-btn" onclick="comparePlayers()">开始对比</button>
+
+        <div id="results-container" style="display: none;">
+            <div class="comparison-results" id="player-cards">
+            </div>
+
+            <div class="difference-section">
+                <h3>数据差异 (球员A - 球员B)</h3>
+                <div class="difference-grid" id="difference-grid">
+                </div>
+            </div>
+
+            <div class="chart-section">
+                <h3>数据对比柱状图</h3>
+                <div class="chart-container">
+                    <canvas id="barChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-section">
+                <h3>能力值雷达图</h3>
+                <div class="radar-chart-container">
+                    <canvas id="radarChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let players = [];
+        let currentComparison = null;
+        let barChart = null;
+        let radarChart = null;
+
+        async function loadPlayers() {
+            try {
+                const response = await fetch('/api/players/list');
+                players = await response.json();
+                
+                const select1 = document.getElementById('player1-select');
+                const select2 = document.getElementById('player2-select');
+                
+                players.forEach(player => {
+                    const option1 = document.createElement('option');
+                    option1.value = player.id;
+                    option1.textContent = player.name;
+                    select1.appendChild(option1);
+                    
+                    const option2 = document.createElement('option');
+                    option2.value = player.id;
+                    option2.textContent = player.name;
+                    select2.appendChild(option2);
+                });
+
+                select1.addEventListener('change', updateSeasonOptions);
+                select2.addEventListener('change', updateSeasonOptions);
+                select1.addEventListener('change', syncPlayerSelection);
+                select2.addEventListener('change', syncPlayerSelection);
+            } catch (error) {
+                console.error('加载球员列表失败:', error);
+            }
+        }
+
+        function syncPlayerSelection() {
+            const select1 = document.getElementById('player1-select');
+            const select2 = document.getElementById('player2-select');
+            const selected1 = select1.value;
+            const selected2 = select2.value;
+
+            if (selected1 === selected2 && selected1 !== '') {
+                select2.value = '';
+                alert('请选择不同的球员进行对比');
+            }
+
+            Array.from(select1.options).forEach(opt => {
+                opt.disabled = opt.value === select2.value && opt.value !== '';
+            });
+
+            Array.from(select2.options).forEach(opt => {
+                opt.disabled = opt.value === select1.value && opt.value !== '';
+            });
+        }
+
+        async function updateSeasonOptions() {
+            const playerId = document.getElementById('player1-select').value || 
+                            document.getElementById('player2-select').value;
+            
+            if (!playerId) return;
+
+            try {
+                const response = await fetch(`/api/players/${playerId}/seasons`);
+                const data = await response.json();
+                
+                const seasonSelect = document.getElementById('season-select');
+                seasonSelect.innerHTML = '<option value="career">生涯总览</option>';
+                
+                data.seasons.forEach(season => {
+                    const option = document.createElement('option');
+                    option.value = season;
+                    option.textContent = season;
+                    seasonSelect.appendChild(option);
+                });
+            } catch (error) {
+                console.error('加载赛季列表失败:', error);
+            }
+        }
+
+        async function comparePlayers() {
+            const player1Id = document.getElementById('player1-select').value;
+            const player2Id = document.getElementById('player2-select').value;
+            const season = document.getElementById('season-select').value;
+
+            if (!player1Id || !player2Id) {
+                alert('请选择两名球员进行对比');
+                return;
+            }
+
+            if (player1Id === player2Id) {
+                alert('请选择不同的球员进行对比');
+                return;
+            }
+
+            try {
+                const response = await fetch(`/api/players/compare?player1_id=${player1Id}&player2_id=${player2Id}&season=${season}`);
+                currentComparison = await response.json();
+                
+                displayResults();
+            } catch (error) {
+                console.error('对比失败:', error);
+                alert('对比失败，请重试');
+            }
+        }
+
+        function displayResults() {
+            const container = document.getElementById('results-container');
+            container.style.display = 'block';
+
+            displayPlayerCards();
+            displayDifferences();
+            renderBarChart();
+            renderRadarChart();
+        }
+
+        function displayPlayerCards() {
+            const cardsContainer = document.getElementById('player-cards');
+            cardsContainer.innerHTML = '';
+
+            const player1Card = createPlayerCard(currentComparison.player1);
+            const player2Card = createPlayerCard(currentComparison.player2);
+
+            cardsContainer.appendChild(player1Card);
+            cardsContainer.appendChild(player2Card);
+        }
+
+        function createPlayerCard(player) {
+            const card = document.createElement('div');
+            card.className = 'player-card';
+            
+            const pos = player.info.position || 'N/A';
+            const height = player.info.height || 'N/A';
+            const weight = player.info.weight || 'N/A';
+            const number = player.info.number || 'N/A';
+            const age = player.info.age || 'N/A';
+            const wingspan = player.info.wingspan || 'N/A';
+            const standing_reach = player.info.standing_reach || 'N/A';
+            const bmi = weight !== 'N/A' && height !== 'N/A' ? (weight / Math.pow(height / 100, 2)).toFixed(1) : 'N/A';
+            
+            card.innerHTML = `
+                <h3 class="player-name">${player.info.name}</h3>
+                <div class="player-info">
+                    <div class="info-item"><label>位置</label><value>${pos}</value></div>
+                    <div class="info-item"><label>球衣号</label><value>${number}</value></div>
+                </div>
+                <div class="physical-section">
+                    <div class="section-title">身体条件</div>
+                    <div class="stats-grid">
+                        <div class="stat-item"><div class="value">${age}</div><div class="label">年龄</div></div>
+                        <div class="stat-item"><div class="value">${height}${height !== 'N/A' ? ' cm' : ''}</div><div class="label">身高</div></div>
+                        <div class="stat-item"><div class="value">${weight}${weight !== 'N/A' ? ' kg' : ''}</div><div class="label">体重</div></div>
+                        <div class="stat-item"><div class="value">${bmi}${bmi !== 'N/A' ? '' : ''}</div><div class="label">BMI</div></div>
+                        <div class="stat-item"><div class="value">${wingspan}${wingspan !== 'N/A' ? ' cm' : ''}</div><div class="label">臂展</div></div>
+                        <div class="stat-item"><div class="value">${standing_reach}${standing_reach !== 'N/A' ? ' cm' : ''}</div><div class="label">站立摸高</div></div>
+                    </div>
+                </div>
+                <div class="stats-section">
+                    <div class="section-title">基础数据</div>
+                    <div class="stats-grid">
+                        <div class="stat-item"><div class="value">${parseFloat(player.stats.avg_points || 0).toFixed(1)}</div><div class="label">场均得分</div></div>
+                        <div class="stat-item"><div class="value">${parseFloat(player.stats.avg_rebounds || 0).toFixed(1)}</div><div class="label">场均篮板</div></div>
+                        <div class="stat-item"><div class="value">${parseFloat(player.stats.avg_assists || 0).toFixed(1)}</div><div class="label">场均助攻</div></div>
+                        <div class="stat-item"><div class="value">${player.stats.games_played || 0}</div><div class="label">出场次数</div></div>
+                    </div>
+                </div>
+                <div class="advanced-section">
+                    <div class="section-title">高阶数据</div>
+                    <div class="stats-grid">
+                        <div class="stat-item"><div class="value">${parseFloat(player.stats.per || 0).toFixed(1)}</div><div class="label">PER</div></div>
+                        <div class="stat-item"><div class="value">${parseFloat(player.stats.ws || 0).toFixed(1)}</div><div class="label">WS</div></div>
+                        <div class="stat-item"><div class="value">${parseFloat(player.stats.bpm || 0).toFixed(1)}</div><div class="label">BPM</div></div>
+                        <div class="stat-item"><div class="value">${parseFloat(player.stats.vorp || 0).toFixed(1)}</div><div class="label">VORP</div></div>
+                    </div>
+                </div>
+            `;
+
+            return card;
+        }
+
+        function displayDifferences() {
+            const grid = document.getElementById('difference-grid');
+            grid.innerHTML = '';
+
+            const statsMap = {
+                'avg_points': '场均得分',
+                'avg_rebounds': '场均篮板',
+                'avg_assists': '场均助攻',
+                'avg_steals': '场均抢断',
+                'avg_blocks': '场均盖帽',
+                'fg_pct': '命中率',
+                'ft_pct': '罚球命中率',
+                'per': 'PER',
+                'ws': 'WS',
+                'bpm': 'BPM',
+                'vorp': 'VORP'
+            };
+
+            Object.entries(statsMap).forEach(([key, label]) => {
+                let diff = currentComparison.differences[key] || 0;
+                let displayValue;
+                if (key === 'fg_pct' || key === 'ft_pct') {
+                    displayValue = (diff * 100).toFixed(1) + '%';
+                } else {
+                    displayValue = diff > 0 ? '+' + diff.toFixed(1) : diff.toFixed(1);
+                }
+                const item = document.createElement('div');
+                item.className = `diff-item ${diff > 0 ? 'positive' : diff < 0 ? 'negative' : 'zero'}`;
+                
+                item.innerHTML = `
+                    <div class="label">${label}</div>
+                    <div class="value">${displayValue}</div>
+                `;
+                
+                grid.appendChild(item);
+            });
+        }
+
+        function renderBarChart() {
+            if (barChart) {
+                barChart.destroy();
+                barChart = null;
+            }
+            
+            const ctx = document.getElementById('barChart').getContext('2d');
+            
+            const labels = ['场均得分', '场均篮板', '场均助攻', '场均抢断', '场均盖帽', 'PER', 'WS', 'BPM', 'VORP'];
+            const player1Data = [
+                parseFloat(currentComparison.player1.stats.avg_points || 0),
+                parseFloat(currentComparison.player1.stats.avg_rebounds || 0),
+                parseFloat(currentComparison.player1.stats.avg_assists || 0),
+                parseFloat(currentComparison.player1.stats.avg_steals || 0),
+                parseFloat(currentComparison.player1.stats.avg_blocks || 0),
+                parseFloat(currentComparison.player1.stats.per || 0),
+                parseFloat(currentComparison.player1.stats.ws || 0),
+                parseFloat(currentComparison.player1.stats.bpm || 0),
+                parseFloat(currentComparison.player1.stats.vorp || 0)
+            ];
+            const player2Data = [
+                parseFloat(currentComparison.player2.stats.avg_points || 0),
+                parseFloat(currentComparison.player2.stats.avg_rebounds || 0),
+                parseFloat(currentComparison.player2.stats.avg_assists || 0),
+                parseFloat(currentComparison.player2.stats.avg_steals || 0),
+                parseFloat(currentComparison.player2.stats.avg_blocks || 0),
+                parseFloat(currentComparison.player2.stats.per || 0),
+                parseFloat(currentComparison.player2.stats.ws || 0),
+                parseFloat(currentComparison.player2.stats.bpm || 0),
+                parseFloat(currentComparison.player2.stats.vorp || 0)
+            ];
+
+            barChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: currentComparison.player1.info.name,
+                            data: player1Data,
+                            backgroundColor: 'rgba(30, 144, 255, 0.7)',
+                            borderColor: 'rgba(30, 144, 255, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: currentComparison.player2.info.name,
+                            data: player2Data,
+                            backgroundColor: 'rgba(255, 100, 100, 0.7)',
+                            borderColor: 'rgba(255, 100, 100, 1)',
+                            borderWidth: 1
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: { color: 'rgba(255,255,255,0.1)' },
+                            ticks: { color: '#fff' }
+                        },
+                        x: {
+                            grid: { color: 'rgba(255,255,255,0.1)' },
+                            ticks: { color: '#fff', font: { size: 11 } }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: { color: '#fff' }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderRadarChart() {
+            if (radarChart) {
+                radarChart.destroy();
+                radarChart = null;
+            }
+            
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            
+            const labels = ['得分', '篮板', '助攻', '抢断', '盖帽', '命中率'];
+            
+            const player1Data = [
+                parseFloat(currentComparison.player1.stats.avg_points || 0) / 40 * 100,
+                parseFloat(currentComparison.player1.stats.avg_rebounds || 0) / 20 * 100,
+                parseFloat(currentComparison.player1.stats.avg_assists || 0) / 15 * 100,
+                parseFloat(currentComparison.player1.stats.avg_steals || 0) / 5 * 100,
+                parseFloat(currentComparison.player1.stats.avg_blocks || 0) / 5 * 100,
+                parseFloat(currentComparison.player1.stats.fg_pct || 0) * 100
+            ];
+            
+            const player2Data = [
+                parseFloat(currentComparison.player2.stats.avg_points || 0) / 40 * 100,
+                parseFloat(currentComparison.player2.stats.avg_rebounds || 0) / 20 * 100,
+                parseFloat(currentComparison.player2.stats.avg_assists || 0) / 15 * 100,
+                parseFloat(currentComparison.player2.stats.avg_steals || 0) / 5 * 100,
+                parseFloat(currentComparison.player2.stats.avg_blocks || 0) / 5 * 100,
+                parseFloat(currentComparison.player2.stats.fg_pct || 0) * 100
+            ];
+
+            radarChart = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: currentComparison.player1.info.name,
+                            data: player1Data,
+                            backgroundColor: 'rgba(30, 144, 255, 0.2)',
+                            borderColor: 'rgba(30, 144, 255, 1)',
+                            borderWidth: 2
+                        },
+                        {
+                            label: currentComparison.player2.info.name,
+                            data: player2Data,
+                            backgroundColor: 'rgba(255, 100, 100, 0.2)',
+                            borderColor: 'rgba(255, 100, 100, 1)',
+                            borderWidth: 2
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            beginAtZero: true,
+                            max: 100,
+                            grid: { color: 'rgba(255,255,255,0.1)' },
+                            angleLines: { color: 'rgba(255,255,255,0.1)' },
+                            pointLabels: { color: '#fff' },
+                            ticks: { color: '#888', backdropColor: 'transparent' }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: { color: '#fff' }
+                        }
+                    }
+                }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', loadPlayers);
+    </script>
+</body>
+</html>

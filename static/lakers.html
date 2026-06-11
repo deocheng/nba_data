@@ -1,0 +1,41 @@
+        function init() {
+            if (isInitialized) return;
+            isInitialized = true;
+
+            const scheduleSelector = document.getElementById('scheduleSeasonSelector');
+            if (scheduleSelector) {
+                scheduleSelector.addEventListener('click', function(e) {
+                    const btn = e.target.closest('.season-btn');
+                    if (btn) {
+                        document.querySelectorAll('#scheduleSeasonSelector .season-btn').forEach(b => b.classList.remove('active'));
+                        btn.classList.add('active');
+                        loadSchedule(btn.dataset.season);
+                    }
+                });
+            }
+
+            const statsSelector = document.getElementById('statsSeasonSelector');
+            if (statsSelector) {
+                statsSelector.addEventListener('click', function(e) {
+                    const btn = e.target.closest('.season-btn');
+                    if (btn) {
+                        document.querySelectorAll('#statsSeasonSelector .season-btn').forEach(b => b.classList.remove('active'));
+                        btn.classList.add('active');
+                        loadSeasonStats(btn.dataset.season);
+                    }
+                });
+            }
+
+            loadRoster();
+            loadSchedule('2023-2024');
+            loadSeasonStats('2023-2024');
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    </script>
+</body>
+</html>

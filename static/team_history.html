@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA球队历史战绩</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #FFFFFF;
+            min-height: 100vh;
+            color: #333333;
+        }
+
+        .navbar {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid rgba(11, 61, 145, 0.1);
+        }
+
+        .navbar h1 {
+            font-size: 1.8rem;
+            color: #0b3d91;
+        }
+
+        .navbar nav {
+            margin-top: 0.5rem;
+        }
+
+        .navbar nav a {
+            color: rgba(11, 61, 145, 0.8);
+            text-decoration: none;
+            margin-right: 2rem;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .navbar nav a:hover,
+        .navbar nav a.active {
+            background: rgba(11, 61, 145, 0.15);
+            color: #0b3d91;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #0b3d91, #1e4daf);
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            color: #FFFFFF;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 30px;
+        }
+
+        .team-selector {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .team-btn {
+            padding: 8px 16px;
+            font-size: 12px;
+            font-weight: 600;
+            border: 1px solid transparent;
+            border-radius: 20px;
+            background: rgba(11, 61, 145, 0.1);
+            color: #0b3d91;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .team-btn:hover {
+            background: rgba(11, 61, 145, 0.15);
+            border-color: rgba(11, 61, 145, 0.3);
+        }
+
+        .team-btn.active {
+            background: linear-gradient(135deg, #0b3d91, #1e4daf);
+            color: #fff;
+            border-color: #0b3d91;
+        }
+
+        .team-info {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(11, 61, 145, 0.1);
+            margin-bottom: 30px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        .team-header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .team-logo {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #0b3d91, #1e4daf);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #fff;
+        }
+
+        .team-details {
+            flex: 1;
+        }
+
+        .team-details h2 {
+            font-size: 2rem;
+            margin-bottom: 5px;
+            color: #0b3d91;
+        }
+
+        .team-details .conference {
+            color: rgba(11, 61, 145, 0.6);
+            font-size: 14px;
+        }
+
+        .all-time-stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 15px;
+            background: #fff;
+            border-radius: 10px;
+            border: 1px solid rgba(11, 61, 145, 0.1);
+        }
+
+        .stat-item .value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #0b3d91;
+        }
+
+        .stat-item .label {
+            font-size: 11px;
+            color: rgba(11, 61, 145, 0.5);
+            text-transform: uppercase;
+            margin-top: 5px;
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .chart-container {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .chart-container h3 {
+            margin-bottom: 20px;
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 1.2rem;
+        }
+
+        .chart-wrapper {
+            position: relative;
+            height: 300px;
+        }
+
+        .season-list {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .season-list h3 {
+            margin-bottom: 20px;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .season-items {
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .season-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .season-item:hover {
+            background: rgba(30, 144, 255, 0.2);
+            transform: translateX(5px);
+        }
+
+        .season-item.active {
+            background: rgba(30, 144, 255, 0.3);
+            border-left: 3px solid #1e90ff;
+        }
+
+        .season-info {
+            flex: 1;
+        }
+
+        .season-info .season-name {
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+
+        .season-info .record {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .season-winrate {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #1e90ff;
+        }
+
+        .section-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+
+        .game-list {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .game-list h3 {
+            margin-bottom: 20px;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .game-items {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .game-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 15px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+
+        .game-item.win {
+            border-left: 3px solid #4CAF50;
+        }
+
+        .game-item.loss {
+            border-left: 3px solid #f44336;
+        }
+
+        .game-date {
+            color: rgba(255, 255, 255, 0.6);
+            font-size: 12px;
+        }
+
+        .game-score {
+            font-weight: 600;
+        }
+
+        .game-score.win {
+            color: #4CAF50;
+        }
+
+        .game-score.loss {
+            color: #f44336;
+        }
+
+        .home-away-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .home-away-card {
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .home-away-card.home {
+            border: 1px solid rgba(76, 175, 80, 0.3);
+        }
+
+        .home-away-card.away {
+            border: 1px solid rgba(244, 67, 54, 0.3);
+        }
+
+        .home-away-card h4 {
+            margin-bottom: 15px;
+            font-size: 1rem;
+        }
+
+        .home-away-card .win-rate {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .home-away-card.home .win-rate {
+            color: #4CAF50;
+        }
+
+        .home-away-card.away .win-rate {
+            color: #f44336;
+        }
+
+        .home-away-card .record {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        @media (max-width: 1000px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+
+            .section-row {
+                grid-template-columns: 1fr;
+            }
+
+            .all-time-stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 1.5rem;
+            }
+
+            .all-time-stats {
+                grid-template-columns: 1fr;
+            }
+
+            .team-header {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <h1>NBA数据</h1>
+        <nav>
+            <a href="/">球队</a>
+            <a href="/team-history" class="active">球队历史</a>
+            <a href="/matchup" target="_blank">球队对阵</a>
+            <a href="/player-compare" target="_blank">球员对比</a>
+            <a href="/legendary-players" target="_blank">传奇球员</a>
+            <a href="/player-radar" target="_blank">能力雷达图</a>
+            <a href="/rankings" target="_blank">高阶数据</a>
+            <a href="/spurs" target="_blank">马刺专区</a>
+        </nav>
+    </nav>
+
+    <div class="header">
+        <h1>球队历史战绩</h1>
+        <p>探索NBA球队的辉煌历史</p>
+    </div>
+
+    <div class="container">
+        <div class="team-selector" id="teamSelector">
+            <button class="team-btn active" data-team="LAL">洛杉矶湖人</button>
+            <button class="team-btn" data-team="BOS">波士顿凯尔特人</button>
+            <button class="team-btn" data-team="CHI">芝加哥公牛</button>
+            <button class="team-btn" data-team="GSW">金州勇士</button>
+            <button class="team-btn" data-team="MIA">迈阿密热火</button>
+            <button class="team-btn" data-team="SAS">圣安东尼奥马刺</button>
+            <button class="team-btn" data-team="CLE">克里夫兰骑士</button>
+            <button class="team-btn" data-team="HOU">休斯顿火箭</button>
+            <button class="team-btn" data-team="DAL">达拉斯独行侠</button>
+            <button class="team-btn" data-team="OKC">俄克拉荷马城雷霆</button>
+        </div>
+
+        <div class="team-info" id="teamInfo">
+            <div class="team-header">
+                <div class="team-logo" id="teamLogo">LAL</div>
+                <div class="team-details">
+                    <h2 id="teamName">洛杉矶湖人</h2>
+                    <div class="conference" id="teamConference">西部联盟 - 太平洋赛区</div>
+                </div>
+            </div>
+            <div class="all-time-stats">
+                <div class="stat-item"><div class="value" id="allTimeWins">0</div><div class="label">历史胜场</div></div>
+                <div class="stat-item"><div class="value" id="allTimeLosses">0</div><div class="label">历史负场</div></div>
+                <div class="stat-item"><div class="value" id="allTimeWinRate">0%</div><div class="label">历史胜率</div></div>
+                <div class="stat-item"><div class="value" id="totalSeasons">0</div><div class="label">赛季数</div></div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="chart-container">
+                <h3>📈 胜率趋势</h3>
+                <div class="chart-wrapper">
+                    <canvas id="winRateChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-container">
+                <h3>📊 赛季趋势图</h3>
+                <div class="chart-wrapper">
+                    <canvas id="pointsChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="season-list">
+                <h3>📅 赛季列表</h3>
+                <div class="season-items" id="seasonItems">
+                </div>
+            </div>
+
+            <div class="game-list">
+                <h3>🎮 本赛季比赛记录</h3>
+                <div class="game-items" id="gameItems">
+                </div>
+            </div>
+        </div>
+
+        <div class="section-row">
+            <div class="game-list">
+                <h3>🏆 最佳比赛</h3>
+                <div class="game-items" id="bestGames">
+                </div>
+            </div>
+
+            <div class="game-list">
+                <h3>💔 最差比赛</h3>
+                <div class="game-items" id="worstGames">
+                </div>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h3>🏠 主客场对比</h3>
+            <div class="home-away-grid">
+                <div class="home-away-card home">
+                    <h4>🏠 主场战绩</h4>
+                    <div class="win-rate" id="homeWinRate">0%</div>
+                    <div class="record" id="homeRecord">0-0</div>
+                    <div style="font-size: 12px; color: rgba(255,255,255,0.5); margin-top: 10px;">
+                        场均得分: <span id="homeAvgPoints">0</span> | 场均失分: <span id="homeAvgOppPoints">0</span>
+                    </div>
+                </div>
+                <div class="home-away-card away">
+                    <h4>✈️ 客场战绩</h4>
+                    <div class="win-rate" id="awayWinRate">0%</div>
+                    <div class="record" id="awayRecord">0-0</div>
+                    <div style="font-size: 12px; color: rgba(255,255,255,0.5); margin-top: 10px;">
+                        场均得分: <span id="awayAvgPoints">0</span> | 场均失分: <span id="awayAvgOppPoints">0</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chart-container" id="seasonChartContainer" style="display: none;">
+            <h3>📈 赛季成绩与主要事件</h3>
+            <div style="display: flex; gap: 20px;">
+                <div style="flex: 1;">
+                    <div class="chart-wrapper" style="height: 450px;">
+                        <canvas id="seasonChart"></canvas>
+                    </div>
+                </div>
+                <div style="width: 150px; padding: 10px; background: rgba(0,0,0,0.2); border-radius: 8px;">
+                    <h4 style="color: #fff; font-size: 14px; margin-bottom: 10px;">颜色说明</h4>
+                    <div style="margin-bottom: 10px;">
+                        <div style="font-size: 11px; color: #3B82F6; margin-bottom: 3px;">● 蓝色 = 常规赛胜利</div>
+                        <div style="font-size: 11px; color: #EF4444; margin-bottom: 3px;">● 红色 = 常规赛失利</div>
+                        <div style="font-size: 11px; color: #FFD700; margin-bottom: 3px;">● 金色 = 季后赛/附加赛胜利</div>
+                        <div style="font-size: 11px; color: #4B5563;">● 灰色 = 季后赛/附加赛失利</div>
+                    </div>
+                </div>
+            </div>
+            <div id="transactionList" style="margin-top: 15px; padding: 10px; background: rgba(0,0,0,0.2); border-radius: 8px; display: none;">
+                <h4 style="color: #fff; font-size: 14px; margin-bottom: 10px;">赛季主要事件</h4>
+                <div id="transactionItems"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentTeam = 'LAL';
+        let currentSeason = '';
+        let winRateChart = null;
+        let pointsChart = null;
+        let seasonChart = null;
+        
+        // 月份对应的颜色
+        const MONTH_COLORS = {
+            1: 'rgba(239, 68, 68, 0.8)',
+            2: 'rgba(249, 115, 22, 0.8)',
+            3: 'rgba(234, 179, 8, 0.8)',
+            4: 'rgba(132, 204, 22, 0.8)',
+            5: 'rgba(34, 197, 94, 0.8)',
+            6: 'rgba(6, 182, 212, 0.8)',
+            7: 'rgba(59, 130, 246, 0.8)',
+            8: 'rgba(139, 92, 246, 0.8)',
+            9: 'rgba(217, 70, 239, 0.8)',
+            10: 'rgba(236, 72, 153, 0.8)',
+            11: 'rgba(244, 114, 182, 0.8)',
+            12: 'rgba(248, 113, 113, 0.8)'
+        };
+        
+        const MONTH_NAMES = {
+            1: '一月', 2: '二月', 3: '三月', 4: '四月', 5: '五月', 6: '六月',
+            7: '七月', 8: '八月', 9: '九月', 10: '十月', 11: '十一月', 12: '十二月'
+        };
+
+        document.querySelectorAll('.team-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.team-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                currentTeam = this.dataset.team;
+                loadTeamData(currentTeam);
+            });
+        });
+
+        async function loadTeamData(teamId) {
+            const [history, homeAway, bestGames, worstGames] = await Promise.all([
+                fetch(`/api/teams/${teamId}/history`).then(r => r.json()),
+                fetch(`/api/teams/${teamId}/home_away_stats`).then(r => r.json()),
+                fetch(`/api/teams/${teamId}/best_games?limit=5`).then(r => r.json()),
+                fetch(`/api/teams/${teamId}/worst_games?limit=5`).then(r => r.json())
+            ]);
+
+            if (history.success) {
+                updateTeamInfo(history.data);
+                updateSeasonList(history.data.seasons);
+                updateWinRateChart(history.data.seasons);
+                updatePointsChart(history.data.seasons);
+                
+                if (history.data.seasons.length > 0) {
+                    currentSeason = history.data.seasons[history.data.seasons.length - 1].season;
+                    loadSeasonGames(teamId, currentSeason);
+                    loadSeasonChart(teamId, currentSeason);
+                } else {
+                    document.getElementById('seasonChartContainer').style.display = 'none';
+                }
+            }
+
+            if (homeAway.success) {
+                updateHomeAwayStats(homeAway.data);
+            }
+
+            if (bestGames.success) {
+                updateBestGames(bestGames.data);
+            }
+
+            if (worstGames.success) {
+                updateWorstGames(worstGames.data);
+            }
+        }
+
+        async function loadSeasonGames(teamId, seasonId) {
+            const response = await fetch(`/api/teams/${teamId}/season/${seasonId}`);
+            const result = await response.json();
+            
+            if (result.success) {
+                updateGameList(result.data.games);
+            }
+        }
+
+        function updateTeamInfo(data) {
+            document.getElementById('teamLogo').textContent = data.team_info.team_abbr;
+            document.getElementById('teamName').textContent = data.team_info.team_name;
+            document.getElementById('teamConference').textContent = 
+                `${data.team_info.conference_cn || data.team_info.conference} - ${data.team_info.division_cn || data.team_info.division}`;
+            document.getElementById('allTimeWins').textContent = data.all_time_wins;
+            document.getElementById('allTimeLosses').textContent = data.all_time_losses;
+            document.getElementById('allTimeWinRate').textContent = `${data.all_time_win_rate}%`;
+            document.getElementById('totalSeasons').textContent = data.total_seasons;
+        }
+
+        function updateSeasonList(seasons) {
+            const container = document.getElementById('seasonItems');
+            container.innerHTML = seasons.map((season, index) => {
+                const isActive = index === seasons.length - 1;
+                return `
+                    <div class="season-item ${isActive ? 'active' : ''}" onclick="selectSeason('${season.season}')">
+                        <div class="season-info">
+                            <div class="season-name">${season.season}</div>
+                            <div class="record">${season.wins}-${season.losses} | 场均${season.avg_points}分</div>
+                        </div>
+                        <div class="season-winrate">${season.win_rate}%</div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function selectSeason(season) {
+            currentSeason = season;
+            document.querySelectorAll('.season-item').forEach(s => s.classList.remove('active'));
+            document.querySelector(`[onclick="selectSeason('${season}')"]`).classList.add('active');
+            loadSeasonGames(currentTeam, season);
+            loadSeasonChart(currentTeam, season);
+        }
+        
+        async function loadSeasonChart(teamId, seasonId) {
+            try {
+                const response = await fetch(`/api/teams/${teamId}/season_chart/${seasonId}`);
+                const result = await response.json();
+                
+                if (result.success && result.data.games.length > 0) {
+                    document.getElementById('seasonChartContainer').style.display = 'block';
+                    renderSeasonChart(result.data);
+                } else {
+                    document.getElementById('seasonChartContainer').style.display = 'none';
+                }
+            } catch (error) {
+                console.error('Error loading season chart:', error);
+                document.getElementById('seasonChartContainer').style.display = 'none';
+            }
+        }
+        
+        function renderSeasonChart(data) {
+            if (seasonChart) {
+                seasonChart.destroy();
+            }
+            
+            const ctx = document.getElementById('seasonChart').getContext('2d');
+            const games = data.games;
+            const transactions = data.transactions;
+            
+            // 月份背景色
+            const MONTH_BG_COLORS = {
+                10: 'rgba(255, 255, 255, 1)',
+                11: 'rgba(255, 255, 255, 1)',
+                12: 'rgba(255, 255, 255, 1)',
+                1: 'rgba(255, 255, 255, 1)',
+                2: 'rgba(255, 255, 255, 1)',
+                3: 'rgba(255, 255, 255, 1)',
+                4: 'rgba(255, 255, 255, 1)',
+                5: 'rgba(255, 255, 255, 1)',
+                6: 'rgba(255, 255, 255, 1)'
+            };
+            const MONTH_NAMES = {
+                10: '十月', 11: '十一月', 12: '十二月',
+                1: '一月', 2: '二月', 3: '三月', 4: '四月', 5: '五月', 6: '六月'
+            };
+            
+            // 渲染交易列表
+            const transactionList = document.getElementById('transactionList');
+            const transactionItems = document.getElementById('transactionItems');
+            if (transactions && transactions.length > 0) {
+                transactionList.style.display = 'block';
+                transactionItems.innerHTML = transactions.map(tx => `
+                    <div style="padding: 8px; margin-bottom: 5px; background: rgba(255,255,255,0.05); border-radius: 4px; font-size: 12px;">
+                        <div style="color: #1e90ff; font-weight: 500;">${tx.date}</div>
+                        <div style="color: #aaa; margin-top: 2px;">${tx.description}</div>
+                        ${tx.type ? `<div style="color: #888; font-size: 11px; margin-top: 2px;">类型: ${tx.type}</div>` : ''}
+                    </div>
+                `).join('');
+            } else {
+                transactionList.style.display = 'none';
+            }
+            
+            // 准备图表数据 - 只显示日期
+            const labels = games.map(g => g.game_date.substring(5));
+            
+            // 柱体高度归一化
+            const displayScores = games.map(g => g.display_score / 565);
+
+            // 根据比赛类型设置颜色
+            const backgroundColors = games.map(g => {
+                if (g.is_special) {
+                    return g.is_win ? '#FFD700' : '#4B5563';
+                }
+                return g.is_win ? '#3B82F6' : '#EF4444';
+            });
+            const borderColors = games.map(g => {
+                if (g.is_special) {
+                    return g.is_win ? '#DAA520' : '#374151';
+                }
+                return g.is_win ? '#3B82F6' : '#EF4444';
+            });
+            
+            // 月份背景插件
+            const bgPlugins = [{
+                id: 'monthBackground',
+                beforeDraw: (chart) => {
+                    const ctx = chart.ctx;
+                    const chartArea = chart.chartArea;
+                    const xAxis = chart.scales.x;
+                    
+                    let currentMonth = null;
+                    let startIndex = 0;
+                    
+                    games.forEach((game, index) => {
+                        if (currentMonth !== game.month || index === games.length - 1) {
+                            if (currentMonth !== null) {
+                                const endIndex = index === games.length - 1 ? index + 1 : index;
+                                const startX = xAxis.getPixelForValue(startIndex);
+                                const endX = xAxis.getPixelForValue(endIndex);
+                                const width = endX - startX;
+                                
+                                ctx.fillStyle = MONTH_BG_COLORS[currentMonth] || 'rgba(255,255,255,0.1)';
+                                ctx.fillRect(startX, chartArea.top, width, chartArea.bottom - chartArea.top);
+                            }
+                            currentMonth = game.month;
+                            startIndex = index;
+                        }
+                    });
+                }
+            }];
+            
+            seasonChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: '比分',
+                            data: displayScores,
+                            backgroundColor: backgroundColors,
+                            borderColor: borderColors,
+                            borderWidth: 1,
+                            borderRadius: 3,
+                            barPercentage: 0.6,
+                            categoryPercentage: 0.7
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    interaction: {
+                        mode: 'index',
+                        intersect: false
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                            titleColor: 'white',
+                            bodyColor: 'white',
+                            padding: 12,
+                            callbacks: {
+                                title: function(context) {
+                                    const index = context[0].dataIndex;
+                                    const game = games[index];
+                                    return `${game.game_date} vs ${game.opp_team}`;
+                                },
+                                label: function(context) {
+                                    const index = context.dataIndex;
+                                    const game = games[index];
+                                    const result = game.is_win ? '胜' : '负';
+                                    return [
+                                        `${result}: ${game.team_score} - ${game.opp_score}`
+                                    ];
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: {
+                                color: '#aaa',
+                                maxRotation: 90,
+                                minRotation: 45,
+                                font: { size: 9 },
+                                callback: function(value, index) {
+                                    const game = games[index];
+                                    if (index === 0 || games[index-1].month !== game.month) {
+                                        return `${MONTH_NAMES[game.month]} ${labels[index]}`;
+                                    }
+                                    return labels[index];
+                                }
+                            },
+                            grid: {
+                                display: false
+                            }
+                        },
+                        y: {
+                            min: -1,
+                            max: 1,
+                            display: false,
+                            grid: {
+                                display: false
+                            }
+                        }
+                    }
+                },
+                plugins: bgPlugins
+            });
+        }
+
+        function updateWinRateChart(seasons) {
+            if (winRateChart) winRateChart.destroy();
+            
+            const ctx = document.getElementById('winRateChart').getContext('2d');
+            winRateChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: seasons.map(s => s.season),
+                    datasets: [{
+                        label: '胜率',
+                        data: seasons.map(s => s.win_rate),
+                        borderColor: '#1e90ff',
+                        backgroundColor: 'rgba(30, 144, 255, 0.1)',
+                        tension: 0.3,
+                        fill: true
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            min: 0,
+                            max: 100,
+                            grid: { color: 'rgba(255,255,255,0.1)' },
+                            ticks: { color: '#fff', callback: v => v + '%' }
+                        },
+                        x: {
+                            grid: { color: 'rgba(255,255,255,0.1)' },
+                            ticks: { color: '#fff', maxRotation: 45, minRotation: 45, font: { size: 10 } }
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false }
+                    }
+                }
+            });
+        }
+
+        function updatePointsChart(seasons) {
+            if (pointsChart) pointsChart.destroy();
+            
+            const ctx = document.getElementById('pointsChart').getContext('2d');
+            pointsChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: seasons.map(s => s.season),
+                    datasets: [
+                        {
+                            label: '场均得分',
+                            data: seasons.map(s => s.avg_points),
+                            backgroundColor: 'rgba(59, 130, 246, 0.8)',
+                            borderColor: '#3B82F6',
+                            borderWidth: 2,
+                            borderRadius: 4,
+                            barPercentage: 0.4,
+                            categoryPercentage: 0.8
+                        },
+                        {
+                            label: '场均失分',
+                            data: seasons.map(s => s.avg_opp_points),
+                            backgroundColor: 'rgba(239, 68, 68, 0.8)',
+                            borderColor: '#EF4444',
+                            borderWidth: 2,
+                            borderRadius: 4,
+                            barPercentage: 0.4,
+                            categoryPercentage: 0.8
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            grid: { color: 'rgba(255,255,255,0.1)' },
+                            ticks: { color: '#fff' },
+                            beginAtZero: true
+                        },
+                        x: {
+                            grid: { color: 'rgba(255,255,255,0.1)' },
+                            ticks: { color: '#fff', maxRotation: 45, minRotation: 45, font: { size: 10 } }
+                        }
+                    },
+                    plugins: {
+                        legend: { labels: { color: '#fff' } },
+                        tooltip: {
+                            backgroundColor: 'rgba(0, 0, 0, 0.9)',
+                            titleColor: '#fff',
+                            bodyColor: '#fff',
+                            padding: 12
+                        }
+                    }
+                }
+            });
+        }
+
+        function updateGameList(games) {
+            const container = document.getElementById('gameItems');
+            container.innerHTML = games.map(game => {
+                const isWin = game.result === 'W';
+                return `
+                    <div class="game-item ${isWin ? 'win' : 'loss'}">
+                        <div>
+                            <div class="game-date">${game.game_date}</div>
+                        </div>
+                        <div class="game-score ${isWin ? 'win' : 'loss'}">
+                            ${game.team_score} - ${game.opp_score}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function updateBestGames(games) {
+            const container = document.getElementById('bestGames');
+            container.innerHTML = games.map(game => `
+                <div class="game-item win">
+                    <div>
+                        <div class="game-date">${game.game_date} | ${game.season}</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,0.5);">
+                            投篮命中率: ${game.fg_pct}% | 罚球命中率: ${game.ft_pct}%
+                        </div>
+                    </div>
+                    <div class="game-score win">
+                        ${game.team_score} - ${game.opp_score} (+${game.margin})
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function updateWorstGames(games) {
+            const container = document.getElementById('worstGames');
+            container.innerHTML = games.map(game => `
+                <div class="game-item loss">
+                    <div>
+                        <div class="game-date">${game.game_date} | ${game.season}</div>
+                        <div style="font-size: 11px; color: rgba(255,255,255,0.5);">
+                            投篮命中率: ${game.fg_pct}% | 罚球命中率: ${game.ft_pct}%
+                        </div>
+                    </div>
+                    <div class="game-score loss">
+                        ${game.team_score} - ${game.opp_score} (${game.margin})
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function updateHomeAwayStats(data) {
+            document.getElementById('homeWinRate').textContent = `${data.home.win_rate}%`;
+            document.getElementById('homeRecord').textContent = `${data.home.wins}-${data.home.losses}`;
+            document.getElementById('homeAvgPoints').textContent = data.home.avg_points;
+            document.getElementById('homeAvgOppPoints').textContent = data.home.avg_opp_points;
+            
+            document.getElementById('awayWinRate').textContent = `${data.away.win_rate}%`;
+            document.getElementById('awayRecord').textContent = `${data.away.wins}-${data.away.losses}`;
+            document.getElementById('awayAvgPoints').textContent = data.away.avg_points;
+            document.getElementById('awayAvgOppPoints').textContent = data.away.avg_opp_points;
+        }
+
+        loadTeamData('LAL');
+    </script>
+</body>
+</html>

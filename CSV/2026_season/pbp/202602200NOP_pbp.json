@@ -1,0 +1,4919 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Milwaukee",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "B. McGowens misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:37.0",
+      "Defensive rebound by J. Sims",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:31.0",
+      "K. Porter misses 2-pt layup from 6 ft (block by S. Bey)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "0-2",
+      "+2",
+      "H. Jones makes 2-pt dunk from 1 ft (assist by S. Bey)"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:05.0",
+      "Turnover by A. Green (lost ball; steal by D. Queen)",
+      "",
+      "0-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:49.0",
+      "",
+      "",
+      "0-4",
+      "+2",
+      "S. Bey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:40.0",
+      "R. Rollins makes 3-pt jump shot from 25 ft (assist by A. Green)",
+      "+3",
+      "3-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:26.0",
+      "",
+      "",
+      "3-4",
+      "",
+      "S. Bey misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "3-4",
+      "",
+      "Offensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "3-6",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:14.0",
+      "K. Kuzma makes 3-pt jump shot from 25 ft (assist by R. Rollins)",
+      "+3",
+      "6-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "6-6",
+      "",
+      "Shooting foul by J. Sims (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "6-7",
+      "+1",
+      "Z. Williamson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "6-8",
+      "+1",
+      "Z. Williamson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:53.0",
+      "K. Porter makes 2-pt layup from 2 ft",
+      "+2",
+      "8-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:36.0",
+      "",
+      "",
+      "8-10",
+      "+2",
+      "B. McGowens makes 2-pt layup from 2 ft (assist by H. Jones)"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:22.0",
+      "R. Rollins makes 3-pt jump shot from 25 ft",
+      "+3",
+      "11-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "11-10",
+      "",
+      "Turnover by S. Bey (bad pass)"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:59.0",
+      "K. Kuzma makes 2-pt dunk at rim (assist by A. Green)",
+      "+2",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "13-10",
+      "",
+      "Z. Williamson misses 2-pt layup from 5 ft (block by J. Sims)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:47.0",
+      "Defensive rebound by K. Porter",
+      "",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:44.0",
+      "K. Kuzma makes 2-pt dunk from 1 ft (assist by R. Rollins)",
+      "+2",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "Z. Williamson misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:27.0",
+      "Defensive rebound by J. Sims",
+      "",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:19.0",
+      "A. Green misses 3-pt jump shot from 25 ft",
+      "",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:07.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "D. Queen misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:04.0",
+      "Defensive rebound by J. Sims",
+      "",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:02.0",
+      "Turnover by R. Rollins (out of bounds lost ball)",
+      "",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "K. Matković enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "B. McGowens misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:35.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "Offensive rebound by K. Matković"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:35.0",
+      "",
+      "",
+      "15-12",
+      "+2",
+      "K. Matković makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:16.0",
+      "Shooting foul by B. McGowens (drawn by K. Porter)",
+      "",
+      "15-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:16.0",
+      "K. Porter makes free throw 1 of 2",
+      "+1",
+      "16-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:16.0",
+      "K. Porter makes free throw 2 of 2",
+      "+1",
+      "17-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:05.0",
+      "",
+      "",
+      "17-12",
+      "",
+      "Turnover by D. Queen (lost ball; steal by K. Kuzma)"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:59.0",
+      "K. Kuzma misses 3-pt jump shot from 23 ft",
+      "",
+      "17-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:54.0",
+      "Offensive rebound by J. Sims",
+      "",
+      "17-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:53.0",
+      "Turnover by J. Sims (bad pass; steal by S. Bey)",
+      "",
+      "17-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "17-14",
+      "+2",
+      "S. Bey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:29.0",
+      "K. Porter misses 3-pt jump shot from 23 ft",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "Defensive rebound by K. Matković"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "17-16",
+      "+2",
+      "S. Bey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:07.0",
+      "R. Rollins makes 3-pt jump shot from 24 ft (assist by J. Sims)",
+      "+3",
+      "20-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "20-16",
+      "",
+      "Def 3 sec tech foul by Team"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "20-16",
+      "",
+      "B. McGowens misses technical free throw"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "20-16",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:56.0",
+      "O. Dieng enters the game for K. Kuzma",
+      "",
+      "20-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:56.0",
+      "B. Portis enters the game for K. Porter",
+      "",
+      "20-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "20-16",
+      "",
+      "J. Fears enters the game for H. Jones"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "20-16",
+      "",
+      "S. Bey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:48.0",
+      "Defensive rebound by R. Rollins",
+      "",
+      "20-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:33.0",
+      "B. Portis makes 2-pt jump shot from 12 ft (assist by A. Green)",
+      "+2",
+      "22-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "22-16",
+      "",
+      "Turnover by S. Bey (traveling)"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:16.0",
+      "P. Nance enters the game for J. Sims",
+      "",
+      "22-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:01.0",
+      "A. Green misses 3-pt jump shot from 26 ft",
+      "",
+      "22-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "22-16",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "22-16",
+      "",
+      "D. Queen misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "22-16",
+      "",
+      "Offensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "22-18",
+      "+2",
+      "D. Queen makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:34.0",
+      "R. Rollins misses 3-pt jump shot from 25 ft",
+      "",
+      "22-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:26.0",
+      "Offensive rebound by B. Portis",
+      "",
+      "22-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:26.0",
+      "B. Portis makes 2-pt dunk at rim",
+      "+2",
+      "24-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "24-18",
+      "",
+      "B. McGowens misses 2-pt layup from 4 ft (block by P. Nance)"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:10.0",
+      "Defensive rebound by Team",
+      "",
+      "24-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "24-18",
+      "",
+      "Loose ball foul by B. McGowens (drawn by O. Dieng)"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:10.0",
+      "C. Thomas enters the game for A. Green",
+      "",
+      "24-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "24-18",
+      "",
+      "J. Poole enters the game for B. McGowens"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "24-18",
+      "",
+      "Z. Williamson enters the game for D. Queen"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "3:52.0",
+      "R. Rollins makes 2-pt jump shot from 10 ft",
+      "+2",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:42.0",
+      "",
+      "",
+      "26-20",
+      "+2",
+      "S. Bey makes 2-pt layup from 1 ft (assist by J. Poole)"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:32.0",
+      "R. Rollins misses 3-pt jump shot from 25 ft",
+      "",
+      "26-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "26-20",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "26-22",
+      "+2",
+      "J. Fears makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:09.0",
+      "P. Nance misses 3-pt jump shot from 24 ft",
+      "",
+      "26-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "26-22",
+      "",
+      "Defensive rebound by J. Poole"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:59.0",
+      "",
+      "",
+      "26-25",
+      "+3",
+      "J. Poole makes 3-pt jump shot from 29 ft (assist by S. Bey)"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:58.0",
+      "Milwaukee full timeout",
+      "",
+      "26-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:58.0",
+      "K. Porter enters the game for R. Rollins",
+      "",
+      "26-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:58.0",
+      "",
+      "",
+      "26-25",
+      "",
+      "H. Jones enters the game for S. Bey"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:45.0",
+      "O. Dieng makes 2-pt dunk from 1 ft (assist by B. Portis)",
+      "+2",
+      "28-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "28-27",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:18.0",
+      "Turnover by O. Dieng (out of bounds lost ball)",
+      "",
+      "28-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "28-29",
+      "+2",
+      "J. Fears makes 2-pt jump shot from 3 ft (assist by K. Matković)"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "28-29",
+      "",
+      "Shooting foul by C. Thomas (drawn by J. Fears)"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "28-30",
+      "+1",
+      "J. Fears makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:49.0",
+      "C. Thomas misses 3-pt jump shot from 28 ft",
+      "",
+      "28-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "28-30",
+      "",
+      "Defensive rebound by J. Poole"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "28-32",
+      "+2",
+      "Z. Williamson makes 2-pt dunk from 1 ft (assist by J. Poole)"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "1:19.0",
+      "B. Portis makes 2-pt layup from 2 ft",
+      "+2",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "30-34",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:58.0",
+      "P. Nance misses 2-pt hook shot from 3 ft (block by K. Matković)",
+      "",
+      "30-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "30-34",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "30-36",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:34.0",
+      "B. Portis makes 2-pt layup from 2 ft (assist by K. Porter)",
+      "+2",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Personal foul by P. Nance (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:20.0",
+      "J. Sims enters the game for P. Nance",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "32-38",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:08.0",
+      "Personal foul by H. Jones (drawn by C. Thomas)",
+      "",
+      "32-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:08.0",
+      "Personal foul by J. Poole (drawn by O. Dieng)",
+      "",
+      "32-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:08.0",
+      "O. Dieng misses free throw 1 of 2",
+      "",
+      "32-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:08.0",
+      "Offensive rebound by Team",
+      "",
+      "32-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:08.0",
+      "R. Rollins enters the game for C. Thomas",
+      "",
+      "32-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:08.0",
+      "O. Dieng makes free throw 2 of 2",
+      "+1",
+      "33-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "33-38",
+      "",
+      "Shooting foul by B. Portis (drawn by J. Fears)"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "33-38",
+      "",
+      "J. Fears misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "33-38",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "33-38",
+      "",
+      "J. Fears misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "33-38",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "33-38",
+      "",
+      "J. Poole misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "33-38",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "Time",
+      "Milwaukee",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "11:44.0",
+      "C. Thomas misses 2-pt jump shot from 5 ft",
+      "",
+      "33-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "11:36.0",
+      "Offensive rebound by B. Portis",
+      "",
+      "33-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "11:35.0",
+      "B. Portis makes 2-pt layup from 2 ft",
+      "+2",
+      "35-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "11:32.0",
+      "",
+      "",
+      "35-38",
+      "",
+      "J. Poole misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "11:32.0",
+      "",
+      "",
+      "35-38",
+      "",
+      "Offensive rebound by Z. Williamson"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "35-38",
+      "",
+      "H. Jones misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "11:20.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "35-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:05.0",
+      "K. Porter makes 2-pt jump shot from 3 ft (assist by C. Thomas)",
+      "+2",
+      "37-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:44.0",
+      "",
+      "",
+      "37-40",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:28.0",
+      "O. Dieng misses 2-pt jump shot from 11 ft",
+      "",
+      "37-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "37-40",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "37-42",
+      "+2",
+      "H. Jones makes 2-pt layup from 1 ft (assist by K. Matković)"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:05.0",
+      "Personal foul by H. Jones (drawn by C. Thomas)",
+      "",
+      "37-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:05.0",
+      "K. Kuzma enters the game for O. Dieng",
+      "",
+      "37-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:05.0",
+      "",
+      "",
+      "37-42",
+      "",
+      "J. Hawkins enters the game for J. Fears"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:59.0",
+      "C. Thomas makes 3-pt jump shot from 24 ft (assist by K. Porter)",
+      "+3",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "40-42",
+      "",
+      "Turnover by J. Hawkins (bad pass; steal by K. Porter)"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:36.0",
+      "K. Kuzma misses 2-pt layup from 2 ft",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:34.0",
+      "Offensive rebound by K. Kuzma",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:33.0",
+      "C. Thomas makes 2-pt layup from 2 ft (assist by K. Kuzma)",
+      "+2",
+      "42-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:33.0",
+      "Shooting foul by H. Jones (drawn by C. Thomas)",
+      "",
+      "42-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "42-42",
+      "",
+      "S. Bey enters the game for H. Jones"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:33.0",
+      "C. Thomas makes free throw 1 of 1",
+      "+1",
+      "43-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "43-44",
+      "+2",
+      "S. Bey makes 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:58.0",
+      "C. Thomas makes 2-pt jump shot from 8 ft",
+      "+2",
+      "45-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "45-46",
+      "+2",
+      "Z. Williamson makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "45-46",
+      "",
+      "Shooting foul by J. Sims (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "45-47",
+      "+1",
+      "Z. Williamson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:46.0",
+      "A. Green enters the game for K. Porter",
+      "",
+      "45-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:46.0",
+      "R. Rollins enters the game for B. Portis",
+      "",
+      "45-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "45-47",
+      "",
+      "D. Queen enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:24.0",
+      "K. Kuzma misses 2-pt hook shot from 6 ft",
+      "",
+      "45-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "45-47",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "45-47",
+      "",
+      "Turnover by D. Queen (lost ball; steal by A. Green)"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "7:54.0",
+      "C. Thomas makes 2-pt jump shot from 13 ft",
+      "+2",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "47-47",
+      "",
+      "J. Hawkins misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "7:35.0",
+      "Defensive rebound by J. Sims",
+      "",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:23.0",
+      "Shooting foul by K. Matković (drawn by C. Thomas)",
+      "",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:23.0",
+      "C. Thomas makes free throw 1 of 2",
+      "+1",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:23.0",
+      "P. Nance enters the game for J. Sims",
+      "",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "J. Fears enters the game for K. Matković"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:23.0",
+      "C. Thomas misses free throw 2 of 2",
+      "",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:20.0",
+      "Offensive rebound by C. Thomas",
+      "",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:18.0",
+      "C. Thomas misses 3-pt jump shot from 25 ft",
+      "",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:13.0",
+      "Offensive rebound by P. Nance",
+      "",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:06.0",
+      "K. Kuzma misses 3-pt jump shot from 23 ft",
+      "",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "J. Fears misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "Offensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:45.0",
+      "",
+      "",
+      "48-49",
+      "+2",
+      "D. Queen makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:38.0",
+      "R. Rollins misses 2-pt layup from 3 ft (block by D. Queen)",
+      "",
+      "48-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:35.0",
+      "Offensive rebound by C. Thomas",
+      "",
+      "48-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:32.0",
+      "C. Thomas makes 2-pt jump shot from 16 ft",
+      "+2",
+      "50-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "50-49",
+      "",
+      "S. Bey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:15.0",
+      "Defensive rebound by P. Nance",
+      "",
+      "50-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:11.0",
+      "C. Thomas makes 2-pt jump shot from 9 ft",
+      "+2",
+      "52-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:11.0",
+      "Shooting foul by D. Queen (drawn by C. Thomas)",
+      "",
+      "52-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "52-49",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "52-49",
+      "",
+      "B. McGowens enters the game for J. Hawkins"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:11.0",
+      "C. Thomas makes free throw 1 of 1",
+      "+1",
+      "53-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "53-49",
+      "",
+      "Turnover by J. Fears (bad pass; steal by R. Rollins)"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:55.0",
+      "Turnover by C. Thomas (bad pass; steal by J. Fears)",
+      "",
+      "53-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "53-51",
+      "+2",
+      "D. Queen makes 2-pt dunk from 1 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:32.0",
+      "P. Nance makes 2-pt layup from 2 ft (assist by A. Green)",
+      "+2",
+      "55-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "55-53",
+      "+2",
+      "J. Fears makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "4:56.0",
+      "K. Kuzma makes 3-pt jump shot from 24 ft (assist by P. Nance)",
+      "+3",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "58-53",
+      "",
+      "J. Fears misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "4:41.0",
+      "Defensive rebound by P. Nance",
+      "",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "4:33.0",
+      "Turnover by K. Kuzma (lost ball; steal by S. Bey)",
+      "",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "58-55",
+      "+2",
+      "B. McGowens makes 2-pt layup from 1 ft (assist by S. Bey)"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "4:14.0",
+      "C. Thomas makes 2-pt layup from 2 ft (assist by K. Kuzma)",
+      "+2",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "3:55.0",
+      "",
+      "",
+      "60-55",
+      "",
+      "B. McGowens misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "3:55.0",
+      "Defensive rebound by K. Kuzma",
+      "",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "3:47.0",
+      "R. Rollins makes 2-pt layup from 2 ft",
+      "+2",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "62-57",
+      "+2",
+      "D. Queen makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "3:22.0",
+      "Turnover by C. Thomas (lost ball; steal by D. Queen)",
+      "",
+      "62-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "62-59",
+      "+2",
+      "J. Fears makes 2-pt layup from 2 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:14.0",
+      "Milwaukee full timeout",
+      "",
+      "62-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:14.0",
+      "K. Porter enters the game for P. Nance",
+      "",
+      "62-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:14.0",
+      "J. Sims enters the game for C. Thomas",
+      "",
+      "62-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:14.0",
+      "",
+      "",
+      "62-59",
+      "",
+      "Z. Williamson enters the game for J. Poole"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "2:51.0",
+      "Turnover by A. Green (bad pass; steal by B. McGowens)",
+      "",
+      "62-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "62-59",
+      "",
+      "B. McGowens misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "2:38.0",
+      "Defensive rebound by J. Sims",
+      "",
+      "62-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "2:31.0",
+      "R. Rollins makes 3-pt jump shot from 24 ft (assist by K. Porter)",
+      "+3",
+      "65-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "65-59",
+      "",
+      "S. Bey misses 2-pt layup from 2 ft (block by K. Porter)"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "65-59",
+      "",
+      "Offensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "65-59",
+      "",
+      "Shooting foul by A. Green (drawn by D. Queen)"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "65-60",
+      "+1",
+      "D. Queen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "65-60",
+      "",
+      "D. Queen misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:04.0",
+      "Defensive rebound by A. Green",
+      "",
+      "65-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "1:53.0",
+      "J. Sims makes 2-pt dunk from 1 ft (assist by K. Kuzma)",
+      "+2",
+      "67-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "67-60",
+      "",
+      "Shooting foul by K. Kuzma (drawn by J. Fears)"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "67-60",
+      "",
+      "J. Fears misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "67-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "67-61",
+      "+1",
+      "J. Fears makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "1:28.0",
+      "A. Green misses 3-pt jump shot from 26 ft",
+      "",
+      "67-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "67-61",
+      "",
+      "Defensive rebound by J. Fears"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "67-61",
+      "",
+      "Turnover by J. Fears (bad pass; steal by R. Rollins)"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:15.0",
+      "K. Porter makes 2-pt dunk at rim (assist by R. Rollins)",
+      "+2",
+      "69-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "69-61",
+      "",
+      "Turnover by J. Fears (lost ball; steal by R. Rollins)"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:00.0",
+      "B. Portis enters the game for J. Sims",
+      "",
+      "69-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "0:57.0",
+      "Turnover by R. Rollins (lost ball; steal by J. Fears)",
+      "",
+      "69-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "69-63",
+      "+2",
+      "D. Queen makes 2-pt hook shot from 3 ft"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "0:36.0",
+      "K. Porter misses 2-pt jump shot from 2 ft",
+      "",
+      "69-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:36.0",
+      "Offensive rebound by K. Kuzma",
+      "",
+      "69-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:33.0",
+      "K. Kuzma makes 2-pt dunk at rim",
+      "+2",
+      "71-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "71-65",
+      "+2",
+      "Z. Williamson makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:03.0",
+      "R. Rollins misses 3-pt jump shot from 24 ft",
+      "",
+      "71-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "71-65",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "71-65",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "71-65",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "Time",
+      "Milwaukee",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "11:44.0",
+      "J. Sims makes 2-pt dunk from 1 ft (assist by K. Porter)",
+      "+2",
+      "73-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "11:25.0",
+      "",
+      "",
+      "73-65",
+      "",
+      "H. Jones misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "73-65",
+      "",
+      "Offensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "73-67",
+      "+2",
+      "D. Queen makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "11:07.0",
+      "A. Green misses 3-pt jump shot from 28 ft",
+      "",
+      "73-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "11:06.0",
+      "Offensive rebound by Team",
+      "",
+      "73-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "73-67",
+      "",
+      "Loose ball foul by D. Queen (drawn by J. Sims)"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "10:55.0",
+      "K. Porter makes 2-pt jump shot from 11 ft",
+      "+2",
+      "75-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "10:44.0",
+      "",
+      "",
+      "75-67",
+      "",
+      "Z. Williamson misses 2-pt hook shot from 5 ft (block by J. Sims)"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "75-67",
+      "",
+      "Offensive rebound by H. Jones"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "10:39.0",
+      "",
+      "",
+      "75-67",
+      "",
+      "Shooting foul by J. Sims (drawn by D. Queen)"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:39.0",
+      "",
+      "",
+      "75-67",
+      "",
+      "D. Queen misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:39.0",
+      "",
+      "",
+      "75-67",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "10:39.0",
+      "",
+      "",
+      "75-68",
+      "+1",
+      "D. Queen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "10:22.0",
+      "K. Kuzma makes 2-pt layup from 2 ft (assist by R. Rollins)",
+      "+2",
+      "77-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "77-68",
+      "",
+      "Shooting foul by K. Porter (drawn by H. Jones)"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "77-69",
+      "+1",
+      "H. Jones makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "77-70",
+      "+1",
+      "H. Jones makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "9:47.0",
+      "K. Kuzma misses 3-pt jump shot from 26 ft",
+      "",
+      "77-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "77-70",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "9:37.0",
+      "",
+      "",
+      "77-72",
+      "+2",
+      "B. McGowens makes 2-pt jump shot from 11 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "9:16.0",
+      "K. Porter makes 2-pt jump shot from 20 ft",
+      "+2",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:00.0",
+      "",
+      "",
+      "79-72",
+      "",
+      "B. McGowens misses 2-pt layup from 2 ft (block by R. Rollins)"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "9:00.0",
+      "Defensive rebound by A. Green",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "8:56.0",
+      "Offensive foul by J. Sims (drawn by B. McGowens)",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "8:56.0",
+      "Turnover by J. Sims (offensive foul)",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "8:56.0",
+      "B. Portis enters the game for J. Sims",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "79-72",
+      "",
+      "Shooting foul by K. Porter (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "79-73",
+      "+1",
+      "S. Bey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "79-74",
+      "+1",
+      "S. Bey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "8:32.0",
+      "B. Portis makes 2-pt jump shot from 19 ft (assist by R. Rollins)",
+      "+2",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "81-77",
+      "+3",
+      "S. Bey makes 3-pt jump shot from 23 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "8:05.0",
+      "R. Rollins makes 3-pt jump shot from 26 ft",
+      "+3",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "Shooting foul by R. Rollins (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "84-78",
+      "+1",
+      "Z. Williamson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "84-78",
+      "",
+      "Z. Williamson misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "7:51.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "84-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "7:49.0",
+      "Personal foul by D. Queen (drawn by K. Kuzma)",
+      "",
+      "84-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "7:40.0",
+      "B. Portis makes 2-pt jump shot from 13 ft (assist by K. Porter)",
+      "+2",
+      "86-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "86-78",
+      "",
+      "Turnover by D. Queen (lost ball; steal by R. Rollins)"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "7:14.0",
+      "Turnover by K. Porter (lost ball; steal by S. Bey)",
+      "",
+      "86-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "86-78",
+      "",
+      "Shooting foul by A. Green (drawn by D. Queen)"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "86-79",
+      "+1",
+      "D. Queen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "86-80",
+      "+1",
+      "D. Queen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "6:58.0",
+      "B. Portis misses 2-pt layup from 2 ft",
+      "",
+      "86-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "86-80",
+      "",
+      "Defensive rebound by D. Queen"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "86-82",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft (assist by D. Queen)"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "6:53.0",
+      "Milwaukee full timeout",
+      "",
+      "86-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "86-82",
+      "",
+      "K. Matković enters the game for D. Queen"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "6:31.0",
+      "R. Rollins makes 2-pt jump shot from 17 ft",
+      "+2",
+      "88-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "88-82",
+      "",
+      "S. Bey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "6:15.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "88-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "6:05.0",
+      "B. Portis makes 3-pt jump shot from 28 ft (assist by K. Kuzma)",
+      "+3",
+      "91-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "91-84",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "5:40.0",
+      "B. Portis misses 3-pt jump shot from 24 ft",
+      "",
+      "91-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "91-84",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "91-87",
+      "+3",
+      "K. Matković makes 3-pt jump shot from 23 ft (assist by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "5:17.0",
+      "K. Porter misses 2-pt layup from 2 ft",
+      "",
+      "91-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "91-87",
+      "",
+      "Defensive rebound by H. Jones"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "91-89",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft (assist by H. Jones)"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "4:58.0",
+      "Personal foul by Z. Williamson (drawn by K. Kuzma)",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "4:58.0",
+      "O. Dieng enters the game for K. Kuzma",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "4:58.0",
+      "P. Nance enters the game for K. Porter",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "91-89",
+      "",
+      "J. Fears enters the game for H. Jones"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "91-89",
+      "",
+      "J. Poole enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "4:47.0",
+      "B. Portis misses 2-pt jump shot from 18 ft",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "91-89",
+      "",
+      "Defensive rebound by J. Poole"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "91-89",
+      "",
+      "J. Poole misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "4:34.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "4:34.0",
+      "C. Thomas enters the game for A. Green",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "4:12.0",
+      "P. Nance misses 3-pt jump shot from 37 ft",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "4:11.0",
+      "Offensive rebound by Team",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "4:11.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "91-89",
+      "",
+      "J. Fears misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "3:58.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "91-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "3:49.0",
+      "O. Dieng makes 3-pt jump shot from 26 ft (assist by P. Nance)",
+      "+3",
+      "94-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "94-92",
+      "+3",
+      "S. Bey makes 3-pt jump shot from 26 ft (assist by J. Fears)"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "3:17.0",
+      "C. Thomas misses 3-pt jump shot from 27 ft",
+      "",
+      "94-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "94-92",
+      "",
+      "Defensive rebound by K. Matković"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "94-92",
+      "",
+      "J. Fears misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "2:56.0",
+      "Defensive rebound by Team",
+      "",
+      "94-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "2:56.0",
+      "",
+      "",
+      "94-92",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "2:56.0",
+      "A. Green enters the game for C. Thomas",
+      "",
+      "94-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "2:56.0",
+      "",
+      "",
+      "94-92",
+      "",
+      "Instant Replay (Challenge: Stands)"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "2:56.0",
+      "C. Thomas enters the game for A. Green",
+      "",
+      "94-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "2:36.0",
+      "O. Dieng misses 2-pt layup from 7 ft",
+      "",
+      "94-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "94-92",
+      "",
+      "Defensive rebound by K. Matković"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "94-92",
+      "",
+      "J. Fears misses 2-pt layup from 3 ft (block by R. Rollins)"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "2:27.0",
+      "Defensive rebound by C. Thomas",
+      "",
+      "94-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "2:25.0",
+      "C. Thomas makes 2-pt dunk from 1 ft",
+      "+2",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "96-92",
+      "",
+      "S. Bey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "2:16.0",
+      "Defensive rebound by R. Rollins",
+      "",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "2:11.0",
+      "Shooting foul by J. Poole (drawn by O. Dieng)",
+      "",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "2:11.0",
+      "O. Dieng makes free throw 1 of 2",
+      "+1",
+      "97-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "97-92",
+      "",
+      "H. Jones enters the game for B. McGowens"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:11.0",
+      "O. Dieng makes free throw 2 of 2",
+      "+1",
+      "98-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "H. Jones misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "1:33.0",
+      "R. Rollins makes 3-pt jump shot from 27 ft",
+      "+3",
+      "101-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "H. Jones misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "Offensive rebound by K. Matković"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "101-94",
+      "+2",
+      "K. Matković makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "0:54.0",
+      "C. Thomas makes 2-pt jump shot from 19 ft",
+      "+2",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "J. Poole misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "0:41.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:35.0",
+      "C. Thomas misses 3-pt jump shot from 27 ft",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "Defensive rebound by K. Matković"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "103-96",
+      "+2",
+      "H. Jones makes 2-pt layup from 2 ft (assist by J. Poole)"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "0:02.0",
+      "R. Rollins misses 2-pt layup from 2 ft",
+      "",
+      "103-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "103-96",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "103-96",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "Time",
+      "Milwaukee",
+      "",
+      "Score",
+      "",
+      "New Orleans"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "103-98",
+      "+2",
+      "D. Queen makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "11:14.0",
+      "P. Nance misses 2-pt layup from 1 ft (block by D. Queen)",
+      "",
+      "103-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "103-98",
+      "",
+      "Defensive rebound by J. Poole"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "103-98",
+      "",
+      "Turnover by D. Queen (lost ball; steal by K. Porter)"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "10:55.0",
+      "Shooting foul by H. Jones (drawn by C. Thomas)",
+      "",
+      "103-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "10:55.0",
+      "C. Thomas misses free throw 1 of 2",
+      "",
+      "103-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "10:55.0",
+      "Offensive rebound by Team",
+      "",
+      "103-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "10:55.0",
+      "C. Thomas makes free throw 2 of 2",
+      "+1",
+      "104-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "104-98",
+      "",
+      "J. Poole misses 2-pt layup from 3 ft (block by B. Portis)"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "10:29.0",
+      "Defensive rebound by P. Nance",
+      "",
+      "104-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "10:20.0",
+      "C. Thomas makes 2-pt layup from 1 ft",
+      "+2",
+      "106-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "106-98",
+      "",
+      "Z. Williamson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "9:55.0",
+      "Defensive rebound by O. Dieng",
+      "",
+      "106-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "9:51.0",
+      "Turnover by P. Nance (lost ball; steal by D. Queen)",
+      "",
+      "106-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "106-100",
+      "+2",
+      "J. Fears makes 2-pt layup from 2 ft (assist by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "9:23.0",
+      "C. Thomas makes 2-pt jump shot from 12 ft",
+      "+2",
+      "108-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "108-102",
+      "+2",
+      "Z. Williamson makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "108-102",
+      "",
+      "Shooting foul by B. Portis (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "108-102",
+      "",
+      "Z. Williamson misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "9:07.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "108-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "8:57.0",
+      "C. Thomas misses 3-pt jump shot from 25 ft",
+      "",
+      "108-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "108-102",
+      "",
+      "Defensive rebound by H. Jones"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "108-102",
+      "",
+      "D. Queen misses 2-pt layup from 2 ft (block by O. Dieng)"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "8:45.0",
+      "Defensive rebound by Team",
+      "",
+      "108-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "108-102",
+      "",
+      "Violation by Team (delay of game)"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "8:34.0",
+      "P. Nance makes 3-pt jump shot from 22 ft (assist by K. Porter)",
+      "+3",
+      "111-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "111-102",
+      "",
+      "Shooting foul by P. Nance (drawn by Z. Williamson)"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "111-103",
+      "+1",
+      "Z. Williamson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "111-104",
+      "+1",
+      "Z. Williamson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "8:16.0",
+      "A. Green enters the game for C. Thomas",
+      "",
+      "111-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "8:00.0",
+      "K. Porter misses 2-pt jump shot from 7 ft",
+      "",
+      "111-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "8:00.0",
+      "Offensive rebound by Team",
+      "",
+      "111-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "7:57.0",
+      "P. Nance makes 2-pt layup from 1 ft (assist by K. Porter)",
+      "+2",
+      "113-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "7:57.0",
+      "",
+      "",
+      "113-104",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "113-106",
+      "+2",
+      "J. Fears makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "7:37.0",
+      "O. Dieng makes 2-pt jump shot from 17 ft",
+      "+2",
+      "115-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "115-106",
+      "",
+      "J. Fears misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "7:09.0",
+      "Defensive rebound by K. Porter",
+      "",
+      "115-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "6:58.0",
+      "P. Nance makes 3-pt jump shot from 23 ft (assist by O. Dieng)",
+      "+3",
+      "118-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "118-106",
+      "",
+      "H. Jones misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "6:37.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "118-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "6:29.0",
+      "K. Porter makes 2-pt jump shot from 7 ft",
+      "+2",
+      "120-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "120-106",
+      "",
+      "New Orleans full timeout"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "120-106",
+      "",
+      "S. Bey enters the game for J. Fears"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "120-106",
+      "",
+      "K. Matković enters the game for D. Queen"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "120-106",
+      "",
+      "B. McGowens enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "120-106",
+      "",
+      "H. Jones misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "6:15.0",
+      "Defensive rebound by P. Nance",
+      "",
+      "120-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "5:59.0",
+      "K. Porter makes 2-pt layup from 2 ft",
+      "+2",
+      "122-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "122-106",
+      "",
+      "B. McGowens misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "5:48.0",
+      "Defensive rebound by O. Dieng",
+      "",
+      "122-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "5:35.0",
+      "O. Dieng misses 2-pt layup from 4 ft (block by K. Matković)",
+      "",
+      "122-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "122-106",
+      "",
+      "Defensive rebound by H. Jones"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "122-106",
+      "",
+      "Shooting foul by B. Portis (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "122-107",
+      "+1",
+      "S. Bey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "122-108",
+      "+1",
+      "S. Bey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "5:17.0",
+      "B. Portis misses 3-pt jump shot from 25 ft",
+      "",
+      "122-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "5:12.0",
+      "",
+      "",
+      "122-108",
+      "",
+      "Defensive rebound by B. McGowens"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "122-108",
+      "",
+      "S. Bey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "5:03.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "122-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "4:51.0",
+      "K. Porter makes 2-pt layup from 1 ft",
+      "+2",
+      "124-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "4:51.0",
+      "Shooting foul by B. McGowens (drawn by K. Porter)",
+      "",
+      "124-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "4:51.0",
+      "R. Rollins enters the game for O. Dieng",
+      "",
+      "124-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "4:51.0",
+      "",
+      "",
+      "124-108",
+      "",
+      "Z. Williamson enters the game for J. Poole"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "4:51.0",
+      "K. Porter makes free throw 1 of 1",
+      "+1",
+      "125-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "125-110",
+      "+2",
+      "K. Matković makes 2-pt dunk from 1 ft (assist by H. Jones)"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "4:19.0",
+      "Personal foul by K. Matković (drawn by K. Porter)",
+      "",
+      "125-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "4:19.0",
+      "K. Kuzma enters the game for P. Nance",
+      "",
+      "125-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "4:19.0",
+      "J. Sims enters the game for B. Portis",
+      "",
+      "125-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "4:06.0",
+      "K. Porter makes 2-pt layup from 4 ft",
+      "+2",
+      "127-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "3:43.0",
+      "",
+      "",
+      "127-110",
+      "",
+      "Turnover by H. Jones (bad pass)"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "3:20.0",
+      "K. Porter makes 2-pt jump shot from 17 ft",
+      "+2",
+      "129-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "129-110",
+      "",
+      "Turnover by K. Matković (bad pass)"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "129-110",
+      "",
+      "J. Fears enters the game for K. Matković"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "2:57.0",
+      "Shooting foul by B. McGowens (drawn by K. Porter)",
+      "",
+      "129-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "2:57.0",
+      "K. Porter makes free throw 1 of 3",
+      "+1",
+      "130-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "2:57.0",
+      "K. Porter makes free throw 2 of 3",
+      "+1",
+      "131-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "2:57.0",
+      "K. Porter misses free throw 3 of 3",
+      "",
+      "131-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "131-110",
+      "",
+      "Defensive rebound by S. Bey"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "131-112",
+      "+2",
+      "B. McGowens makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "2:27.0",
+      "Milwaukee full timeout",
+      "",
+      "131-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "2:27.0",
+      "T. Antetokounmpo enters the game for A. Green",
+      "",
+      "131-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "2:27.0",
+      "O. Dieng enters the game for K. Kuzma",
+      "",
+      "131-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "2:27.0",
+      "A. Jackson enters the game for K. Porter",
+      "",
+      "131-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "2:27.0",
+      "G. Trent enters the game for J. Sims",
+      "",
+      "131-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "2:14.0",
+      "G. Trent makes 3-pt jump shot from 25 ft (assist by R. Rollins)",
+      "+3",
+      "134-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "1:59.0",
+      "",
+      "",
+      "134-112",
+      "",
+      "Shooting foul by O. Dieng (drawn by S. Bey)"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "1:59.0",
+      "",
+      "",
+      "134-113",
+      "+1",
+      "S. Bey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "1:59.0",
+      "",
+      "",
+      "134-113",
+      "",
+      "K. Matković enters the game for Z. Williamson"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "1:59.0",
+      "",
+      "",
+      "134-114",
+      "+1",
+      "S. Bey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "1:34.0",
+      "G. Trent misses 3-pt jump shot from 27 ft",
+      "",
+      "134-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "134-114",
+      "",
+      "Defensive rebound by K. Matković"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "134-114",
+      "",
+      "Turnover by K. Matković (lost ball; steal by A. Jackson)"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "1:28.0",
+      "R. Rollins makes 3-pt jump shot from 26 ft (assist by T. Antetokounmpo)",
+      "+3",
+      "137-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "137-114",
+      "",
+      "H. Jones misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "1:10.0",
+      "Defensive rebound by T. Antetokounmpo",
+      "",
+      "137-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "1:04.0",
+      "Shooting foul by H. Jones (drawn by T. Antetokounmpo)",
+      "",
+      "137-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "1:04.0",
+      "T. Antetokounmpo makes free throw 1 of 2",
+      "+1",
+      "138-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "138-114",
+      "",
+      "J. Hawkins enters the game for S. Bey"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "138-114",
+      "",
+      "D. Queen enters the game for H. Jones"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "1:04.0",
+      "T. Antetokounmpo makes free throw 2 of 2",
+      "+1",
+      "139-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "139-116",
+      "+2",
+      "J. Fears makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "0:36.0",
+      "Turnover by O. Dieng (lost ball; steal by B. McGowens)",
+      "",
+      "139-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "139-118",
+      "+2",
+      "B. McGowens makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "0:07.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "139-118",
+      "",
+      ""
+    ]
+  }
+]

@@ -1,0 +1,4842 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Golden State"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "0-2",
+      "+2",
+      "B. Podziemski makes 2-pt layup from 5 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:19.0",
+      "A. Şengün misses 2-pt layup from 4 ft",
+      "",
+      "0-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "0-2",
+      "",
+      "Defensive rebound by G. Santos"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "0-4",
+      "+2",
+      "G. Santos makes 2-pt layup from 2 ft (assist by D. Melton)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "10:38.0",
+      "R. Sheppard misses 2-pt jump shot from 14 ft",
+      "",
+      "0-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "0-4",
+      "",
+      "Defensive rebound by B. Podziemski"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "0-7",
+      "+3",
+      "D. Green makes 3-pt jump shot from 23 ft (assist by B. Podziemski)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:14.0",
+      "J. Smith makes 2-pt jump shot from 11 ft",
+      "+2",
+      "2-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:03.0",
+      "",
+      "",
+      "2-7",
+      "",
+      "Turnover by B. Podziemski (lost ball; steal by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "9:58.0",
+      "K. Durant makes 2-pt dunk from 1 ft",
+      "+2",
+      "4-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "9:45.0",
+      "",
+      "",
+      "4-7",
+      "",
+      "K. Porziņģis misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:43.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "4-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:31.0",
+      "A. Thompson makes 2-pt layup from 1 ft (assist by R. Sheppard)",
+      "+2",
+      "6-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:14.0",
+      "",
+      "",
+      "6-10",
+      "+3",
+      "G. Santos makes 3-pt jump shot from 26 ft (assist by D. Melton)"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:00.0",
+      "Turnover by J. Smith (bad pass; steal by G. Santos)",
+      "",
+      "6-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "8:52.0",
+      "",
+      "",
+      "6-10",
+      "",
+      "B. Podziemski misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "6-10",
+      "",
+      "Offensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "6-13",
+      "+3",
+      "G. Santos makes 3-pt jump shot from 26 ft (assist by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "8:38.0",
+      "Houston full timeout",
+      "",
+      "6-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "6-13",
+      "",
+      "S. Curry enters the game for B. Podziemski"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "6-13",
+      "",
+      "G. Payton enters the game for G. Santos"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:25.0",
+      "R. Sheppard makes 3-pt jump shot from 23 ft (assist by A. Thompson)",
+      "+3",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "9-16",
+      "+3",
+      "S. Curry makes 3-pt jump shot from 28 ft (assist by D. Melton)"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "7:42.0",
+      "A. Thompson makes 2-pt dunk from 1 ft (assist by A. Şengün)",
+      "+2",
+      "11-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "11-16",
+      "",
+      "Personal foul by J. Smith (drawn by D. Green)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "11-16",
+      "",
+      "W. Richard enters the game for D. Melton"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "11-16",
+      "",
+      "G. Santos enters the game for K. Porziņģis"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "11-18",
+      "+2",
+      "G. Payton makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:04.0",
+      "A. Şengün makes 2-pt dunk from 1 ft (assist by A. Thompson)",
+      "+2",
+      "13-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "13-18",
+      "",
+      "G. Payton misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "6:50.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "13-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "6:47.0",
+      "Personal foul by G. Santos (drawn by K. Durant)",
+      "",
+      "13-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "6:47.0",
+      "C. Capela enters the game for A. Şengün",
+      "",
+      "13-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "6:47.0",
+      "T. Eason enters the game for A. Thompson",
+      "",
+      "13-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:35.0",
+      "K. Durant makes 2-pt jump shot from 11 ft",
+      "+2",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:14.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "G. Santos misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:11.0",
+      "Defensive rebound by T. Eason",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "5:59.0",
+      "J. Smith misses 2-pt jump shot from 13 ft",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Defensive rebound by G. Santos"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "S. Curry misses 3-pt jump shot from 28 ft (block by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "5:45.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "5:39.0",
+      "T. Eason misses 3-pt jump shot from 24 ft",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "5:36.0",
+      "Offensive rebound by C. Capela",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "5:32.0",
+      "T. Eason misses 3-pt jump shot from 26 ft",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Defensive rebound by D. Green"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:12.0",
+      "",
+      "",
+      "15-20",
+      "+2",
+      "G. Santos makes 2-pt layup from 3 ft (assist by W. Richard)"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "4:55.0",
+      "R. Sheppard makes 2-pt layup from 3 ft (assist by K. Durant)",
+      "+2",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "17-20",
+      "",
+      "Golden State full timeout"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "4:54.0",
+      "A. Thompson enters the game for J. Smith",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "17-20",
+      "",
+      "C. Bassey enters the game for S. Curry"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "17-20",
+      "",
+      "S. Curry enters the game for G. Payton"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "4:44.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "17-22",
+      "+2",
+      "C. Bassey makes 2-pt dunk from 5 ft (assist by S. Curry)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "4:25.0",
+      "R. Sheppard misses 3-pt jump shot from 28 ft",
+      "",
+      "17-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:23.0",
+      "",
+      "",
+      "17-22",
+      "",
+      "Defensive rebound by C. Bassey"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "17-22",
+      "",
+      "Turnover by G. Santos (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:06.0",
+      "Shooting foul by G. Santos (drawn by A. Thompson)",
+      "",
+      "17-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:06.0",
+      "A. Thompson misses free throw 1 of 2",
+      "",
+      "17-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:06.0",
+      "Offensive rebound by Team",
+      "",
+      "17-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:06.0",
+      "A. Holiday enters the game for R. Sheppard",
+      "",
+      "17-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:06.0",
+      "",
+      "",
+      "17-22",
+      "",
+      "B. Podziemski enters the game for W. Richard"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:06.0",
+      "A. Thompson makes free throw 2 of 2",
+      "+1",
+      "18-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "18-22",
+      "",
+      "S. Curry misses 2-pt hook shot from 6 ft (block by K. Durant)"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:44.0",
+      "Defensive rebound by C. Capela",
+      "",
+      "18-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:40.0",
+      "K. Durant misses 3-pt jump shot from 27 ft",
+      "",
+      "18-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:39.0",
+      "Offensive rebound by T. Eason",
+      "",
+      "18-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:38.0",
+      "T. Eason makes 2-pt layup at rim",
+      "+2",
+      "20-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:25.0",
+      "",
+      "",
+      "20-22",
+      "",
+      "Turnover by S. Curry (traveling)"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:10.0",
+      "A. Thompson misses 2-pt jump shot from 8 ft",
+      "",
+      "20-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "20-22",
+      "",
+      "Defensive rebound by G. Santos"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "20-24",
+      "+2",
+      "C. Bassey makes 2-pt layup from 4 ft (assist by B. Podziemski)"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "20-24",
+      "",
+      "Shooting foul by T. Eason (drawn by C. Bassey)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:52.0",
+      "A. Şengün enters the game for C. Capela",
+      "",
+      "20-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "20-24",
+      "",
+      "D. Melton enters the game for D. Green"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "20-24",
+      "",
+      "K. Porziņģis enters the game for G. Santos"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "20-25",
+      "+1",
+      "C. Bassey makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:38.0",
+      "A. Şengün makes 2-pt jump shot from 11 ft (assist by K. Durant)",
+      "+2",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "22-25",
+      "",
+      "K. Porziņģis misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:23.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:17.0",
+      "A. Şengün makes 2-pt hook shot from 7 ft (assist by K. Durant)",
+      "+2",
+      "24-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "24-25",
+      "",
+      "D. Melton misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "24-25",
+      "",
+      "Offensive rebound by C. Bassey"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "24-25",
+      "",
+      "K. Porziņģis misses 2-pt jump shot from 12 ft (block by A. Şengün)"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:35.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "24-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:34.0",
+      "Turnover by A. Şengün (traveling)",
+      "",
+      "24-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:34.0",
+      "",
+      "",
+      "24-25",
+      "",
+      "G. Payton enters the game for C. Bassey"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "24-25",
+      "",
+      "S. Curry misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "24-25",
+      "",
+      "Offensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "24-28",
+      "+3",
+      "B. Podziemski makes 3-pt jump shot from 26 ft (assist by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "0:57.0",
+      "Offensive foul by A. Şengün (drawn by K. Porziņģis)",
+      "",
+      "24-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:57.0",
+      "Turnover by A. Şengün (offensive foul)",
+      "",
+      "24-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "24-31",
+      "+3",
+      "S. Curry makes 3-pt jump shot from 29 ft (assist by D. Melton)"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:26.0",
+      "K. Durant makes 2-pt jump shot from 12 ft (assist by A. Thompson)",
+      "+2",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "S. Curry misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:02.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:00.0",
+      "Team misses heave shot",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Golden State"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "11:37.0",
+      "A. Thompson misses 2-pt jump shot from 24 ft",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "11:34.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "11:30.0",
+      "A. Şengün makes 2-pt hook shot from 3 ft",
+      "+2",
+      "28-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "11:09.0",
+      "",
+      "",
+      "28-31",
+      "",
+      "G. Santos misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "11:07.0",
+      "Defensive rebound by T. Eason",
+      "",
+      "28-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "10:57.0",
+      "J. Smith makes 3-pt jump shot from 23 ft (assist by A. Holiday)",
+      "+3",
+      "31-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "10:35.0",
+      "",
+      "",
+      "31-31",
+      "",
+      "B. Podziemski misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "10:33.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "31-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "10:27.0",
+      "A. Şengün makes 3-pt jump shot from 26 ft",
+      "+3",
+      "34-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "34-31",
+      "",
+      "Turnover by G. Santos (traveling)"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "34-31",
+      "",
+      "P. Spencer enters the game for D. Melton"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "9:49.0",
+      "A. Şengün misses 2-pt layup from 3 ft",
+      "",
+      "34-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "9:47.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "34-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "9:46.0",
+      "A. Holiday makes 3-pt jump shot from 28 ft (assist by A. Şengün)",
+      "+3",
+      "37-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "37-31",
+      "",
+      "Golden State full timeout"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "37-31",
+      "",
+      "S. Curry enters the game for W. Richard"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "37-31",
+      "",
+      "Shooting foul by A. Şengün (drawn by G. Santos)"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "37-32",
+      "+1",
+      "G. Santos makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "37-33",
+      "+1",
+      "G. Santos makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "9:13.0",
+      "J. Smith makes 3-pt jump shot from 28 ft (assist by A. Thompson)",
+      "+3",
+      "40-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "40-33",
+      "",
+      "Shooting foul by J. Smith (drawn by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "40-34",
+      "+1",
+      "K. Porziņģis makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "8:51.0",
+      "J. Okogie enters the game for T. Eason",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "8:51.0",
+      "R. Sheppard enters the game for A. Holiday",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "40-35",
+      "+1",
+      "K. Porziņģis makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "8:39.0",
+      "A. Şengün misses 3-pt jump shot from 26 ft",
+      "",
+      "40-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "40-35",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "8:28.0",
+      "",
+      "",
+      "40-35",
+      "",
+      "G. Santos misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "8:24.0",
+      "Defensive rebound by J. Okogie",
+      "",
+      "40-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "8:20.0",
+      "Turnover by R. Sheppard (bad pass; steal by P. Spencer)",
+      "",
+      "40-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "8:07.0",
+      "",
+      "",
+      "40-35",
+      "",
+      "Turnover by G. Santos (lost ball; steal by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "8:04.0",
+      "Offensive foul by J. Smith (drawn by B. Podziemski)",
+      "",
+      "40-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "8:04.0",
+      "Turnover by J. Smith (offensive foul)",
+      "",
+      "40-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "8:04.0",
+      "T. Eason enters the game for J. Smith",
+      "",
+      "40-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "40-35",
+      "",
+      "G. Santos misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "40-35",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "40-35",
+      "",
+      "D. Green enters the game for K. Porziņģis"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "40-35",
+      "",
+      "Shooting foul by J. Okogie (drawn by S. Curry)"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "7:41.0",
+      "Houston full timeout",
+      "",
+      "40-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "7:41.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "40-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "40-36",
+      "+1",
+      "S. Curry makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "40-37",
+      "+1",
+      "S. Curry makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "40-38",
+      "+1",
+      "S. Curry makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "7:35.0",
+      "Turnover by J. Okogie (lost ball; steal by S. Curry)",
+      "",
+      "40-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "7:32.0",
+      "",
+      "",
+      "40-38",
+      "",
+      "S. Curry misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "7:28.0",
+      "Defensive rebound by T. Eason",
+      "",
+      "40-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "7:10.0",
+      "A. Şengün misses 3-pt jump shot from 26 ft",
+      "",
+      "40-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "40-38",
+      "",
+      "Defensive rebound by P. Spencer"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "40-40",
+      "+2",
+      "D. Green makes 2-pt layup from 3 ft (assist by P. Spencer)"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "6:38.0",
+      "T. Eason misses 2-pt jump shot from 6 ft",
+      "",
+      "40-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "40-40",
+      "",
+      "Defensive rebound by D. Green"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "40-42",
+      "+2",
+      "B. Podziemski makes 2-pt layup from 2 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "6:19.0",
+      "Houston full timeout",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "6:19.0",
+      "K. Durant enters the game for A. Şengün",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "6:19.0",
+      "J. Tate enters the game for A. Thompson",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "40-42",
+      "",
+      "S. Curry enters the game for G. Santos"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "40-42",
+      "",
+      "G. Payton enters the game for P. Spencer"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "6:03.0",
+      "K. Durant misses 3-pt jump shot from 28 ft",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "5:59.0",
+      "Offensive rebound by J. Tate",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "5:53.0",
+      "T. Eason misses 3-pt jump shot from 26 ft",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "5:48.0",
+      "Offensive rebound by J. Tate",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "5:42.0",
+      "K. Durant misses 2-pt jump shot from 12 ft",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "5:40.0",
+      "Offensive rebound by Team",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "40-42",
+      "",
+      "Loose ball foul by D. Green (drawn by J. Okogie)"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "5:32.0",
+      "J. Tate misses 2-pt hook shot from 6 ft",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "5:27.0",
+      "",
+      "",
+      "40-42",
+      "",
+      "Defensive rebound by S. Curry"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "40-42",
+      "",
+      "Turnover by S. Curry (lost ball; steal by T. Eason)"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "5:19.0",
+      "Shooting foul by D. Green (drawn by K. Durant)",
+      "",
+      "40-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "5:19.0",
+      "K. Durant makes free throw 1 of 2",
+      "+1",
+      "41-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "5:19.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "42-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "42-42",
+      "",
+      "D. Melton enters the game for S. Curry"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "42-45",
+      "+3",
+      "S. Curry makes 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "4:49.0",
+      "T. Eason misses 2-pt layup from 5 ft (block by D. Melton)",
+      "",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "42-45",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "4:49.0",
+      "A. Thompson enters the game for J. Okogie",
+      "",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "42-45",
+      "",
+      "Personal foul by A. Thompson (drawn by G. Payton)"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "4:41.0",
+      "J. Smith enters the game for T. Eason",
+      "",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "4:30.0",
+      "",
+      "",
+      "42-47",
+      "+2",
+      "S. Curry makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "4:16.0",
+      "Personal foul by G. Payton (drawn by A. Thompson)",
+      "",
+      "42-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "42-47",
+      "",
+      "G. Santos enters the game for B. Podziemski"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "4:08.0",
+      "J. Smith makes 3-pt jump shot from 26 ft (assist by J. Tate)",
+      "+3",
+      "45-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "45-47",
+      "",
+      "Turnover by D. Melton (lost ball; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "3:52.0",
+      "K. Durant makes 2-pt jump shot from 12 ft (assist by A. Thompson)",
+      "+2",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "47-47",
+      "",
+      "S. Curry misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "3:35.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "3:25.0",
+      "K. Durant makes 2-pt jump shot from 12 ft",
+      "+2",
+      "49-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "49-47",
+      "",
+      "G. Payton misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "3:01.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "49-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "2:54.0",
+      "A. Thompson makes 2-pt jump shot from 7 ft",
+      "+2",
+      "51-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "Golden State full timeout"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "2:53.0",
+      "A. Şengün enters the game for R. Sheppard",
+      "",
+      "51-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "B. Podziemski enters the game for D. Melton"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "K. Porziņģis enters the game for G. Payton"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "51-49",
+      "+2",
+      "S. Curry makes 2-pt layup from 3 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "2:20.0",
+      "A. Thompson makes 2-pt jump shot from 10 ft",
+      "+2",
+      "53-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "53-49",
+      "",
+      "G. Santos misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "2:01.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "53-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "1:42.0",
+      "J. Smith misses 3-pt jump shot from 27 ft",
+      "",
+      "53-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "53-49",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "53-49",
+      "",
+      "D. Green misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "1:27.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "53-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "1:17.0",
+      "K. Durant misses 2-pt jump shot from 12 ft",
+      "",
+      "53-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "53-49",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "1:14.0",
+      "A. Holiday enters the game for J. Smith",
+      "",
+      "53-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "53-51",
+      "+2",
+      "K. Porziņģis makes 2-pt layup from 3 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "0:43.0",
+      "A. Şengün makes 2-pt hook shot from 5 ft",
+      "+2",
+      "55-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "55-51",
+      "",
+      "S. Curry misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "0:33.0",
+      "Defensive rebound by Team",
+      "",
+      "55-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "55-51",
+      "",
+      "Loose ball foul by G. Santos (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "55-51",
+      "",
+      "G. Payton enters the game for G. Santos"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "0:18.0",
+      "Turnover by K. Durant (lost ball; steal by D. Green)",
+      "",
+      "55-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "0:15.0",
+      "",
+      "",
+      "55-53",
+      "+2",
+      "B. Podziemski makes 2-pt dunk from 4 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "0:06.0",
+      "Turnover by A. Holiday (bad pass)",
+      "",
+      "55-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "0:06.0",
+      "T. Eason enters the game for A. Şengün",
+      "",
+      "55-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "55-53",
+      "",
+      "S. Curry enters the game for G. Payton"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "55-53",
+      "",
+      "S. Curry misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "55-53",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Golden State"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "11:46.0",
+      "K. Durant makes 3-pt jump shot from 25 ft (assist by A. Şengün)",
+      "+3",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "11:46.0",
+      "Shooting foul by K. Porziņģis (drawn by K. Durant)",
+      "",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "11:46.0",
+      "K. Durant makes free throw 1 of 1",
+      "+1",
+      "59-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "59-55",
+      "+2",
+      "K. Porziņģis makes 2-pt dunk from 3 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "59-55",
+      "",
+      "Shooting foul by K. Durant (drawn by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "59-56",
+      "+1",
+      "K. Porziņģis makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "11:27.0",
+      "Personal foul by D. Green (drawn by K. Durant)",
+      "",
+      "59-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "11:19.0",
+      "A. Thompson makes 2-pt dunk from 2 ft (assist by J. Smith)",
+      "+2",
+      "61-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "11:04.0",
+      "",
+      "",
+      "61-56",
+      "",
+      "G. Santos misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "11:01.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "61-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "10:51.0",
+      "J. Smith makes 2-pt jump shot from 10 ft (assist by K. Durant)",
+      "+2",
+      "63-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "63-58",
+      "+2",
+      "K. Porziņģis makes 2-pt dunk from 2 ft (assist by G. Santos)"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "10:12.0",
+      "R. Sheppard misses 3-pt jump shot from 23 ft",
+      "",
+      "63-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "63-58",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "63-60",
+      "+2",
+      "B. Podziemski makes 2-pt layup from 2 ft (assist by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "9:51.0",
+      "Personal foul by K. Porziņģis (drawn by A. Şengün)",
+      "",
+      "63-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "63-60",
+      "",
+      "G. Payton enters the game for G. Santos"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "9:46.0",
+      "A. Şengün makes 2-pt layup from 2 ft (assist by A. Thompson)",
+      "+2",
+      "65-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "9:31.0",
+      "",
+      "",
+      "65-60",
+      "",
+      "D. Melton misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "9:29.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "65-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "9:21.0",
+      "J. Smith makes 3-pt jump shot from 27 ft (assist by R. Sheppard)",
+      "+3",
+      "68-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "68-60",
+      "",
+      "Turnover by D. Green (bad pass)"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "9:00.0",
+      "Personal foul by K. Porziņģis (drawn by A. Şengün)",
+      "",
+      "68-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "8:54.0",
+      "A. Şengün misses 3-pt jump shot from 27 ft",
+      "",
+      "68-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "68-60",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "68-60",
+      "",
+      "B. Podziemski misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "68-60",
+      "",
+      "Offensive rebound by D. Green"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "68-60",
+      "",
+      "B. Podziemski misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "8:40.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "68-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "8:38.0",
+      "Personal foul by K. Porziņģis (drawn by K. Durant)",
+      "",
+      "68-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "8:38.0",
+      "K. Durant misses free throw 1 of 2",
+      "",
+      "68-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "8:38.0",
+      "Offensive rebound by Team",
+      "",
+      "68-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "68-60",
+      "",
+      "Golden State full timeout"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "68-60",
+      "",
+      "C. Bassey enters the game for D. Melton"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "68-60",
+      "",
+      "S. Curry enters the game for G. Payton"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "68-60",
+      "",
+      "G. Santos enters the game for K. Porziņģis"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "8:38.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "69-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "Turnover by C. Bassey (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "8:08.0",
+      "A. Şengün makes 2-pt hook shot from 4 ft",
+      "+2",
+      "71-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "71-62",
+      "+2",
+      "S. Curry makes 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "7:25.0",
+      "K. Durant misses 3-pt jump shot from 27 ft",
+      "",
+      "71-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "71-62",
+      "",
+      "Defensive rebound by D. Green"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "71-62",
+      "",
+      "S. Curry misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "7:12.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "71-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "7:06.0",
+      "J. Smith makes 3-pt jump shot from 26 ft (assist by K. Durant)",
+      "+3",
+      "74-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "74-62",
+      "",
+      "Personal foul by J. Smith (drawn by D. Green)"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "6:52.0",
+      "T. Eason enters the game for J. Smith",
+      "",
+      "74-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "74-64",
+      "+2",
+      "G. Santos makes 2-pt layup from 2 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "6:36.0",
+      "K. Durant makes 2-pt dunk from 1 ft",
+      "+2",
+      "76-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "76-64",
+      "",
+      "Shooting foul by K. Durant (drawn by G. Santos)"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "76-64",
+      "",
+      "G. Santos misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "76-64",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "6:25.0",
+      "A. Holiday enters the game for R. Sheppard",
+      "",
+      "76-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "76-64",
+      "",
+      "G. Payton enters the game for C. Bassey"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "76-65",
+      "+1",
+      "G. Santos makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "6:09.0",
+      "T. Eason misses 2-pt jump shot from 11 ft",
+      "",
+      "76-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "6:06.0",
+      "",
+      "",
+      "76-65",
+      "",
+      "Defensive rebound by D. Green"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "76-65",
+      "",
+      "Shooting foul by T. Eason (drawn by B. Podziemski)"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "76-66",
+      "+1",
+      "B. Podziemski makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "76-67",
+      "+1",
+      "B. Podziemski makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "5:49.0",
+      "A. Holiday makes 3-pt jump shot from 24 ft (assist by A. Thompson)",
+      "+3",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "79-67",
+      "",
+      "G. Santos misses 2-pt layup from 6 ft (block by A. Holiday)"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "5:27.0",
+      "Defensive rebound by A. Holiday",
+      "",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "5:18.0",
+      "K. Durant makes 3-pt jump shot from 26 ft (assist by A. Holiday)",
+      "+3",
+      "82-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "82-69",
+      "+2",
+      "G. Payton makes 2-pt layup from 2 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "5:00.0",
+      "Personal foul by G. Payton (drawn by K. Durant)",
+      "",
+      "82-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "5:00.0",
+      "K. Durant makes free throw 1 of 2",
+      "+1",
+      "83-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "5:00.0",
+      "J. Tate enters the game for A. Şengün",
+      "",
+      "83-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "5:00.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "84-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "84-69",
+      "",
+      "S. Curry misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "4:46.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "84-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "4:36.0",
+      "Turnover by K. Durant (lost ball; steal by S. Curry)",
+      "",
+      "84-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "84-71",
+      "+2",
+      "B. Podziemski makes 2-pt layup from 2 ft (assist by S. Curry)"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "4:11.0",
+      "T. Eason misses 2-pt jump shot from 9 ft",
+      "",
+      "84-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "84-71",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "84-71",
+      "",
+      "S. Curry enters the game for B. Podziemski"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "84-71",
+      "",
+      "G. Payton misses 2-pt hook shot from 4 ft"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "3:55.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "84-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "3:51.0",
+      "Turnover by T. Eason (lost ball; steal by G. Santos)",
+      "",
+      "84-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "84-73",
+      "+2",
+      "S. Curry makes 2-pt jump shot from 12 ft (assist by G. Payton)"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "3:12.0",
+      "T. Eason misses 3-pt jump shot from 24 ft",
+      "",
+      "84-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "84-73",
+      "",
+      "Defensive rebound by G. Santos"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "84-73",
+      "",
+      "Personal foul by A. Thompson (drawn by G. Payton)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "84-74",
+      "+1",
+      "G. Payton makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "3:00.0",
+      "J. Okogie enters the game for J. Tate",
+      "",
+      "84-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "3:00.0",
+      "A. Şengün enters the game for A. Thompson",
+      "",
+      "84-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "84-74",
+      "",
+      "K. Porziņģis enters the game for D. Green"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "84-75",
+      "+1",
+      "G. Payton makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "2:36.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "84-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "2:36.0",
+      "Houston full timeout",
+      "",
+      "84-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "84-77",
+      "+2",
+      "S. Curry makes 2-pt layup from 8 ft"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "Shooting foul by A. Şengün (drawn by S. Curry)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "B. Podziemski enters the game for S. Curry"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "S. Curry misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "2:15.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "1:54.0",
+      "A. Şengün misses 2-pt jump shot from 13 ft",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "Defensive rebound by B. Podziemski"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "84-80",
+      "+3",
+      "S. Curry makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "1:20.0",
+      "K. Durant makes 2-pt jump shot from 14 ft (assist by A. Holiday)",
+      "+2",
+      "86-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "86-80",
+      "",
+      "Personal foul by K. Durant (drawn by S. Curry)"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "86-81",
+      "+1",
+      "S. Curry makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "1:09.0",
+      "R. Sheppard enters the game for T. Eason",
+      "",
+      "86-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "1:09.0",
+      "A. Thompson enters the game for A. Holiday",
+      "",
+      "86-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "86-81",
+      "",
+      "D. Green enters the game for G. Santos"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "86-82",
+      "+1",
+      "S. Curry makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "0:55.0",
+      "A. Thompson makes 2-pt layup from 4 ft (assist by A. Şengün)",
+      "+2",
+      "88-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "0:55.0",
+      "Shooting foul by D. Green (drawn by A. Thompson)",
+      "",
+      "88-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "0:55.0",
+      "A. Thompson misses free throw 1 of 1",
+      "",
+      "88-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "0:53.0",
+      "",
+      "",
+      "88-82",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "88-82",
+      "",
+      "Turnover by B. Podziemski (bad pass)"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "88-82",
+      "",
+      "D. Melton enters the game for S. Curry"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "0:28.0",
+      "A. Thompson makes 2-pt dunk from 2 ft (assist by A. Şengün)",
+      "+2",
+      "90-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "90-82",
+      "",
+      "K. Porziņģis misses 2-pt layup from 3 ft (block by K. Durant)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "90-82",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "0:10.0",
+      "T. Eason enters the game for A. Şengün",
+      "",
+      "90-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "0:10.0",
+      "J. Tate enters the game for R. Sheppard",
+      "",
+      "90-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "90-82",
+      "",
+      "K. Porziņģis misses 2-pt jump shot from 18 ft (block by K. Durant)"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "0:05.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "90-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:05.0",
+      "Personal foul by K. Porziņģis (drawn by K. Durant)",
+      "",
+      "90-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:05.0",
+      "K. Durant makes free throw 1 of 2",
+      "+1",
+      "91-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "91-82",
+      "",
+      "S. Curry enters the game for G. Payton"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "0:05.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "92-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Golden State"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "11:43.0",
+      "",
+      "",
+      "92-82",
+      "",
+      "K. Porziņģis misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "92-82",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "11:35.0",
+      "",
+      "",
+      "92-85",
+      "+3",
+      "P. Spencer makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "11:17.0",
+      "A. Holiday misses 3-pt jump shot from 26 ft",
+      "",
+      "92-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "P. Spencer misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "Offensive rebound by G. Payton"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "92-87",
+      "+2",
+      "G. Payton makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "10:42.0",
+      "J. Smith makes 2-pt jump shot from 9 ft (assist by A. Şengün)",
+      "+2",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "94-87",
+      "",
+      "P. Spencer misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "10:20.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "10:13.0",
+      "Shooting foul by K. Porziņģis (drawn by A. Şengün)",
+      "",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "94-87",
+      "",
+      "C. Bassey enters the game for K. Porziņģis"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "10:13.0",
+      "A. Şengün makes free throw 1 of 2",
+      "+1",
+      "95-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "10:13.0",
+      "R. Sheppard enters the game for A. Thompson",
+      "",
+      "95-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "10:13.0",
+      "A. Şengün makes free throw 2 of 2",
+      "+1",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "96-87",
+      "",
+      "G. Santos misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "9:45.0",
+      "",
+      "",
+      "96-87",
+      "",
+      "Offensive rebound by G. Payton"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "96-87",
+      "",
+      "G. Payton misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "9:43.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "9:25.0",
+      "Def 3 sec tech foul by Team",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "9:25.0",
+      "R. Sheppard makes technical free throw",
+      "+1",
+      "97-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "97-87",
+      "",
+      "S. Curry enters the game for G. Payton"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "9:17.0",
+      "A. Şengün misses 2-pt hook shot from 4 ft (block by C. Bassey)",
+      "",
+      "97-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "9:16.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "97-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "9:15.0",
+      "A. Şengün misses 2-pt hook shot from 3 ft (block by C. Bassey)",
+      "",
+      "97-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "9:14.0",
+      "Offensive rebound by A. Holiday",
+      "",
+      "97-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "9:12.0",
+      "Shooting foul by C. Bassey (drawn by J. Okogie)",
+      "",
+      "97-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "9:12.0",
+      "J. Okogie makes free throw 1 of 2",
+      "+1",
+      "98-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "98-87",
+      "",
+      "Golden State full timeout"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "9:12.0",
+      "J. Okogie makes free throw 2 of 2",
+      "+1",
+      "99-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "8:55.0",
+      "",
+      "",
+      "99-87",
+      "",
+      "G. Santos misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "8:52.0",
+      "Defensive rebound by J. Okogie",
+      "",
+      "99-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "8:38.0",
+      "R. Sheppard misses 2-pt layup from 10 ft",
+      "",
+      "99-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "99-87",
+      "",
+      "Defensive rebound by C. Bassey"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "8:31.0",
+      "",
+      "",
+      "99-89",
+      "+2",
+      "P. Spencer makes 2-pt layup from 3 ft (assist by B. Podziemski)"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "8:15.0",
+      "R. Sheppard makes 3-pt jump shot from 26 ft",
+      "+3",
+      "102-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "102-92",
+      "+3",
+      "B. Podziemski makes 3-pt jump shot from 25 ft (assist by P. Spencer)"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "102-92",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "7:46.0",
+      "J. Smith makes 2-pt dunk from 2 ft (assist by A. Holiday)",
+      "+2",
+      "104-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "104-92",
+      "",
+      "G. Santos misses 2-pt jump shot from 8 ft (block by A. Şengün)"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "7:34.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "104-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "7:21.0",
+      "R. Sheppard makes 2-pt hook shot from 6 ft",
+      "+2",
+      "106-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "106-92",
+      "",
+      "Shooting foul by A. Holiday (drawn by P. Spencer)"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "106-93",
+      "+1",
+      "P. Spencer makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "6:56.0",
+      "K. Durant enters the game for A. Holiday",
+      "",
+      "106-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "6:56.0",
+      "A. Thompson enters the game for J. Okogie",
+      "",
+      "106-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "106-93",
+      "",
+      "S. Curry enters the game for S. Curry"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "106-93",
+      "",
+      "D. Green enters the game for B. Podziemski"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "106-93",
+      "",
+      "D. Melton enters the game for G. Santos"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "106-94",
+      "+1",
+      "P. Spencer makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "6:41.0",
+      "A. Thompson misses 2-pt layup from 2 ft",
+      "",
+      "106-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "106-94",
+      "",
+      "Defensive rebound by S. Curry"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "106-96",
+      "+2",
+      "D. Green makes 2-pt layup from 3 ft (assist by C. Bassey)"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "6:12.0",
+      "A. Şengün misses 3-pt jump shot from 26 ft",
+      "",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "106-96",
+      "",
+      "Defensive rebound by C. Bassey"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "106-99",
+      "+3",
+      "D. Melton makes 3-pt jump shot from 26 ft (assist by P. Spencer)"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "6:02.0",
+      "Houston full timeout",
+      "",
+      "106-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "6:02.0",
+      "J. Tate enters the game for A. Şengün",
+      "",
+      "106-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "106-99",
+      "",
+      "G. Payton enters the game for C. Bassey"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "5:51.0",
+      "Personal foul by S. Curry (drawn by J. Tate)",
+      "",
+      "106-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "5:38.0",
+      "Turnover by A. Thompson (bad pass)",
+      "",
+      "106-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "106-99",
+      "",
+      "G. Payton misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "5:10.0",
+      "Defensive rebound by Team",
+      "",
+      "106-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "4:51.0",
+      "A. Thompson makes 2-pt dunk from 1 ft (assist by K. Durant)",
+      "+2",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "4:51.0",
+      "A. Şengün enters the game for R. Sheppard",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "4:51.0",
+      "Shooting foul by G. Payton (drawn by A. Thompson)",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "4:51.0",
+      "A. Thompson makes free throw 1 of 1",
+      "+1",
+      "109-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "109-101",
+      "+2",
+      "G. Payton makes 2-pt layup from 6 ft (assist by S. Curry)"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "4:15.0",
+      "K. Durant misses 2-pt jump shot from 15 ft",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "4:11.0",
+      "",
+      "",
+      "109-101",
+      "",
+      "Defensive rebound by D. Green"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "109-104",
+      "+3",
+      "S. Curry makes 3-pt jump shot from 29 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "3:34.0",
+      "Turnover by A. Thompson (bad pass)",
+      "",
+      "109-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "3:34.0",
+      "A. Holiday enters the game for J. Tate",
+      "",
+      "109-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "109-104",
+      "",
+      "B. Podziemski enters the game for P. Spencer"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "109-104",
+      "",
+      "S. Curry misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "3:09.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "109-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "2:58.0",
+      "Turnover by K. Durant (bad pass; steal by B. Podziemski)",
+      "",
+      "109-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "109-107",
+      "+3",
+      "D. Melton makes 3-pt jump shot from 24 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "2:10.0",
+      "K. Durant makes 3-pt jump shot from 28 ft (assist by A. Şengün)",
+      "+3",
+      "112-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "112-109",
+      "+2",
+      "G. Payton makes 2-pt layup from 2 ft (assist by S. Curry)"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "1:38.0",
+      "J. Smith misses 3-pt jump shot from 24 ft",
+      "",
+      "112-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "1:35.0",
+      "",
+      "",
+      "112-109",
+      "",
+      "Defensive rebound by D. Melton"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "112-111",
+      "+2",
+      "S. Curry makes 2-pt layup from 3 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "1:09.0",
+      "A. Şengün makes 2-pt jump shot from 11 ft (assist by K. Durant)",
+      "+2",
+      "114-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "1:09.0",
+      "Shooting foul by D. Green (drawn by A. Şengün)",
+      "",
+      "114-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "1:09.0",
+      "A. Şengün makes free throw 1 of 1",
+      "+1",
+      "115-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "115-114",
+      "+3",
+      "S. Curry makes 3-pt jump shot from 32 ft (assist by G. Payton)"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "0:38.0",
+      "K. Durant misses 2-pt jump shot from 13 ft",
+      "",
+      "115-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "115-114",
+      "",
+      "Defensive rebound by G. Payton"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "115-114",
+      "",
+      "Golden State full timeout"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "0:33.0",
+      "J. Okogie enters the game for A. Şengün",
+      "",
+      "115-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "115-116",
+      "+2",
+      "G. Payton makes 2-pt layup from 3 ft (assist by D. Green)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "0:19.0",
+      "Violation by Team (def goaltending)",
+      "",
+      "115-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "0:16.0",
+      "Houston full timeout",
+      "",
+      "115-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "0:16.0",
+      "A. Şengün enters the game for A. Holiday",
+      "",
+      "115-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "0:16.0",
+      "R. Sheppard enters the game for J. Okogie",
+      "",
+      "115-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "0:11.0",
+      "A. Şengün makes 2-pt layup from 4 ft (assist by K. Durant)",
+      "+2",
+      "117-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "117-116",
+      "",
+      "S. Curry misses 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "117-116",
+      "",
+      "Offensive rebound by Team"
+    ]
+  }
+]

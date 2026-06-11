@@ -1,0 +1,58 @@
+{
+  "advanced": [
+    {
+      "year_id": "1946-47",
+      "age": "27",
+      "team_name_abbr": "PIT",
+      "comp_name_abbr": "BAA",
+      "games": "47",
+      "ts_pct": ".289",
+      "fta_per_fga_pct": ".213",
+      "ows": "-1.1",
+      "dws": "-0.6",
+      "ws": "-1.7",
+      "awards": ""
+    },
+    {
+      "year_id": "1947-48",
+      "age": "28",
+      "team_name_abbr": "2TM",
+      "comp_name_abbr": "BAA",
+      "games": "9",
+      "ts_pct": ".125",
+      "fta_per_fga_pct": ".333",
+      "ows": "-0.4",
+      "dws": "0.1",
+      "ws": "-0.3",
+      "awards": ""
+    },
+    {
+      "year_id": "1947-48",
+      "age": "28",
+      "team_name_abbr": "STB",
+      "comp_name_abbr": "BAA",
+      "games": "4",
+      "ts_pct": ".170",
+      "fta_per_fga_pct": ".400",
+      "ows": "-0.1",
+      "dws": "0.1",
+      "ws": "-0.1",
+      "awards": ""
+    },
+    {
+      "year_id": "1947-48",
+      "age": "28",
+      "team_name_abbr": "BLB",
+      "comp_name_abbr": "BAA",
+      "games": "5",
+      "ts_pct": ".081",
+      "fta_per_fga_pct": ".273",
+      "ows": "-0.2",
+      "dws": "0.0",
+      "ws": "-0.2",
+      "awards": ""
+    }
+  ],
+  "player_id": "abramjo01",
+  "player_name": "John Abramovic"
+}

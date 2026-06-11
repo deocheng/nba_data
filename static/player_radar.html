@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA球员能力雷达图</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #FFFFFF;
+            min-height: 100vh;
+            color: #333333;
+        }
+
+        .navbar {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid rgba(11, 61, 145, 0.1);
+        }
+
+        .navbar h1 {
+            font-size: 1.8rem;
+            color: #0b3d91;
+        }
+
+        .navbar nav {
+            margin-top: 0.5rem;
+        }
+
+        .navbar nav a {
+            color: rgba(11, 61, 145, 0.8);
+            text-decoration: none;
+            margin-right: 2rem;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .navbar nav a:hover,
+        .navbar nav a.active {
+            background: rgba(11, 61, 145, 0.15);
+            color: #0b3d91;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #0b3d91, #1e4daf);
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            color: #FFFFFF;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 30px;
+        }
+
+        .player-selector {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .player-btn {
+            padding: 12px 24px;
+            font-size: 14px;
+            font-weight: 600;
+            border: 2px solid transparent;
+            border-radius: 25px;
+            background: rgba(30, 144, 255, 0.2);
+            color: #1e90ff;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .player-btn:hover {
+            background: rgba(30, 144, 255, 0.4);
+            border-color: #1e90ff;
+            transform: translateY(-2px);
+        }
+
+        .player-btn.active {
+            background: linear-gradient(135deg, #1e90ff, #00bfff);
+            color: #fff;
+            border-color: #1e90ff;
+        }
+
+        .compare-toggle {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .compare-btn {
+            padding: 10px 30px;
+            font-size: 16px;
+            border-radius: 30px;
+            border: 2px solid #ff6b6b;
+            background: transparent;
+            color: #ff6b6b;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .compare-btn:hover {
+            background: rgba(255, 107, 107, 0.2);
+        }
+
+        .compare-btn.active {
+            background: #ff6b6b;
+            color: #fff;
+        }
+
+        .compare-panel {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .compare-panel select {
+            padding: 10px 20px;
+            font-size: 14px;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.3);
+            color: #fff;
+            cursor: pointer;
+        }
+
+        .compare-panel select:focus {
+            outline: none;
+            border-color: #1e90ff;
+        }
+
+        .compare-panel option {
+            background: #1a1a2e;
+            color: #fff;
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .chart-container {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .chart-container h3 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .chart-wrapper {
+            position: relative;
+            height: 400px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .stat-card {
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: transform 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(30, 144, 255, 0.3);
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            background: linear-gradient(90deg, #1e90ff, #00bfff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.6);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .player-info {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            margin-bottom: 30px;
+        }
+
+        .player-header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .player-avatar {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #1e90ff, #00bfff);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+            font-weight: 700;
+        }
+
+        .player-name {
+            flex: 1;
+        }
+
+        .player-name h2 {
+            font-size: 2rem;
+            margin-bottom: 5px;
+        }
+
+        .player-name p {
+            color: rgba(255, 255, 255, 0.6);
+            font-size: 14px;
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .info-item {
+            text-align: center;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+        }
+
+        .info-item label {
+            display: block;
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.5);
+            margin-bottom: 5px;
+        }
+
+        .info-item value {
+            font-size: 16px;
+            font-weight: 600;
+            color: #1e90ff;
+        }
+
+        @media (max-width: 1000px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .info-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 1.5rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .info-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .player-header {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <h1>NBA数据</h1>
+        <nav>
+            <a href="/">球队</a>
+            <a href="/team-history" target="_blank">球队历史</a>
+            <a href="/matchup" target="_blank">球队对阵</a>
+            <a href="/player-compare" target="_blank">球员对比</a>
+            <a href="/legendary-players" target="_blank">传奇球员</a>
+            <a href="/player-radar" class="active">能力雷达图</a>
+            <a href="/rankings" target="_blank">高阶数据</a>
+            <a href="/spurs" target="_blank">马刺专区</a>
+        </nav>
+    </nav>
+
+    <div class="header">
+        <h1>球员能力雷达图</h1>
+        <p>全方位展示球员各项能力指标</p>
+    </div>
+
+    <div class="container">
+        <div class="player-selector">
+            <button class="player-btn active" data-player="michael_jordan">迈克尔·乔丹</button>
+            <button class="player-btn" data-player="kobe_bryant">科比·布莱恩特</button>
+            <button class="player-btn" data-player="tim_duncan">蒂姆·邓肯</button>
+            <button class="player-btn" data-player="lebron_james">勒布朗·詹姆斯</button>
+            <button class="player-btn" data-player="victor_wembanyama">维克托·文班亚马</button>
+        </div>
+
+        <div class="compare-toggle">
+            <button class="compare-btn" id="compareBtn">开启球员对比</button>
+        </div>
+
+        <div class="compare-panel" id="comparePanel" style="display: none;">
+            <select id="player1Select">
+                <option value="michael_jordan">迈克尔·乔丹</option>
+                <option value="kobe_bryant">科比·布莱恩特</option>
+                <option value="tim_duncan">蒂姆·邓肯</option>
+                <option value="lebron_james">勒布朗·詹姆斯</option>
+                <option value="victor_wembanyama">维克托·文班亚马</option>
+            </select>
+            <span style="color: rgba(255,255,255,0.5);">VS</span>
+            <select id="player2Select">
+                <option value="kobe_bryant">科比·布莱恩特</option>
+                <option value="michael_jordan">迈克尔·乔丹</option>
+                <option value="tim_duncan">蒂姆·邓肯</option>
+                <option value="lebron_james">勒布朗·詹姆斯</option>
+                <option value="victor_wembanyama">维克托·文班亚马</option>
+            </select>
+            <button class="player-btn" onclick="loadCompareData()">开始对比</button>
+        </div>
+
+        <div class="player-info" id="playerInfo">
+            <div class="player-header">
+                <div class="player-avatar" id="playerAvatar">乔</div>
+                <div class="player-name">
+                    <h2 id="playerName">迈克尔·乔丹</h2>
+                    <p id="playerTeam">芝加哥公牛 / 华盛顿奇才</p>
+                </div>
+            </div>
+            <div class="info-grid">
+                <div class="info-item"><label>位置</label><value id="position">得分后卫 (SG)</value></div>
+                <div class="info-item"><label>身高</label><value id="height">198 cm</value></div>
+                <div class="info-item"><label>体重</label><value id="weight">98 kg</value></div>
+                <div class="info-item"><label>球衣号</label><value id="jersey">23</value></div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="chart-container">
+                <h3>能力雷达图</h3>
+                <div class="chart-wrapper">
+                    <canvas id="radarChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-container">
+                <h3>能力数值</h3>
+                <div class="stats-grid" id="statsGrid">
+                    <div class="stat-card"><div class="stat-value">30.1</div><div class="stat-label">场均得分</div></div>
+                    <div class="stat-card"><div class="stat-value">6.2</div><div class="stat-label">场均篮板</div></div>
+                    <div class="stat-card"><div class="stat-value">5.3</div><div class="stat-label">场均助攻</div></div>
+                    <div class="stat-card"><div class="stat-value">3.18</div><div class="stat-label">防守能力</div></div>
+                    <div class="stat-card"><div class="stat-value">49.7%</div><div class="stat-label">投篮命中率</div></div>
+                    <div class="stat-card"><div class="stat-value">32.7%</div><div class="stat-label">三分命中率</div></div>
+                    <div class="stat-card"><div class="stat-value">83.5%</div><div class="stat-label">罚球命中率</div></div>
+                    <div class="stat-card"><div class="stat-value">27.9</div><div class="stat-label">PER效率值</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let radarChart = null;
+        let isCompareMode = false;
+        let currentPlayer = 'michael_jordan';
+
+        const PLAYER_INFO = {
+            "michael_jordan": { name: "迈克尔·乔丹", english_name: "Michael Jordan", position: "SG", position_cn: "得分后卫", height: "198", weight: "98", jersey: "23", team: "芝加哥公牛 / 华盛顿奇才" },
+            "kobe_bryant": { name: "科比·布莱恩特", english_name: "Kobe Bryant", position: "SG", position_cn: "得分后卫", height: "198", weight: "96", jersey: "24", team: "洛杉矶湖人" },
+            "tim_duncan": { name: "蒂姆·邓肯", english_name: "Tim Duncan", position: "PF/C", position_cn: "大前锋/中锋", height: "211", weight: "113", jersey: "21", team: "圣安东尼奥马刺" },
+            "lebron_james": { name: "勒布朗·詹姆斯", english_name: "LeBron James", position: "SF", position_cn: "小前锋", height: "206", weight: "113", jersey: "23", team: "克里夫兰骑士 / 迈阿密热火 / 洛杉矶湖人" },
+            "victor_wembanyama": { name: "维克托·文班亚马", english_name: "Victor Wembanyama", position: "C", position_cn: "中锋", height: "224", weight: "107", jersey: "1", team: "圣安东尼奥马刺" }
+        };
+
+        document.querySelectorAll('.player-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                if (this.dataset.player) {
+                    isCompareMode = false;
+                    document.getElementById('compareBtn').classList.remove('active');
+                    document.getElementById('comparePanel').style.display = 'none';
+                    
+                    document.querySelectorAll('.player-btn').forEach(b => b.classList.remove('active'));
+                    this.classList.add('active');
+                    
+                    currentPlayer = this.dataset.player;
+                    loadPlayerData(currentPlayer);
+                }
+            });
+        });
+
+        document.getElementById('compareBtn').addEventListener('click', function() {
+            isCompareMode = !isCompareMode;
+            this.classList.toggle('active');
+            document.getElementById('comparePanel').style.display = isCompareMode ? 'flex' : 'none';
+            
+            if (!isCompareMode) {
+                loadPlayerData(currentPlayer);
+            }
+        });
+
+        async function loadPlayerData(playerId) {
+            const response = await fetch(`/api/player/${playerId}/radar`);
+            const result = await response.json();
+            
+            if (result.success) {
+                updatePlayerInfo(playerId);
+                updateRadarChart(result.data);
+                updateStatsGrid(result.data);
+            }
+        }
+
+        async function loadCompareData() {
+            const player1 = document.getElementById('player1Select').value;
+            const player2 = document.getElementById('player2Select').value;
+            
+            const response = await fetch(`/api/players/compare/radar?player1_id=${player1}&player2_id=${player2}`);
+            const result = await response.json();
+            
+            if (result.success) {
+                updateCompareRadarChart(result.data);
+                updateCompareStats(result.data);
+            }
+        }
+
+        function updatePlayerInfo(playerId) {
+            const info = PLAYER_INFO[playerId];
+            document.getElementById('playerAvatar').textContent = info.name.charAt(0);
+            document.getElementById('playerName').textContent = info.name;
+            document.getElementById('playerTeam').textContent = info.team;
+            document.getElementById('position').textContent = `${info.position_cn} (${info.position})`;
+            document.getElementById('height').textContent = `${info.height} cm`;
+            document.getElementById('weight').textContent = `${info.weight} kg`;
+            document.getElementById('jersey').textContent = info.jersey;
+        }
+
+        function updateRadarChart(data) {
+            if (radarChart) radarChart.destroy();
+            
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            radarChart = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: data.labels,
+                    datasets: [{
+                        label: data.datasets[0].label,
+                        data: data.datasets[0].data,
+                        backgroundColor: 'rgba(30, 144, 255, 0.2)',
+                        borderColor: '#1e90ff',
+                        borderWidth: 2,
+                        pointBackgroundColor: '#1e90ff',
+                        pointBorderColor: '#fff',
+                        pointHoverBackgroundColor: '#fff',
+                        pointHoverBorderColor: '#1e90ff'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            beginAtZero: true,
+                            max: 1,
+                            ticks: {
+                                stepSize: 0.2,
+                                color: 'rgba(255, 255, 255, 0.5)',
+                                backdropColor: 'transparent'
+                            },
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            angleLines: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            pointLabels: {
+                                color: '#fff',
+                                font: {
+                                    size: 12
+                                }
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    const index = context.dataIndex;
+                                    const actualValue = data.datasets[0].actualValues[index];
+                                    const label = data.labels[index];
+                                    return `${label}: ${actualValue}`;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function updateCompareRadarChart(data) {
+            if (radarChart) radarChart.destroy();
+            
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            radarChart = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: data.labels,
+                    datasets: [
+                        {
+                            label: PLAYER_INFO[data.players[0].id].name,
+                            data: data.players[0].data,
+                            backgroundColor: 'rgba(30, 144, 255, 0.2)',
+                            borderColor: '#1e90ff',
+                            borderWidth: 2,
+                            pointBackgroundColor: '#1e90ff'
+                        },
+                        {
+                            label: PLAYER_INFO[data.players[1].id].name,
+                            data: data.players[1].data,
+                            backgroundColor: 'rgba(255, 107, 107, 0.2)',
+                            borderColor: '#ff6b6b',
+                            borderWidth: 2,
+                            pointBackgroundColor: '#ff6b6b'
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            beginAtZero: true,
+                            max: 1,
+                            ticks: {
+                                stepSize: 0.2,
+                                color: 'rgba(255, 255, 255, 0.5)',
+                                backdropColor: 'transparent'
+                            },
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            angleLines: {
+                                color: 'rgba(255, 255, 255, 0.1)'
+                            },
+                            pointLabels: {
+                                color: '#fff',
+                                font: {
+                                    size: 12
+                                }
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: true,
+                            labels: {
+                                color: '#fff',
+                                position: 'bottom'
+                            }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    const player = data.players[context.datasetIndex];
+                                    const index = context.dataIndex;
+                                    const actualValue = player.actualValues[index];
+                                    const label = data.labels[index];
+                                    return `${context.dataset.label} - ${label}: ${actualValue}`;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function updateStatsGrid(data) {
+            const labels = ['场均得分', '场均篮板', '场均助攻', '防守能力', '投篮命中率', '三分命中率', '罚球命中率', 'PER效率值'];
+            const values = data.datasets[0].actualValues;
+            
+            let html = '';
+            labels.forEach((label, index) => {
+                let value = values[index];
+                if (label.includes('命中率')) {
+                    value = `${value}%`;
+                }
+                html += `
+                    <div class="stat-card">
+                        <div class="stat-value">${value}</div>
+                        <div class="stat-label">${label}</div>
+                    </div>
+                `;
+            });
+            
+            document.getElementById('statsGrid').innerHTML = html;
+        }
+
+        function updateCompareStats(data) {
+            const labels = ['场均得分', '场均篮板', '场均助攻', '防守能力', '投篮命中率', '三分命中率', '罚球命中率', 'PER效率值'];
+            const p1Values = data.players[0].actualValues;
+            const p2Values = data.players[1].actualValues;
+            const p1Name = PLAYER_INFO[data.players[0].id].name;
+            const p2Name = PLAYER_INFO[data.players[1].id].name;
+            
+            let html = '';
+            labels.forEach((label, index) => {
+                let p1Val = p1Values[index];
+                let p2Val = p2Values[index];
+                if (label.includes('命中率')) {
+                    p1Val = `${p1Val}%`;
+                    p2Val = `${p2Val}%`;
+                }
+                
+                const p1Better = p1Values[index] > p2Values[index];
+                const p2Better = p2Values[index] > p1Values[index];
+                
+                html += `
+                    <div class="stat-card">
+                        <div style="font-size: 12px; color: #1e90ff; margin-bottom: 5px;">${p1Name}</div>
+                        <div class="stat-value" style="${p1Better ? 'color: #1e90ff;' : ''}">${p1Val}</div>
+                        <div class="stat-label">${label}</div>
+                        <div style="font-size: 12px; color: #ff6b6b; margin-top: 5px;">${p2Name}</div>
+                        <div class="stat-value" style="font-size: 1.5rem; ${p2Better ? 'color: #ff6b6b;' : ''}">${p2Val}</div>
+                    </div>
+                `;
+            });
+            
+            document.getElementById('statsGrid').innerHTML = html;
+        }
+
+        loadPlayerData('michael_jordan');
+    </script>
+</body>
+</html>

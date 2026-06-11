@@ -1,0 +1,5348 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Washington",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:47.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "P. George misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Offensive rebound by D. Barlow"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "0-2",
+      "+2",
+      "D. Barlow makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:45.0",
+      "Violation by Team (def goaltending)",
+      "",
+      "0-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:29.0",
+      "K. George makes 2-pt jump shot from 16 ft",
+      "+2",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "2-5",
+      "+3",
+      "P. George makes 3-pt jump shot from 26 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:56.0",
+      "C. McCollum misses 3-pt jump shot from 23 ft",
+      "",
+      "2-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "Defensive rebound by P. George"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "2-5",
+      "",
+      "P. George misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:45.0",
+      "Defensive rebound by K. George",
+      "",
+      "2-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:36.0",
+      "M. Bagley makes 3-pt jump shot from 26 ft (assist by B. Coulibaly)",
+      "+3",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "5-7",
+      "+2",
+      "V. Edgecombe makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:02.0",
+      "J. Champagnie misses 2-pt layup from 1 ft",
+      "",
+      "5-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "5-7",
+      "",
+      "Defensive rebound by P. George"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "5-7",
+      "",
+      "T. Maxey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:56.0",
+      "Defensive rebound by B. Coulibaly",
+      "",
+      "5-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:36.0",
+      "B. Coulibaly misses 2-pt layup from 5 ft",
+      "",
+      "5-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:34.0",
+      "",
+      "",
+      "5-7",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "5-10",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:04.0",
+      "J. Champagnie misses 3-pt jump shot from 23 ft",
+      "",
+      "5-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:02.0",
+      "Offensive rebound by M. Bagley",
+      "",
+      "5-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:58.0",
+      "Personal foul by P. George (drawn by M. Bagley)",
+      "",
+      "5-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:48.0",
+      "Turnover by C. McCollum (lost ball; steal by P. George)",
+      "",
+      "5-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "5-10",
+      "",
+      "T. Maxey misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:39.0",
+      "Defensive rebound by K. George",
+      "",
+      "5-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:36.0",
+      "K. George makes 3-pt jump shot from 25 ft (assist by J. Champagnie)",
+      "+3",
+      "8-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "8-10",
+      "",
+      "Turnover by P. George (bad pass; steal by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:19.0",
+      "C. McCollum misses 2-pt jump shot from 6 ft",
+      "",
+      "8-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:13.0",
+      "Offensive rebound by J. Champagnie",
+      "",
+      "8-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:13.0",
+      "J. Champagnie misses 2-pt dunk at rim",
+      "",
+      "8-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "8-10",
+      "",
+      "Defensive rebound by P. George"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "8-10",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:00.0",
+      "Defensive rebound by B. Coulibaly",
+      "",
+      "8-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:00.0",
+      "C. McCollum makes 2-pt layup from 1 ft (assist by B. Coulibaly)",
+      "+2",
+      "10-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "10-10",
+      "",
+      "Violation by Team (def goaltending)"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "10-10",
+      "",
+      "D. Barlow misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:42.0",
+      "Defensive rebound by K. George",
+      "",
+      "10-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:38.0",
+      "K. George misses 2-pt layup from 4 ft",
+      "",
+      "10-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:35.0",
+      "",
+      "",
+      "10-10",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "10-10",
+      "",
+      "Turnover by A. Drummond (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "10-10",
+      "",
+      "J. Edwards enters the game for P. George"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:15.0",
+      "Shooting foul by A. Drummond (drawn by J. Champagnie)",
+      "",
+      "10-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:15.0",
+      "J. Champagnie makes free throw 1 of 2",
+      "+1",
+      "11-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:15.0",
+      "J. Champagnie makes free throw 2 of 2",
+      "+1",
+      "12-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:00.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "T. Maxey misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:56.0",
+      "Defensive rebound by K. George",
+      "",
+      "12-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:55.0",
+      "C. McCollum misses 3-pt jump shot from 26 ft",
+      "",
+      "12-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:53.0",
+      "Offensive rebound by M. Bagley",
+      "",
+      "12-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:53.0",
+      "Shooting foul by D. Barlow (drawn by M. Bagley)",
+      "",
+      "12-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "A. Bona enters the game for A. Drummond"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "12-10",
+      "",
+      "J. McCain enters the game for V. Edgecombe"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:53.0",
+      "M. Bagley makes free throw 1 of 2",
+      "+1",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "6:53.0",
+      "M. Bagley makes free throw 2 of 2",
+      "+1",
+      "14-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "6:44.0",
+      "",
+      "",
+      "14-12",
+      "+2",
+      "T. Maxey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "6:34.0",
+      "Shooting foul by A. Bona (drawn by M. Bagley)",
+      "",
+      "14-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "6:34.0",
+      "M. Bagley makes free throw 1 of 2",
+      "+1",
+      "15-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "6:34.0",
+      "M. Bagley makes free throw 2 of 2",
+      "+1",
+      "16-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "16-12",
+      "",
+      "J. McCain misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "6:16.0",
+      "Defensive rebound by K. George",
+      "",
+      "16-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "6:07.0",
+      "C. McCollum makes 2-pt jump shot from 10 ft",
+      "+2",
+      "18-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "18-15",
+      "+3",
+      "J. Edwards makes 3-pt jump shot from 28 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:35.0",
+      "Offensive foul by M. Bagley (drawn by A. Bona)",
+      "",
+      "18-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:35.0",
+      "Turnover by M. Bagley (offensive foul)",
+      "",
+      "18-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:35.0",
+      "B. Carrington enters the game for K. George",
+      "",
+      "18-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "18-15",
+      "",
+      "Shooting foul by M. Bagley (drawn by D. Barlow)"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "18-16",
+      "+1",
+      "D. Barlow makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "18-17",
+      "+1",
+      "D. Barlow makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "5:09.0",
+      "B. Carrington misses 3-pt jump shot from 25 ft",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "5:03.0",
+      "Offensive rebound by B. Coulibaly",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "5:03.0",
+      "B. Coulibaly makes 2-pt layup at rim",
+      "+2",
+      "20-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "20-19",
+      "+2",
+      "T. Maxey makes 2-pt layup from 2 ft (assist by J. McCain)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:40.0",
+      "C. McCollum misses 2-pt jump shot from 6 ft (block by T. Maxey)",
+      "",
+      "20-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "4:39.0",
+      "Offensive rebound by M. Bagley",
+      "",
+      "20-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "4:38.0",
+      "M. Bagley misses 2-pt layup from 1 ft",
+      "",
+      "20-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "4:37.0",
+      "Offensive rebound by J. Champagnie",
+      "",
+      "20-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "4:35.0",
+      "Shooting foul by D. Barlow (drawn by J. Champagnie)",
+      "",
+      "20-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "4:35.0",
+      "J. Champagnie makes free throw 1 of 2",
+      "+1",
+      "21-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "4:35.0",
+      "T. Vukcevic enters the game for M. Bagley",
+      "",
+      "21-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "21-19",
+      "",
+      "P. George enters the game for D. Barlow"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "4:35.0",
+      "J. Champagnie makes free throw 2 of 2",
+      "+1",
+      "22-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "22-21",
+      "+2",
+      "J. McCain makes 2-pt layup from 1 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "4:03.0",
+      "Turnover by T. Vukcevic (bad pass; steal by J. McCain)",
+      "",
+      "22-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "22-21",
+      "",
+      "T. Maxey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "22-21",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:54.0",
+      "C. Whitmore enters the game for J. Champagnie",
+      "",
+      "22-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "22-24",
+      "+3",
+      "J. McCain makes 3-pt jump shot from 23 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "3:51.0",
+      "Washington full timeout",
+      "",
+      "22-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "22-24",
+      "",
+      "V. Edgecombe enters the game for T. Maxey"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "3:37.0",
+      "Turnover by T. Vukcevic (back court)",
+      "",
+      "22-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "22-24",
+      "",
+      "P. George misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "22-24",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "3:26.0",
+      "Loose ball foul by T. Vukcevic (drawn by A. Bona)",
+      "",
+      "22-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "3:26.0",
+      "K. George enters the game for B. Coulibaly",
+      "",
+      "22-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "3:26.0",
+      "W. Riley enters the game for C. McCollum",
+      "",
+      "22-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "22-26",
+      "+2",
+      "P. George makes 2-pt layup from 1 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "3:11.0",
+      "T. Vukcevic misses 2-pt layup from 2 ft",
+      "",
+      "22-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "22-26",
+      "",
+      "Defensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "22-26",
+      "",
+      "J. McCain misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "2:58.0",
+      "Defensive rebound by C. Whitmore",
+      "",
+      "22-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "2:56.0",
+      "C. Whitmore makes 2-pt dunk from 2 ft (assist by K. George)",
+      "+2",
+      "24-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "24-29",
+      "+3",
+      "P. George makes 3-pt jump shot from 26 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "2:24.0",
+      "T. Vukcevic makes 2-pt dunk at rim (assist by B. Carrington)",
+      "+2",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "2:13.0",
+      "",
+      "",
+      "26-32",
+      "+3",
+      "J. Edwards makes 3-pt jump shot from 23 ft (assist by J. McCain)"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "2:04.0",
+      "C. Whitmore misses 3-pt jump shot from 27 ft",
+      "",
+      "26-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "26-32",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "26-32",
+      "",
+      "V. Edgecombe misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:55.0",
+      "Defensive rebound by K. George",
+      "",
+      "26-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "1:47.0",
+      "W. Riley makes 3-pt jump shot from 22 ft (assist by T. Vukcevic)",
+      "+3",
+      "29-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "29-32",
+      "",
+      "J. Edwards misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "1:26.0",
+      "Defensive rebound by T. Vukcevic",
+      "",
+      "29-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "1:16.0",
+      "B. Carrington makes 2-pt jump shot from 10 ft (assist by T. Vukcevic)",
+      "+2",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:58.0",
+      "",
+      "",
+      "31-34",
+      "+2",
+      "J. McCain makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:36.0",
+      "B. Carrington misses 3-pt jump shot from 23 ft",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Defensive rebound by J. McCain"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:17.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "P. George misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:13.0",
+      "Defensive rebound by B. Carrington",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:00.0",
+      "T. Vukcevic misses 2-pt jump shot from 19 ft",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "Time",
+      "Washington",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "11:39.0",
+      "T. Vukcevic makes 2-pt layup from 1 ft (assist by K. George)",
+      "+2",
+      "33-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "33-36",
+      "+2",
+      "T. Maxey makes 2-pt jump shot from 21 ft (assist by A. Drummond)"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:01.0",
+      "C. Whitmore misses 2-pt jump shot from 11 ft (block by A. Drummond)",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "33-36",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "33-36",
+      "",
+      "T. Maxey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "33-36",
+      "",
+      "Offensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:42.0",
+      "",
+      "",
+      "33-39",
+      "+3",
+      "J. Edwards makes 3-pt jump shot from 27 ft (assist by J. McCain)"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:26.0",
+      "W. Riley makes 3-pt jump shot from 27 ft (assist by B. Carrington)",
+      "+3",
+      "36-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "36-41",
+      "+2",
+      "A. Drummond makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "36-41",
+      "",
+      "Shooting foul by K. George (drawn by A. Drummond)"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:59.0",
+      "B. Coulibaly enters the game for C. Whitmore",
+      "",
+      "36-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "36-42",
+      "+1",
+      "A. Drummond makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:45.0",
+      "T. Vukcevic makes 2-pt layup from 2 ft (assist by B. Carrington)",
+      "+2",
+      "38-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:45.0",
+      "Shooting foul by J. Edwards (drawn by T. Vukcevic)",
+      "",
+      "38-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:45.0",
+      "T. Vukcevic makes free throw 1 of 1",
+      "+1",
+      "39-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:26.0",
+      "",
+      "",
+      "39-44",
+      "+2",
+      "A. Drummond makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:09.0",
+      "K. George misses 3-pt jump shot from 26 ft",
+      "",
+      "39-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:06.0",
+      "Offensive rebound by W. Riley",
+      "",
+      "39-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:58.0",
+      "B. Carrington misses 2-pt jump shot from 19 ft",
+      "",
+      "39-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:55.0",
+      "Offensive rebound by K. George",
+      "",
+      "39-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:50.0",
+      "B. Carrington misses 3-pt jump shot from 25 ft",
+      "",
+      "39-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "39-44",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "39-46",
+      "+2",
+      "J. McCain makes 2-pt layup from 1 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:44.0",
+      "Washington full timeout",
+      "",
+      "39-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "39-46",
+      "",
+      "E. Gordon enters the game for J. Edwards"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:35.0",
+      "Turnover by B. Carrington (bad pass)",
+      "",
+      "39-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "39-49",
+      "+3",
+      "J. Walker makes 3-pt jump shot from 23 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:08.0",
+      "B. Coulibaly misses 3-pt jump shot from 27 ft",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:04.0",
+      "Offensive rebound by W. Riley",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:02.0",
+      "Shooting foul by A. Drummond (drawn by W. Riley)",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:02.0",
+      "W. Riley misses free throw 1 of 2",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:02.0",
+      "Offensive rebound by Team",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:02.0",
+      "W. Riley makes free throw 2 of 2",
+      "+1",
+      "40-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "40-52",
+      "+3",
+      "J. Walker makes 3-pt jump shot from 24 ft (assist by A. Drummond)"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:39.0",
+      "Turnover by B. Carrington (bad pass; steal by T. Maxey)",
+      "",
+      "40-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:35.0",
+      "",
+      "",
+      "40-52",
+      "",
+      "J. McCain misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "40-52",
+      "",
+      "Offensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "40-52",
+      "",
+      "Personal foul by T. Vukcevic (drawn by J. Walker)"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:31.0",
+      "J. Champagnie enters the game for B. Carrington",
+      "",
+      "40-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:31.0",
+      "C. McCollum enters the game for K. George",
+      "",
+      "40-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "40-54",
+      "+2",
+      "T. Maxey makes 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:05.0",
+      "T. Vukcevic makes 2-pt jump shot from 9 ft (assist by C. McCollum)",
+      "+2",
+      "42-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "42-54",
+      "",
+      "T. Maxey misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:49.0",
+      "Defensive rebound by Team",
+      "",
+      "42-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "42-54",
+      "",
+      "Loose ball foul by A. Drummond (drawn by T. Vukcevic)"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:49.0",
+      "M. Bagley enters the game for T. Vukcevic",
+      "",
+      "42-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "42-54",
+      "",
+      "A. Bona enters the game for A. Drummond"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "42-54",
+      "",
+      "J. Edwards enters the game for J. McCain"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:36.0",
+      "M. Bagley makes 2-pt dunk from 1 ft (assist by C. McCollum)",
+      "+2",
+      "44-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "44-54",
+      "",
+      "J. Edwards misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:17.0",
+      "Defensive rebound by J. Champagnie",
+      "",
+      "44-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:06.0",
+      "J. Champagnie makes 3-pt jump shot from 26 ft (assist by C. McCollum)",
+      "+3",
+      "47-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "47-54",
+      "",
+      "T. Maxey misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "47-54",
+      "",
+      "Offensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "47-56",
+      "+2",
+      "A. Bona makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "5:32.0",
+      "C. McCollum misses 3-pt jump shot from 26 ft",
+      "",
+      "47-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "47-56",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "47-58",
+      "+2",
+      "T. Maxey makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:07.0",
+      "J. Champagnie misses 3-pt jump shot from 23 ft",
+      "",
+      "47-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "Shooting foul by W. Riley (drawn by T. Maxey)"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "47-59",
+      "+1",
+      "T. Maxey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "4:58.0",
+      "K. George enters the game for W. Riley",
+      "",
+      "47-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "47-60",
+      "+1",
+      "T. Maxey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "4:41.0",
+      "C. McCollum misses 3-pt jump shot from 25 ft",
+      "",
+      "47-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "47-60",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "4:21.0",
+      "",
+      "",
+      "47-60",
+      "",
+      "J. Edwards misses 2-pt layup from 2 ft (block by M. Bagley)"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:18.0",
+      "Defensive rebound by B. Coulibaly",
+      "",
+      "47-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:17.0",
+      "Turnover by J. Champagnie (lost ball; steal by T. Maxey)",
+      "",
+      "47-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "47-60",
+      "",
+      "J. Walker misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "47-60",
+      "",
+      "Offensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "47-60",
+      "",
+      "J. Edwards misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:54.0",
+      "Defensive rebound by B. Coulibaly",
+      "",
+      "47-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:47.0",
+      "Shooting foul by J. Walker (drawn by K. George)",
+      "",
+      "47-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:47.0",
+      "K. George makes free throw 1 of 2",
+      "+1",
+      "48-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "48-60",
+      "",
+      "V. Edgecombe enters the game for J. Edwards"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "48-60",
+      "",
+      "P. George enters the game for E. Gordon"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "48-60",
+      "",
+      "J. McCain enters the game for T. Maxey"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:47.0",
+      "K. George misses free throw 2 of 2",
+      "",
+      "48-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "48-60",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "48-62",
+      "+2",
+      "V. Edgecombe makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "3:12.0",
+      "B. Coulibaly misses 3-pt jump shot from 24 ft",
+      "",
+      "48-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:08.0",
+      "Offensive rebound by J. Champagnie",
+      "",
+      "48-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:07.0",
+      "J. Champagnie misses 2-pt layup from 4 ft (block by V. Edgecombe)",
+      "",
+      "48-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "48-62",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "48-64",
+      "+2",
+      "J. McCain makes 2-pt layup from 2 ft (assist by J. Walker)"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:36.0",
+      "K. George misses 3-pt jump shot from 28 ft",
+      "",
+      "48-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "Defensive rebound by P. George"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "Turnover by P. George (bad pass)"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "2:27.0",
+      "C. Whitmore enters the game for B. Coulibaly",
+      "",
+      "48-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "2:12.0",
+      "C. McCollum misses 3-pt jump shot from 23 ft",
+      "",
+      "48-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "2:08.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "Defensive rebound by P. George"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "J. McCain misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "2:00.0",
+      "Defensive rebound by J. Champagnie",
+      "",
+      "48-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:45.0",
+      "J. Champagnie makes 2-pt layup from 1 ft (assist by K. George)",
+      "+2",
+      "50-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:45.0",
+      "Shooting foul by A. Bona (drawn by J. Champagnie)",
+      "",
+      "50-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "1:45.0",
+      "J. Champagnie makes free throw 1 of 1",
+      "+1",
+      "51-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "51-64",
+      "",
+      "V. Edgecombe misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "1:29.0",
+      "Defensive rebound by J. Champagnie",
+      "",
+      "51-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "1:25.0",
+      "C. Whitmore misses 3-pt jump shot from 26 ft",
+      "",
+      "51-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "51-64",
+      "",
+      "Defensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "51-64",
+      "",
+      "Turnover by J. Walker (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "1:02.0",
+      "J. Champagnie makes 3-pt jump shot from 26 ft (assist by C. McCollum)",
+      "+3",
+      "54-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:45.0",
+      "",
+      "",
+      "54-66",
+      "+2",
+      "J. Walker makes 2-pt dunk from 1 ft (assist by J. McCain)"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:31.0",
+      "C. Whitmore misses 3-pt jump shot from 26 ft",
+      "",
+      "54-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "54-66",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "54-66",
+      "",
+      "Personal foul by C. McCollum (drawn by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "0:27.0",
+      "B. Coulibaly enters the game for C. McCollum",
+      "",
+      "54-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "54-66",
+      "",
+      "T. Maxey enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "54-66",
+      "",
+      "Turnover by J. McCain (lost ball; steal by B. Coulibaly)"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "0:00.0",
+      "K. George misses 2-pt jump shot from 12 ft",
+      "",
+      "54-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "54-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "Time",
+      "Washington",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "11:42.0",
+      "Personal foul by V. Edgecombe (drawn by B. Coulibaly)",
+      "",
+      "54-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "11:35.0",
+      "K. George makes 3-pt jump shot from 27 ft",
+      "+3",
+      "57-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "11:15.0",
+      "",
+      "",
+      "57-66",
+      "",
+      "P. George misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "11:10.0",
+      "Defensive rebound by J. Champagnie",
+      "",
+      "57-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "11:01.0",
+      "C. McCollum makes 2-pt jump shot from 14 ft",
+      "+2",
+      "59-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:41.0",
+      "",
+      "",
+      "59-66",
+      "",
+      "A. Drummond misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:37.0",
+      "Defensive rebound by K. George",
+      "",
+      "59-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "10:26.0",
+      "K. George misses 2-pt jump shot from 10 ft (block by V. Edgecombe)",
+      "",
+      "59-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "10:26.0",
+      "",
+      "",
+      "59-66",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:26.0",
+      "Loose ball foul by K. George (drawn by V. Edgecombe)",
+      "",
+      "59-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "59-66",
+      "",
+      "V. Edgecombe misses 2-pt layup from 2 ft (block by M. Bagley)"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "10:03.0",
+      "Defensive rebound by M. Bagley",
+      "",
+      "59-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "9:46.0",
+      "K. George misses 2-pt hook shot from 4 ft",
+      "",
+      "59-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "59-66",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "9:37.0",
+      "",
+      "",
+      "59-66",
+      "",
+      "D. Barlow misses 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "9:36.0",
+      "",
+      "",
+      "59-66",
+      "",
+      "Offensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:34.0",
+      "",
+      "",
+      "59-66",
+      "",
+      "A. Drummond misses 2-pt layup from 1 ft (block by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "9:34.0",
+      "Defensive rebound by C. McCollum",
+      "",
+      "59-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "9:16.0",
+      "Shooting foul by A. Drummond (drawn by K. George)",
+      "",
+      "59-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "59-66",
+      "",
+      "A. Bona enters the game for A. Drummond"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "9:16.0",
+      "K. George makes free throw 1 of 2",
+      "+1",
+      "60-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "9:16.0",
+      "K. George makes free throw 2 of 2",
+      "+1",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "9:02.0",
+      "",
+      "",
+      "61-66",
+      "",
+      "T. Maxey misses 2-pt layup from 7 ft (block by C. McCollum)"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "9:02.0",
+      "Defensive rebound by Team",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "8:53.0",
+      "C. McCollum misses 3-pt jump shot from 28 ft",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "8:51.0",
+      "Offensive rebound by M. Bagley",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "8:40.0",
+      "M. Bagley misses 2-pt layup from 2 ft",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "61-66",
+      "",
+      "Defensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "8:34.0",
+      "",
+      "",
+      "61-69",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 27 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "8:14.0",
+      "Shooting foul by T. Maxey (drawn by M. Bagley)",
+      "",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "8:14.0",
+      "M. Bagley makes free throw 1 of 2",
+      "+1",
+      "62-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "8:14.0",
+      "M. Bagley makes free throw 2 of 2",
+      "+1",
+      "63-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "63-69",
+      "",
+      "V. Edgecombe misses 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "7:49.0",
+      "",
+      "",
+      "63-69",
+      "",
+      "Offensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "63-72",
+      "+3",
+      "P. George makes 3-pt jump shot from 25 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "7:30.0",
+      "Turnover by J. Champagnie (bad pass; steal by V. Edgecombe)",
+      "",
+      "63-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "63-72",
+      "",
+      "P. George misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "7:19.0",
+      "",
+      "",
+      "63-72",
+      "",
+      "Offensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "63-74",
+      "+2",
+      "D. Barlow makes 2-pt jump shot from 6 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "63-74",
+      "",
+      "Shooting foul by C. McCollum (drawn by D. Barlow)"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "7:13.0",
+      "Washington full timeout",
+      "",
+      "63-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "63-74",
+      "",
+      "J. Edwards enters the game for P. George"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "63-75",
+      "+1",
+      "D. Barlow makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "6:57.0",
+      "J. Champagnie misses 3-pt jump shot from 27 ft",
+      "",
+      "63-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "63-75",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "63-75",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "6:36.0",
+      "Defensive rebound by M. Bagley",
+      "",
+      "63-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "6:32.0",
+      "Turnover by K. George (lost ball; steal by D. Barlow)",
+      "",
+      "63-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "6:30.0",
+      "",
+      "",
+      "63-77",
+      "+2",
+      "D. Barlow makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "6:20.0",
+      "Personal foul by D. Barlow (drawn by K. George)",
+      "",
+      "63-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "6:08.0",
+      "C. McCollum makes 2-pt jump shot from 9 ft",
+      "+2",
+      "65-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "65-77",
+      "",
+      "Shooting foul by K. George (drawn by A. Bona)"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "65-78",
+      "+1",
+      "A. Bona makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "65-79",
+      "+1",
+      "A. Bona makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "5:44.0",
+      "Turnover by B. Coulibaly (bad pass; steal by T. Maxey)",
+      "",
+      "65-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "65-79",
+      "",
+      "T. Maxey misses 2-pt layup from 3 ft (block by B. Coulibaly)"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "5:37.0",
+      "Defensive rebound by C. McCollum",
+      "",
+      "65-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "5:26.0",
+      "B. Coulibaly misses 3-pt jump shot from 27 ft",
+      "",
+      "65-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "65-79",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "65-79",
+      "",
+      "T. Maxey misses 2-pt layup from 1 ft (block by M. Bagley)"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "65-79",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "5:11.0",
+      "B. Carrington enters the game for J. Champagnie",
+      "",
+      "65-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "5:11.0",
+      "C. Whitmore enters the game for K. George",
+      "",
+      "65-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "65-79",
+      "",
+      "J. McCain enters the game for V. Edgecombe"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "65-79",
+      "",
+      "T. Maxey misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "5:03.0",
+      "Defensive rebound by C. McCollum",
+      "",
+      "65-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "5:02.0",
+      "",
+      "",
+      "65-79",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "5:02.0",
+      "T. Vukcevic enters the game for M. Bagley",
+      "",
+      "65-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "5:00.0",
+      "Turnover by B. Carrington (bad pass; steal by D. Barlow)",
+      "",
+      "65-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "65-81",
+      "+2",
+      "T. Maxey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "65-81",
+      "",
+      "Shooting foul by B. Carrington (drawn by T. Maxey)"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "65-82",
+      "+1",
+      "T. Maxey makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "4:31.0",
+      "C. McCollum makes 2-pt layup from 6 ft",
+      "+2",
+      "67-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:15.0",
+      "",
+      "",
+      "67-84",
+      "+2",
+      "D. Barlow makes 2-pt hook shot from 6 ft (assist by J. Edwards)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:00.0",
+      "C. McCollum misses 3-pt jump shot from 26 ft",
+      "",
+      "67-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "3:56.0",
+      "Offensive rebound by C. Whitmore",
+      "",
+      "67-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "3:51.0",
+      "C. Whitmore misses 2-pt layup from 2 ft",
+      "",
+      "67-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "3:49.0",
+      "",
+      "",
+      "67-84",
+      "",
+      "Defensive rebound by J. McCain"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "67-87",
+      "+3",
+      "J. McCain makes 3-pt jump shot from 26 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "3:44.0",
+      "Washington full timeout",
+      "",
+      "67-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "3:44.0",
+      "K. George enters the game for B. Coulibaly",
+      "",
+      "67-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "3:44.0",
+      "W. Riley enters the game for C. McCollum",
+      "",
+      "67-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "3:26.0",
+      "T. Vukcevic makes 2-pt layup from 2 ft (assist by K. George)",
+      "+2",
+      "69-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "69-89",
+      "+2",
+      "T. Maxey makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "2:58.0",
+      "Personal foul by T. Maxey (drawn by T. Vukcevic)",
+      "",
+      "69-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "2:58.0",
+      "T. Vukcevic misses free throw 1 of 2",
+      "",
+      "69-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "2:58.0",
+      "Offensive rebound by Team",
+      "",
+      "69-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "2:58.0",
+      "T. Vukcevic makes free throw 2 of 2",
+      "+1",
+      "70-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "70-92",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:34.0",
+      "C. Whitmore makes 2-pt layup from 2 ft (assist by K. George)",
+      "+2",
+      "72-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "72-92",
+      "",
+      "T. Maxey misses 2-pt layup from 4 ft (block by C. Whitmore)"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "2:16.0",
+      "Defensive rebound by B. Carrington",
+      "",
+      "72-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "2:14.0",
+      "Turnover by B. Carrington (bad pass; steal by J. Edwards)",
+      "",
+      "72-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "72-94",
+      "+2",
+      "T. Maxey makes 2-pt layup from 1 ft (assist by J. Edwards)"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "1:55.0",
+      "Shooting foul by A. Bona (drawn by T. Vukcevic)",
+      "",
+      "72-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "1:55.0",
+      "T. Vukcevic makes free throw 1 of 2",
+      "+1",
+      "73-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "73-94",
+      "",
+      "J. Walker enters the game for D. Barlow"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "1:55.0",
+      "T. Vukcevic misses free throw 2 of 2",
+      "",
+      "73-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "1:53.0",
+      "",
+      "",
+      "73-94",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "73-97",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "1:19.0",
+      "Turnover by T. Vukcevic (lost ball; steal by T. Maxey)",
+      "",
+      "73-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "73-99",
+      "+2",
+      "T. Maxey makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "1:16.0",
+      "Washington full timeout",
+      "",
+      "73-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "0:59.0",
+      "C. Whitmore misses 2-pt jump shot from 11 ft",
+      "",
+      "73-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "0:58.0",
+      "Offensive rebound by C. Whitmore",
+      "",
+      "73-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "0:56.0",
+      "C. Whitmore misses 2-pt jump shot from 5 ft (block by A. Bona)",
+      "",
+      "73-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "0:53.0",
+      "",
+      "",
+      "73-99",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "73-99",
+      "",
+      "J. Edwards misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "0:49.0",
+      "Defensive rebound by Team",
+      "",
+      "73-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "73-99",
+      "",
+      "Loose ball foul by A. Bona (drawn by B. Carrington)"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "0:49.0",
+      "B. Carrington makes free throw 1 of 2",
+      "+1",
+      "74-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "74-99",
+      "",
+      "D. Barlow enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "0:49.0",
+      "B. Carrington makes free throw 2 of 2",
+      "+1",
+      "75-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "75-99",
+      "",
+      "Personal foul by K. George (drawn by T. Maxey)"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "75-100",
+      "+1",
+      "T. Maxey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "75-101",
+      "+1",
+      "T. Maxey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:16.0",
+      "K. George misses 3-pt jump shot from 28 ft",
+      "",
+      "75-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:12.0",
+      "Offensive rebound by T. Vukcevic",
+      "",
+      "75-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:12.0",
+      "T. Vukcevic makes 2-pt jump shot from 11 ft",
+      "+2",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "77-101",
+      "",
+      "T. Maxey misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:01.0",
+      "Defensive rebound by C. Whitmore",
+      "",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "Time",
+      "Washington",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "11:39.0",
+      "",
+      "",
+      "77-101",
+      "",
+      "Turnover by A. Drummond (3 sec)"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "11:18.0",
+      "K. George misses 2-pt jump shot from 16 ft",
+      "",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "77-101",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "77-101",
+      "",
+      "Turnover by J. McCain (bad pass)"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "10:59.0",
+      "M. Branham enters the game for K. George",
+      "",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "10:48.0",
+      "Shooting foul by A. Drummond (drawn by C. Whitmore)",
+      "",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "10:48.0",
+      "C. Whitmore misses free throw 1 of 2",
+      "",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "10:48.0",
+      "Offensive rebound by Team",
+      "",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "10:48.0",
+      "C. Whitmore misses free throw 2 of 2",
+      "",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "10:44.0",
+      "Offensive rebound by C. Whitmore",
+      "",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "10:40.0",
+      "C. Whitmore misses 2-pt dunk from 1 ft (block by J. Walker)",
+      "",
+      "77-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "77-101",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "77-103",
+      "+2",
+      "V. Edgecombe makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "10:09.0",
+      "W. Riley makes 2-pt layup from 2 ft (assist by T. Vukcevic)",
+      "+2",
+      "79-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:52.0",
+      "",
+      "",
+      "79-106",
+      "+3",
+      "V. Edgecombe makes 3-pt jump shot from 29 ft (assist by J. McCain)"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:36.0",
+      "C. Whitmore misses 3-pt jump shot from 27 ft",
+      "",
+      "79-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "9:34.0",
+      "",
+      "",
+      "79-106",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "79-106",
+      "",
+      "J. Walker misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "79-106",
+      "",
+      "Offensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "9:20.0",
+      "",
+      "",
+      "79-106",
+      "",
+      "A. Drummond misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "9:20.0",
+      "",
+      "",
+      "79-106",
+      "",
+      "Offensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "9:20.0",
+      "",
+      "",
+      "79-108",
+      "+2",
+      "A. Drummond makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "9:20.0",
+      "Washington full timeout",
+      "",
+      "79-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "9:20.0",
+      "J. Champagnie enters the game for C. Whitmore",
+      "",
+      "79-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:10.0",
+      "Turnover by W. Riley (bad pass; steal by A. Drummond)",
+      "",
+      "79-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:05.0",
+      "",
+      "",
+      "79-108",
+      "",
+      "J. McCain misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "79-108",
+      "",
+      "Offensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "79-108",
+      "",
+      "J. Walker misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "79-108",
+      "",
+      "Offensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "79-110",
+      "+2",
+      "A. Drummond makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "8:53.0",
+      "M. Branham misses 3-pt jump shot from 27 ft",
+      "",
+      "79-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "79-110",
+      "",
+      "Defensive rebound by J. McCain"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "79-113",
+      "+3",
+      "A. Drummond makes 3-pt jump shot from 24 ft (assist by J. Edwards)"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:22.0",
+      "B. Carrington misses 2-pt layup from 3 ft",
+      "",
+      "79-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "79-113",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "79-113",
+      "",
+      "Turnover by J. McCain (bad pass; steal by T. Vukcevic)"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "8:11.0",
+      "Turnover by J. Champagnie (bad pass; steal by V. Edgecombe)",
+      "",
+      "79-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "79-115",
+      "+2",
+      "J. Walker makes 2-pt layup from 2 ft (assist by A. Drummond)"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "7:51.0",
+      "Shooting foul by V. Edgecombe (drawn by T. Vukcevic)",
+      "",
+      "79-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "7:51.0",
+      "T. Vukcevic misses free throw 1 of 2",
+      "",
+      "79-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "7:51.0",
+      "Offensive rebound by Team",
+      "",
+      "79-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "7:51.0",
+      "K. George enters the game for B. Carrington",
+      "",
+      "79-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:51.0",
+      "A. Gill enters the game for J. Champagnie",
+      "",
+      "79-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "79-115",
+      "",
+      "J. Broome enters the game for A. Drummond"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "79-115",
+      "",
+      "E. Gordon enters the game for V. Edgecombe"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "79-115",
+      "",
+      "H. Sallis enters the game for J. McCain"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "7:51.0",
+      "T. Vukcevic makes free throw 2 of 2",
+      "+1",
+      "80-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "80-115",
+      "",
+      "J. Edwards misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "7:33.0",
+      "Defensive rebound by W. Riley",
+      "",
+      "80-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "7:22.0",
+      "T. Vukcevic misses 2-pt layup from 8 ft",
+      "",
+      "80-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "80-115",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "80-115",
+      "",
+      "J. Broome misses 2-pt layup from 4 ft (block by K. George)"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "80-115",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "7:15.0",
+      "M. Bagley enters the game for T. Vukcevic",
+      "",
+      "80-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "80-115",
+      "",
+      "E. Gordon misses 2-pt layup from 4 ft (block by M. Bagley)"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "80-115",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "80-115",
+      "",
+      "Turnover by J. Edwards (lost ball; steal by M. Branham)"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "6:55.0",
+      "M. Branham makes 2-pt dunk from 2 ft",
+      "+2",
+      "82-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "82-117",
+      "+2",
+      "H. Sallis makes 2-pt jump shot from 4 ft (assist by J. Broome)"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "6:17.0",
+      "W. Riley makes 2-pt dunk from 2 ft (assist by M. Bagley)",
+      "+2",
+      "84-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "84-117",
+      "",
+      "Shooting foul by A. Gill (drawn by J. Walker)"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "84-117",
+      "",
+      "J. Walker misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "84-117",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "84-117",
+      "",
+      "J. Walker misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "5:56.0",
+      "Defensive rebound by A. Gill",
+      "",
+      "84-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "5:43.0",
+      "M. Bagley makes 2-pt jump shot from 9 ft",
+      "+2",
+      "86-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "86-117",
+      "",
+      "J. Walker misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "5:21.0",
+      "Defensive rebound by M. Branham",
+      "",
+      "86-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "5:18.0",
+      "Shooting foul by J. Walker (drawn by M. Branham)",
+      "",
+      "86-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "5:18.0",
+      "M. Branham makes free throw 1 of 2",
+      "+1",
+      "87-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "5:18.0",
+      "B. Carrington enters the game for K. George",
+      "",
+      "87-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "87-117",
+      "",
+      "D. Barlow enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "5:18.0",
+      "M. Branham misses free throw 2 of 2",
+      "",
+      "87-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "5:15.0",
+      "Offensive rebound by M. Branham",
+      "",
+      "87-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "5:15.0",
+      "M. Branham makes 2-pt jump shot from 14 ft",
+      "+2",
+      "89-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "89-117",
+      "",
+      "J. Broome misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "4:53.0",
+      "Defensive rebound by M. Bagley",
+      "",
+      "89-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "4:47.0",
+      "B. Carrington misses 3-pt jump shot from 26 ft",
+      "",
+      "89-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "89-117",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "89-117",
+      "",
+      "Shooting foul by W. Riley (drawn by D. Barlow)"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "89-117",
+      "",
+      "D. Barlow misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "89-117",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "89-118",
+      "+1",
+      "D. Barlow makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "4:14.0",
+      "W. Riley misses 2-pt jump shot from 18 ft",
+      "",
+      "89-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "4:11.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "Defensive rebound by J. Broome"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "J. Broome misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "3:57.0",
+      "Defensive rebound by M. Branham",
+      "",
+      "89-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "3:51.0",
+      "B. Carrington misses 2-pt jump shot from 18 ft",
+      "",
+      "89-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "Defensive rebound by J. Broome"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "J. Broome misses 2-pt layup from 2 ft (block by M. Bagley)"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "Offensive rebound by J. Broome"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "Shooting foul by M. Bagley (drawn by J. Broome)"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "J. Broome misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "J. Walker enters the game for D. Barlow"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "89-118",
+      "",
+      "J. Broome misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "3:39.0",
+      "Defensive rebound by M. Bagley",
+      "",
+      "89-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "3:28.0",
+      "M. Branham makes 2-pt layup from 3 ft",
+      "+2",
+      "91-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "91-118",
+      "",
+      "Turnover by H. Sallis (bad pass; steal by W. Riley)"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "3:16.0",
+      "A. Gill makes 2-pt dunk from 1 ft (assist by W. Riley)",
+      "+2",
+      "93-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "93-118",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "93-118",
+      "",
+      "H. Sallis misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "3:01.0",
+      "Defensive rebound by W. Riley",
+      "",
+      "93-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "2:57.0",
+      "B. Carrington misses 2-pt jump shot from 17 ft",
+      "",
+      "93-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "93-118",
+      "",
+      "Defensive rebound by J. Broome"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "2:45.0",
+      "",
+      "",
+      "93-121",
+      "+3",
+      "E. Gordon makes 3-pt jump shot from 25 ft (assist by H. Sallis)"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "2:34.0",
+      "M. Bagley misses 3-pt jump shot from 26 ft",
+      "",
+      "93-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "93-121",
+      "",
+      "Defensive rebound by J. Edwards"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "93-121",
+      "",
+      "E. Gordon misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "2:16.0",
+      "Defensive rebound by M. Branham",
+      "",
+      "93-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "2:09.0",
+      "Shooting foul by J. Broome (drawn by M. Branham)",
+      "",
+      "93-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "2:09.0",
+      "M. Branham makes free throw 1 of 2",
+      "+1",
+      "94-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "2:09.0",
+      "T. Vukcevic enters the game for M. Bagley",
+      "",
+      "94-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "2:09.0",
+      "M. Branham misses free throw 2 of 2",
+      "",
+      "94-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "94-121",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "94-121",
+      "",
+      "J. Broome misses 2-pt dunk from 1 ft (block by A. Gill)"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "1:48.0",
+      "Defensive rebound by T. Vukcevic",
+      "",
+      "94-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "1:44.0",
+      "B. Carrington makes 3-pt jump shot from 27 ft (assist by M. Branham)",
+      "+3",
+      "97-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "97-121",
+      "",
+      "E. Gordon misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "1:19.0",
+      "Defensive rebound by T. Vukcevic",
+      "",
+      "97-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "1:09.0",
+      "B. Carrington makes 3-pt jump shot from 28 ft (assist by T. Vukcevic)",
+      "+3",
+      "100-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "100-121",
+      "",
+      "J. Broome misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "0:53.0",
+      "Defensive rebound by B. Carrington",
+      "",
+      "100-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "0:51.0",
+      "B. Carrington misses 3-pt jump shot from 27 ft",
+      "",
+      "100-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "100-121",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "100-121",
+      "",
+      "J. Walker misses 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "0:37.0",
+      "Defensive rebound by M. Branham",
+      "",
+      "100-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "0:34.0",
+      "W. Riley makes 2-pt layup from 1 ft (assist by M. Branham)",
+      "+2",
+      "102-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "102-121",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  }
+]

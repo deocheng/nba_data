@@ -1,0 +1,1269 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA 2025-26赛季季后赛</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --primary-color: #1E40AF;
+            --secondary-color: #B22222;
+            --light-color: #F3F4F6;
+            --dark-color: #1F2937;
+        }
+        
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #F3F4F6;
+            color: #1F2937;
+        }
+        
+        .nba-header {
+            background: linear-gradient(135deg, #1E40AF, #B22222);
+            color: white;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        
+        .nba-logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+        
+        .playoff-bracket {
+            background-color: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        
+        .bracket-section {
+            border-bottom: 1px solid #E5E7EB;
+        }
+        
+        .bracket-section:last-child {
+            border-bottom: none;
+        }
+        
+        .round-title {
+            background-color: #1E40AF;
+            color: white;
+            padding: 0.75rem;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        .team-card {
+            background-color: white;
+            border: 1px solid #E5E7EB;
+            border-radius: 0.375rem;
+            padding: 0.75rem;
+            margin: 0.5rem 0;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+        
+        .team-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .team-info {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .team-name {
+            font-weight: bold;
+            font-size: 0.875rem;
+        }
+        
+        .team-seed {
+            background-color: #E5E7EB;
+            color: #4B5563;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+        
+        .series-score {
+            font-size: 0.875rem;
+            font-weight: bold;
+        }
+        
+        .team-logo {
+            width: 24px;
+            height: 24px;
+            margin-right: 0.5rem;
+        }
+        
+        .tooltip {
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 0.75rem;
+            border-radius: 0.375rem;
+            z-index: 1000;
+            width: 280px;
+            left: 100%;
+            top: 50%;
+            transform: translateY(-50%);
+            margin-left: 0.5rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            display: none;
+        }
+        
+        .team-card:hover .tooltip {
+            display: block;
+        }
+        
+        .tooltip::before {
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 50%;
+            transform: translateY(-50%);
+            border-width: 8px 8px 8px 0;
+            border-style: solid;
+            border-color: transparent rgba(0, 0, 0, 0.8) transparent transparent;
+        }
+        
+        .game-info {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+            font-size: 0.75rem;
+        }
+        
+        .game-date {
+            color: #9CA3AF;
+        }
+        
+        .game-score {
+            font-weight: bold;
+        }
+        
+        .conf-title {
+            background-color: #1F2937;
+            color: white;
+            padding: 0.5rem;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+        
+        .western-conf {
+            background-color: #1E40AF;
+        }
+        
+        .eastern-conf {
+            background-color: #B22222;
+        }
+        
+        .championship {
+            background: linear-gradient(135deg, #1E40AF, #B22222);
+        }
+    </style>
+</head>
+<body>
+    <!-- 头部 -->
+    <header class="nba-header py-4">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center">
+                <div class="nba-logo flex items-center">
+                    <i class="fas fa-basketball-ball mr-2"></i>
+                    NBA 2025-26赛季季后赛
+                </div>
+                <div class="flex items-center space-x-4">
+                    <a href="#" class="text-white hover:text-gray-200">
+                        <i class="fas fa-home"></i>
+                    </a>
+                    <a href="#" class="text-white hover:text-gray-200">
+                        <i class="fas fa-calendar-alt"></i>
+                    </a>
+                    <a href="#" class="text-white hover:text-gray-200">
+                        <i class="fas fa-trophy"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 主要内容 -->
+    <main class="container mx-auto px-4 py-8">
+        <h1 class="text-2xl font-bold mb-6 text-center">2025-26赛季季后赛对阵</h1>
+        
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <!-- 西部联盟 -->
+            <div class="playoff-bracket">
+                <div class="conf-title western-conf">西部联盟</div>
+                
+                <!-- 第一轮 -->
+                <div class="bracket-section p-4">
+                    <div class="round-title">第一轮</div>
+                    <div class="grid grid-cols-2 gap-4 mt-4">
+                        <!-- 对阵1 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">1</span>
+                                        <span class="team-name">掘金</span>
+                                    </div>
+                                    <div class="series-score">4-3</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">掘金 vs 马刺</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-16</span>
+                                        <span class="game-score">掘金 108-111 马刺</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-18</span>
+                                        <span class="game-score">掘金 115-109 马刺</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-20</span>
+                                        <span class="game-score">马刺 105-112 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-22</span>
+                                        <span class="game-score">马刺 118-110 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-24</span>
+                                        <span class="game-score">掘金 120-108 马刺</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-26</span>
+                                        <span class="game-score">马刺 112-105 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-28</span>
+                                        <span class="game-score">掘金 115-108 马刺</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">8</span>
+                                        <span class="team-name">马刺</span>
+                                    </div>
+                                    <div class="series-score">3-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">马刺 vs 掘金</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-16</span>
+                                        <span class="game-score">马刺 111-108 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-18</span>
+                                        <span class="game-score">马刺 109-115 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-20</span>
+                                        <span class="game-score">掘金 112-105 马刺</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-22</span>
+                                        <span class="game-score">掘金 110-118 马刺</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-24</span>
+                                        <span class="game-score">马刺 108-120 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-26</span>
+                                        <span class="game-score">马刺 112-105 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-28</span>
+                                        <span class="game-score">马刺 108-115 掘金</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- 对阵2 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">2</span>
+                                        <span class="team-name">森林狼</span>
+                                    </div>
+                                    <div class="series-score">4-2</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">森林狼 vs 快船</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-17</span>
+                                        <span class="game-score">森林狼 118-105 快船</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-19</span>
+                                        <span class="game-score">森林狼 102-108 快船</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-21</span>
+                                        <span class="game-score">快船 98-105 森林狼</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-23</span>
+                                        <span class="game-score">快船 112-109 森林狼</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-25</span>
+                                        <span class="game-score">森林狼 115-102 快船</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-27</span>
+                                        <span class="game-score">森林狼 120-110 快船</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">7</span>
+                                        <span class="team-name">快船</span>
+                                    </div>
+                                    <div class="series-score">2-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">快船 vs 森林狼</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-17</span>
+                                        <span class="game-score">快船 105-118 森林狼</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-19</span>
+                                        <span class="game-score">快船 108-102 森林狼</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-21</span>
+                                        <span class="game-score">森林狼 105-98 快船</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-23</span>
+                                        <span class="game-score">快船 112-109 森林狼</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-25</span>
+                                        <span class="game-score">森林狼 115-102 快船</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-27</span>
+                                        <span class="game-score">森林狼 120-110 快船</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- 对阵3 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">3</span>
+                                        <span class="team-name">雷霆</span>
+                                    </div>
+                                    <div class="series-score">4-1</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">雷霆 vs 太阳</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-16</span>
+                                        <span class="game-score">雷霆 119-84 太阳</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-18</span>
+                                        <span class="game-score">雷霆 105-98 太阳</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-20</span>
+                                        <span class="game-score">太阳 102-98 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-22</span>
+                                        <span class="game-score">太阳 95-108 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-24</span>
+                                        <span class="game-score">雷霆 112-100 太阳</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">6</span>
+                                        <span class="team-name">太阳</span>
+                                    </div>
+                                    <div class="series-score">1-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">太阳 vs 雷霆</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-16</span>
+                                        <span class="game-score">太阳 84-119 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-18</span>
+                                        <span class="game-score">太阳 98-105 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-20</span>
+                                        <span class="game-score">太阳 102-98 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-22</span>
+                                        <span class="game-score">太阳 95-108 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-24</span>
+                                        <span class="game-score">太阳 100-112 雷霆</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- 对阵4 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">4</span>
+                                        <span class="team-name">湖人</span>
+                                    </div>
+                                    <div class="series-score">4-2</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">湖人 vs 勇士</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-17</span>
+                                        <span class="game-score">湖人 107-98 勇士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-19</span>
+                                        <span class="game-score">湖人 95-102 勇士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-21</span>
+                                        <span class="game-score">勇士 105-112 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-23</span>
+                                        <span class="game-score">勇士 110-105 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-25</span>
+                                        <span class="game-score">湖人 115-108 勇士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-27</span>
+                                        <span class="game-score">湖人 120-105 勇士</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">5</span>
+                                        <span class="game-name">勇士</span>
+                                    </div>
+                                    <div class="series-score">2-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">勇士 vs 湖人</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-17</span>
+                                        <span class="game-score">勇士 98-107 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-19</span>
+                                        <span class="game-score">勇士 102-95 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-21</span>
+                                        <span class="game-score">勇士 105-112 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-23</span>
+                                        <span class="game-score">勇士 110-105 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-25</span>
+                                        <span class="game-score">勇士 108-115 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-27</span>
+                                        <span class="game-score">勇士 105-120 湖人</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 西部半决赛 -->
+                <div class="bracket-section p-4">
+                    <div class="round-title">西部半决赛</div>
+                    <div class="grid grid-cols-2 gap-4 mt-4">
+                        <!-- 对阵1 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">1</span>
+                                        <span class="team-name">掘金</span>
+                                    </div>
+                                    <div class="series-score">4-2</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">掘金 vs 森林狼</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-02</span>
+                                        <span class="game-score">掘金 110-105 森林狼</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-04</span>
+                                        <span class="game-score">掘金 98-102 森林狼</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-06</span>
+                                        <span class="game-score">森林狼 108-115 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-08</span>
+                                        <span class="game-score">森林狼 112-108 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-10</span>
+                                        <span class="game-score">掘金 120-110 森林狼</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-12</span>
+                                        <span class="game-score">掘金 115-105 森林狼</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">2</span>
+                                        <span class="team-name">森林狼</span>
+                                    </div>
+                                    <div class="series-score">2-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">森林狼 vs 掘金</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-02</span>
+                                        <span class="game-score">森林狼 105-110 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-04</span>
+                                        <span class="game-score">森林狼 102-98 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-06</span>
+                                        <span class="game-score">森林狼 108-115 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-08</span>
+                                        <span class="game-score">森林狼 112-108 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-10</span>
+                                        <span class="game-score">森林狼 110-120 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-12</span>
+                                        <span class="game-score">森林狼 105-115 掘金</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- 对阵2 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">3</span>
+                                        <span class="team-name">雷霆</span>
+                                    </div>
+                                    <div class="series-score">4-3</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">雷霆 vs 湖人</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-01</span>
+                                        <span class="game-score">雷霆 105-110 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-03</span>
+                                        <span class="game-score">雷霆 115-108 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-05</span>
+                                        <span class="game-score">湖人 102-98 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-07</span>
+                                        <span class="game-score">湖人 95-105 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-09</span>
+                                        <span class="game-score">雷霆 108-112 湖人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-11</span>
+                                        <span class="game-score">湖人 100-105 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-13</span>
+                                        <span class="game-score">雷霆 110-105 湖人</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">4</span>
+                                        <span class="team-name">湖人</span>
+                                    </div>
+                                    <div class="series-score">3-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">湖人 vs 雷霆</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-01</span>
+                                        <span class="game-score">湖人 110-105 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-03</span>
+                                        <span class="game-score">湖人 108-115 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-05</span>
+                                        <span class="game-score">湖人 102-98 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-07</span>
+                                        <span class="game-score">湖人 95-105 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-09</span>
+                                        <span class="game-score">湖人 112-108 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-11</span>
+                                        <span class="game-score">湖人 100-105 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-13</span>
+                                        <span class="game-score">湖人 105-110 雷霆</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 西部决赛 -->
+                <div class="bracket-section p-4">
+                    <div class="round-title">西部决赛</div>
+                    <div class="grid grid-cols-2 gap-4 mt-4">
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">1</span>
+                                        <span class="team-name">掘金</span>
+                                    </div>
+                                    <div class="series-score">4-3</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">掘金 vs 雷霆</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-18</span>
+                                        <span class="game-score">掘金 112-108 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-20</span>
+                                        <span class="game-score">掘金 105-110 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-22</span>
+                                        <span class="game-score">雷霆 98-105 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-24</span>
+                                        <span class="game-score">雷霆 115-110 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-26</span>
+                                        <span class="game-score">掘金 120-115 雷霆</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-28</span>
+                                        <span class="game-score">雷霆 112-108 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-30</span>
+                                        <span class="game-score">掘金 118-115 雷霆</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">3</span>
+                                        <span class="team-name">雷霆</span>
+                                    </div>
+                                    <div class="series-score">3-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">雷霆 vs 掘金</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-18</span>
+                                        <span class="game-score">雷霆 108-112 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-20</span>
+                                        <span class="game-score">雷霆 110-105 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-22</span>
+                                        <span class="game-score">雷霆 98-105 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-24</span>
+                                        <span class="game-score">雷霆 115-110 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-26</span>
+                                        <span class="game-score">雷霆 115-120 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-28</span>
+                                        <span class="game-score">雷霆 112-108 掘金</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-30</span>
+                                        <span class="game-score">雷霆 115-118 掘金</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 东部联盟 -->
+            <div class="playoff-bracket">
+                <div class="conf-title eastern-conf">东部联盟</div>
+                
+                <!-- 第一轮 -->
+                <div class="bracket-section p-4">
+                    <div class="round-title">第一轮</div>
+                    <div class="grid grid-cols-2 gap-4 mt-4">
+                        <!-- 对阵1 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">1</span>
+                                        <span class="team-name">凯尔特人</span>
+                                    </div>
+                                    <div class="series-score">4-2</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">凯尔特人 vs 76人</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-16</span>
+                                        <span class="game-score">凯尔特人 123-91 76人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-18</span>
+                                        <span class="game-score">凯尔特人 105-110 76人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-20</span>
+                                        <span class="game-score">76人 98-105 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-22</span>
+                                        <span class="game-score">76人 102-98 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-24</span>
+                                        <span class="game-score">凯尔特人 115-105 76人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-26</span>
+                                        <span class="game-score">凯尔特人 110-100 76人</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">8</span>
+                                        <span class="team-name">76人</span>
+                                    </div>
+                                    <div class="series-score">2-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">76人 vs 凯尔特人</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-16</span>
+                                        <span class="game-score">76人 91-123 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-18</span>
+                                        <span class="game-score">76人 110-105 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-20</span>
+                                        <span class="game-score">76人 98-105 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-22</span>
+                                        <span class="game-score">76人 102-98 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-24</span>
+                                        <span class="game-score">76人 105-115 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-26</span>
+                                        <span class="game-score">76人 100-110 凯尔特人</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- 对阵2 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">2</span>
+                                        <span class="team-name">雄鹿</span>
+                                    </div>
+                                    <div class="series-score">4-1</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">雄鹿 vs 尼克斯</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-17</span>
+                                        <span class="game-score">雄鹿 115-105 尼克斯</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-19</span>
+                                        <span class="game-score">雄鹿 108-112 尼克斯</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-21</span>
+                                        <span class="game-score">尼克斯 98-105 雄鹿</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-23</span>
+                                        <span class="game-score">尼克斯 102-110 雄鹿</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-25</span>
+                                        <span class="game-score">雄鹿 118-105 尼克斯</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">7</span>
+                                        <span class="team-name">尼克斯</span>
+                                    </div>
+                                    <div class="series-score">1-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">尼克斯 vs 雄鹿</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-17</span>
+                                        <span class="game-score">尼克斯 105-115 雄鹿</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-19</span>
+                                        <span class="game-score">尼克斯 112-108 雄鹿</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-21</span>
+                                        <span class="game-score">尼克斯 98-105 雄鹿</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-23</span>
+                                        <span class="game-score">尼克斯 102-110 雄鹿</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-25</span>
+                                        <span class="game-score">尼克斯 105-118 雄鹿</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- 对阵3 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">3</span>
+                                        <span class="team-name">骑士</span>
+                                    </div>
+                                    <div class="series-score">4-2</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">骑士 vs 魔术</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-16</span>
+                                        <span class="game-score">骑士 126-113 魔术</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-18</span>
+                                        <span class="game-score">骑士 105-110 魔术</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-20</span>
+                                        <span class="game-score">魔术 98-105 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-22</span>
+                                        <span class="game-score">魔术 112-108 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-24</span>
+                                        <span class="game-score">骑士 115-105 魔术</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-26</span>
+                                        <span class="game-score">骑士 110-100 魔术</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">6</span>
+                                        <span class="team-name">魔术</span>
+                                    </div>
+                                    <div class="series-score">2-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">魔术 vs 骑士</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-16</span>
+                                        <span class="game-score">魔术 113-126 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-18</span>
+                                        <span class="game-score">魔术 110-105 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-20</span>
+                                        <span class="game-score">魔术 98-105 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-22</span>
+                                        <span class="game-score">魔术 112-108 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-24</span>
+                                        <span class="game-score">魔术 105-115 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-26</span>
+                                        <span class="game-score">魔术 100-110 骑士</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- 对阵4 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">4</span>
+                                        <span class="team-name">步行者</span>
+                                    </div>
+                                    <div class="series-score">4-3</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">步行者 vs 老鹰</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-17</span>
+                                        <span class="game-score">步行者 110-105 老鹰</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-19</span>
+                                        <span class="game-score">步行者 102-108 老鹰</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-21</span>
+                                        <span class="game-score">老鹰 98-105 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-23</span>
+                                        <span class="game-score">老鹰 112-108 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-25</span>
+                                        <span class="game-score">步行者 115-105 老鹰</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-27</span>
+                                        <span class="game-score">老鹰 110-105 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-29</span>
+                                        <span class="game-score">步行者 120-115 老鹰</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">5</span>
+                                        <span class="team-name">老鹰</span>
+                                    </div>
+                                    <div class="series-score">3-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">老鹰 vs 步行者</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-17</span>
+                                        <span class="game-score">老鹰 105-110 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-19</span>
+                                        <span class="game-score">老鹰 108-102 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-21</span>
+                                        <span class="game-score">老鹰 98-105 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-23</span>
+                                        <span class="game-score">老鹰 112-108 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-25</span>
+                                        <span class="game-score">老鹰 105-115 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-27</span>
+                                        <span class="game-score">老鹰 110-105 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-04-29</span>
+                                        <span class="game-score">老鹰 115-120 步行者</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 东部半决赛 -->
+                <div class="bracket-section p-4">
+                    <div class="round-title">东部半决赛</div>
+                    <div class="grid grid-cols-2 gap-4 mt-4">
+                        <!-- 对阵1 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">1</span>
+                                        <span class="team-name">凯尔特人</span>
+                                    </div>
+                                    <div class="series-score">4-2</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">凯尔特人 vs 雄鹿</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-02</span>
+                                        <span class="game-score">凯尔特人 110-105 雄鹿</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-04</span>
+                                        <span class="game-score">凯尔特人 98-102 雄鹿</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-06</span>
+                                        <span class="game-score">雄鹿 108-115 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-08</span>
+                                        <span class="game-score">雄鹿 112-108 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-10</span>
+                                        <span class="game-score">凯尔特人 120-110 雄鹿</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-12</span>
+                                        <span class="game-score">凯尔特人 115-105 雄鹿</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">2</span>
+                                        <span class="team-name">雄鹿</span>
+                                    </div>
+                                    <div class="series-score">2-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">雄鹿 vs 凯尔特人</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-02</span>
+                                        <span class="game-score">雄鹿 105-110 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-04</span>
+                                        <span class="game-score">雄鹿 102-98 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-06</span>
+                                        <span class="game-score">雄鹿 108-115 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-08</span>
+                                        <span class="game-score">雄鹿 112-108 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-10</span>
+                                        <span class="game-score">雄鹿 110-120 凯尔特人</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-12</span>
+                                        <span class="game-score">雄鹿 105-115 凯尔特人</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- 对阵2 -->
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">3</span>
+                                        <span class="team-name">骑士</span>
+                                    </div>
+                                    <div class="series-score">4-3</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">骑士 vs 步行者</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-01</span>
+                                        <span class="game-score">骑士 105-110 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-03</span>
+                                        <span class="game-score">骑士 115-108 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-05</span>
+                                        <span class="game-score">步行者 102-98 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-07</span>
+                                        <span class="game-score">步行者 95-105 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-09</span>
+                                        <span class="game-score">骑士 108-112 步行者</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-11</span>
+                                        <span class="game-score">步行者 100-105 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-13</span>
+                                        <span class="game-score">骑士 110-105 步行者</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">4</span>
+                                        <span class="team-name">步行者</span>
+                                    </div>
+                                    <div class="series-score">3-4</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">步行者 vs 骑士</h4>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-01</span>
+                                        <span class="game-score">步行者 110-105 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-03</span>
+                                        <span class="game-score">步行者 108-115 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-05</span>
+                                        <span class="game-score">步行者 102-98 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-07</span>
+                                        <span class="game-score">步行者 95-105 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-09</span>
+                                        <span class="game-score">步行者 112-108 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-11</span>
+                                        <span class="game-score">步行者 100-105 骑士</span>
+                                    </div>
+                                    <div class="game-info">
+                                        <span class="game-date">2026-05-13</span>
+                                        <span class="game-score">步行者 105-110 骑士</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 东部决赛 -->
+                <div class="bracket-section p-4">
+                    <div class="round-title">东部决赛</div>
+                    <div class="grid grid-cols-2 gap-4 mt-4">
+                        <div>
+                            <div class="team-card">
+                                <div class="team-info">
+                                    <div class="flex items-center">
+                                        <span class="team-seed">1</span>
+                                        <span class="team-name">凯尔特人</span>
+                                    </div>
+                                    <div class="series-score">4-2</div>
+                                </div>
+                                <div class="tooltip">
+                                    <h4 class="font-bold mb-2">凯尔特人

@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA 2025-26赛季季后赛</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        // 加载季后赛数据
+        async function loadPlayoffData() {
+            try {
+                const response = await fetch('playoff_data.json');
+                const data = await response.json();
+                renderPlayoffData(data);
+            } catch (error) {
+                console.error('Error loading playoff data:', error);
+            }
+        }
+
+        function renderPlayoffData(data) {
+            // 更新页面标题
+            document.querySelector('title').textContent = `NBA ${data.season}赛季季后赛`;
+            document.querySelector('.nba-logo').innerHTML = `<i class="fas fa-basketball-ball mr-2"></i>NBA ${data.season}赛季季后赛`;
+            document.querySelector('footer .font-bold').textContent = `NBA ${data.season}赛季季后赛`;
+            document.querySelector('footer .text-gray-400').textContent = `数据更新时间: ${data.updated_at}`;
+
+            // 渲染西部联盟
+            renderConference(data.conferences.western, 'western-conf-content');
+
+            // 渲染东部联盟
+            renderConference(data.conferences.eastern, 'eastern-conf-content');
+
+            // 渲染总决赛
+            renderFinals(data.finals);
+        }
+
+        function renderConference(conference, containerId) {
+            const container = document.getElementById(containerId);
+            container.innerHTML = '';
+
+            conference.rounds.forEach(round => {
+                const roundDiv = document.createElement('div');
+                roundDiv.className = 'bracket-section p-4';
+                roundDiv.innerHTML = `<div class="round-title">${round.name}</div>`;
+
+                if (round.status === 'upcoming') {
+                    roundDiv.innerHTML += `
+                        <div class="grid grid-cols-2 gap-4 mt-4">
+                            <div class="text-center py-8 text-gray-500">
+                                <i class="fas fa-clock fa-2x mb-2"></i>
+                                <p>即将开始</p>
+                            </div>
+                            ${round.name === '西部决赛' || round.name === '东部决赛' ? '' : '<div class="text-center py-8 text-gray-500">
+                                <i class="fas fa-clock fa-2x mb-2"></i>
+                                <p>即将开始</p>
+                            </div>'}
+                        </div>
+                    `;
+                } else if (round.matchups) {
+                    roundDiv.innerHTML += '<div class="grid grid-cols-2 gap-4 mt-4">';
+
+                    round.matchups.forEach((matchup, index) => {
+                        const matchupDiv = document.createElement('div');
+                        matchupDiv.innerHTML = '';
+
+                        matchup.teams.forEach(team => {
+                            matchupDiv.innerHTML += `
+                                <div class="team-card">
+                                    <div class="team-info">
+                                        <div class="flex items-center">
+                                            <span class="team-seed">${team.seed}</span>
+                                            <span class="team-name">${team.name}</span>
+                                        </div>
+                                        <div class="series-score">${team.series_score}</div>
+                                    </div>
+                                    <div class="tooltip">
+                                        <h4 class="font-bold mb-2">${team.name} vs ${team.games[0].opponent}</h4>
+                                        ${team.games.map(game => `
+                                            <div class="game-info">
+                                                <span class="game-date">${game.date}</span>
+                                                <span class="game-score">${team.name} ${game.score} ${game.opponent}</span>
+                                            </div>
+                                        `).join('')}
+                                    </div>
+                                </div>
+                            `;
+                        });
+
+                        roundDiv.innerHTML += matchupDiv.innerHTML;
+                    });
+
+                    roundDiv.innerHTML += '</div>';
+                }
+
+                container.appendChild(roundDiv);
+            });
+        }
+
+        function renderFinals(finals) {
+            const container = document.getElementById('finals-content');
+            container.innerHTML = '';
+
+            if (finals.status === 'upcoming') {
+                container.innerHTML = `
+                    <div class="bracket-section p-4">
+                        <div class="round-title">总决赛</div>
+                        <div class="grid grid-cols-2 gap-4 mt-4">
+                            <div class="text-center py-8 text-gray-500">
+                                <i class="fas fa-clock fa-2x mb-2"></i>
+                                <p>即将开始</p>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+        }
+
+        // 页面加载完成后加载数据
+        document.addEventListener('DOMContentLoaded', loadPlayoffData);
+    </script>
+    <style>
+        :root {
+            --primary-color: #1E40AF;
+            --secondary-color: #B22222;
+            --light-color: #F3F4F6;
+            --dark-color: #1F2937;
+        }
+        
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #F3F4F6;
+            color: #1F2937;
+        }
+        
+        .nba-header {
+            background: linear-gradient(135deg, #1E40AF, #B22222);
+            color: white;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        
+        .nba-logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+        
+        .playoff-bracket {
+            background-color: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        
+        .bracket-section {
+            border-bottom: 1px solid #E5E7EB;
+        }
+        
+        .bracket-section:last-child {
+            border-bottom: none;
+        }
+        
+        .round-title {
+            background-color: #1E40AF;
+            color: white;
+            padding: 0.75rem;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        .team-card {
+            background-color: white;
+            border: 1px solid #E5E7EB;
+            border-radius: 0.375rem;
+            padding: 0.75rem;
+            margin: 0.5rem 0;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+        
+        .team-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .team-info {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .team-name {
+            font-weight: bold;
+            font-size: 0.875rem;
+        }
+        
+        .team-seed {
+            background-color: #E5E7EB;
+            color: #4B5563;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+        
+        .series-score {
+            font-size: 0.875rem;
+            font-weight: bold;
+        }
+        
+        .team-logo {
+            width: 24px;
+            height: 24px;
+            margin-right: 0.5rem;
+        }
+        
+        .tooltip {
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 0.75rem;
+            border-radius: 0.375rem;
+            z-index: 1000;
+            width: 280px;
+            left: 100%;
+            top: 50%;
+            transform: translateY(-50%);
+            margin-left: 0.5rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            display: none;
+        }
+        
+        .team-card:hover .tooltip {
+            display: block;
+        }
+        
+        .tooltip::before {
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 50%;
+            transform: translateY(-50%);
+            border-width: 8px 8px 8px 0;
+            border-style: solid;
+            border-color: transparent rgba(0, 0, 0, 0.8) transparent transparent;
+        }
+        
+        .game-info {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+            font-size: 0.75rem;
+        }
+        
+        .game-date {
+            color: #9CA3AF;
+        }
+        
+        .game-score {
+            font-weight: bold;
+        }
+        
+        .conf-title {
+            background-color: #1F2937;
+            color: white;
+            padding: 0.5rem;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+        
+        .western-conf {
+            background-color: #1E40AF;
+        }
+        
+        .eastern-conf {
+            background-color: #B22222;
+        }
+        
+        .championship {
+            background: linear-gradient(135deg, #1E40AF, #B22222);
+        }
+    </style>
+</head>
+<body>
+    <!-- 头部 -->
+    <header class="nba-header py-4">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center">
+                <div class="nba-logo flex items-center">
+                    <i class="fas fa-basketball-ball mr-2"></i>
+                    NBA 2025-26赛季季后赛
+                </div>
+                <div class="flex items-center space-x-4">
+                    <a href="#" class="text-white hover:text-gray-200">
+                        <i class="fas fa-home"></i>
+                    </a>
+                    <a href="#" class="text-white hover:text-gray-200">
+                        <i class="fas fa-calendar-alt"></i>
+                    </a>
+                    <a href="#" class="text-white hover:text-gray-200">
+                        <i class="fas fa-trophy"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 主要内容 -->
+    <main class="container mx-auto px-4 py-8">
+        <h1 class="text-2xl font-bold mb-6 text-center">2025-26赛季季后赛对阵</h1>
+        
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <!-- 西部联盟 -->
+            <div class="playoff-bracket">
+                <div class="conf-title western-conf">西部联盟</div>
+                <div id="western-conf-content">
+                    <!-- 动态内容将通过JavaScript渲染 -->
+                </div>
+            </div>
+            
+            <!-- 东部联盟 -->
+            <div class="playoff-bracket">
+                <div class="conf-title eastern-conf">东部联盟</div>
+                <div id="eastern-conf-content">
+                    <!-- 动态内容将通过JavaScript渲染 -->
+                </div>
+            </div>
+        </div>
+        
+        <!-- NBA总决赛 -->
+        <div class="mt-8 playoff-bracket">
+            <div class="conf-title championship">NBA总决赛</div>
+            <div id="finals-content">
+                <!-- 动态内容将通过JavaScript渲染 -->
+            </div>
+        </div>
+    </main>
+    
+    <!-- 页脚 -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <div class="mb-4 md:mb-0">
+                    <div class="flex items-center">
+                        <i class="fas fa-basketball-ball mr-2"></i>
+                        <span class="font-bold text-xl">NBA 2025-26赛季季后赛</span>
+                    </div>
+                    <p class="text-gray-400 mt-2">数据更新时间: 2026-04-20</p>
+                </div>
+                <div class="flex space-x-4">
+                    <a href="#" class="text-gray-400 hover:text-white">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a href="#" class="text-gray-400 hover:text-white">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    <a href="#" class="text-gray-400 hover:text-white">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="#" class="text-gray-400 hover:text-white">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="mt-8 border-t border-gray-700 pt-8 text-center text-gray-400">
+                <p>© 2026 NBA. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

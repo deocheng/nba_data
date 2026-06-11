@@ -1,0 +1,5601 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Phoenix"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "D. Brooks misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:40.0",
+      "Defensive rebound by Team",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:27.0",
+      "J. Smith makes 3-pt jump shot from 27 ft (assist by A. Şengün)",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "3-2",
+      "+2",
+      "D. Booker makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "10:51.0",
+      "A. Thompson misses 2-pt layup from 1 ft (block by J. Green)",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "Defensive rebound by D. Booker"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "Offensive foul by J. Green (drawn by A. Thompson)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "Turnover by J. Green (offensive foul)"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:34.0",
+      "A. Şengün misses 3-pt jump shot from 26 ft",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "Defensive rebound by J. Green"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "Turnover by J. Green (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:14.0",
+      "A. Thompson makes 2-pt layup from 1 ft (assist by A. Şengün)",
+      "+2",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "5-5",
+      "+3",
+      "D. Booker makes 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:56.0",
+      "Turnover by A. Şengün (bad pass; steal by M. Williams)",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "5-8",
+      "+3",
+      "J. Goodwin makes 3-pt jump shot from 23 ft (assist by J. Green)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:19.0",
+      "A. Thompson misses 3-pt jump shot from 23 ft",
+      "",
+      "5-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "5-8",
+      "",
+      "Defensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "5-11",
+      "+3",
+      "D. Booker makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "8:54.0",
+      "R. Sheppard misses 3-pt jump shot from 31 ft",
+      "",
+      "5-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:52.0",
+      "",
+      "",
+      "5-11",
+      "",
+      "Defensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "5-13",
+      "+2",
+      "J. Green makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:33.0",
+      "K. Durant misses 2-pt jump shot from 20 ft",
+      "",
+      "5-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "5-13",
+      "",
+      "Defensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "5-13",
+      "",
+      "J. Green misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:18.0",
+      "",
+      "",
+      "5-13",
+      "",
+      "Offensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "5-13",
+      "",
+      "D. Brooks misses 2-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:13.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "5-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:01.0",
+      "K. Durant misses 2-pt jump shot from 20 ft",
+      "",
+      "5-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "5-13",
+      "",
+      "Defensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "5-16",
+      "+3",
+      "J. Goodwin makes 3-pt jump shot from 27 ft (assist by D. Brooks)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:52.0",
+      "Houston full timeout",
+      "",
+      "5-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:52.0",
+      "J. Okogie enters the game for R. Sheppard",
+      "",
+      "5-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:37.0",
+      "A. Şengün misses 2-pt hook shot from 1 ft",
+      "",
+      "5-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:36.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "5-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:35.0",
+      "A. Şengün misses 2-pt layup at rim",
+      "",
+      "5-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:34.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "5-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:30.0",
+      "Turnover by A. Şengün (lost ball; steal by M. Williams)",
+      "",
+      "5-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "5-16",
+      "",
+      "D. Brooks misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "5-16",
+      "",
+      "Offensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "5-18",
+      "+2",
+      "M. Williams makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:07.0",
+      "K. Durant misses 2-pt jump shot from 18 ft",
+      "",
+      "5-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:03.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "5-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:58.0",
+      "K. Durant misses 3-pt jump shot from 26 ft",
+      "",
+      "5-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "5-18",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "5-18",
+      "",
+      "G. Allen enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "5-18",
+      "",
+      "J. Green misses 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "5-18",
+      "",
+      "Offensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "5-20",
+      "+2",
+      "M. Williams makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:19.0",
+      "J. Okogie misses 3-pt jump shot from 24 ft (block by J. Green)",
+      "",
+      "5-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "5-20",
+      "",
+      "Defensive rebound by D. Booker"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "5-22",
+      "+2",
+      "M. Williams makes 2-pt layup from 1 ft (assist by D. Booker)"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "5-22",
+      "",
+      "Shooting foul by K. Durant (drawn by M. Williams)"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:13.0",
+      "C. Capela enters the game for A. Şengün",
+      "",
+      "5-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "5-23",
+      "+1",
+      "M. Williams makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "6:01.0",
+      "Turnover by K. Durant (lost ball; steal by M. Williams)",
+      "",
+      "5-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "5-25",
+      "+2",
+      "M. Williams makes 2-pt layup from 1 ft (assist by D. Booker)"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "5-25",
+      "",
+      "Shooting foul by C. Capela (drawn by M. Williams)"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "5-26",
+      "+1",
+      "M. Williams makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "5-26",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:44.0",
+      "T. Eason enters the game for J. Smith",
+      "",
+      "5-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "5:44.0",
+      "R. Sheppard enters the game for A. Thompson",
+      "",
+      "5-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "5:35.0",
+      "K. Durant makes 2-pt jump shot from 11 ft",
+      "+2",
+      "7-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "7-26",
+      "",
+      "D. Brooks misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:18.0",
+      "Defensive rebound by C. Capela",
+      "",
+      "7-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:10.0",
+      "Personal foul by G. Allen (drawn by C. Capela)",
+      "",
+      "7-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "7-26",
+      "",
+      "O. Ighodaro enters the game for M. Williams"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "5:09.0",
+      "Turnover by K. Durant (bad pass; steal by O. Ighodaro)",
+      "",
+      "7-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "7-28",
+      "+2",
+      "O. Ighodaro makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:47.0",
+      "R. Sheppard makes 2-pt jump shot from 21 ft",
+      "+2",
+      "9-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "9-28",
+      "",
+      "Offensive foul by D. Brooks (drawn by J. Okogie)"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "9-28",
+      "",
+      "Turnover by D. Brooks (offensive foul)"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "9-28",
+      "",
+      "C. Gillespie enters the game for D. Brooks"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "9-28",
+      "",
+      "R. O'Neale enters the game for J. Green"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "4:20.0",
+      "C. Capela misses 2-pt layup from 5 ft (block by G. Allen)",
+      "",
+      "9-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "4:18.0",
+      "Offensive rebound by Team",
+      "",
+      "9-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "4:13.0",
+      "C. Capela misses 2-pt jump shot from 13 ft",
+      "",
+      "9-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "4:13.0",
+      "Offensive rebound by Team",
+      "",
+      "9-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "4:13.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "9-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "9-28",
+      "",
+      "D. Booker misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:58.0",
+      "Defensive rebound by T. Eason",
+      "",
+      "9-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:46.0",
+      "Turnover by C. Capela (bad pass; steal by G. Allen)",
+      "",
+      "9-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:43.0",
+      "",
+      "",
+      "9-28",
+      "",
+      "C. Gillespie misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:39.0",
+      "Defensive rebound by R. Sheppard",
+      "",
+      "9-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:37.0",
+      "T. Eason makes 2-pt dunk at rim (assist by R. Sheppard)",
+      "+2",
+      "11-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "11-28",
+      "",
+      "Turnover by G. Allen (bad pass)"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:19.0",
+      "A. Şengün enters the game for C. Capela",
+      "",
+      "11-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:19.0",
+      "A. Thompson enters the game for J. Okogie",
+      "",
+      "11-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "3:06.0",
+      "Shooting foul by O. Ighodaro (drawn by A. Şengün)",
+      "",
+      "11-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "3:06.0",
+      "A. Şengün makes free throw 1 of 2",
+      "+1",
+      "12-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "3:06.0",
+      "A. Şengün makes free throw 2 of 2",
+      "+1",
+      "13-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "13-30",
+      "+2",
+      "O. Ighodaro makes 2-pt dunk from 2 ft (assist by D. Booker)"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:38.0",
+      "K. Durant misses 3-pt jump shot from 28 ft",
+      "",
+      "13-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "13-30",
+      "",
+      "Defensive rebound by O. Ighodaro"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "13-30",
+      "",
+      "G. Allen misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:27.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "13-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "2:23.0",
+      "A. Thompson misses 2-pt jump shot from 8 ft",
+      "",
+      "13-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "2:20.0",
+      "",
+      "",
+      "13-30",
+      "",
+      "Defensive rebound by G. Allen"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "13-32",
+      "+2",
+      "D. Booker makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "13-32",
+      "",
+      "Shooting foul by T. Eason (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "13-32",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "2:11.0",
+      "J. Smith enters the game for K. Durant",
+      "",
+      "13-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "13-33",
+      "+1",
+      "D. Booker makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:52.0",
+      "A. Şengün misses 2-pt jump shot from 12 ft",
+      "",
+      "13-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:49.0",
+      "Offensive rebound by T. Eason",
+      "",
+      "13-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:48.0",
+      "T. Eason makes 2-pt layup from 1 ft",
+      "+2",
+      "15-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:48.0",
+      "Shooting foul by G. Allen (drawn by T. Eason)",
+      "",
+      "15-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "15-33",
+      "",
+      "J. Goodwin enters the game for D. Booker"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:48.0",
+      "T. Eason makes free throw 1 of 1",
+      "+1",
+      "16-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "1:40.0",
+      "",
+      "",
+      "16-33",
+      "",
+      "Offensive foul by O. Ighodaro (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "1:40.0",
+      "",
+      "",
+      "16-33",
+      "",
+      "Turnover by O. Ighodaro (offensive foul)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "1:24.0",
+      "J. Smith misses 2-pt jump shot from 14 ft (block by R. O'Neale)",
+      "",
+      "16-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "1:24.0",
+      "Offensive rebound by Team",
+      "",
+      "16-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "1:22.0",
+      "R. Sheppard makes 3-pt jump shot from 26 ft (assist by A. Thompson)",
+      "+3",
+      "19-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "19-33",
+      "",
+      "Turnover by C. Gillespie (lost ball; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:56.0",
+      "Turnover by A. Şengün (bad pass; steal by C. Gillespie)",
+      "",
+      "19-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "19-35",
+      "+2",
+      "O. Ighodaro makes 2-pt hook shot from 2 ft"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:33.0",
+      "J. Smith misses 3-pt jump shot from 24 ft",
+      "",
+      "19-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "19-35",
+      "",
+      "Defensive rebound by C. Gillespie"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "0:18.0",
+      "",
+      "",
+      "19-35",
+      "",
+      "Shooting foul by A. Thompson (drawn by G. Allen)"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "0:18.0",
+      "",
+      "",
+      "19-36",
+      "+1",
+      "G. Allen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "0:18.0",
+      "K. Durant enters the game for T. Eason",
+      "",
+      "19-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "0:18.0",
+      "",
+      "",
+      "19-36",
+      "",
+      "D. Brooks enters the game for C. Gillespie"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "0:18.0",
+      "",
+      "",
+      "19-36",
+      "",
+      "M. Williams enters the game for O. Ighodaro"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "0:18.0",
+      "",
+      "",
+      "19-37",
+      "+1",
+      "G. Allen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "0:05.0",
+      "A. Thompson makes 2-pt layup from 2 ft",
+      "+2",
+      "21-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Phoenix"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "11:41.0",
+      "A. Şengün misses 2-pt hook shot from 10 ft",
+      "",
+      "21-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "11:38.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "21-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "11:34.0",
+      "J. Smith misses 2-pt layup from 3 ft (block by O. Ighodaro)",
+      "",
+      "21-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "21-37",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "21-40",
+      "+3",
+      "J. Goodwin makes 3-pt jump shot from 24 ft (assist by O. Ighodaro)"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:59.0",
+      "A. Şengün misses 2-pt layup from 1 ft",
+      "",
+      "21-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "21-40",
+      "",
+      "Defensive rebound by O. Ighodaro"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "21-40",
+      "",
+      "J. Goodwin misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "21-40",
+      "",
+      "Offensive rebound by R. O'Neale"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "10:47.0",
+      "",
+      "",
+      "21-40",
+      "",
+      "C. Gillespie misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "10:43.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "21-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "10:27.0",
+      "Turnover by A. Şengün (traveling)",
+      "",
+      "21-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "21-40",
+      "",
+      "Personal foul by J. Smith (drawn by J. Goodwin)"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "21-40",
+      "",
+      "Turnover by G. Allen (lost ball; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:54.0",
+      "A. Holiday makes 3-pt jump shot from 26 ft (assist by A. Thompson)",
+      "+3",
+      "24-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "24-40",
+      "",
+      "Personal foul by A. Thompson (drawn by C. Gillespie)"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "24-40",
+      "",
+      "J. Green enters the game for G. Allen"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "24-40",
+      "",
+      "Offensive foul by J. Green (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "24-40",
+      "",
+      "Turnover by J. Green (offensive foul)"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "9:19.0",
+      "J. Smith misses 2-pt jump shot from 17 ft",
+      "",
+      "24-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "9:16.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "24-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "9:14.0",
+      "A. Holiday misses 3-pt jump shot from 27 ft",
+      "",
+      "24-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "9:13.0",
+      "Offensive rebound by T. Eason",
+      "",
+      "24-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "9:12.0",
+      "T. Eason makes 2-pt layup at rim",
+      "+2",
+      "26-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "26-40",
+      "",
+      "J. Green misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:58.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "26-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:55.0",
+      "Turnover by A. Thompson (bad pass; steal by C. Gillespie)",
+      "",
+      "26-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "26-40",
+      "",
+      "R. O'Neale misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:49.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "26-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "8:43.0",
+      "A. Holiday makes 3-pt jump shot from 24 ft (assist by J. Smith)",
+      "+3",
+      "29-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "29-40",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "8:41.0",
+      "K. Durant enters the game for A. Şengün",
+      "",
+      "29-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "8:41.0",
+      "J. Tate enters the game for A. Thompson",
+      "",
+      "29-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "29-40",
+      "",
+      "D. Brooks enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "29-40",
+      "",
+      "Turnover by C. Gillespie (back court)"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "8:04.0",
+      "K. Durant misses 2-pt jump shot from 24 ft",
+      "",
+      "29-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "8:00.0",
+      "Offensive rebound by J. Tate",
+      "",
+      "29-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "8:00.0",
+      "J. Tate makes 2-pt layup at rim",
+      "+2",
+      "31-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "31-42",
+      "+2",
+      "D. Brooks makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:36.0",
+      "Personal foul by D. Brooks (drawn by K. Durant)",
+      "",
+      "31-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:36.0",
+      "",
+      "",
+      "31-42",
+      "",
+      "D. Booker enters the game for C. Gillespie"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:36.0",
+      "",
+      "",
+      "31-42",
+      "",
+      "M. Williams enters the game for O. Ighodaro"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "7:30.0",
+      "K. Durant makes 2-pt jump shot from 11 ft (assist by J. Tate)",
+      "+2",
+      "33-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "33-44",
+      "+2",
+      "D. Booker makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "33-44",
+      "",
+      "Technical foul by D. Booker"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "7:15.0",
+      "K. Durant makes technical free throw",
+      "+1",
+      "34-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "7:02.0",
+      "T. Eason misses 3-pt jump shot from 24 ft",
+      "",
+      "34-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "34-44",
+      "",
+      "Defensive rebound by D. Brooks"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "34-44",
+      "",
+      "D. Booker misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:51.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "34-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:39.0",
+      "J. Smith makes 3-pt jump shot from 26 ft (assist by J. Tate)",
+      "+3",
+      "37-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "37-44",
+      "",
+      "D. Brooks misses 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "6:18.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "37-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "6:15.0",
+      "Offensive foul by J. Tate (drawn by D. Brooks)",
+      "",
+      "37-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "6:15.0",
+      "Turnover by J. Tate (offensive foul)",
+      "",
+      "37-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "6:15.0",
+      "Technical foul by J. Tate",
+      "",
+      "37-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "37-45",
+      "+1",
+      "D. Booker makes technical free throw"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "6:15.0",
+      "A. Thompson enters the game for J. Smith",
+      "",
+      "37-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "37-45",
+      "",
+      "G. Allen enters the game for R. O'Neale"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "37-45",
+      "",
+      "Shooting foul by K. Durant (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "37-45",
+      "",
+      "D. Brooks misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "37-45",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "37-46",
+      "+1",
+      "D. Brooks makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "5:44.0",
+      "K. Durant makes 3-pt jump shot from 27 ft (assist by J. Tate)",
+      "+3",
+      "40-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "40-46",
+      "",
+      "Personal foul by A. Holiday (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:28.0",
+      "J. Smith enters the game for T. Eason",
+      "",
+      "40-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "5:21.0",
+      "",
+      "",
+      "40-46",
+      "",
+      "Shooting foul by J. Smith (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "5:21.0",
+      "",
+      "",
+      "40-47",
+      "+1",
+      "D. Booker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "5:21.0",
+      "",
+      "",
+      "40-48",
+      "+1",
+      "D. Booker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "5:09.0",
+      "K. Durant makes 3-pt jump shot from 26 ft (assist by A. Thompson)",
+      "+3",
+      "43-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "43-48",
+      "",
+      "Personal foul by A. Holiday (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "43-49",
+      "+1",
+      "D. Booker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "4:57.0",
+      "A. Şengün enters the game for A. Holiday",
+      "",
+      "43-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "4:57.0",
+      "R. Sheppard enters the game for J. Tate",
+      "",
+      "43-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "43-49",
+      "",
+      "D. Booker misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "4:54.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "43-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "4:45.0",
+      "K. Durant misses 2-pt jump shot from 12 ft",
+      "",
+      "43-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "43-49",
+      "",
+      "Defensive rebound by J. Green"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "43-49",
+      "",
+      "Shooting foul by J. Smith (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "43-50",
+      "+1",
+      "D. Booker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "43-51",
+      "+1",
+      "D. Booker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "4:25.0",
+      "Personal foul by M. Williams (drawn by A. Şengün)",
+      "",
+      "43-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "4:13.0",
+      "J. Smith misses 3-pt jump shot from 25 ft",
+      "",
+      "43-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "43-51",
+      "",
+      "Defensive rebound by D. Booker"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "43-53",
+      "+2",
+      "J. Green makes 2-pt layup at rim (assist by D. Booker)"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "43-53",
+      "",
+      "Shooting foul by A. Şengün (drawn by J. Green)"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "43-53",
+      "",
+      "J. Green misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "4:02.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "43-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "3:48.0",
+      "K. Durant misses 2-pt jump shot from 10 ft",
+      "",
+      "43-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "3:46.0",
+      "Offensive rebound by K. Durant",
+      "",
+      "43-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "3:45.0",
+      "K. Durant misses 2-pt jump shot from 15 ft",
+      "",
+      "43-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "3:45.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "43-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "3:43.0",
+      "A. Thompson makes 2-pt dunk at rim",
+      "+2",
+      "45-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "45-53",
+      "",
+      "D. Brooks misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "3:18.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "45-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "3:00.0",
+      "Turnover by A. Thompson (lost ball)",
+      "",
+      "45-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "3:00.0",
+      "Loose ball foul by A. Thompson (drawn by M. Williams)",
+      "",
+      "45-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "45-54",
+      "+1",
+      "M. Williams makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "45-55",
+      "+1",
+      "M. Williams makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "2:40.0",
+      "A. Şengün makes 2-pt layup from 1 ft (assist by K. Durant)",
+      "+2",
+      "47-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "47-55",
+      "",
+      "J. Green misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "47-55",
+      "",
+      "Offensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "47-55",
+      "",
+      "M. Williams misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "2:29.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "47-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "2:16.0",
+      "R. Sheppard makes 3-pt jump shot from 30 ft (assist by K. Durant)",
+      "+3",
+      "50-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "50-55",
+      "",
+      "Turnover by D. Booker (lost ball; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "1:55.0",
+      "Shooting foul by J. Green (drawn by A. Thompson)",
+      "",
+      "50-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "1:55.0",
+      "Houston full timeout",
+      "",
+      "50-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "1:55.0",
+      "T. Eason enters the game for J. Smith",
+      "",
+      "50-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "50-55",
+      "",
+      "C. Gillespie enters the game for G. Allen"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "50-55",
+      "",
+      "J. Goodwin enters the game for J. Green"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "1:55.0",
+      "A. Thompson makes free throw 1 of 2",
+      "+1",
+      "51-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "1:55.0",
+      "A. Thompson makes free throw 2 of 2",
+      "+1",
+      "52-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "52-55",
+      "",
+      "Personal foul by A. Şengün (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "52-56",
+      "+1",
+      "D. Booker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "52-57",
+      "+1",
+      "D. Booker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "1:21.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "52-57",
+      "",
+      "J. Goodwin misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "0:58.0",
+      "Defensive rebound by R. Sheppard",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "0:53.0",
+      "Offensive foul by A. Şengün (drawn by C. Gillespie)",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "0:53.0",
+      "Turnover by A. Şengün (offensive foul)",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "0:53.0",
+      "Houston full timeout",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "0:53.0",
+      "Instant Replay (Challenge: Stands)",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "0:53.0",
+      "J. Okogie enters the game for A. Şengün",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "0:53.0",
+      "J. Tate enters the game for A. Thompson",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "52-57",
+      "",
+      "D. Booker misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "0:26.0",
+      "Defensive rebound by J. Okogie",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "0:15.0",
+      "Personal foul by J. Goodwin (drawn by K. Durant)",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "0:15.0",
+      "K. Durant makes free throw 1 of 2",
+      "+1",
+      "53-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "0:15.0",
+      "A. Holiday enters the game for R. Sheppard",
+      "",
+      "53-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "0:15.0",
+      "",
+      "",
+      "53-57",
+      "",
+      "R. O'Neale enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "0:15.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "54-57",
+      "",
+      "D. Booker misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "0:02.0",
+      "Defensive rebound by J. Tate",
+      "",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "0:00.0",
+      "Team misses heave shot",
+      "",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Phoenix"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "11:42.0",
+      "K. Durant misses 3-pt jump shot from 27 ft",
+      "",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "11:39.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "11:31.0",
+      "A. Thompson makes 2-pt dunk from 2 ft (assist by J. Okogie)",
+      "+2",
+      "56-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "56-57",
+      "",
+      "Shooting foul by A. Şengün (drawn by J. Green)"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "11:12.0",
+      "C. Capela enters the game for A. Şengün",
+      "",
+      "56-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "56-58",
+      "+1",
+      "J. Green makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "56-58",
+      "",
+      "J. Green misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "11:12.0",
+      "Defensive rebound by Team",
+      "",
+      "56-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "11:02.0",
+      "Personal foul by J. Goodwin (drawn by A. Thompson)",
+      "",
+      "56-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "10:57.0",
+      "J. Smith misses 3-pt jump shot from 24 ft",
+      "",
+      "56-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "10:56.0",
+      "Offensive rebound by J. Okogie",
+      "",
+      "56-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "10:55.0",
+      "J. Okogie misses 2-pt layup from 2 ft",
+      "",
+      "56-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "10:54.0",
+      "Offensive rebound by J. Okogie",
+      "",
+      "56-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "10:53.0",
+      "Shooting foul by M. Williams (drawn by J. Okogie)",
+      "",
+      "56-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "10:53.0",
+      "J. Okogie makes free throw 1 of 2",
+      "+1",
+      "57-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "10:53.0",
+      "J. Okogie misses free throw 2 of 2",
+      "",
+      "57-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "10:51.0",
+      "Offensive rebound by J. Smith",
+      "",
+      "57-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "10:51.0",
+      "J. Smith misses 2-pt layup from 2 ft",
+      "",
+      "57-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "57-58",
+      "",
+      "Defensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "57-58",
+      "",
+      "D. Booker misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "10:31.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "57-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "10:21.0",
+      "K. Durant misses 2-pt jump shot from 15 ft",
+      "",
+      "57-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "10:19.0",
+      "",
+      "",
+      "57-58",
+      "",
+      "Defensive rebound by J. Green"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "57-58",
+      "",
+      "J. Green misses 2-pt layup at rim (block by C. Capela)"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "10:09.0",
+      "Defensive rebound by C. Capela",
+      "",
+      "57-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "9:56.0",
+      "C. Capela makes 2-pt hook shot from 6 ft (assist by J. Okogie)",
+      "+2",
+      "59-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "9:40.0",
+      "",
+      "",
+      "59-58",
+      "",
+      "M. Williams misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "59-58",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "59-58",
+      "",
+      "Personal foul by J. Okogie (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "59-58",
+      "",
+      "J. Green misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "59-58",
+      "",
+      "Offensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "59-58",
+      "",
+      "Shooting foul by C. Capela (drawn by J. Green)"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "59-59",
+      "+1",
+      "J. Green makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "59-60",
+      "+1",
+      "J. Green makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "9:01.0",
+      "A. Thompson misses 2-pt jump shot from 10 ft (block by J. Green)",
+      "",
+      "59-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "8:58.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "59-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "8:57.0",
+      "J. Smith makes 3-pt jump shot from 27 ft (assist by A. Thompson)",
+      "+3",
+      "62-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "Shooting foul by C. Capela (drawn by M. Williams)"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "M. Williams misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "62-61",
+      "+1",
+      "M. Williams makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "8:25.0",
+      "A. Thompson misses 2-pt layup from 8 ft",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "8:23.0",
+      "Offensive rebound by C. Capela",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "8:22.0",
+      "C. Capela misses 2-pt layup from 1 ft",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "62-61",
+      "",
+      "Defensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "62-61",
+      "",
+      "D. Brooks misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "62-61",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "62-61",
+      "",
+      "Shooting foul by K. Durant (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "62-62",
+      "+1",
+      "D. Booker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "62-63",
+      "+1",
+      "D. Booker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "7:53.0",
+      "J. Okogie misses 3-pt jump shot from 25 ft (block by J. Green)",
+      "",
+      "62-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "62-63",
+      "",
+      "Defensive rebound by D. Brooks"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "62-63",
+      "",
+      "D. Booker misses 2-pt layup from 1 ft (block by A. Thompson)"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "62-63",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "62-65",
+      "+2",
+      "D. Brooks makes 2-pt jump shot from 12 ft (assist by J. Goodwin)"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "7:26.0",
+      "Turnover by A. Thompson (bad pass)",
+      "",
+      "62-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "7:11.0",
+      "",
+      "",
+      "62-68",
+      "+3",
+      "D. Brooks makes 3-pt jump shot from 26 ft (assist by D. Booker)"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "6:54.0",
+      "J. Smith makes 3-pt jump shot from 23 ft (assist by A. Thompson)",
+      "+3",
+      "65-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "65-70",
+      "+2",
+      "J. Green makes 2-pt layup from 1 ft (assist by J. Goodwin)"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "65-70",
+      "",
+      "Shooting foul by A. Thompson (drawn by J. Green)"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "65-70",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "6:38.0",
+      "T. Eason enters the game for J. Okogie",
+      "",
+      "65-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "6:38.0",
+      "R. Sheppard enters the game for A. Thompson",
+      "",
+      "65-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "65-71",
+      "+1",
+      "J. Green makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "6:28.0",
+      "R. Sheppard misses 3-pt jump shot from 28 ft",
+      "",
+      "65-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "6:24.0",
+      "Offensive rebound by T. Eason",
+      "",
+      "65-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "6:23.0",
+      "K. Durant makes 3-pt jump shot from 23 ft (assist by T. Eason)",
+      "+3",
+      "68-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "68-71",
+      "",
+      "D. Brooks misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "6:05.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "68-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "5:53.0",
+      "K. Durant makes 2-pt jump shot from 12 ft",
+      "+2",
+      "70-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "70-73",
+      "+2",
+      "J. Green makes 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "5:20.0",
+      "Turnover by R. Sheppard (bad pass; steal by D. Brooks)",
+      "",
+      "70-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "70-73",
+      "",
+      "Flagrant foul type 1 by R. Sheppard (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "70-73",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "70-73",
+      "",
+      "G. Allen enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "70-74",
+      "+1",
+      "D. Brooks makes flagrant free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "70-75",
+      "+1",
+      "D. Brooks makes flagrant free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "70-75",
+      "",
+      "Turnover by G. Allen (bad pass; steal by T. Eason)"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "4:54.0",
+      "C. Capela misses 2-pt jump shot from 8 ft",
+      "",
+      "70-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "4:51.0",
+      "",
+      "",
+      "70-75",
+      "",
+      "Defensive rebound by D. Brooks"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "70-75",
+      "",
+      "J. Green misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "4:42.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "70-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "4:31.0",
+      "K. Durant misses 3-pt jump shot from 26 ft",
+      "",
+      "70-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "4:28.0",
+      "Offensive rebound by R. Sheppard",
+      "",
+      "70-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "4:27.0",
+      "R. Sheppard makes 2-pt layup from 1 ft",
+      "+2",
+      "72-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "72-75",
+      "",
+      "Personal foul by R. Sheppard (drawn by G. Allen)"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "72-76",
+      "+1",
+      "G. Allen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "4:13.0",
+      "A. Şengün enters the game for C. Capela",
+      "",
+      "72-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "72-76",
+      "",
+      "C. Gillespie enters the game for D. Brooks"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "72-76",
+      "",
+      "O. Ighodaro enters the game for J. Green"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "72-76",
+      "",
+      "R. O'Neale enters the game for M. Williams"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "72-77",
+      "+1",
+      "G. Allen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "4:01.0",
+      "Personal foul by R. O'Neale (drawn by K. Durant)",
+      "",
+      "72-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "3:48.0",
+      "J. Smith misses 3-pt jump shot from 28 ft",
+      "",
+      "72-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "3:44.0",
+      "Offensive rebound by T. Eason",
+      "",
+      "72-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "3:43.0",
+      "T. Eason makes 2-pt layup from 1 ft",
+      "+2",
+      "74-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "74-77",
+      "",
+      "Turnover by D. Booker (bad pass; steal by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "3:29.0",
+      "R. Sheppard makes 2-pt layup at rim",
+      "+2",
+      "76-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "76-77",
+      "",
+      "D. Booker misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "3:04.0",
+      "Defensive rebound by R. Sheppard",
+      "",
+      "76-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "2:51.0",
+      "A. Şengün misses 2-pt jump shot from 8 ft",
+      "",
+      "76-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "76-77",
+      "",
+      "Defensive rebound by O. Ighodaro"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "76-77",
+      "",
+      "R. O'Neale misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "2:41.0",
+      "Defensive rebound by R. Sheppard",
+      "",
+      "76-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "2:31.0",
+      "R. Sheppard misses 3-pt jump shot from 27 ft",
+      "",
+      "76-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "76-77",
+      "",
+      "Defensive rebound by O. Ighodaro"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "76-79",
+      "+2",
+      "G. Allen makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "2:01.0",
+      "Houston full timeout",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "2:01.0",
+      "A. Holiday enters the game for J. Smith",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "1:55.0",
+      "K. Durant makes 3-pt jump shot from 27 ft (assist by A. Şengün)",
+      "+3",
+      "79-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "1:35.0",
+      "",
+      "",
+      "79-79",
+      "",
+      "G. Allen misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "1:32.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "79-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "1:17.0",
+      "A. Şengün misses 2-pt hook shot from 7 ft",
+      "",
+      "79-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "79-79",
+      "",
+      "Defensive rebound by G. Allen"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "79-79",
+      "",
+      "Turnover by G. Allen (bad pass)"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "0:59.0",
+      "R. Sheppard misses 3-pt jump shot from 27 ft",
+      "",
+      "79-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "79-79",
+      "",
+      "Defensive rebound by R. O'Neale"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "79-79",
+      "",
+      "Shooting foul by R. Sheppard (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "79-80",
+      "+1",
+      "D. Booker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "79-81",
+      "+1",
+      "D. Booker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "0:33.0",
+      "A. Şengün makes 2-pt layup from 2 ft",
+      "+2",
+      "81-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "0:22.0",
+      "",
+      "",
+      "81-81",
+      "",
+      "D. Booker misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "0:18.0",
+      "",
+      "",
+      "81-81",
+      "",
+      "Offensive rebound by G. Allen"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "81-84",
+      "+3",
+      "R. O'Neale makes 3-pt jump shot from 25 ft (assist by G. Allen)"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "0:02.0",
+      "Personal foul by O. Ighodaro (drawn by A. Şengün)",
+      "",
+      "81-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "81-84",
+      "",
+      "D. Brooks enters the game for C. Gillespie"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "81-84",
+      "",
+      "M. Williams enters the game for O. Ighodaro"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "0:00.0",
+      "A. Şengün misses 2-pt jump shot from 7 ft",
+      "",
+      "81-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "81-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Phoenix"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "81-84",
+      "",
+      "G. Allen misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "11:35.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "81-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "11:22.0",
+      "A. Şengün makes 2-pt dunk from 1 ft",
+      "+2",
+      "83-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "83-84",
+      "",
+      "J. Green misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "11:07.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "83-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "10:57.0",
+      "A. Holiday misses 3-pt jump shot from 22 ft",
+      "",
+      "83-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "10:53.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "83-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "10:53.0",
+      "A. Thompson makes 2-pt dunk from 1 ft",
+      "+2",
+      "85-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "10:37.0",
+      "",
+      "",
+      "85-84",
+      "",
+      "R. O'Neale misses 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "10:35.0",
+      "Defensive rebound by T. Eason",
+      "",
+      "85-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "10:21.0",
+      "A. Holiday makes 2-pt jump shot from 7 ft (assist by A. Şengün)",
+      "+2",
+      "87-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "87-84",
+      "",
+      "O. Ighodaro misses 2-pt hook shot from 1 ft"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "9:57.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "87-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "9:54.0",
+      "J. Smith misses 3-pt jump shot from 27 ft",
+      "",
+      "87-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "9:51.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "87-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "9:48.0",
+      "A. Thompson makes 2-pt dunk from 1 ft (assist by A. Şengün)",
+      "+2",
+      "89-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "D. Booker enters the game for C. Gillespie"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "D. Brooks enters the game for O. Ighodaro"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "M. Williams enters the game for R. O'Neale"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "89-84",
+      "",
+      "Shooting foul by J. Smith (drawn by G. Allen)"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "89-85",
+      "+1",
+      "G. Allen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "89-86",
+      "+1",
+      "G. Allen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "9:10.0",
+      "A. Şengün makes 2-pt hook shot from 2 ft",
+      "+2",
+      "91-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "9:01.0",
+      "",
+      "",
+      "91-88",
+      "+2",
+      "D. Booker makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "8:40.0",
+      "Personal foul by M. Williams (drawn by A. Şengün)",
+      "",
+      "91-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "8:36.0",
+      "A. Şengün misses 2-pt jump shot from 14 ft",
+      "",
+      "91-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "8:34.0",
+      "Offensive rebound by Team",
+      "",
+      "91-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "8:29.0",
+      "Shooting foul by D. Brooks (drawn by J. Smith)",
+      "",
+      "91-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "8:29.0",
+      "J. Smith makes free throw 1 of 3",
+      "+1",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "8:29.0",
+      "J. Smith makes free throw 2 of 3",
+      "+1",
+      "93-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "8:29.0",
+      "J. Smith makes free throw 3 of 3",
+      "+1",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "94-88",
+      "",
+      "J. Green misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "94-88",
+      "",
+      "Offensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "94-90",
+      "+2",
+      "M. Williams makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "7:59.0",
+      "T. Eason makes 2-pt layup from 1 ft (assist by A. Şengün)",
+      "+2",
+      "96-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "7:59.0",
+      "Shooting foul by M. Williams (drawn by T. Eason)",
+      "",
+      "96-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "7:59.0",
+      "T. Eason makes free throw 1 of 1",
+      "+1",
+      "97-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "97-90",
+      "",
+      "Turnover by D. Booker (bad pass)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "7:33.0",
+      "A. Şengün makes 2-pt layup from 1 ft",
+      "+2",
+      "99-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "99-90",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "99-90",
+      "",
+      "J. Goodwin enters the game for J. Green"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "99-90",
+      "",
+      "O. Ighodaro enters the game for M. Williams"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "99-90",
+      "",
+      "O. Ighodaro misses 2-pt dunk from 1 ft (block by J. Smith)"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "99-90",
+      "",
+      "Offensive rebound by O. Ighodaro"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "99-90",
+      "",
+      "Turnover by O. Ighodaro (bad pass; steal by T. Eason)"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "7:11.0",
+      "A. Thompson makes 2-pt dunk from 1 ft (assist by T. Eason)",
+      "+2",
+      "101-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "101-90",
+      "",
+      "Turnover by D. Brooks (lost ball; steal by T. Eason)"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "6:41.0",
+      "Turnover by T. Eason (lost ball; steal by J. Goodwin)",
+      "",
+      "101-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "101-90",
+      "",
+      "D. Brooks misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "101-90",
+      "",
+      "Offensive rebound by G. Allen"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "101-92",
+      "+2",
+      "J. Goodwin makes 2-pt layup at rim (assist by G. Allen)"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "6:03.0",
+      "J. Smith misses 3-pt jump shot from 28 ft",
+      "",
+      "101-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "6:03.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "101-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "5:57.0",
+      "T. Eason misses 3-pt jump shot from 26 ft",
+      "",
+      "101-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "5:56.0",
+      "Offensive rebound by Team",
+      "",
+      "101-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "Loose ball foul by G. Allen (drawn by J. Smith)"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "5:56.0",
+      "K. Durant enters the game for A. Şengün",
+      "",
+      "101-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "5:49.0",
+      "A. Holiday makes 2-pt layup from 1 ft",
+      "+2",
+      "103-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "103-94",
+      "+2",
+      "O. Ighodaro makes 2-pt layup at rim (assist by D. Booker)"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "5:18.0",
+      "A. Thompson makes 2-pt dunk at rim",
+      "+2",
+      "105-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "105-94",
+      "",
+      "Turnover by J. Goodwin (bad pass)"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "5:11.0",
+      "J. Tate enters the game for T. Eason",
+      "",
+      "105-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "105-94",
+      "",
+      "J. Green enters the game for G. Allen"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "4:53.0",
+      "J. Smith makes 3-pt jump shot from 23 ft (assist by A. Thompson)",
+      "+3",
+      "108-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "108-94",
+      "",
+      "Shooting foul by J. Tate (drawn by D. Booker)"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "108-95",
+      "+1",
+      "D. Booker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "108-96",
+      "+1",
+      "D. Booker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "4:19.0",
+      "J. Smith misses 3-pt jump shot from 24 ft",
+      "",
+      "108-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "4:16.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "108-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "4:15.0",
+      "K. Durant makes 3-pt jump shot from 26 ft (assist by A. Thompson)",
+      "+3",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "111-96",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "4:14.0",
+      "T. Eason enters the game for J. Smith",
+      "",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "111-96",
+      "",
+      "M. Williams enters the game for O. Ighodaro"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "111-96",
+      "",
+      "J. Goodwin misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "3:56.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "3:44.0",
+      "Offensive foul by A. Holiday (drawn by J. Goodwin)",
+      "",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "3:44.0",
+      "Turnover by A. Holiday (offensive foul)",
+      "",
+      "111-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "111-96",
+      "",
+      "Personal foul by T. Eason (drawn by J. Green)"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "3:24.0",
+      "",
+      "",
+      "111-98",
+      "+2",
+      "M. Williams makes 2-pt hook shot from 10 ft (assist by D. Booker)"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "3:14.0",
+      "Personal foul by D. Booker (drawn by A. Holiday)",
+      "",
+      "111-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "3:14.0",
+      "A. Holiday makes free throw 1 of 2",
+      "+1",
+      "112-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "3:14.0",
+      "J. Smith enters the game for J. Tate",
+      "",
+      "112-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "3:14.0",
+      "A. Holiday makes free throw 2 of 2",
+      "+1",
+      "113-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "113-100",
+      "+2",
+      "J. Green makes 2-pt jump shot from 2 ft"
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "113-100",
+      "",
+      "Shooting foul by T. Eason (drawn by J. Green)"
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "3:05.0",
+      "A. Şengün enters the game for T. Eason",
+      "",
+      "113-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "113-101",
+      "+1",
+      "J. Green makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "2:48.0",
+      "Turnover by A. Thompson (bad pass; steal by J. Goodwin)",
+      "",
+      "113-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "2:47.0",
+      "",
+      "",
+      "113-101",
+      "",
+      "Turnover by M. Williams (bad pass; steal by A. Holiday)"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "2:42.0",
+      "J. Smith misses 3-pt jump shot from 30 ft",
+      "",
+      "113-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "2:40.0",
+      "Offensive rebound by A. Şengün",
+      "",
+      "113-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "2:36.0",
+      "Turnover by A. Şengün (out of bounds lost ball)",
+      "",
+      "113-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "113-101",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "113-101",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "2:36.0",
+      "T. Eason enters the game for A. Şengün",
+      "",
+      "113-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "113-101",
+      "",
+      "D. Booker misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "2:21.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "113-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "2:02.0",
+      "A. Thompson misses 2-pt jump shot from 11 ft",
+      "",
+      "113-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "113-101",
+      "",
+      "Defensive rebound by D. Booker"
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "113-103",
+      "+2",
+      "M. Williams makes 2-pt layup from 1 ft (assist by D. Booker)"
+    ]
+  },
+  {
+    "row": 495,
+    "cells": [
+      "1:32.0",
+      "J. Smith makes 2-pt jump shot from 11 ft (assist by A. Thompson)",
+      "+2",
+      "115-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 496,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "115-105",
+      "+2",
+      "D. Booker makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 497,
+    "cells": [
+      "1:04.0",
+      "A. Thompson makes 2-pt layup from 2 ft (assist by K. Durant)",
+      "+2",
+      "117-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 498,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "117-105",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 499,
+    "cells": [
+      "1:04.0",
+      "J. Okogie enters the game for K. Durant",
+      "",
+      "117-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 500,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "117-105",
+      "",
+      "J. Bouyea enters the game for D. Booker"
+    ]
+  },
+  {
+    "row": 501,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "117-105",
+      "",
+      "K. Brea enters the game for D. Brooks"
+    ]
+  },
+  {
+    "row": 502,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "117-105",
+      "",
+      "R. Dunn enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 503,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "117-105",
+      "",
+      "R. Fleming enters the game for J. Green"
+    ]
+  },
+  {
+    "row": 504,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "117-105",
+      "",
+      "K. Maluach enters the game for M. Williams"
+    ]
+  },
+  {
+    "row": 505,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "117-105",
+      "",
+      "J. Bouyea misses 2-pt layup from 9 ft"
+    ]
+  },
+  {
+    "row": 506,
+    "cells": [
+      "0:46.0",
+      "Defensive rebound by T. Eason",
+      "",
+      "117-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 507,
+    "cells": [
+      "0:26.0",
+      "A. Thompson makes 2-pt layup from 1 ft",
+      "+2",
+      "119-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 508,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "119-105",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  }
+]

@@ -1,0 +1,5051 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Denver"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "12:00.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "C. Johnson misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:42.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:25.0",
+      "A. Şengün makes 2-pt layup from 1 ft (assist by K. Durant)",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:11.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Turnover by N. Jokić (bad pass; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:05.0",
+      "Turnover by J. Smith (bad pass)",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Turnover by T. Hardaway (bad pass)"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:42.0",
+      "Turnover by K. Durant (bad pass; steal by T. Hardaway)",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "S. Jones misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:32.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:24.0",
+      "K. Durant misses 2-pt jump shot from 12 ft",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:23.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:23.0",
+      "A. Thompson makes 2-pt layup at rim",
+      "+2",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:07.0",
+      "",
+      "",
+      "4-2",
+      "+2",
+      "S. Jones makes 2-pt jump shot from 6 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:55.0",
+      "K. Durant makes 3-pt jump shot from 25 ft (assist by A. Şengün)",
+      "+3",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "N. Jokić misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:39.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:34.0",
+      "A. Thompson misses 2-pt jump shot from 11 ft",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "T. Hardaway misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:18.0",
+      "Defensive rebound by Team",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "7-2",
+      "",
+      "Loose ball foul by N. Jokić (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:59.0",
+      "J. Smith makes 3-pt jump shot from 25 ft (assist by J. Okogie)",
+      "+3",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "10-2",
+      "",
+      "J. Murray misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:41.0",
+      "Defensive rebound by Team",
+      "",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:31.0",
+      "Turnover by A. Şengün (bad pass)",
+      "",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "10-4",
+      "+2",
+      "S. Jones makes 2-pt layup from 2 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:04.0",
+      "J. Smith misses 3-pt jump shot from 25 ft",
+      "",
+      "10-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "10-4",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "10-4",
+      "",
+      "C. Johnson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:58.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "10-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:47.0",
+      "Turnover by A. Şengün (lost ball; steal by J. Murray)",
+      "",
+      "10-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "10-7",
+      "+3",
+      "T. Hardaway makes 3-pt jump shot from 24 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:22.0",
+      "J. Smith makes 2-pt jump shot from 20 ft",
+      "+2",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "12-10",
+      "+3",
+      "C. Johnson makes 3-pt jump shot from 28 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:11.0",
+      "Houston full timeout",
+      "",
+      "12-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:49.0",
+      "A. Thompson makes 2-pt dunk from 1 ft (assist by A. Şengün)",
+      "+2",
+      "14-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "14-12",
+      "+2",
+      "N. Jokić makes 2-pt hook shot from 4 ft"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:07.0",
+      "Turnover by J. Smith (lost ball; steal by C. Johnson)",
+      "",
+      "14-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "14-14",
+      "+2",
+      "N. Jokić makes 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "5:31.0",
+      "Shooting foul by S. Jones (drawn by K. Durant)",
+      "",
+      "14-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "5:31.0",
+      "K. Durant makes free throw 1 of 3",
+      "+1",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "5:31.0",
+      "K. Durant makes free throw 2 of 3",
+      "+1",
+      "16-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "5:31.0",
+      "S. Adams enters the game for A. Şengün",
+      "",
+      "16-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "5:31.0",
+      "R. Sheppard enters the game for A. Thompson",
+      "",
+      "16-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "16-14",
+      "",
+      "B. Brown enters the game for C. Johnson"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:31.0",
+      "K. Durant makes free throw 3 of 3",
+      "+1",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "N. Jokić misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:15.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "4:59.0",
+      "Turnover by K. Durant (bad pass; steal by S. Jones)",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "17-16",
+      "+2",
+      "S. Jones makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "4:39.0",
+      "R. Sheppard misses 2-pt jump shot from 10 ft",
+      "",
+      "17-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "17-16",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "17-18",
+      "+2",
+      "N. Jokić makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "4:14.0",
+      "K. Durant misses 2-pt jump shot from 3 ft",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "Defensive rebound by S. Jones"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "17-20",
+      "+2",
+      "T. Hardaway makes 2-pt dunk from 1 ft (assist by S. Jones)"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:00.0",
+      "R. Sheppard makes 3-pt jump shot from 25 ft",
+      "+3",
+      "20-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "20-20",
+      "",
+      "S. Jones misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "20-20",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "3:40.0",
+      "A. Thompson enters the game for J. Okogie",
+      "",
+      "20-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "20-20",
+      "",
+      "J. Pickett enters the game for T. Hardaway"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "20-23",
+      "+3",
+      "J. Murray makes 3-pt jump shot from 25 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "3:21.0",
+      "R. Sheppard makes 3-pt jump shot from 25 ft (assist by A. Thompson)",
+      "+3",
+      "23-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "23-23",
+      "",
+      "J. Murray misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "2:53.0",
+      "Defensive rebound by Team",
+      "",
+      "23-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "23-23",
+      "",
+      "Loose ball foul by N. Jokić (drawn by K. Durant)"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "23-23",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "23-23",
+      "",
+      "Technical foul by D. Adelman"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "2:53.0",
+      "A. Şengün enters the game for J. Smith",
+      "",
+      "23-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "23-23",
+      "",
+      "J. Valančiūnas enters the game for N. Jokić"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "2:53.0",
+      "K. Durant misses technical free throw",
+      "",
+      "23-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "2:53.0",
+      "Offensive rebound by Team",
+      "",
+      "23-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:28.0",
+      "A. Thompson misses 3-pt jump shot from 26 ft",
+      "",
+      "23-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:25.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "23-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:16.0",
+      "R. Sheppard makes 3-pt jump shot from 23 ft (assist by A. Thompson)",
+      "+3",
+      "26-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "26-23",
+      "",
+      "Turnover by J. Murray (bad pass)"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:01.0",
+      "A. Holiday enters the game for K. Durant",
+      "",
+      "26-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "1:39.0",
+      "R. Sheppard misses 3-pt jump shot from 30 ft",
+      "",
+      "26-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "1:35.0",
+      "",
+      "",
+      "26-23",
+      "",
+      "Defensive rebound by J. Pickett"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "26-23",
+      "",
+      "J. Valančiūnas misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "1:23.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "26-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "1:09.0",
+      "A. Thompson misses 2-pt dunk from 2 ft (block by J. Valančiūnas)",
+      "",
+      "26-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:06.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "26-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:06.0",
+      "S. Adams misses 2-pt layup from 5 ft",
+      "",
+      "26-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "26-23",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "26-26",
+      "+3",
+      "S. Jones makes 3-pt jump shot from 23 ft (assist by J. Valančiūnas)"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "0:36.0",
+      "A. Holiday misses 2-pt jump shot from 18 ft",
+      "",
+      "26-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "0:31.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "26-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "0:31.0",
+      "S. Adams misses 2-pt layup at rim",
+      "",
+      "26-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "26-26",
+      "",
+      "Defensive rebound by S. Jones"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "26-29",
+      "+3",
+      "J. Murray makes 3-pt jump shot from 27 ft (assist by S. Jones)"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:01.0",
+      "A. Şengün misses 2-pt jump shot from 15 ft",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:01.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:00.0",
+      "A. Thompson misses 2-pt layup at rim",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Denver"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "11:38.0",
+      "K. Durant misses 2-pt jump shot from 15 ft",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "26-29",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "26-31",
+      "+2",
+      "B. Brown makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "10:59.0",
+      "A. Thompson misses 3-pt jump shot from 24 ft",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "J. Pickett misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Offensive rebound by J. Pickett"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "10:41.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "J. Valančiūnas misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "10:36.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "10:22.0",
+      "K. Durant misses 2-pt jump shot from 11 ft",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "10:19.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "10:03.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "J. Valančiūnas misses 2-pt hook shot from 9 ft"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "10:02.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "9:50.0",
+      "K. Durant makes 3-pt jump shot from 24 ft (assist by R. Sheppard)",
+      "+3",
+      "29-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "29-33",
+      "+2",
+      "J. Valančiūnas makes 2-pt jump shot from 12 ft (assist by C. Johnson)"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "9:15.0",
+      "K. Durant makes 3-pt jump shot from 27 ft",
+      "+3",
+      "32-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "32-35",
+      "+2",
+      "J. Valančiūnas makes 2-pt hook shot from 3 ft (assist by C. Johnson)"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "8:34.0",
+      "Personal foul by C. Johnson (drawn by K. Durant)",
+      "",
+      "32-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "8:34.0",
+      "A. Şengün enters the game for S. Adams",
+      "",
+      "32-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "8:30.0",
+      "R. Sheppard makes 2-pt jump shot from 18 ft (assist by A. Thompson)",
+      "+2",
+      "34-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "34-35",
+      "",
+      "C. Johnson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "34-35",
+      "",
+      "Offensive rebound by J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "34-37",
+      "+2",
+      "J. Valančiūnas makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "7:51.0",
+      "R. Sheppard misses 3-pt jump shot from 27 ft",
+      "",
+      "34-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "34-37",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "34-37",
+      "",
+      "Turnover by J. Valančiūnas (bad pass; steal by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "7:37.0",
+      "Shooting foul by J. Pickett (drawn by K. Durant)",
+      "",
+      "34-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "7:37.0",
+      "K. Durant makes free throw 1 of 2",
+      "+1",
+      "35-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "7:37.0",
+      "J. Okogie enters the game for A. Thompson",
+      "",
+      "35-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "35-37",
+      "",
+      "T. Hardaway enters the game for C. Johnson"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "35-37",
+      "",
+      "N. Jokić enters the game for Z. Nnaji"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "7:37.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "36-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "36-37",
+      "",
+      "Personal foul by J. Smith (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "7:11.0",
+      "",
+      "",
+      "36-37",
+      "",
+      "Turnover by N. Jokić (bad pass)"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "7:00.0",
+      "J. Okogie makes 3-pt jump shot from 23 ft (assist by R. Sheppard)",
+      "+3",
+      "39-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "39-37",
+      "",
+      "J. Valančiūnas misses 2-pt dunk from 1 ft (block by J. Smith)"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "6:38.0",
+      "Defensive rebound by R. Sheppard",
+      "",
+      "39-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "6:30.0",
+      "J. Okogie makes 3-pt jump shot from 23 ft (assist by J. Smith)",
+      "+3",
+      "42-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "42-37",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "6:28.0",
+      "A. Thompson enters the game for K. Durant",
+      "",
+      "42-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "42-37",
+      "",
+      "C. Johnson enters the game for B. Brown"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "42-37",
+      "",
+      "S. Jones enters the game for J. Pickett"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "42-37",
+      "",
+      "J. Murray enters the game for J. Valančiūnas"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "42-37",
+      "",
+      "C. Johnson misses 2-pt layup from 3 ft (block by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "6:20.0",
+      "Defensive rebound by Team",
+      "",
+      "42-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "6:20.0",
+      "Houston full timeout",
+      "",
+      "42-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "6:20.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "42-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "6:00.0",
+      "J. Okogie makes 3-pt jump shot from 27 ft (assist by A. Şengün)",
+      "+3",
+      "45-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "45-37",
+      "",
+      "Shooting foul by J. Smith (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "45-38",
+      "+1",
+      "N. Jokić makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "45-39",
+      "+1",
+      "N. Jokić makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "5:26.0",
+      "A. Şengün misses 2-pt jump shot from 18 ft",
+      "",
+      "45-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "5:22.0",
+      "Offensive rebound by J. Smith",
+      "",
+      "45-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "5:20.0",
+      "A. Thompson makes 2-pt layup from 1 ft (assist by J. Smith)",
+      "+2",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "47-39",
+      "",
+      "Turnover by N. Jokić (bad pass; steal by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "5:04.0",
+      "A. Thompson makes 2-pt dunk from 1 ft (assist by R. Sheppard)",
+      "+2",
+      "49-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "49-39",
+      "",
+      "J. Murray misses 2-pt jump shot from 15 ft (block by A. Şengün)"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "4:39.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "49-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "4:35.0",
+      "J. Smith misses 3-pt jump shot from 26 ft",
+      "",
+      "49-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "49-39",
+      "",
+      "Defensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "49-39",
+      "",
+      "Shooting foul by A. Şengün (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "49-40",
+      "+1",
+      "J. Murray makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "4:26.0",
+      "K. Durant enters the game for R. Sheppard",
+      "",
+      "49-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "4:26.0",
+      "A. Holiday enters the game for A. Thompson",
+      "",
+      "49-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "49-41",
+      "+1",
+      "J. Murray makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "4:13.0",
+      "A. Şengün makes 2-pt dunk from 2 ft (assist by K. Durant)",
+      "+2",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "51-41",
+      "",
+      "N. Jokić misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "3:53.0",
+      "Defensive rebound by A. Holiday",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "3:36.0",
+      "A. Şengün misses 2-pt hook shot from 4 ft",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "51-41",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "51-41",
+      "",
+      "N. Jokić misses 2-pt jump shot from 5 ft (block by K. Durant)"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "3:22.0",
+      "Defensive rebound by A. Holiday",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "3:13.0",
+      "Personal foul by T. Hardaway (drawn by J. Okogie)",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "3:13.0",
+      "S. Adams enters the game for A. Şengün",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "3:13.0",
+      "A. Thompson enters the game for J. Smith",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "2:59.0",
+      "K. Durant makes 2-pt jump shot from 11 ft",
+      "+2",
+      "53-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "53-41",
+      "",
+      "J. Murray misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "2:48.0",
+      "Defensive rebound by A. Holiday",
+      "",
+      "53-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "2:40.0",
+      "A. Holiday misses 3-pt jump shot from 27 ft",
+      "",
+      "53-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "53-41",
+      "",
+      "Defensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "53-41",
+      "",
+      "Offensive foul by N. Jokić (drawn by J. Okogie)"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "53-41",
+      "",
+      "Turnover by N. Jokić (offensive foul)"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "2:20.0",
+      "Offensive foul by A. Holiday (drawn by N. Jokić)",
+      "",
+      "53-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "2:20.0",
+      "Turnover by A. Holiday (offensive foul)",
+      "",
+      "53-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "53-43",
+      "+2",
+      "N. Jokić makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "1:55.0",
+      "S. Adams misses 2-pt jump shot from 9 ft",
+      "",
+      "53-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "53-43",
+      "",
+      "Defensive rebound by T. Hardaway"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "1:42.0",
+      "",
+      "",
+      "53-43",
+      "",
+      "T. Hardaway misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "1:39.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "53-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "1:34.0",
+      "Turnover by A. Thompson (bad pass; steal by J. Murray)",
+      "",
+      "53-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "53-43",
+      "",
+      "S. Jones misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "1:18.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "53-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "1:06.0",
+      "J. Okogie misses 3-pt jump shot from 25 ft",
+      "",
+      "53-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "53-43",
+      "",
+      "Defensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "1:02.0",
+      "A. Şengün enters the game for S. Adams",
+      "",
+      "53-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "53-45",
+      "+2",
+      "N. Jokić makes 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "0:33.0",
+      "Offensive foul by A. Şengün (drawn by N. Jokić)",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "0:33.0",
+      "Turnover by A. Şengün (offensive foul)",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "0:33.0",
+      "Houston full timeout",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "0:33.0",
+      "Instant Replay (Challenge: Stands)",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "53-45",
+      "",
+      "N. Jokić misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "0:15.0",
+      "Defensive rebound by J. Okogie",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "0:00.0",
+      "A. Thompson misses 2-pt jump shot from 7 ft",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Denver"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "11:46.0",
+      "J. Smith makes 3-pt jump shot from 26 ft (assist by K. Durant)",
+      "+3",
+      "56-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "T. Hardaway misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "11:21.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "56-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "11:09.0",
+      "A. Şengün misses 2-pt jump shot from 17 ft",
+      "",
+      "56-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "Defensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "N. Jokić misses 2-pt layup from 4 ft (block by A. Thompson)"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "N. Jokić misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "Offensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "10:47.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "N. Jokić misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "10:45.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "56-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "10:37.0",
+      "J. Smith misses 3-pt jump shot from 28 ft",
+      "",
+      "56-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "Defensive rebound by C. Johnson"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "J. Murray misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "Offensive rebound by S. Jones"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "10:19.0",
+      "",
+      "",
+      "56-45",
+      "",
+      "Personal foul by J. Okogie (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "56-48",
+      "+3",
+      "N. Jokić makes 3-pt jump shot from 28 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "9:44.0",
+      "J. Smith makes 3-pt jump shot from 25 ft (assist by A. Şengün)",
+      "+3",
+      "59-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "59-48",
+      "",
+      "J. Murray misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "9:28.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "59-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "9:23.0",
+      "K. Durant misses 3-pt jump shot from 28 ft",
+      "",
+      "59-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "59-48",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "9:03.0",
+      "",
+      "",
+      "59-51",
+      "+3",
+      "T. Hardaway makes 3-pt jump shot from 25 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "8:47.0",
+      "A. Şengün makes 2-pt dunk from 2 ft",
+      "+2",
+      "61-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "61-51",
+      "",
+      "N. Jokić misses 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "61-51",
+      "",
+      "Offensive rebound by N. Jokić"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "61-53",
+      "+2",
+      "N. Jokić makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "8:08.0",
+      "K. Durant makes 2-pt jump shot from 12 ft",
+      "+2",
+      "63-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "63-53",
+      "",
+      "N. Jokić misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "7:47.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "63-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "7:33.0",
+      "Personal foul by S. Jones (drawn by A. Şengün)",
+      "",
+      "63-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "7:18.0",
+      "Shooting foul by N. Jokić (drawn by A. Thompson)",
+      "",
+      "63-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "7:18.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "63-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "63-53",
+      "",
+      "J. Valančiūnas enters the game for N. Jokić"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "7:18.0",
+      "A. Thompson makes free throw 1 of 2",
+      "+1",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "7:18.0",
+      "A. Thompson misses free throw 2 of 2",
+      "",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "64-53",
+      "",
+      "Defensive rebound by T. Hardaway"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "7:00.0",
+      "",
+      "",
+      "64-53",
+      "",
+      "J. Valančiūnas misses 2-pt jump shot from 1 ft"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "6:58.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "6:51.0",
+      "A. Şengün misses 3-pt jump shot from 24 ft",
+      "",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "64-53",
+      "",
+      "Defensive rebound by C. Johnson"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "64-53",
+      "",
+      "J. Murray misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "6:36.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "6:34.0",
+      "Offensive foul by A. Thompson (drawn by C. Johnson)",
+      "",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "6:34.0",
+      "Turnover by A. Thompson (offensive foul)",
+      "",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "64-53",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "6:34.0",
+      "S. Adams enters the game for A. Şengün",
+      "",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "64-53",
+      "",
+      "C. Johnson misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "6:09.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "5:49.0",
+      "Turnover by J. Smith (bad pass; steal by S. Jones)",
+      "",
+      "64-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "64-53",
+      "",
+      "C. Johnson misses 2-pt layup from 5 ft (block by J. Okogie)"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "64-53",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "64-55",
+      "+2",
+      "J. Valančiūnas makes 2-pt jump shot from 11 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "5:18.0",
+      "Turnover by J. Smith (lost ball; steal by J. Valančiūnas)",
+      "",
+      "64-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "64-55",
+      "",
+      "T. Hardaway misses 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "5:09.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "64-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "5:06.0",
+      "J. Smith makes 3-pt jump shot from 27 ft (assist by K. Durant)",
+      "+3",
+      "67-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "67-57",
+      "+2",
+      "C. Johnson makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "67-57",
+      "",
+      "Shooting foul by S. Adams (drawn by C. Johnson)"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "4:55.0",
+      "R. Sheppard enters the game for J. Smith",
+      "",
+      "67-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "67-58",
+      "+1",
+      "C. Johnson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "4:41.0",
+      "Turnover by K. Durant (out of bounds lost ball)",
+      "",
+      "67-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "67-58",
+      "",
+      "B. Brown enters the game for C. Johnson"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "67-58",
+      "",
+      "J. Murray misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "67-58",
+      "",
+      "Offensive rebound by S. Jones"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "67-58",
+      "",
+      "T. Hardaway misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "4:23.0",
+      "Defensive rebound by J. Okogie",
+      "",
+      "67-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "4:12.0",
+      "K. Durant makes 2-pt jump shot from 15 ft",
+      "+2",
+      "69-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "3:42.0",
+      "",
+      "",
+      "69-58",
+      "",
+      "B. Brown misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "3:39.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "69-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "3:34.0",
+      "Offensive foul by A. Thompson (drawn by B. Brown)",
+      "",
+      "69-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "3:34.0",
+      "Turnover by A. Thompson (offensive foul)",
+      "",
+      "69-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "69-58",
+      "",
+      "J. Pickett enters the game for T. Hardaway"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "69-60",
+      "+2",
+      "J. Pickett makes 2-pt jump shot from 23 ft (assist by J. Murray)"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "2:59.0",
+      "K. Durant misses 2-pt jump shot from 15 ft",
+      "",
+      "69-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "Defensive rebound by J. Pickett"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "S. Jones misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "69-60",
+      "",
+      "Offensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "69-62",
+      "+2",
+      "B. Brown makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "2:38.0",
+      "Houston full timeout",
+      "",
+      "69-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "2:38.0",
+      "A. Şengün enters the game for A. Thompson",
+      "",
+      "69-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "69-62",
+      "",
+      "Z. Nnaji enters the game for S. Jones"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "2:25.0",
+      "R. Sheppard misses 2-pt jump shot from 16 ft",
+      "",
+      "69-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "69-62",
+      "",
+      "Defensive rebound by J. Murray"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "69-64",
+      "+2",
+      "J. Valančiūnas makes 2-pt jump shot from 14 ft (assist by J. Pickett)"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "1:46.0",
+      "A. Şengün makes 2-pt layup from 1 ft",
+      "+2",
+      "71-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "71-64",
+      "",
+      "Personal foul by J. Okogie (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "1:30.0",
+      "J. Smith enters the game for K. Durant",
+      "",
+      "71-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "1:30.0",
+      "A. Thompson enters the game for J. Okogie",
+      "",
+      "71-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "71-64",
+      "",
+      "Personal foul by R. Sheppard (drawn by J. Pickett)"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "71-65",
+      "+1",
+      "J. Pickett makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "71-66",
+      "+1",
+      "J. Pickett makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "1:15.0",
+      "R. Sheppard makes 3-pt jump shot from 27 ft",
+      "+3",
+      "74-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "74-66",
+      "",
+      "Turnover by J. Murray (lost ball; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "0:56.0",
+      "R. Sheppard makes 3-pt jump shot from 24 ft (assist by A. Thompson)",
+      "+3",
+      "77-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "0:42.0",
+      "",
+      "",
+      "77-66",
+      "",
+      "B. Brown misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "0:40.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "77-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "0:28.0",
+      "Shooting foul by B. Brown (drawn by R. Sheppard)",
+      "",
+      "77-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "0:28.0",
+      "R. Sheppard makes free throw 1 of 2",
+      "+1",
+      "78-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "0:28.0",
+      "J. Okogie enters the game for A. Şengün",
+      "",
+      "78-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "78-66",
+      "",
+      "N. Jokić enters the game for Z. Nnaji"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "0:28.0",
+      "R. Sheppard makes free throw 2 of 2",
+      "+1",
+      "79-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "0:21.0",
+      "",
+      "",
+      "79-66",
+      "",
+      "J. Murray misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "0:19.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "79-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "0:02.0",
+      "R. Sheppard makes 3-pt jump shot from 25 ft",
+      "+3",
+      "82-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Denver"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "11:48.0",
+      "",
+      "",
+      "82-68",
+      "+2",
+      "N. Jokić makes 2-pt layup from 1 ft (assist by C. Johnson)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "11:26.0",
+      "Personal foul by J. Pickett (drawn by A. Thompson)",
+      "",
+      "82-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "11:14.0",
+      "R. Sheppard misses 2-pt jump shot from 12 ft (block by B. Brown)",
+      "",
+      "82-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "11:14.0",
+      "Offensive rebound by Team",
+      "",
+      "82-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "11:12.0",
+      "K. Durant makes 3-pt jump shot from 24 ft (assist by A. Thompson)",
+      "+3",
+      "85-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "11:09.0",
+      "Technical foul by K. Durant",
+      "",
+      "85-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "11:09.0",
+      "",
+      "",
+      "85-68",
+      "",
+      "Technical foul by T. Hardaway"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "85-70",
+      "+2",
+      "J. Pickett makes 2-pt jump shot from 23 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "10:47.0",
+      "Personal foul by B. Brown (drawn by K. Durant)",
+      "",
+      "85-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "10:41.0",
+      "Personal foul by T. Hardaway (drawn by K. Durant)",
+      "",
+      "85-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "10:33.0",
+      "J. Smith misses 3-pt jump shot from 27 ft",
+      "",
+      "85-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "85-70",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "85-70",
+      "",
+      "C. Johnson misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "10:19.0",
+      "",
+      "",
+      "85-70",
+      "",
+      "Offensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "85-70",
+      "",
+      "J. Pickett misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "10:10.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "85-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "10:08.0",
+      "Shooting foul by B. Brown (drawn by R. Sheppard)",
+      "",
+      "85-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "10:08.0",
+      "R. Sheppard makes free throw 1 of 2",
+      "+1",
+      "86-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "10:08.0",
+      "R. Sheppard makes free throw 2 of 2",
+      "+1",
+      "87-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "87-72",
+      "+2",
+      "B. Brown makes 2-pt layup from 2 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "9:51.0",
+      "R. Sheppard misses 3-pt jump shot from 30 ft",
+      "",
+      "87-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "87-72",
+      "",
+      "Defensive rebound by C. Johnson"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "9:40.0",
+      "",
+      "",
+      "87-72",
+      "",
+      "C. Johnson misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "9:34.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "87-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "9:21.0",
+      "A. Thompson misses 2-pt jump shot from 15 ft",
+      "",
+      "87-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "87-72",
+      "",
+      "Defensive rebound by C. Johnson"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "87-72",
+      "",
+      "T. Hardaway misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "9:09.0",
+      "Defensive rebound by R. Sheppard",
+      "",
+      "87-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "8:53.0",
+      "Personal foul by B. Brown (drawn by K. Durant)",
+      "",
+      "87-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "8:53.0",
+      "K. Durant makes free throw 1 of 2",
+      "+1",
+      "88-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "88-72",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "8:53.0",
+      "J. Okogie enters the game for A. Thompson",
+      "",
+      "88-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "88-72",
+      "",
+      "J. Murray enters the game for T. Hardaway"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "8:53.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "89-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "89-72",
+      "",
+      "Technical foul by D. Adelman"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "89-72",
+      "",
+      "D. Adelman ejected from game"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "8:40.0",
+      "K. Durant makes technical free throw",
+      "+1",
+      "90-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "90-72",
+      "",
+      "Shooting foul by K. Durant (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "90-73",
+      "+1",
+      "N. Jokić makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "8:35.0",
+      "A. Şengün enters the game for K. Durant",
+      "",
+      "90-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "90-74",
+      "+1",
+      "N. Jokić makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "8:14.0",
+      "J. Okogie misses 3-pt jump shot from 23 ft",
+      "",
+      "90-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "90-74",
+      "",
+      "Defensive rebound by J. Pickett"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "90-74",
+      "",
+      "N. Jokić misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "7:58.0",
+      "Defensive rebound by J. Okogie",
+      "",
+      "90-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "7:46.0",
+      "R. Sheppard makes 2-pt layup from 2 ft",
+      "+2",
+      "92-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "92-76",
+      "+2",
+      "J. Murray makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "92-76",
+      "",
+      "Shooting foul by J. Okogie (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "92-77",
+      "+1",
+      "J. Murray makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "7:24.0",
+      "Personal foul by N. Jokić (drawn by J. Smith)",
+      "",
+      "92-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "7:24.0",
+      "J. Smith makes free throw 1 of 2",
+      "+1",
+      "93-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "7:24.0",
+      "J. Smith misses free throw 2 of 2",
+      "",
+      "93-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "93-77",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "93-80",
+      "+3",
+      "J. Murray makes 3-pt jump shot from 23 ft (assist by N. Jokić)"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "93-80",
+      "",
+      "Shooting foul by J. Okogie (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "7:10.0",
+      "K. Durant enters the game for S. Adams",
+      "",
+      "93-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "7:10.0",
+      "A. Thompson enters the game for J. Okogie",
+      "",
+      "93-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "93-80",
+      "",
+      "T. Hardaway enters the game for J. Pickett"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "93-81",
+      "+1",
+      "J. Murray makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "6:47.0",
+      "A. Thompson makes 2-pt hook shot from 6 ft",
+      "+2",
+      "95-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "95-81",
+      "",
+      "Offensive foul by T. Hardaway (drawn by A. Şengün)"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "95-81",
+      "",
+      "Turnover by T. Hardaway (offensive foul)"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "6:34.0",
+      "K. Durant makes 3-pt jump shot from 27 ft (assist by R. Sheppard)",
+      "+3",
+      "98-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "98-81",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "98-81",
+      "",
+      "Shooting foul by A. Şengün (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "98-82",
+      "+1",
+      "N. Jokić makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "98-82",
+      "",
+      "N. Jokić misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "6:22.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "98-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "6:03.0",
+      "J. Smith makes 3-pt jump shot from 24 ft (assist by K. Durant)",
+      "+3",
+      "101-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "101-84",
+      "+2",
+      "N. Jokić makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "5:22.0",
+      "Personal foul by B. Brown (drawn by K. Durant)",
+      "",
+      "101-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "5:22.0",
+      "K. Durant makes free throw 1 of 2",
+      "+1",
+      "102-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "5:22.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "103-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "5:22.0",
+      "Technical foul by J. Smith",
+      "",
+      "103-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "103-85",
+      "+1",
+      "N. Jokić makes technical free throw"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "103-85",
+      "",
+      "Personal foul by R. Sheppard (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "103-85",
+      "",
+      "J. Murray misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "103-85",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "103-86",
+      "+1",
+      "J. Murray makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "4:59.0",
+      "J. Smith makes 2-pt dunk from 2 ft (assist by R. Sheppard)",
+      "+2",
+      "105-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "105-86",
+      "",
+      "Turnover by N. Jokić (lost ball; steal by A. Şengün)"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "4:46.0",
+      "A. Thompson makes 2-pt dunk from 1 ft",
+      "+2",
+      "107-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "Denver full timeout"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "Z. Nnaji enters the game for T. Hardaway"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "J. Pickett enters the game for C. Johnson"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "J. Strawther enters the game for N. Jokić"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "H. Tyson enters the game for J. Murray"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "H. Tyson misses 2-pt layup from 5 ft (block by A. Thompson)"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "4:21.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "J. Pickett misses 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "4:18.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "107-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "4:08.0",
+      "Turnover by A. Şengün (lost ball; steal by B. Brown)",
+      "",
+      "107-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "107-88",
+      "+2",
+      "B. Brown makes 2-pt layup from 2 ft (assist by J. Strawther)"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "107-88",
+      "",
+      "Shooting foul by R. Sheppard (drawn by B. Brown)"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "4:05.0",
+      "S. Adams enters the game for K. Durant",
+      "",
+      "107-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "4:05.0",
+      "A. Holiday enters the game for A. Şengün",
+      "",
+      "107-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "4:05.0",
+      "J. Tate enters the game for A. Thompson",
+      "",
+      "107-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "107-89",
+      "+1",
+      "B. Brown makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "3:46.0",
+      "Turnover by R. Sheppard (out of bounds lost ball)",
+      "",
+      "107-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "107-91",
+      "+2",
+      "J. Pickett makes 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "3:14.0",
+      "J. Smith misses 3-pt jump shot from 26 ft",
+      "",
+      "107-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "3:11.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "107-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "3:11.0",
+      "S. Adams misses 2-pt layup at rim",
+      "",
+      "107-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "3:10.0",
+      "Offensive rebound by A. Holiday",
+      "",
+      "107-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "3:09.0",
+      "Turnover by A. Holiday (bad pass; steal by B. Brown)",
+      "",
+      "107-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "107-91",
+      "",
+      "Shooting foul by J. Smith (drawn by Z. Nnaji)"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "107-92",
+      "+1",
+      "Z. Nnaji makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "107-92",
+      "",
+      "Z. Nnaji misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "3:04.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "107-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "2:44.0",
+      "Turnover by A. Holiday (bad pass)",
+      "",
+      "107-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "107-92",
+      "",
+      "H. Tyson misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "107-92",
+      "",
+      "Offensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "107-94",
+      "+2",
+      "B. Brown makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "107-94",
+      "",
+      "Shooting foul by R. Sheppard (drawn by B. Brown)"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "2:35.0",
+      "K. Durant enters the game for A. Holiday",
+      "",
+      "107-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "2:35.0",
+      "A. Şengün enters the game for J. Tate",
+      "",
+      "107-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "107-95",
+      "+1",
+      "B. Brown makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "2:26.0",
+      "J. Smith misses 3-pt jump shot from 23 ft",
+      "",
+      "107-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "107-95",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "107-97",
+      "+2",
+      "J. Pickett makes 2-pt layup from 2 ft (assist by B. Brown)"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "2:10.0",
+      "Personal take foul by Z. Nnaji (drawn by S. Adams)",
+      "",
+      "107-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "2:10.0",
+      "S. Adams misses free throw 1 of 2",
+      "",
+      "107-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "2:10.0",
+      "Offensive rebound by Team",
+      "",
+      "107-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "2:10.0",
+      "S. Adams makes free throw 2 of 2",
+      "+1",
+      "108-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "108-97",
+      "",
+      "Turnover by J. Pickett (lost ball; steal by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "2:02.0",
+      "R. Sheppard makes 2-pt dunk from 1 ft",
+      "+2",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "110-97",
+      "",
+      "J. Strawther misses 2-pt layup from 8 ft (block by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "110-97",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "110-97",
+      "",
+      "J. Strawther misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "1:45.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "1:44.0",
+      "Turnover by A. Şengün (out of bounds lost ball)",
+      "",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "1:35.0",
+      "",
+      "",
+      "110-97",
+      "",
+      "H. Tyson misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "1:30.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "1:27.0",
+      "Houston full timeout",
+      "",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "1:27.0",
+      "A. Thompson enters the game for S. Adams",
+      "",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "1:14.0",
+      "Personal foul by H. Tyson (drawn by A. Thompson)",
+      "",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "1:14.0",
+      "A. Thompson makes free throw 1 of 2",
+      "+1",
+      "111-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "1:14.0",
+      "A. Thompson misses free throw 2 of 2",
+      "",
+      "111-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "111-97",
+      "",
+      "Defensive rebound by B. Brown"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "111-97",
+      "",
+      "Shooting foul by K. Durant (drawn by J. Strawther)"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "111-98",
+      "+1",
+      "J. Strawther makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "111-98",
+      "",
+      "J. Strawther misses free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "111-98",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "111-99",
+      "+1",
+      "J. Strawther makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "1:00.0",
+      "J. Smith makes 2-pt dunk from 1 ft (assist by A. Thompson)",
+      "+2",
+      "113-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "113-99",
+      "",
+      "B. Brown misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "0:48.0",
+      "Defensive rebound by A. Şengün",
+      "",
+      "113-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "0:28.0",
+      "A. Thompson makes 2-pt dunk at rim (assist by R. Sheppard)",
+      "+2",
+      "115-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "0:15.0",
+      "",
+      "",
+      "115-99",
+      "",
+      "Z. Nnaji misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "115-99",
+      "",
+      "Offensive rebound by H. Tyson"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "115-101",
+      "+2",
+      "H. Tyson makes 2-pt layup from 1 ft"
+    ]
+  }
+]

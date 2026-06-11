@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025-26赛季综合得分排行榜</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1a1a2e;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .navbar {
+            background-color: #16213e !important;
+            border-bottom: 2px solid #e94560;
+        }
+        .container {
+            max-width: 1200px;
+        }
+        .page-header {
+            text-align: center;
+            margin: 40px 0;
+        }
+        .page-header h1 {
+            font-size: 2.5rem;
+            color: #e94560;
+            margin-bottom: 10px;
+        }
+        .player-card {
+            background: linear-gradient(135deg, #16213e 0%, #0f3460 100%);
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .player-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(233, 69, 96, 0.2);
+        }
+        .rank-badge {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .rank-1 { background: linear-gradient(135deg, #ffd700 0%, #ffaa00 100%); color: #1a1a2e; }
+        .rank-2 { background: linear-gradient(135deg, #c0c0c0 0%, #a0a0a0 100%); color: #1a1a2e; }
+        .rank-3 { background: linear-gradient(135deg, #cd7f32 0%, #b06020 100%); color: #ffffff; }
+        .rank-4 { background: linear-gradient(135deg, #4a90d9 0%, #3a70b9 100%); color: #ffffff; }
+        .rank-5 { background: linear-gradient(135deg, #4dbd74 0%, #3d9d54 100%); color: #ffffff; }
+        
+        .player-name {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .team-info {
+            color: #94a3b8;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+        }
+        .total-score {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #e94560;
+            margin-bottom: 20px;
+        }
+        .stat-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        .stat-box {
+            background-color: #0f3460;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .stat-label {
+            color: #94a3b8;
+            font-size: 0.9rem;
+            margin-bottom: 5px;
+        }
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #e94560;
+        }
+        .categories-list {
+            max-height: 400px;
+            overflow-y: auto;
+            background-color: #0f3460;
+            border-radius: 10px;
+            padding: 15px;
+        }
+        .category-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 15px;
+            margin-bottom: 8px;
+            background-color: #16213e;
+            border-radius: 8px;
+            transition: background-color 0.2s ease;
+        }
+        .category-item:hover {
+            background-color: #1a4a7a;
+        }
+        .category-info {
+            flex: 1;
+        }
+        .category-name {
+            font-weight: bold;
+            color: #ffffff;
+        }
+        .category-rank {
+            color: #94a3b8;
+            font-size: 0.9rem;
+        }
+        .category-score {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #10b981;
+        }
+        .score-breakdown {
+            font-size: 0.8rem;
+            color: #64748b;
+        }
+        .back-btn {
+            background-color: #e94560;
+            border: none;
+            padding: 10px 25px;
+            border-radius: 8px;
+            color: white;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        .back-btn:hover {
+            background-color: #d03550;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">🏀 NBA 数据分析</a>
+            <span class="navbar-text">2025-26赛季综合得分排行榜</span>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="page-header">
+            <h1>🏆 2025-26赛季综合得分排行榜</h1>
+            <p class="text-muted">基于各项榜单排名计算，包含基础分和差距奖励分</p>
+        </div>
+
+        <div id="players-container"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const playersData = [
+            {
+                "rank": 1,
+                "player": "Luka Dončić",
+                "team": "LAL",
+                "total_score": 334.0,
+                "categories_count": 43,
+                "categories": [
+                    {"category": "Points", "rank": 1, "value": 2143, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Points Per Game", "rank": 1, "value": 33.5, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Free Throw Attempts", "rank": 1, "value": 753, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Free Throw Attempts Per Game", "rank": 1, "value": 11.8, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Usage Pct", "rank": 1, "value": 38.1, "base_score": 10, "bonus": 1.0, "total": 11.0}
+                ]
+            },
+            {
+                "rank": 2,
+                "player": "Shai Gilgeous-Alexander",
+                "team": "OKC",
+                "total_score": 325.0,
+                "categories_count": 41,
+                "categories": [
+                    {"category": "Field Goals Per 36 Minutes", "rank": 1, "value": 12.5, "base_score": 10, "bonus": 1.5, "total": 11.5},
+                    {"category": "Field Goals Per 100 Possessions", "rank": 1, "value": 14.2, "base_score": 10, "bonus": 1.5, "total": 11.5},
+                    {"category": "Free Throws", "rank": 1, "value": 657, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Win Shares", "rank": 1, "value": 18.9, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Win Shares Per 48 Minutes", "rank": 1, "value": 0.25, "base_score": 10, "bonus": 1.0, "total": 11.0}
+                ]
+            },
+            {
+                "rank": 3,
+                "player": "Nikola Jokić",
+                "team": "DEN",
+                "total_score": 272.0,
+                "categories_count": 41,
+                "categories": [
+                    {"category": "Box Plus/Minus", "rank": 1, "value": 8.2, "base_score": 10, "bonus": 1.5, "total": 11.5},
+                    {"category": "Value Over Replacement Player", "rank": 1, "value": 7.8, "base_score": 10, "bonus": 1.5, "total": 11.5},
+                    {"category": "Rebounds Per Game", "rank": 1, "value": 14.9, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Defensive Rebounds Per Game", "rank": 1, "value": 11.5, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Assists", "rank": 1, "value": 647, "base_score": 10, "bonus": 1.0, "total": 11.0}
+                ]
+            },
+            {
+                "rank": 4,
+                "player": "Victor Wembanyama",
+                "team": "SAS",
+                "total_score": 258.5,
+                "categories_count": 34,
+                "categories": [
+                    {"category": "Blocks", "rank": 1, "value": 275, "base_score": 10, "bonus": 1.5, "total": 11.5},
+                    {"category": "Blocks Per Game", "rank": 1, "value": 4.3, "base_score": 10, "bonus": 1.5, "total": 11.5},
+                    {"category": "Block Pct", "rank": 1, "value": 8.5, "base_score": 10, "bonus": 1.5, "total": 11.5},
+                    {"category": "Blocks Per 36 Minutes", "rank": 1, "value": 5.2, "base_score": 10, "bonus": 1.5, "total": 11.5},
+                    {"category": "Blocks Per 100 Possessions", "rank": 1, "value": 6.8, "base_score": 10, "bonus": 1.5, "total": 11.5}
+                ]
+            },
+            {
+                "rank": 5,
+                "player": "Jaylen Brown",
+                "team": "BOS",
+                "total_score": 191.0,
+                "categories_count": 28,
+                "categories": [
+                    {"category": "Field Goals", "rank": 1, "value": 789, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Field Goal Attempts", "rank": 1, "value": 1605, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Turnovers", "rank": 1, "value": 245, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Field Goal Attempts Per 100 Possessions", "rank": 1, "value": 25.5, "base_score": 10, "bonus": 1.0, "total": 11.0},
+                    {"category": "Minutes Played", "rank": 2, "value": 2890, "base_score": 9, "bonus": 0.0, "total": 9.0}
+                ]
+            }
+        ];
+
+        function renderPlayers() {
+            const container = document.getElementById('players-container');
+            
+            container.innerHTML = playersData.map(player => {
+                const rankClass = `rank-${player.rank}`;
+                const categoriesHTML = player.categories.map(cat => `
+                    <div class="category-item">
+                        <div class="category-info">
+                            <div class="category-name">${cat.category}</div>
+                            <div class="category-rank">第${cat.rank}名 | 数值: ${cat.value}</div>
+                        </div>
+                        <div style="text-align: right;">
+                            <div class="category-score">+${cat.total.toFixed(1)}</div>
+                            <div class="score-breakdown">基础${cat.base_score}+奖金${cat.bonus.toFixed(1)}</div>
+                        </div>
+                    </div>
+                `).join('');
+                
+                return `
+                    <div class="player-card">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="rank-badge ${rankClass}">${player.rank}</div>
+                                <div class="player-name">${player.player}</div>
+                                <div class="team-info">${player.team}</div>
+                                <div class="total-score">${player.total_score.toFixed(1)}</div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="stat-grid">
+                                    <div class="stat-box">
+                                        <div class="stat-label">参与榜单数</div>
+                                        <div class="stat-value">${player.categories_count}</div>
+                                    </div>
+                                    <div class="stat-box">
+                                        <div class="stat-label">平均得分/榜单</div>
+                                        <div class="stat-value">${(player.total_score / player.categories_count).toFixed(1)}</div>
+                                    </div>
+                                </div>
+                                <h5 style="color: #e94560; margin-bottom: 15px;">主要上榜榜单</h5>
+                                <div class="categories-list">
+                                    ${categoriesHTML}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        renderPlayers();
+    </script>
+</body>
+</html>

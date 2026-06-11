@@ -1,0 +1,24 @@
+<!-- 时间轴组件 -->
+<div class="timeline-container" id="timeline-container" data-team="CHI">
+    <div class="timeline-header">
+        <h2 class="timeline-title">🏀 球队历史时间轴</h2>
+        <div class="team-selector">
+            <button class="team-btn active" data-team="CHI">芝加哥公牛</button>
+            <button class="team-btn" data-team="LAL">洛杉矶湖人</button>
+            <button class="team-btn" data-team="BOS">波士顿凯尔特人</button>
+            <button class="team-btn" data-team="SAS">圣安东尼奥马刺</button>
+            <button class="team-btn" data-team="HOU">休斯顿火箭</button>
+        </div>
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">全部年份</button>
+            <button class="filter-btn" data-filter="champion">总冠军年份</button>
+            <button class="filter-btn" data-filter="playoff">季后赛年份</button>
+        </div>
+    </div>
+    <div class="timeline" id="timeline">
+        <div class="loading">
+            <div class="loading-spinner"></div>
+            <p>加载中...</p>
+        </div>
+    </div>
+</div>

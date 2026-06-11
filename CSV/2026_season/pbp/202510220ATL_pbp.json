@@ -1,0 +1,5821 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "Toronto",
+      "",
+      "Score",
+      "",
+      "Atlanta"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "K. Porziņģis misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:42.0",
+      "Defensive rebound by J. Poeltl",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:31.0",
+      "Turnover by R. Barrett (bad pass)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Shooting foul by S. Barnes (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "0-1",
+      "+1",
+      "J. Johnson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "0-2",
+      "+1",
+      "J. Johnson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "11:21.0",
+      "Personal foul by D. Daniels (drawn by R. Barrett)",
+      "",
+      "0-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "11:07.0",
+      "B. Ingram makes 2-pt layup from 2 ft (assist by S. Barnes)",
+      "+2",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "K. Porziņģis misses 2-pt jump shot from 10 ft (block by J. Poeltl)"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Shooting foul by R. Barrett (drawn by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "2-3",
+      "+1",
+      "K. Porziņģis makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "2-4",
+      "+1",
+      "K. Porziņģis makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:44.0",
+      "B. Ingram misses 2-pt layup from 4 ft",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "10:41.0",
+      "Offensive rebound by R. Barrett",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "10:41.0",
+      "R. Barrett makes 2-pt layup from 2 ft",
+      "+2",
+      "4-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "4-4",
+      "",
+      "Turnover by T. Young (bad pass; steal by R. Barrett)"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "10:13.0",
+      "R. Barrett makes 3-pt jump shot from 25 ft (assist by S. Barnes)",
+      "+3",
+      "7-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "7-4",
+      "",
+      "Shooting foul by J. Poeltl (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "7-5",
+      "+1",
+      "T. Young makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "7-6",
+      "+1",
+      "T. Young makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:43.0",
+      "S. Barnes misses 2-pt layup from 2 ft",
+      "",
+      "7-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:37.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "T. Young misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "9:33.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "7-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "9:30.0",
+      "I. Quickley misses 3-pt jump shot from 25 ft",
+      "",
+      "7-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "9:27.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "Defensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "7-6",
+      "",
+      "Turnover by D. Daniels (lost ball; steal by I. Quickley)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "9:09.0",
+      "S. Barnes makes 2-pt dunk from 1 ft (assist by I. Quickley)",
+      "+2",
+      "9-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "9-8",
+      "+2",
+      "Z. Risacher makes 2-pt layup from 2 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:53.0",
+      "S. Barnes misses 2-pt layup from 1 ft (block by K. Porziņģis)",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:49.0",
+      "Offensive rebound by J. Poeltl",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:42.0",
+      "B. Ingram misses 2-pt jump shot from 12 ft",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:38.0",
+      "Offensive rebound by J. Poeltl",
+      "",
+      "9-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:37.0",
+      "R. Barrett makes 3-pt jump shot from 25 ft",
+      "+3",
+      "12-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "12-8",
+      "",
+      "J. Johnson misses 2-pt dunk from 2 ft (block by S. Barnes)"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "8:28.0",
+      "Defensive rebound by Team",
+      "",
+      "12-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "8:20.0",
+      "I. Quickley makes 2-pt jump shot from 8 ft",
+      "+2",
+      "14-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "14-8",
+      "",
+      "Turnover by T. Young (bad pass; steal by S. Barnes)"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "8:06.0",
+      "I. Quickley misses 3-pt jump shot from 23 ft",
+      "",
+      "14-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "14-8",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "14-10",
+      "+2",
+      "J. Johnson makes 2-pt layup from 2 ft (assist by D. Daniels)"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:32.0",
+      "B. Ingram makes 2-pt jump shot from 12 ft (assist by S. Barnes)",
+      "+2",
+      "16-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "16-10",
+      "",
+      "Offensive foul by D. Daniels (drawn by I. Quickley)"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "16-10",
+      "",
+      "Turnover by D. Daniels (offensive foul)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "16-10",
+      "",
+      "N. Alexander-Walker enters the game for D. Daniels"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "7:12.0",
+      "Turnover by B. Ingram (step out of bounds)",
+      "",
+      "16-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "16-12",
+      "+2",
+      "J. Johnson makes 2-pt dunk from 2 ft (assist by N. Alexander-Walker)"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:50.0",
+      "B. Ingram misses 2-pt jump shot from 9 ft",
+      "",
+      "16-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "16-12",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "16-12",
+      "",
+      "Z. Risacher misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "16-12",
+      "",
+      "Offensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "16-12",
+      "",
+      "Shooting foul by J. Poeltl (drawn by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "16-12",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "6:39.0",
+      "O. Agbaji enters the game for S. Barnes",
+      "",
+      "16-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "6:39.0",
+      "G. Dick enters the game for R. Barrett",
+      "",
+      "16-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "6:39.0",
+      "S. Mamukelashvili enters the game for J. Poeltl",
+      "",
+      "16-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "16-12",
+      "",
+      "L. Kennard enters the game for Z. Risacher"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "16-12",
+      "",
+      "K. Wallace enters the game for T. Young"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "16-13",
+      "+1",
+      "K. Porziņģis makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "16-14",
+      "+1",
+      "K. Porziņģis makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "6:17.0",
+      "B. Ingram makes 2-pt jump shot from 11 ft",
+      "+2",
+      "18-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "18-14",
+      "",
+      "Shooting foul by B. Ingram (drawn by N. Alexander-Walker)"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "18-14",
+      "",
+      "N. Alexander-Walker misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "18-14",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "18-14",
+      "",
+      "O. Okongwu enters the game for K. Porziņģis"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "5:57.0",
+      "",
+      "",
+      "18-15",
+      "+1",
+      "N. Alexander-Walker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "5:43.0",
+      "O. Agbaji misses 3-pt jump shot from 25 ft",
+      "",
+      "18-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "18-15",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "5:27.0",
+      "",
+      "",
+      "18-17",
+      "+2",
+      "O. Okongwu makes 2-pt dunk from 1 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "5:21.0",
+      "Offensive foul by S. Mamukelashvili (drawn by N. Alexander-Walker)",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "5:21.0",
+      "Turnover by S. Mamukelashvili (offensive foul)",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "5:12.0",
+      "",
+      "",
+      "18-17",
+      "",
+      "L. Kennard misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "5:08.0",
+      "Defensive rebound by G. Dick",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "4:49.0",
+      "G. Dick misses 3-pt jump shot from 23 ft",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "18-17",
+      "",
+      "Defensive rebound by N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "18-17",
+      "",
+      "J. Johnson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "4:37.0",
+      "Defensive rebound by S. Mamukelashvili",
+      "",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "4:18.0",
+      "G. Dick makes 3-pt jump shot from 25 ft (assist by I. Quickley)",
+      "+3",
+      "21-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "21-17",
+      "",
+      "Turnover by L. Kennard (lost ball; steal by B. Ingram)"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:59.0",
+      "S. Mamukelashvili makes 2-pt dunk from 1 ft (assist by I. Quickley)",
+      "+2",
+      "23-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "23-17",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:59.0",
+      "J. Shead enters the game for I. Quickley",
+      "",
+      "23-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "23-17",
+      "",
+      "T. Young enters the game for K. Wallace"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "23-17",
+      "",
+      "N. Alexander-Walker misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "3:42.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "23-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "3:37.0",
+      "S. Mamukelashvili makes 3-pt jump shot from 26 ft (assist by B. Ingram)",
+      "+3",
+      "26-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "26-17",
+      "",
+      "Personal foul by S. Mamukelashvili (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "26-18",
+      "+1",
+      "J. Johnson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "3:26.0",
+      "S. Barnes enters the game for O. Agbaji",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "3:26.0",
+      "R. Barrett enters the game for B. Ingram",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "26-18",
+      "",
+      "J. Johnson misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "3:24.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "3:16.0",
+      "J. Shead makes 2-pt layup from 1 ft",
+      "+2",
+      "28-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "28-20",
+      "+2",
+      "J. Johnson makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "2:43.0",
+      "R. Barrett makes 2-pt jump shot from 10 ft",
+      "+2",
+      "30-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "30-22",
+      "+2",
+      "J. Johnson makes 2-pt layup from 3 ft (assist by T. Young)"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "30-22",
+      "",
+      "Shooting foul by S. Mamukelashvili (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "30-23",
+      "+1",
+      "J. Johnson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "2:09.0",
+      "G. Dick misses 3-pt jump shot from 26 ft",
+      "",
+      "30-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "30-23",
+      "",
+      "Defensive rebound by L. Kennard"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "30-23",
+      "",
+      "O. Okongwu misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:56.0",
+      "Defensive rebound by G. Dick",
+      "",
+      "30-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:52.0",
+      "S. Barnes makes 2-pt layup from 1 ft (assist by R. Barrett)",
+      "+2",
+      "32-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:40.0",
+      "",
+      "",
+      "32-26",
+      "+3",
+      "N. Alexander-Walker makes 3-pt jump shot from 26 ft (assist by L. Kennard)"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:23.0",
+      "S. Mamukelashvili misses 2-pt jump shot from 7 ft",
+      "",
+      "32-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "32-26",
+      "",
+      "Defensive rebound by T. Young"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "32-26",
+      "",
+      "Personal foul by J. Shead (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "32-27",
+      "+1",
+      "T. Young makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "1:23.0",
+      "J. Mogbo enters the game for S. Mamukelashvili",
+      "",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "32-27",
+      "",
+      "K. Porziņģis enters the game for J. Johnson"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "32-28",
+      "+1",
+      "T. Young makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "1:03.0",
+      "J. Mogbo misses 2-pt layup from 5 ft",
+      "",
+      "32-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:58.0",
+      "Offensive rebound by J. Mogbo",
+      "",
+      "32-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:58.0",
+      "J. Mogbo makes 2-pt layup at rim",
+      "+2",
+      "34-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "34-31",
+      "+3",
+      "O. Okongwu makes 3-pt jump shot from 22 ft (assist by L. Kennard)"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "0:39.0",
+      "J. Mogbo misses 2-pt dunk from 1 ft (block by K. Porziņģis)",
+      "",
+      "34-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "34-31",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "34-31",
+      "",
+      "T. Young misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "0:30.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "34-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "0:25.0",
+      "Shooting foul by L. Kennard (drawn by G. Dick)",
+      "",
+      "34-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "0:25.0",
+      "G. Dick makes free throw 1 of 2",
+      "+1",
+      "35-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "0:25.0",
+      "G. Dick makes free throw 2 of 2",
+      "+1",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "36-34",
+      "+3",
+      "T. Young makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "0:01.0",
+      "Turnover by J. Shead (bad pass)",
+      "",
+      "36-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "36-34",
+      "",
+      "Team misses heave shot (block by S. Barnes)"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "36-34",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "Time",
+      "Toronto",
+      "",
+      "Score",
+      "",
+      "Atlanta"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "11:44.0",
+      "S. Barnes misses 2-pt jump shot from 13 ft",
+      "",
+      "36-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "36-34",
+      "",
+      "Defensive rebound by L. Kennard"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "36-34",
+      "",
+      "Offensive foul by K. Porziņģis (drawn by J. Shead)"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "36-34",
+      "",
+      "Turnover by K. Porziņģis (offensive foul)"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "11:10.0",
+      "G. Dick makes 2-pt jump shot from 16 ft (assist by R. Barrett)",
+      "+2",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "38-34",
+      "",
+      "N. Alexander-Walker misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "10:57.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "10:50.0",
+      "S. Barnes makes 2-pt jump shot from 13 ft",
+      "+2",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "K. Porziņģis misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "10:33.0",
+      "Loose ball foul by J. Mogbo (drawn by L. Kennard)",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "10:33.0",
+      "Toronto full timeout",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "10:33.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "10:33.0",
+      "J. Battle enters the game for G. Dick",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "J. Johnson enters the game for K. Porziņģis"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "N. Alexander-Walker misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "10:19.0",
+      "Defensive rebound by J. Battle",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "10:17.0",
+      "S. Barnes makes 2-pt dunk from 1 ft (assist by J. Shead)",
+      "+2",
+      "42-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "10:03.0",
+      "",
+      "",
+      "42-34",
+      "",
+      "Def 3 sec tech foul by Team"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "10:03.0",
+      "",
+      "",
+      "42-35",
+      "+1",
+      "L. Kennard makes technical free throw"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "42-35",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "9:35.0",
+      "R. Barrett misses 3-pt jump shot from 26 ft",
+      "",
+      "42-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "9:31.0",
+      "",
+      "",
+      "42-35",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "42-35",
+      "",
+      "N. Alexander-Walker misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "9:20.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "42-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "9:17.0",
+      "Shooting foul by O. Okongwu (drawn by R. Barrett)",
+      "",
+      "42-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "9:17.0",
+      "R. Barrett makes free throw 1 of 2",
+      "+1",
+      "43-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "9:17.0",
+      "O. Agbaji enters the game for S. Barnes",
+      "",
+      "43-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "9:17.0",
+      "R. Barrett makes free throw 2 of 2",
+      "+1",
+      "44-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "9:00.0",
+      "",
+      "",
+      "44-37",
+      "+2",
+      "O. Okongwu makes 2-pt hook shot from 7 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "8:47.0",
+      "J. Shead makes 3-pt jump shot from 25 ft (assist by R. Barrett)",
+      "+3",
+      "47-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "8:33.0",
+      "",
+      "",
+      "47-37",
+      "",
+      "J. Johnson misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "8:30.0",
+      "Defensive rebound by J. Mogbo",
+      "",
+      "47-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "8:26.0",
+      "J. Shead misses 2-pt layup from 1 ft",
+      "",
+      "47-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "47-37",
+      "",
+      "Defensive rebound by L. Kennard"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "47-39",
+      "+2",
+      "O. Okongwu makes 2-pt layup from 4 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "7:51.0",
+      "O. Agbaji misses 3-pt jump shot from 24 ft",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "7:48.0",
+      "Offensive rebound by J. Battle",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "7:42.0",
+      "Turnover by J. Shead (bad pass; steal by K. Wallace)",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "47-39",
+      "",
+      "Turnover by K. Wallace (bad pass; steal by J. Shead)"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "7:37.0",
+      "Personal foul by L. Kennard (drawn by J. Battle)",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "7:37.0",
+      "B. Ingram enters the game for R. Barrett",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "7:37.0",
+      "J. Poeltl enters the game for J. Mogbo",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "7:37.0",
+      "I. Quickley enters the game for J. Shead",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "47-39",
+      "",
+      "D. Daniels enters the game for L. Kennard"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "47-39",
+      "",
+      "T. Young enters the game for K. Wallace"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "7:20.0",
+      "I. Quickley misses 3-pt jump shot from 26 ft",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "47-39",
+      "",
+      "Defensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "47-39",
+      "",
+      "O. Okongwu misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "7:03.0",
+      "Defensive rebound by I. Quickley",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "6:46.0",
+      "J. Battle misses 3-pt jump shot from 23 ft",
+      "",
+      "47-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "47-39",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "6:26.0",
+      "",
+      "",
+      "47-39",
+      "",
+      "Turnover by J. Johnson (lost ball; steal by O. Agbaji)"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "6:22.0",
+      "B. Ingram makes 2-pt layup from 1 ft (assist by O. Agbaji)",
+      "+2",
+      "49-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "6:22.0",
+      "",
+      "",
+      "49-39",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "6:22.0",
+      "",
+      "",
+      "49-39",
+      "",
+      "Z. Risacher enters the game for J. Johnson"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "6:04.0",
+      "",
+      "",
+      "49-39",
+      "",
+      "O. Okongwu misses 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "6:00.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "49-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:54.0",
+      "B. Ingram misses 2-pt layup from 1 ft (block by Z. Risacher)",
+      "",
+      "49-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "5:53.0",
+      "Offensive rebound by B. Ingram",
+      "",
+      "49-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "5:53.0",
+      "B. Ingram makes 2-pt layup at rim",
+      "+2",
+      "51-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "5:53.0",
+      "Shooting foul by Z. Risacher (drawn by B. Ingram)",
+      "",
+      "51-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "5:53.0",
+      "B. Ingram misses free throw 1 of 1",
+      "",
+      "51-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "51-39",
+      "",
+      "Defensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "51-39",
+      "",
+      "N. Alexander-Walker misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "5:36.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "51-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "5:29.0",
+      "Turnover by B. Ingram (bad pass)",
+      "",
+      "51-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "51-39",
+      "",
+      "T. Young misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "5:20.0",
+      "Defensive rebound by O. Agbaji",
+      "",
+      "51-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "5:18.0",
+      "Offensive foul by B. Ingram (drawn by N. Alexander-Walker)",
+      "",
+      "51-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "5:18.0",
+      "Turnover by B. Ingram (offensive foul)",
+      "",
+      "51-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "5:18.0",
+      "S. Barnes enters the game for J. Battle",
+      "",
+      "51-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "51-39",
+      "",
+      "K. Porziņģis enters the game for N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "51-42",
+      "+3",
+      "K. Porziņģis makes 3-pt jump shot from 25 ft (assist by O. Okongwu)"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "4:59.0",
+      "B. Ingram makes 2-pt jump shot from 11 ft (assist by I. Quickley)",
+      "+2",
+      "53-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "53-44",
+      "+2",
+      "T. Young makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "4:35.0",
+      "S. Barnes makes 2-pt hook shot from 8 ft",
+      "+2",
+      "55-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "55-46",
+      "+2",
+      "Z. Risacher makes 2-pt hook shot from 8 ft"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "4:16.0",
+      "Toronto full timeout",
+      "",
+      "55-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "4:16.0",
+      "R. Barrett enters the game for O. Agbaji",
+      "",
+      "55-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "55-46",
+      "",
+      "J. Johnson enters the game for O. Okongwu"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "4:00.0",
+      "J. Poeltl makes 2-pt layup from 1 ft (assist by B. Ingram)",
+      "+2",
+      "57-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "57-46",
+      "",
+      "D. Daniels misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "3:46.0",
+      "Defensive rebound by I. Quickley",
+      "",
+      "57-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "3:41.0",
+      "J. Poeltl makes 2-pt layup from 1 ft (assist by R. Barrett)",
+      "+2",
+      "59-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "3:41.0",
+      "Shooting foul by D. Daniels (drawn by J. Poeltl)",
+      "",
+      "59-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "59-46",
+      "",
+      "N. Alexander-Walker enters the game for D. Daniels"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "3:41.0",
+      "J. Poeltl misses free throw 1 of 1",
+      "",
+      "59-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "59-46",
+      "",
+      "Defensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "59-49",
+      "+3",
+      "Z. Risacher makes 3-pt jump shot from 26 ft (assist by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "3:18.0",
+      "I. Quickley misses 3-pt jump shot from 25 ft",
+      "",
+      "59-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "3:14.0",
+      "",
+      "",
+      "59-49",
+      "",
+      "Defensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "59-49",
+      "",
+      "K. Porziņģis misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "3:04.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "59-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "2:54.0",
+      "B. Ingram misses 3-pt jump shot from 23 ft",
+      "",
+      "59-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "2:51.0",
+      "",
+      "",
+      "59-49",
+      "",
+      "Defensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "59-51",
+      "+2",
+      "Z. Risacher makes 2-pt layup from 3 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "2:38.0",
+      "S. Barnes misses 2-pt jump shot from 8 ft (block by J. Johnson)",
+      "",
+      "59-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "59-51",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "59-51",
+      "",
+      "Shooting foul by B. Ingram (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "59-51",
+      "",
+      "T. Young misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "59-51",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "2:30.0",
+      "G. Dick enters the game for B. Ingram",
+      "",
+      "59-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "59-52",
+      "+1",
+      "T. Young makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "2:12.0",
+      "R. Barrett misses 2-pt jump shot from 7 ft",
+      "",
+      "59-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "2:08.0",
+      "Offensive rebound by J. Poeltl",
+      "",
+      "59-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "2:08.0",
+      "J. Poeltl misses 2-pt layup at rim",
+      "",
+      "59-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "59-52",
+      "",
+      "Defensive rebound by N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "59-55",
+      "+3",
+      "K. Porziņģis makes 3-pt jump shot from 26 ft (assist by T. Young)"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "1:31.0",
+      "J. Poeltl makes 2-pt layup from 1 ft (assist by R. Barrett)",
+      "+2",
+      "61-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "61-55",
+      "",
+      "N. Alexander-Walker misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "1:17.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "61-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "1:10.0",
+      "Offensive foul by I. Quickley (drawn by N. Alexander-Walker)",
+      "",
+      "61-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "1:10.0",
+      "Turnover by I. Quickley (offensive foul)",
+      "",
+      "61-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "1:10.0",
+      "J. Mogbo enters the game for J. Poeltl",
+      "",
+      "61-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "61-57",
+      "+2",
+      "K. Porziņģis makes 2-pt jump shot from 14 ft (assist by T. Young)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "0:47.0",
+      "Personal foul by T. Young (drawn by S. Barnes)",
+      "",
+      "61-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "0:47.0",
+      "S. Barnes makes free throw 1 of 2",
+      "+1",
+      "62-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "0:47.0",
+      "S. Barnes makes free throw 2 of 2",
+      "+1",
+      "63-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "63-57",
+      "",
+      "Turnover by J. Johnson (bad pass; steal by G. Dick)"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "0:38.0",
+      "I. Quickley misses 3-pt jump shot from 23 ft",
+      "",
+      "63-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "0:35.0",
+      "Offensive rebound by Team",
+      "",
+      "63-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "0:34.0",
+      "G. Dick makes 2-pt jump shot from 13 ft (assist by I. Quickley)",
+      "+2",
+      "65-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "65-57",
+      "",
+      "Personal foul by G. Dick (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "0:23.0",
+      "",
+      "",
+      "65-57",
+      "",
+      "K. Porziņģis misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "0:22.0",
+      "",
+      "",
+      "65-57",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "0:22.0",
+      "Loose ball foul by R. Barrett (drawn by N. Alexander-Walker)",
+      "",
+      "65-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "0:22.0",
+      "",
+      "",
+      "65-58",
+      "+1",
+      "N. Alexander-Walker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "0:22.0",
+      "",
+      "",
+      "65-59",
+      "+1",
+      "N. Alexander-Walker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "Time",
+      "Toronto",
+      "",
+      "Score",
+      "",
+      "Atlanta"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "11:38.0",
+      "B. Ingram misses 2-pt jump shot from 10 ft",
+      "",
+      "65-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "11:35.0",
+      "",
+      "",
+      "65-59",
+      "",
+      "Defensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "65-61",
+      "+2",
+      "Z. Risacher makes 2-pt layup from 1 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "11:18.0",
+      "J. Poeltl makes 2-pt layup from 1 ft (assist by S. Barnes)",
+      "+2",
+      "67-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "67-61",
+      "",
+      "T. Young misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "10:58.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "67-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "10:56.0",
+      "S. Barnes makes 2-pt dunk from 2 ft (assist by B. Ingram)",
+      "+2",
+      "69-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "10:44.0",
+      "",
+      "",
+      "69-64",
+      "+3",
+      "Z. Risacher makes 3-pt jump shot from 23 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "10:36.0",
+      "Shooting foul by D. Daniels (drawn by R. Barrett)",
+      "",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "10:36.0",
+      "R. Barrett makes free throw 1 of 2",
+      "+1",
+      "70-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "10:36.0",
+      "R. Barrett makes free throw 2 of 2",
+      "+1",
+      "71-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "71-66",
+      "+2",
+      "D. Daniels makes 2-pt hook shot from 4 ft (assist by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "10:22.0",
+      "Offensive foul by J. Poeltl (drawn by T. Young)",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "10:22.0",
+      "Turnover by J. Poeltl (offensive foul)",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "71-66",
+      "",
+      "K. Porziņģis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "9:57.0",
+      "Defensive rebound by I. Quickley",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "9:53.0",
+      "Turnover by I. Quickley (bad pass; steal by J. Johnson)",
+      "",
+      "71-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "71-66",
+      "",
+      "J. Johnson misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "71-66",
+      "",
+      "Offensive rebound by Z. Risacher"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "71-68",
+      "+2",
+      "Z. Risacher makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "9:41.0",
+      "S. Barnes makes 2-pt layup from 2 ft (assist by J. Poeltl)",
+      "+2",
+      "73-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "73-68",
+      "",
+      "Turnover by D. Daniels (bad pass; steal by R. Barrett)"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "9:24.0",
+      "R. Barrett makes 2-pt layup from 2 ft (assist by J. Poeltl)",
+      "+2",
+      "75-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "75-68",
+      "",
+      "K. Porziņģis misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "9:08.0",
+      "Defensive rebound by J. Poeltl",
+      "",
+      "75-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "9:08.0",
+      "Personal foul by K. Porziņģis (drawn by J. Poeltl)",
+      "",
+      "75-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "8:55.0",
+      "Turnover by B. Ingram (lost ball; steal by T. Young)",
+      "",
+      "75-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "75-70",
+      "+2",
+      "T. Young makes 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "8:38.0",
+      "Shooting foul by K. Porziņģis (drawn by B. Ingram)",
+      "",
+      "75-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "8:38.0",
+      "B. Ingram makes free throw 1 of 2",
+      "+1",
+      "76-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "8:38.0",
+      "B. Ingram makes free throw 2 of 2",
+      "+1",
+      "77-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "77-72",
+      "+2",
+      "J. Johnson makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "77-72",
+      "",
+      "Shooting foul by S. Barnes (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "77-73",
+      "+1",
+      "J. Johnson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "8:18.0",
+      "R. Barrett makes 2-pt layup from 3 ft",
+      "+2",
+      "79-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "8:18.0",
+      "Shooting foul by D. Daniels (drawn by R. Barrett)",
+      "",
+      "79-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "8:18.0",
+      "",
+      "",
+      "79-73",
+      "",
+      "N. Alexander-Walker enters the game for D. Daniels"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "8:18.0",
+      "R. Barrett makes free throw 1 of 1",
+      "+1",
+      "80-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "80-73",
+      "",
+      "Personal foul by S. Barnes (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "80-73",
+      "",
+      "Turnover by N. Alexander-Walker (lost ball; steal by B. Ingram)"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "7:57.0",
+      "I. Quickley makes 2-pt layup from 2 ft",
+      "+2",
+      "82-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "7:57.0",
+      "Shooting foul by N. Alexander-Walker (drawn by I. Quickley)",
+      "",
+      "82-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "7:57.0",
+      "I. Quickley makes free throw 1 of 1",
+      "+1",
+      "83-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "83-73",
+      "",
+      "Z. Risacher misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "7:49.0",
+      "",
+      "",
+      "83-73",
+      "",
+      "Offensive rebound by N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "83-75",
+      "+2",
+      "J. Johnson makes 2-pt layup from 5 ft (assist by N. Alexander-Walker)"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "7:38.0",
+      "Turnover by S. Barnes (traveling)",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "7:38.0",
+      "O. Agbaji enters the game for S. Barnes",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "L. Kennard enters the game for K. Porziņģis"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "O. Okongwu enters the game for Z. Risacher"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "83-77",
+      "+2",
+      "J. Johnson makes 2-pt dunk from 1 ft (assist by L. Kennard)"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "7:11.0",
+      "I. Quickley misses 3-pt jump shot from 26 ft",
+      "",
+      "83-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "7:09.0",
+      "Offensive rebound by B. Ingram",
+      "",
+      "83-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "7:05.0",
+      "B. Ingram makes 2-pt jump shot from 12 ft",
+      "+2",
+      "85-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "85-77",
+      "",
+      "N. Alexander-Walker misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "6:49.0",
+      "Defensive rebound by I. Quickley",
+      "",
+      "85-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "6:46.0",
+      "R. Barrett makes 2-pt layup from 1 ft",
+      "+2",
+      "87-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "87-79",
+      "+2",
+      "T. Young makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "6:18.0",
+      "Turnover by R. Barrett (step out of bounds)",
+      "",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "6:18.0",
+      "G. Dick enters the game for R. Barrett",
+      "",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "87-79",
+      "",
+      "Personal foul by O. Agbaji (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "6:09.0",
+      "S. Mamukelashvili enters the game for J. Poeltl",
+      "",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "6:09.0",
+      "J. Shead enters the game for I. Quickley",
+      "",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "87-79",
+      "",
+      "K. Wallace enters the game for T. Young"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "87-79",
+      "",
+      "Offensive foul by L. Kennard (drawn by J. Shead)"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "87-79",
+      "",
+      "Turnover by L. Kennard (offensive foul)"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "5:55.0",
+      "Shooting foul by K. Wallace (drawn by J. Shead)",
+      "",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "87-79",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "87-79",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "5:55.0",
+      "J. Shead misses free throw 1 of 2",
+      "",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "5:55.0",
+      "Offensive rebound by Team",
+      "",
+      "87-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "5:55.0",
+      "J. Shead makes free throw 2 of 2",
+      "+1",
+      "88-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "5:48.0",
+      "",
+      "",
+      "88-81",
+      "+2",
+      "N. Alexander-Walker makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "5:37.0",
+      "Personal foul by K. Wallace (drawn by J. Shead)",
+      "",
+      "88-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "5:37.0",
+      "J. Shead makes free throw 1 of 2",
+      "+1",
+      "89-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "5:37.0",
+      "J. Shead makes free throw 2 of 2",
+      "+1",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "5:21.0",
+      "",
+      "",
+      "90-81",
+      "",
+      "J. Johnson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "5:19.0",
+      "Defensive rebound by Team",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "4:56.0",
+      "B. Ingram misses 2-pt jump shot from 19 ft (block by N. Alexander-Walker)",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "4:53.0",
+      "",
+      "",
+      "90-81",
+      "",
+      "Defensive rebound by L. Kennard"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "90-81",
+      "",
+      "N. Alexander-Walker misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "90-81",
+      "",
+      "Offensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "90-83",
+      "+2",
+      "O. Okongwu makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "4:31.0",
+      "Shooting foul by O. Okongwu (drawn by G. Dick)",
+      "",
+      "90-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "4:31.0",
+      "G. Dick makes free throw 1 of 2",
+      "+1",
+      "91-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "91-83",
+      "",
+      "Z. Risacher enters the game for N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "91-83",
+      "",
+      "T. Young enters the game for K. Wallace"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "4:31.0",
+      "G. Dick makes free throw 2 of 2",
+      "+1",
+      "92-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "92-83",
+      "",
+      "Z. Risacher misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "4:12.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "92-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "4:11.0",
+      "G. Dick makes 2-pt layup from 2 ft (assist by J. Shead)",
+      "+2",
+      "94-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "94-85",
+      "+2",
+      "O. Okongwu makes 2-pt dunk from 1 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "3:47.0",
+      "J. Shead misses 3-pt jump shot from 26 ft",
+      "",
+      "94-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "3:43.0",
+      "Offensive rebound by G. Dick",
+      "",
+      "94-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "3:42.0",
+      "B. Ingram misses 3-pt jump shot from 26 ft",
+      "",
+      "94-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "3:35.0",
+      "Offensive rebound by O. Agbaji",
+      "",
+      "94-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "3:35.0",
+      "O. Agbaji makes 2-pt layup at rim",
+      "+2",
+      "96-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "Turnover by J. Johnson (lost ball)"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "96-85",
+      "",
+      "Loose ball foul by J. Johnson (drawn by G. Dick)"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "3:27.0",
+      "G. Dick makes free throw 1 of 2",
+      "+1",
+      "97-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "3:27.0",
+      "S. Barnes enters the game for B. Ingram",
+      "",
+      "97-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "3:27.0",
+      "I. Quickley enters the game for J. Shead",
+      "",
+      "97-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "3:27.0",
+      "",
+      "",
+      "97-85",
+      "",
+      "K. Porziņģis enters the game for J. Johnson"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "3:27.0",
+      "G. Dick misses free throw 2 of 2",
+      "",
+      "97-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "3:24.0",
+      "",
+      "",
+      "97-85",
+      "",
+      "Defensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "3:15.0",
+      "",
+      "",
+      "97-85",
+      "",
+      "T. Young misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "3:12.0",
+      "Defensive rebound by S. Mamukelashvili",
+      "",
+      "97-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "3:02.0",
+      "S. Mamukelashvili makes 2-pt layup from 2 ft (assist by I. Quickley)",
+      "+2",
+      "99-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "99-85",
+      "",
+      "Turnover by K. Porziņģis (lost ball; steal by O. Agbaji)"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "2:44.0",
+      "S. Barnes makes 2-pt dunk from 2 ft (assist by S. Mamukelashvili)",
+      "+2",
+      "101-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "101-85",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "101-85",
+      "",
+      "Personal foul by O. Agbaji (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "101-85",
+      "",
+      "Z. Risacher misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "2:16.0",
+      "Defensive rebound by O. Agbaji",
+      "",
+      "101-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "2:10.0",
+      "Shooting foul by T. Young (drawn by I. Quickley)",
+      "",
+      "101-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "2:10.0",
+      "I. Quickley makes free throw 1 of 2",
+      "+1",
+      "102-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "2:10.0",
+      "I. Quickley makes free throw 2 of 2",
+      "+1",
+      "103-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "1:50.0",
+      "",
+      "",
+      "103-85",
+      "",
+      "Z. Risacher misses 2-pt layup from 2 ft (block by S. Mamukelashvili)"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "1:46.0",
+      "Defensive rebound by G. Dick",
+      "",
+      "103-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "1:44.0",
+      "Turnover by I. Quickley (bad pass; steal by L. Kennard)",
+      "",
+      "103-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "103-85",
+      "",
+      "L. Kennard misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "103-85",
+      "",
+      "Offensive rebound by Z. Risacher"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "103-85",
+      "",
+      "L. Kennard misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "1:19.0",
+      "Defensive rebound by S. Mamukelashvili",
+      "",
+      "103-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "1:09.0",
+      "G. Dick makes 3-pt jump shot from 25 ft (assist by I. Quickley)",
+      "+3",
+      "106-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "1:00.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "106-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "1:00.0",
+      "R. Barrett enters the game for O. Agbaji",
+      "",
+      "106-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "106-85",
+      "",
+      "Z. Risacher misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "0:47.0",
+      "Defensive rebound by S. Mamukelashvili",
+      "",
+      "106-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "0:31.0",
+      "I. Quickley makes 2-pt layup from 3 ft",
+      "+2",
+      "108-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "0:15.0",
+      "",
+      "",
+      "108-85",
+      "",
+      "T. Young misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "108-85",
+      "",
+      "Offensive rebound by K. Porziņģis"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "108-85",
+      "",
+      "Shooting foul by R. Barrett (drawn by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "108-86",
+      "+1",
+      "K. Porziņģis makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "0:12.0",
+      "B. Ingram enters the game for S. Mamukelashvili",
+      "",
+      "108-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "108-86",
+      "",
+      "J. Johnson enters the game for L. Kennard"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "108-87",
+      "+1",
+      "K. Porziņģis makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "0:00.0",
+      "Shooting foul by T. Young (drawn by G. Dick)",
+      "",
+      "108-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "0:00.0",
+      "G. Dick makes free throw 1 of 2",
+      "+1",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "0:00.0",
+      "G. Dick makes free throw 2 of 2",
+      "+1",
+      "110-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "Time",
+      "Toronto",
+      "",
+      "Score",
+      "",
+      "Atlanta"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "110-87",
+      "",
+      "O. Okongwu misses 2-pt layup from 7 ft"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "11:42.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "110-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "11:31.0",
+      "R. Barrett makes 2-pt jump shot from 6 ft (assist by S. Barnes)",
+      "+2",
+      "112-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "11:19.0",
+      "",
+      "",
+      "112-87",
+      "",
+      "N. Alexander-Walker misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "112-87",
+      "",
+      "Offensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "112-87",
+      "",
+      "N. Alexander-Walker misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "11:09.0",
+      "Defensive rebound by J. Shead",
+      "",
+      "112-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "11:05.0",
+      "O. Agbaji misses 3-pt jump shot from 24 ft",
+      "",
+      "112-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "11:05.0",
+      "Offensive rebound by Team",
+      "",
+      "112-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "112-87",
+      "",
+      "Loose ball foul by N. Alexander-Walker (drawn by S. Mamukelashvili)"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "11:02.0",
+      "J. Shead makes 2-pt layup from 1 ft (assist by S. Barnes)",
+      "+2",
+      "114-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "10:49.0",
+      "",
+      "",
+      "114-87",
+      "",
+      "N. Alexander-Walker misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "10:47.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "114-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "10:43.0",
+      "O. Agbaji makes 2-pt layup from 3 ft (assist by S. Barnes)",
+      "+2",
+      "116-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "116-87",
+      "",
+      "Personal foul by S. Barnes (drawn by O. Okongwu)"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "116-87",
+      "",
+      "D. Daniels enters the game for N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "116-87",
+      "",
+      "Shooting foul by S. Mamukelashvili (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "116-88",
+      "+1",
+      "T. Young makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "116-89",
+      "+1",
+      "T. Young makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "10:11.0",
+      "R. Barrett misses 3-pt jump shot from 25 ft",
+      "",
+      "116-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "10:08.0",
+      "Offensive rebound by J. Shead",
+      "",
+      "116-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "10:01.0",
+      "R. Barrett makes 2-pt layup from 2 ft (assist by S. Mamukelashvili)",
+      "+2",
+      "118-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "118-89",
+      "",
+      "T. Young misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "9:47.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "118-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "9:45.0",
+      "S. Mamukelashvili misses 2-pt layup from 3 ft",
+      "",
+      "118-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "9:45.0",
+      "Offensive rebound by Team",
+      "",
+      "118-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "9:44.0",
+      "Turnover by S. Mamukelashvili (traveling)",
+      "",
+      "118-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "118-89",
+      "",
+      "Shooting foul by R. Barrett (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "118-90",
+      "+1",
+      "J. Johnson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "9:30.0",
+      "J. Poeltl enters the game for S. Mamukelashvili",
+      "",
+      "118-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "9:30.0",
+      "I. Quickley enters the game for J. Shead",
+      "",
+      "118-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "118-91",
+      "+1",
+      "J. Johnson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "9:17.0",
+      "I. Quickley misses 3-pt jump shot from 26 ft",
+      "",
+      "118-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "118-91",
+      "",
+      "Defensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "118-91",
+      "",
+      "Shooting foul by J. Poeltl (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "118-92",
+      "+1",
+      "J. Johnson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "118-92",
+      "",
+      "J. Johnson misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "9:04.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "118-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "8:44.0",
+      "J. Poeltl makes 2-pt layup from 1 ft (assist by S. Barnes)",
+      "+2",
+      "120-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "120-92",
+      "",
+      "Shooting foul by I. Quickley (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "120-92",
+      "",
+      "K. Porziņģis enters the game for O. Okongwu"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "120-93",
+      "+1",
+      "T. Young makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "120-94",
+      "+1",
+      "T. Young makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "8:22.0",
+      "Turnover by R. Barrett (bad pass; steal by D. Daniels)",
+      "",
+      "120-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "120-97",
+      "+3",
+      "L. Kennard makes 3-pt jump shot from 22 ft (assist by D. Daniels)"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "8:15.0",
+      "Toronto full timeout",
+      "",
+      "120-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "8:15.0",
+      "G. Dick enters the game for O. Agbaji",
+      "",
+      "120-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "8:15.0",
+      "B. Ingram enters the game for S. Barnes",
+      "",
+      "120-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "8:00.0",
+      "I. Quickley makes 2-pt layup from 1 ft",
+      "+2",
+      "122-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "7:49.0",
+      "",
+      "",
+      "122-100",
+      "+3",
+      "K. Porziņģis makes 3-pt jump shot from 25 ft (assist by T. Young)"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "7:36.0",
+      "I. Quickley makes 2-pt layup from 2 ft",
+      "+2",
+      "124-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "7:36.0",
+      "Shooting foul by K. Porziņģis (drawn by I. Quickley)",
+      "",
+      "124-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "7:36.0",
+      "I. Quickley misses free throw 1 of 1",
+      "",
+      "124-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "124-100",
+      "",
+      "Defensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "124-100",
+      "",
+      "Shooting foul by R. Barrett (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "124-101",
+      "+1",
+      "T. Young makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "7:21.0",
+      "S. Barnes enters the game for R. Barrett",
+      "",
+      "124-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "124-101",
+      "",
+      "T. Young misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "7:19.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "124-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "7:07.0",
+      "S. Barnes makes 2-pt jump shot from 17 ft (assist by I. Quickley)",
+      "+2",
+      "126-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "126-103",
+      "+2",
+      "T. Young makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "126-103",
+      "",
+      "Shooting foul by I. Quickley (drawn by T. Young)"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "6:55.0",
+      "J. Shead enters the game for I. Quickley",
+      "",
+      "126-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "126-104",
+      "+1",
+      "T. Young makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "6:34.0",
+      "J. Poeltl makes 2-pt dunk from 2 ft (assist by J. Shead)",
+      "+2",
+      "128-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "128-104",
+      "",
+      "J. Johnson misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "6:19.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "128-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "6:17.0",
+      "Offensive foul by J. Poeltl (drawn by D. Daniels)",
+      "",
+      "128-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "6:17.0",
+      "Turnover by J. Poeltl (offensive foul)",
+      "",
+      "128-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "6:04.0",
+      "",
+      "",
+      "128-107",
+      "+3",
+      "K. Porziņģis makes 3-pt jump shot from 23 ft (assist by T. Young)"
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "5:35.0",
+      "B. Ingram misses 2-pt jump shot from 12 ft",
+      "",
+      "128-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "128-107",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "128-107",
+      "",
+      "T. Young misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "5:20.0",
+      "Defensive rebound by J. Poeltl",
+      "",
+      "128-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "5:17.0",
+      "Shooting foul by T. Young (drawn by S. Barnes)",
+      "",
+      "128-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "5:17.0",
+      "S. Barnes makes free throw 1 of 2",
+      "+1",
+      "129-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "5:17.0",
+      "S. Barnes makes free throw 2 of 2",
+      "+1",
+      "130-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "130-107",
+      "",
+      "T. Young misses 3-pt jump shot from 33 ft"
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "5:01.0",
+      "Defensive rebound by G. Dick",
+      "",
+      "130-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "5:01.0",
+      "J. Poeltl makes 2-pt dunk from 2 ft (assist by S. Barnes)",
+      "+2",
+      "132-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "132-107",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "5:01.0",
+      "R. Barrett enters the game for G. Dick",
+      "",
+      "132-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "5:01.0",
+      "I. Quickley enters the game for J. Shead",
+      "",
+      "132-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 495,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "132-107",
+      "",
+      "N. Alexander-Walker enters the game for J. Johnson"
+    ]
+  },
+  {
+    "row": 496,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "132-107",
+      "",
+      "M. Gueye enters the game for K. Porziņģis"
+    ]
+  },
+  {
+    "row": 497,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "132-107",
+      "",
+      "O. Okongwu enters the game for T. Young"
+    ]
+  },
+  {
+    "row": 498,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "132-109",
+      "+2",
+      "O. Okongwu makes 2-pt dunk from 1 ft (assist by N. Alexander-Walker)"
+    ]
+  },
+  {
+    "row": 499,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "132-109",
+      "",
+      "Shooting foul by J. Poeltl (drawn by O. Okongwu)"
+    ]
+  },
+  {
+    "row": 500,
+    "cells": [
+      "4:47.0",
+      "S. Mamukelashvili enters the game for J. Poeltl",
+      "",
+      "132-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 501,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "132-110",
+      "+1",
+      "O. Okongwu makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 502,
+    "cells": [
+      "4:33.0",
+      "S. Barnes misses 2-pt jump shot from 11 ft",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 503,
+    "cells": [
+      "4:30.0",
+      "Offensive rebound by R. Barrett",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 504,
+    "cells": [
+      "4:27.0",
+      "Turnover by B. Ingram (bad pass; steal by N. Alexander-Walker)",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 505,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "132-110",
+      "",
+      "L. Kennard misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 506,
+    "cells": [
+      "4:17.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 507,
+    "cells": [
+      "4:00.0",
+      "Turnover by R. Barrett (bad pass; steal by D. Daniels)",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 508,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "132-110",
+      "",
+      "Turnover by L. Kennard (bad pass)"
+    ]
+  },
+  {
+    "row": 509,
+    "cells": [
+      "3:50.0",
+      "Toronto full timeout",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 510,
+    "cells": [
+      "3:50.0",
+      "J. Battle enters the game for S. Barnes",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 511,
+    "cells": [
+      "3:50.0",
+      "G. Dick enters the game for R. Barrett",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 512,
+    "cells": [
+      "3:50.0",
+      "J. Mogbo enters the game for B. Ingram",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 513,
+    "cells": [
+      "3:50.0",
+      "J. Shead enters the game for I. Quickley",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 514,
+    "cells": [
+      "3:29.0",
+      "G. Dick misses 2-pt jump shot from 17 ft",
+      "",
+      "132-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 515,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "132-110",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 516,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "132-110",
+      "",
+      "D. Daniels misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 517,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "132-110",
+      "",
+      "Offensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 518,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "132-112",
+      "+2",
+      "D. Daniels makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 519,
+    "cells": [
+      "2:50.0",
+      "J. Mogbo makes 2-pt hook shot from 8 ft (assist by J. Shead)",
+      "+2",
+      "134-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 520,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "134-112",
+      "",
+      "N. Alexander-Walker misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 521,
+    "cells": [
+      "2:40.0",
+      "Defensive rebound by J. Battle",
+      "",
+      "134-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 522,
+    "cells": [
+      "2:27.0",
+      "S. Mamukelashvili misses 2-pt layup from 6 ft",
+      "",
+      "134-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 523,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "134-112",
+      "",
+      "Defensive rebound by N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 524,
+    "cells": [
+      "2:15.0",
+      "",
+      "",
+      "134-112",
+      "",
+      "L. Kennard misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 525,
+    "cells": [
+      "2:10.0",
+      "Defensive rebound by J. Mogbo",
+      "",
+      "134-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 526,
+    "cells": [
+      "1:50.0",
+      "J. Battle makes 2-pt layup from 1 ft (assist by J. Shead)",
+      "+2",
+      "136-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 527,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "136-114",
+      "+2",
+      "O. Okongwu makes 2-pt hook shot from 12 ft"
+    ]
+  },
+  {
+    "row": 528,
+    "cells": [
+      "1:27.0",
+      "G. Dick makes 2-pt dunk from 2 ft (assist by S. Mamukelashvili)",
+      "+2",
+      "138-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 529,
+    "cells": [
+      "1:27.0",
+      "O. Agbaji enters the game for S. Mamukelashvili",
+      "",
+      "138-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 530,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "138-116",
+      "+2",
+      "L. Kennard makes 2-pt layup from 1 ft (assist by N. Alexander-Walker)"
+    ]
+  },
+  {
+    "row": 531,
+    "cells": [
+      "0:54.0",
+      "G. Dick misses 2-pt layup from 4 ft (block by M. Gueye)",
+      "",
+      "138-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 532,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "138-116",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 533,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "138-116",
+      "",
+      "Shooting foul by O. Agbaji (drawn by N. Alexander-Walker)"
+    ]
+  },
+  {
+    "row": 534,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "138-117",
+      "+1",
+      "N. Alexander-Walker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 535,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "138-118",
+      "+1",
+      "N. Alexander-Walker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 536,
+    "cells": [
+      "0:28.0",
+      "J. Battle misses 3-pt jump shot from 26 ft",
+      "",
+      "138-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 537,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "138-118",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 538,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "138-118",
+      "",
+      "N. Alexander-Walker misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 539,
+    "cells": [
+      "0:04.0",
+      "Defensive rebound by J. Mogbo",
+      "",
+      "138-118",
+      "",
+      ""
+    ]
+  }
+]

@@ -1,0 +1,5007 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Minnesota"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:46.0",
+      "Turnover by D. Ayton (back court)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:37.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "J. Randle misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:34.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:26.0",
+      "J. LaRavia makes 3-pt jump shot from 25 ft (assist by A. Reaves)",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "D. DiVincenzo misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "11:07.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:57.0",
+      "Turnover by R. Hachimura (out of bounds lost ball)",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "3-2",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:33.0",
+      "D. Ayton makes 2-pt jump shot from 12 ft (assist by A. Reaves)",
+      "+2",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "5-5",
+      "+3",
+      "J. Randle makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:59.0",
+      "R. Hachimura misses 3-pt jump shot from 23 ft",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:55.0",
+      "Offensive rebound by J. Vanderbilt",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:54.0",
+      "R. Hachimura makes 3-pt jump shot from 25 ft (assist by J. Vanderbilt)",
+      "+3",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "8-8",
+      "+3",
+      "M. Conley makes 3-pt jump shot from 25 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:28.0",
+      "A. Reaves misses 2-pt jump shot from 20 ft",
+      "",
+      "8-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "8-8",
+      "",
+      "Defensive rebound by J. Randle"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "8-10",
+      "+2",
+      "J. Randle makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:50.0",
+      "J. LaRavia makes 2-pt jump shot from 21 ft",
+      "+2",
+      "10-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "10-13",
+      "+3",
+      "J. Randle makes 3-pt jump shot from 23 ft (assist by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:28.0",
+      "Turnover by J. Vanderbilt (bad pass)",
+      "",
+      "10-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:14.0",
+      "",
+      "",
+      "10-16",
+      "+3",
+      "D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "7:54.0",
+      "Turnover by J. LaRavia (lost ball; steal by J. Randle)",
+      "",
+      "10-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "10-18",
+      "+2",
+      "J. McDaniels makes 2-pt layup from 1 ft (assist by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "10-18",
+      "",
+      "Shooting foul by J. LaRavia (drawn by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "7:51.0",
+      "D. Knecht enters the game for J. Vanderbilt",
+      "",
+      "10-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "10-19",
+      "+1",
+      "J. McDaniels makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:41.0",
+      "A. Reaves misses 3-pt jump shot from 25 ft",
+      "",
+      "10-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "10-19",
+      "",
+      "Defensive rebound by D. DiVincenzo"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "10-19",
+      "",
+      "J. McDaniels misses 2-pt layup from 5 ft (block by D. Ayton)"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "10-19",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "10-19",
+      "",
+      "D. DiVincenzo misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:21.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "10-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:09.0",
+      "Personal foul by R. Gobert (drawn by D. Ayton)",
+      "",
+      "10-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:02.0",
+      "D. Knecht misses 2-pt layup from 2 ft",
+      "",
+      "10-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "10-19",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:01.0",
+      "Loose ball foul by D. Ayton (drawn by R. Gobert)",
+      "",
+      "10-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "10-19",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "10-19",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:41.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "10-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:23.0",
+      "Shooting foul by D. DiVincenzo (drawn by R. Hachimura)",
+      "",
+      "10-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:23.0",
+      "R. Hachimura makes free throw 1 of 2",
+      "+1",
+      "11-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:23.0",
+      "R. Hachimura makes free throw 2 of 2",
+      "+1",
+      "12-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "12-19",
+      "",
+      "J. Randle misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "12-19",
+      "",
+      "Offensive rebound by D. DiVincenzo"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:06.0",
+      "",
+      "",
+      "12-19",
+      "",
+      "Turnover by D. DiVincenzo (bad pass; steal by A. Reaves)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:59.0",
+      "D. Knecht makes 2-pt dunk from 2 ft (assist by A. Reaves)",
+      "+2",
+      "14-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "14-22",
+      "+3",
+      "D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:30.0",
+      "Shooting foul by J. McDaniels (drawn by A. Reaves)",
+      "",
+      "14-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:30.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "15-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "15-22",
+      "",
+      "R. Dillingham enters the game for M. Conley"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "15-22",
+      "",
+      "N. Reid enters the game for J. Randle"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:30.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "16-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "16-25",
+      "+3",
+      "J. McDaniels makes 3-pt jump shot from 23 ft (assist by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:59.0",
+      "Shooting foul by D. DiVincenzo (drawn by A. Reaves)",
+      "",
+      "16-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:59.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "17-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:59.0",
+      "B. James enters the game for R. Hachimura",
+      "",
+      "17-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:59.0",
+      "J. Vanderbilt enters the game for J. LaRavia",
+      "",
+      "17-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:59.0",
+      "",
+      "",
+      "17-25",
+      "",
+      "T. Shannon enters the game for D. DiVincenzo"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:59.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "18-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "18-25",
+      "",
+      "N. Reid misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:44.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "18-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:27.0",
+      "D. Ayton makes 2-pt hook shot from 8 ft (assist by A. Reaves)",
+      "+2",
+      "20-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "20-25",
+      "",
+      "R. Gobert misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:11.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "20-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:06.0",
+      "A. Reaves misses 2-pt layup from 3 ft",
+      "",
+      "20-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "20-25",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "20-25",
+      "",
+      "R. Dillingham misses 2-pt layup from 3 ft (block by D. Knecht)"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "20-25",
+      "",
+      "Offensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "20-25",
+      "",
+      "Turnover by R. Gobert (bad pass)"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:57.0",
+      "J. Hayes enters the game for D. Ayton",
+      "",
+      "20-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "3:57.0",
+      "N. Smith enters the game for A. Reaves",
+      "",
+      "20-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:41.0",
+      "D. Knecht makes 2-pt jump shot from 11 ft (assist by J. Hayes)",
+      "+2",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "22-25",
+      "",
+      "Shooting foul by J. Hayes (drawn by N. Reid)"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "22-25",
+      "",
+      "N. Reid misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "22-25",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "22-25",
+      "",
+      "B. Hyland enters the game for R. Gobert"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "22-25",
+      "",
+      "J. Randle enters the game for J. McDaniels"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "22-25",
+      "",
+      "N. Reid misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:22.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:04.0",
+      "N. Smith misses 3-pt jump shot from 25 ft",
+      "",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:03.0",
+      "Offensive rebound by J. Vanderbilt",
+      "",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:03.0",
+      "Personal foul by J. Randle (drawn by J. Vanderbilt)",
+      "",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:03.0",
+      "J. Vanderbilt misses free throw 1 of 2",
+      "",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:03.0",
+      "Offensive rebound by Team",
+      "",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:03.0",
+      "J. Vanderbilt makes free throw 2 of 2",
+      "+1",
+      "23-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "2:51.0",
+      "",
+      "",
+      "23-25",
+      "",
+      "Personal foul by J. Vanderbilt (drawn by N. Reid)"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "2:51.0",
+      "LA Lakers full timeout",
+      "",
+      "23-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "23-25",
+      "",
+      "Shooting foul by J. Hayes (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "23-26",
+      "+1",
+      "J. Randle makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "23-27",
+      "+1",
+      "J. Randle makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:27.0",
+      "Offensive foul by J. Vanderbilt (drawn by T. Shannon)",
+      "",
+      "23-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:27.0",
+      "Turnover by J. Vanderbilt (offensive foul)",
+      "",
+      "23-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "23-30",
+      "+3",
+      "J. Randle makes 3-pt jump shot from 25 ft (assist by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "2:00.0",
+      "Turnover by B. James (out of bounds lost ball)",
+      "",
+      "23-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "23-30",
+      "",
+      "N. Reid misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "1:43.0",
+      "Defensive rebound by J. Hayes",
+      "",
+      "23-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "1:37.0",
+      "Turnover by N. Smith (bad pass; steal by T. Shannon)",
+      "",
+      "23-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "23-32",
+      "+2",
+      "B. Hyland makes 2-pt layup from 1 ft (assist by T. Shannon)"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "1:21.0",
+      "J. Vanderbilt makes 2-pt dunk from 1 ft (assist by J. Hayes)",
+      "+2",
+      "25-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "25-32",
+      "",
+      "R. Dillingham misses 2-pt layup from 2 ft (block by J. Hayes)"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "25-32",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:14.0",
+      "A. Reaves enters the game for N. Smith",
+      "",
+      "25-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "25-32",
+      "",
+      "J. Randle misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:06.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "25-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:51.0",
+      "D. Knecht makes 3-pt jump shot from 26 ft (assist by A. Reaves)",
+      "+3",
+      "28-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:37.0",
+      "",
+      "",
+      "28-32",
+      "",
+      "T. Shannon misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "28-32",
+      "",
+      "Offensive rebound by B. Hyland"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "28-34",
+      "+2",
+      "N. Reid makes 2-pt layup from 3 ft (assist by B. Hyland)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:16.0",
+      "A. Reaves makes 2-pt jump shot from 14 ft",
+      "+2",
+      "30-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "30-34",
+      "",
+      "N. Reid misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:02.0",
+      "Defensive rebound by Team",
+      "",
+      "30-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "30-34",
+      "",
+      "Loose ball foul by T. Shannon (drawn by A. Reaves)"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:02.0",
+      "A. Reaves makes free throw 1 of 2",
+      "+1",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:02.0",
+      "A. Reaves makes free throw 2 of 2",
+      "+1",
+      "32-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "32-34",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "32-34",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Minnesota"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:51.0",
+      "",
+      "",
+      "32-37",
+      "+3",
+      "N. Reid makes 3-pt jump shot from 25 ft (assist by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "11:34.0",
+      "D. Knecht makes 2-pt jump shot from 9 ft (assist by A. Reaves)",
+      "+2",
+      "34-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "11:34.0",
+      "Shooting foul by R. Gobert (drawn by D. Knecht)",
+      "",
+      "34-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "11:34.0",
+      "D. Knecht misses free throw 1 of 1",
+      "",
+      "34-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "11:32.0",
+      "",
+      "",
+      "34-37",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "34-37",
+      "",
+      "Turnover by N. Reid (bad pass)"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "11:08.0",
+      "J. Vanderbilt misses 2-pt layup from 2 ft (block by R. Gobert)",
+      "",
+      "34-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "11:05.0",
+      "Offensive rebound by J. Vanderbilt",
+      "",
+      "34-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "11:04.0",
+      "J. Hayes makes 2-pt dunk from 1 ft (assist by J. Vanderbilt)",
+      "+2",
+      "36-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "36-39",
+      "+2",
+      "R. Gobert makes 2-pt dunk at rim (assist by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:37.0",
+      "J. Hayes misses 2-pt layup from 3 ft",
+      "",
+      "36-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:35.0",
+      "",
+      "",
+      "36-39",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "10:29.0",
+      "",
+      "",
+      "36-41",
+      "+2",
+      "R. Dillingham makes 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "10:12.0",
+      "A. Reaves misses 2-pt jump shot from 13 ft",
+      "",
+      "36-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "10:10.0",
+      "Offensive rebound by R. Hachimura",
+      "",
+      "36-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "10:06.0",
+      "D. Knecht misses 3-pt jump shot from 25 ft",
+      "",
+      "36-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "10:03.0",
+      "Offensive rebound by J. Vanderbilt",
+      "",
+      "36-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "10:01.0",
+      "Turnover by J. Vanderbilt (bad pass; steal by R. Dillingham)",
+      "",
+      "36-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "36-41",
+      "",
+      "R. Dillingham misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "36-41",
+      "",
+      "Offensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "36-43",
+      "+2",
+      "R. Gobert makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:35.0",
+      "A. Reaves misses 3-pt jump shot from 23 ft",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "9:35.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "Personal foul by R. Hachimura (drawn by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "9:28.0",
+      "D. Ayton enters the game for J. Hayes",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "9:28.0",
+      "J. LaRavia enters the game for J. Vanderbilt",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "N. Reid misses 2-pt jump shot from 7 ft (block by D. Knecht)"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "Offensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "N. Reid misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "9:17.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "Loose ball foul by R. Dillingham (drawn by A. Reaves)"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "9:01.0",
+      "D. Ayton makes 2-pt jump shot from 14 ft (assist by A. Reaves)",
+      "+2",
+      "38-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "38-43",
+      "",
+      "R. Dillingham misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "8:43.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "38-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "8:34.0",
+      "A. Reaves makes 2-pt layup from 1 ft",
+      "+2",
+      "40-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "40-45",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 9 ft (assist by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:58.0",
+      "R. Hachimura makes 2-pt jump shot from 10 ft (assist by D. Ayton)",
+      "+2",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "42-47",
+      "+2",
+      "J. McDaniels makes 2-pt layup from 4 ft (assist by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:32.0",
+      "D. Ayton misses 2-pt jump shot from 16 ft",
+      "",
+      "42-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:32.0",
+      "",
+      "",
+      "42-47",
+      "",
+      "Defensive rebound by R. Dillingham"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "42-49",
+      "+2",
+      "R. Gobert makes 2-pt layup from 1 ft (assist by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:05.0",
+      "R. Hachimura makes 2-pt layup from 2 ft (assist by J. LaRavia)",
+      "+2",
+      "44-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "44-49",
+      "",
+      "N. Reid misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:47.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "44-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:36.0",
+      "Shooting foul by R. Dillingham (drawn by J. LaRavia)",
+      "",
+      "44-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "44-49",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:36.0",
+      "N. Smith enters the game for A. Reaves",
+      "",
+      "44-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "44-49",
+      "",
+      "M. Conley enters the game for R. Dillingham"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "44-49",
+      "",
+      "J. Randle enters the game for N. Reid"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:36.0",
+      "J. LaRavia misses free throw 1 of 2",
+      "",
+      "44-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:36.0",
+      "Offensive rebound by Team",
+      "",
+      "44-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:36.0",
+      "J. LaRavia misses free throw 2 of 2",
+      "",
+      "44-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "44-49",
+      "",
+      "Defensive rebound by J. Randle"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "44-49",
+      "",
+      "Turnover by J. McDaniels (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:12.0",
+      "D. Ayton makes 2-pt jump shot from 9 ft (assist by R. Hachimura)",
+      "+2",
+      "46-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "46-49",
+      "",
+      "J. Randle misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:48.0",
+      "Defensive rebound by R. Hachimura",
+      "",
+      "46-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:37.0",
+      "N. Smith misses 3-pt jump shot from 25 ft",
+      "",
+      "46-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "46-49",
+      "",
+      "Defensive rebound by D. DiVincenzo"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "46-49",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:26.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "46-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:19.0",
+      "J. LaRavia makes 2-pt layup from 4 ft (assist by N. Smith)",
+      "+2",
+      "48-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "48-49",
+      "",
+      "Shooting foul by D. Ayton (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "48-50",
+      "+1",
+      "J. Randle makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:04.0",
+      "A. Reaves enters the game for D. Knecht",
+      "",
+      "48-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "48-50",
+      "",
+      "T. Shannon enters the game for D. DiVincenzo"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "48-51",
+      "+1",
+      "J. Randle makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:53.0",
+      "A. Reaves makes 3-pt jump shot from 25 ft (assist by R. Hachimura)",
+      "+3",
+      "51-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "Personal foul by R. Hachimura (drawn by R. Gobert)"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "Turnover by J. Randle (traveling)"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "4:09.0",
+      "Turnover by A. Reaves (bad pass; steal by M. Conley)",
+      "",
+      "51-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "J. Randle misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:50.0",
+      "Defensive rebound by N. Smith",
+      "",
+      "51-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:50.0",
+      "D. Knecht enters the game for N. Smith",
+      "",
+      "51-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:37.0",
+      "Turnover by D. Ayton (bad pass)",
+      "",
+      "51-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "M. Conley misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:24.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "Offensive rebound by T. Shannon"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:23.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "T. Shannon misses 2-pt layup from 4 ft (block by J. LaRavia)"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "Turnover by J. McDaniels (step out of bounds)"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:56.0",
+      "D. Knecht makes 2-pt jump shot from 7 ft (assist by A. Reaves)",
+      "+2",
+      "53-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "53-53",
+      "+2",
+      "J. Randle makes 2-pt jump shot from 15 ft (assist by M. Conley)"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "53-53",
+      "",
+      "Shooting foul by R. Hachimura (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:39.0",
+      "LA Lakers full timeout",
+      "",
+      "53-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:39.0",
+      "J. Vanderbilt enters the game for R. Hachimura",
+      "",
+      "53-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "53-53",
+      "",
+      "N. Reid enters the game for R. Gobert"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "53-54",
+      "+1",
+      "J. Randle makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "2:15.0",
+      "D. Knecht misses 3-pt jump shot from 28 ft (block by M. Conley)",
+      "",
+      "53-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "53-54",
+      "",
+      "Defensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "53-56",
+      "+2",
+      "J. Randle makes 2-pt layup from 1 ft (assist by M. Conley)"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "1:55.0",
+      "D. Ayton misses 2-pt layup from 1 ft",
+      "",
+      "53-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:52.0",
+      "Offensive rebound by D. Ayton",
+      "",
+      "53-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:52.0",
+      "D. Ayton makes 2-pt layup at rim",
+      "+2",
+      "55-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "55-58",
+      "+2",
+      "J. Randle makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "1:13.0",
+      "A. Reaves misses 3-pt jump shot from 25 ft",
+      "",
+      "55-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "1:12.0",
+      "Offensive rebound by Team",
+      "",
+      "55-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "55-58",
+      "",
+      "Loose ball foul by T. Shannon (drawn by J. LaRavia)"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:58.0",
+      "D. Knecht misses 3-pt jump shot from 24 ft",
+      "",
+      "55-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:55.0",
+      "Offensive rebound by J. Vanderbilt",
+      "",
+      "55-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:46.0",
+      "A. Reaves makes 2-pt jump shot from 10 ft (assist by D. Ayton)",
+      "+2",
+      "57-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:46.0",
+      "Shooting foul by T. Shannon (drawn by A. Reaves)",
+      "",
+      "57-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:46.0",
+      "",
+      "",
+      "57-58",
+      "",
+      "D. DiVincenzo enters the game for T. Shannon"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:46.0",
+      "A. Reaves makes free throw 1 of 1",
+      "+1",
+      "58-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "58-58",
+      "",
+      "Turnover by N. Reid (lost ball; steal by A. Reaves)"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "0:29.0",
+      "D. Ayton makes 2-pt hook shot from 5 ft (assist by A. Reaves)",
+      "+2",
+      "60-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "60-58",
+      "",
+      "M. Conley misses 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "0:06.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "60-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "0:01.0",
+      "A. Reaves makes 2-pt jump shot from 6 ft (assist by D. Knecht)",
+      "+2",
+      "62-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "62-58",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "62-58",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Minnesota"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "11:47.0",
+      "",
+      "",
+      "62-61",
+      "+3",
+      "J. Randle makes 3-pt jump shot from 25 ft (assist by M. Conley)"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "11:25.0",
+      "J. LaRavia misses 3-pt jump shot from 25 ft",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "62-61",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "62-61",
+      "",
+      "J. Randle misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "11:14.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "11:09.0",
+      "Personal foul by D. DiVincenzo (drawn by J. Vanderbilt)",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:51.0",
+      "A. Reaves misses 3-pt jump shot from 26 ft",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "10:49.0",
+      "Offensive rebound by J. LaRavia",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "10:45.0",
+      "R. Hachimura misses 2-pt jump shot from 15 ft",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "10:42.0",
+      "Offensive rebound by J. Vanderbilt",
+      "",
+      "62-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "10:39.0",
+      "J. LaRavia makes 3-pt jump shot from 25 ft (assist by J. Vanderbilt)",
+      "+3",
+      "65-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "65-63",
+      "+2",
+      "M. Conley makes 2-pt jump shot from 11 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "10:01.0",
+      "A. Reaves misses 3-pt jump shot from 25 ft",
+      "",
+      "65-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "65-63",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "65-63",
+      "",
+      "Turnover by J. Randle (lost ball; steal by J. Vanderbilt)"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "9:42.0",
+      "R. Hachimura makes 2-pt layup from 1 ft (assist by A. Reaves)",
+      "+2",
+      "67-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "67-63",
+      "",
+      "Turnover by R. Gobert (bad pass)"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "9:16.0",
+      "D. Ayton makes 2-pt jump shot from 9 ft (assist by A. Reaves)",
+      "+2",
+      "69-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "69-63",
+      "",
+      "Turnover by M. Conley (bad pass)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "8:57.0",
+      "A. Reaves misses 2-pt jump shot from 10 ft",
+      "",
+      "69-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "69-63",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "69-63",
+      "",
+      "Shooting foul by J. LaRavia (drawn by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "69-64",
+      "+1",
+      "J. McDaniels makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "69-65",
+      "+1",
+      "J. McDaniels makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "8:30.0",
+      "R. Hachimura makes 2-pt jump shot from 20 ft",
+      "+2",
+      "71-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "71-65",
+      "",
+      "J. Randle misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "8:16.0",
+      "Defensive rebound by J. Vanderbilt",
+      "",
+      "71-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "8:12.0",
+      "J. LaRavia makes 2-pt layup from 1 ft (assist by A. Reaves)",
+      "+2",
+      "73-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "8:12.0",
+      "Shooting foul by M. Conley (drawn by J. LaRavia)",
+      "",
+      "73-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "8:12.0",
+      "",
+      "",
+      "73-65",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "8:12.0",
+      "J. LaRavia makes free throw 1 of 1",
+      "+1",
+      "74-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "74-65",
+      "",
+      "Personal foul by J. Vanderbilt (drawn by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "74-65",
+      "",
+      "J. Randle misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "7:49.0",
+      "Defensive rebound by A. Reaves",
+      "",
+      "74-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "7:41.0",
+      "J. LaRavia makes 2-pt jump shot from 11 ft (assist by A. Reaves)",
+      "+2",
+      "76-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "7:32.0",
+      "",
+      "",
+      "76-65",
+      "",
+      "D. DiVincenzo misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "7:29.0",
+      "Defensive rebound by R. Hachimura",
+      "",
+      "76-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "7:17.0",
+      "J. LaRavia makes 3-pt jump shot from 24 ft (assist by R. Hachimura)",
+      "+3",
+      "79-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "7:04.0",
+      "",
+      "",
+      "79-65",
+      "",
+      "J. McDaniels misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "7:02.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "79-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "6:50.0",
+      "A. Reaves misses 2-pt jump shot from 14 ft",
+      "",
+      "79-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "79-65",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "79-67",
+      "+2",
+      "J. Randle makes 2-pt jump shot from 13 ft (assist by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "79-67",
+      "",
+      "Shooting foul by J. LaRavia (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "79-67",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "79-67",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "79-67",
+      "",
+      "R. Dillingham enters the game for M. Conley"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "79-67",
+      "",
+      "N. Reid enters the game for R. Gobert"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "79-67",
+      "",
+      "J. Randle misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "6:34.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "6:21.0",
+      "Shooting foul by R. Dillingham (drawn by J. LaRavia)",
+      "",
+      "79-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "6:21.0",
+      "J. LaRavia makes free throw 1 of 2",
+      "+1",
+      "80-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "6:21.0",
+      "J. LaRavia misses free throw 2 of 2",
+      "",
+      "80-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "80-67",
+      "",
+      "Defensive rebound by J. Randle"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "80-69",
+      "+2",
+      "R. Dillingham makes 2-pt layup from 3 ft (assist by N. Reid)"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "5:46.0",
+      "Shooting foul by N. Reid (drawn by D. Ayton)",
+      "",
+      "80-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "5:46.0",
+      "D. Ayton misses free throw 1 of 2",
+      "",
+      "80-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "5:46.0",
+      "Offensive rebound by Team",
+      "",
+      "80-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "5:46.0",
+      "D. Knecht enters the game for J. Vanderbilt",
+      "",
+      "80-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "5:46.0",
+      "D. Ayton makes free throw 2 of 2",
+      "+1",
+      "81-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "81-69",
+      "",
+      "Turnover by J. Randle (bad pass; steal by J. LaRavia)"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "5:30.0",
+      "D. Knecht makes 2-pt dunk from 1 ft (assist by A. Reaves)",
+      "+2",
+      "83-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "83-71",
+      "+2",
+      "R. Dillingham makes 2-pt jump shot from 12 ft (assist by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "4:56.0",
+      "A. Reaves misses 3-pt jump shot from 25 ft",
+      "",
+      "83-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "4:53.0",
+      "",
+      "",
+      "83-71",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "83-73",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 9 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "4:26.0",
+      "Turnover by R. Hachimura (bad pass; steal by J. McDaniels)",
+      "",
+      "83-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "4:23.0",
+      "",
+      "",
+      "83-73",
+      "",
+      "J. McDaniels misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "83-73",
+      "",
+      "Offensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "83-73",
+      "",
+      "J. McDaniels misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:21.0",
+      "",
+      "",
+      "83-73",
+      "",
+      "Offensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "83-75",
+      "+2",
+      "J. McDaniels makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:13.0",
+      "LA Lakers full timeout",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "T. Shannon enters the game for J. McDaniels"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "3:55.0",
+      "J. LaRavia makes 2-pt layup from 2 ft",
+      "+2",
+      "85-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "85-75",
+      "",
+      "J. Randle misses 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "85-75",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "3:34.0",
+      "J. Hayes enters the game for D. Ayton",
+      "",
+      "85-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "3:34.0",
+      "N. Smith enters the game for A. Reaves",
+      "",
+      "85-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "85-75",
+      "",
+      "T. Shannon misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "3:24.0",
+      "Defensive rebound by D. Knecht",
+      "",
+      "85-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "3:14.0",
+      "N. Smith makes 2-pt jump shot from 11 ft",
+      "+2",
+      "87-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "3:14.0",
+      "Shooting foul by R. Dillingham (drawn by N. Smith)",
+      "",
+      "87-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "3:14.0",
+      "J. Vanderbilt enters the game for R. Hachimura",
+      "",
+      "87-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "3:14.0",
+      "N. Smith makes free throw 1 of 1",
+      "+1",
+      "88-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "88-75",
+      "",
+      "Turnover by R. Dillingham (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:54.0",
+      "Shooting foul by D. DiVincenzo (drawn by N. Smith)",
+      "",
+      "88-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "2:54.0",
+      "N. Smith misses free throw 1 of 2",
+      "",
+      "88-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "2:54.0",
+      "Offensive rebound by Team",
+      "",
+      "88-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "88-75",
+      "",
+      "R. Gobert enters the game for D. DiVincenzo"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "88-75",
+      "",
+      "B. Hyland enters the game for J. Randle"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "2:54.0",
+      "N. Smith makes free throw 2 of 2",
+      "+1",
+      "89-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "89-75",
+      "",
+      "N. Reid misses 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "2:28.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "89-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "2:20.0",
+      "J. LaRavia makes 3-pt jump shot from 24 ft (assist by J. Vanderbilt)",
+      "+3",
+      "92-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "2:20.0",
+      "",
+      "",
+      "92-75",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "2:02.0",
+      "",
+      "",
+      "92-75",
+      "",
+      "N. Reid misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "1:59.0",
+      "Defensive rebound by J. Hayes",
+      "",
+      "92-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "1:45.0",
+      "N. Smith makes 3-pt jump shot from 24 ft",
+      "+3",
+      "95-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "1:36.0",
+      "",
+      "",
+      "95-77",
+      "+2",
+      "R. Dillingham makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "1:20.0",
+      "N. Smith misses 2-pt jump shot from 14 ft",
+      "",
+      "95-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "95-77",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "1:18.0",
+      "Loose ball foul by J. Hayes (drawn by R. Gobert)",
+      "",
+      "95-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "95-77",
+      "",
+      "J. McDaniels enters the game for R. Dillingham"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "95-80",
+      "+3",
+      "J. McDaniels makes 3-pt jump shot from 24 ft (assist by B. Hyland)"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "0:54.0",
+      "Offensive foul by J. Hayes (drawn by T. Shannon)",
+      "",
+      "95-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "0:54.0",
+      "Turnover by J. Hayes (offensive foul)",
+      "",
+      "95-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "0:54.0",
+      "A. Reaves enters the game for J. LaRavia",
+      "",
+      "95-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "95-83",
+      "+3",
+      "B. Hyland makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "0:31.0",
+      "A. Reaves makes 2-pt jump shot from 8 ft",
+      "+2",
+      "97-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "97-86",
+      "+3",
+      "B. Hyland makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:24.0",
+      "Turnover by J. Vanderbilt (inbound)",
+      "",
+      "97-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:24.0",
+      "J. LaRavia enters the game for N. Smith",
+      "",
+      "97-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "97-86",
+      "",
+      "Offensive foul by B. Hyland (drawn by J. Hayes)"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "97-86",
+      "",
+      "Turnover by B. Hyland (offensive foul)"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:03.0",
+      "LA Lakers full timeout",
+      "",
+      "97-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:03.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "97-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:03.0",
+      "D. Ayton enters the game for J. Hayes",
+      "",
+      "97-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:03.0",
+      "R. Hachimura enters the game for J. Vanderbilt",
+      "",
+      "97-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:01.0",
+      "A. Reaves misses 2-pt layup from 4 ft (block by N. Reid)",
+      "",
+      "97-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "97-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "Time",
+      "LA Lakers",
+      "",
+      "Score",
+      "",
+      "Minnesota"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "11:35.0",
+      "D. Knecht makes 2-pt jump shot from 12 ft (assist by R. Hachimura)",
+      "+2",
+      "99-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "99-86",
+      "",
+      "Turnover by B. Hyland (lost ball; steal by J. Hayes)"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "11:08.0",
+      "Personal foul by B. Hyland (drawn by R. Hachimura)",
+      "",
+      "99-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "11:03.0",
+      "A. Reaves makes 3-pt jump shot from 25 ft (assist by J. Hayes)",
+      "+3",
+      "102-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "102-86",
+      "",
+      "Shooting foul by R. Hachimura (drawn by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "102-87",
+      "+1",
+      "J. McDaniels makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "102-88",
+      "+1",
+      "J. McDaniels makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "10:32.0",
+      "R. Hachimura misses 2-pt jump shot from 13 ft",
+      "",
+      "102-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "102-88",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "102-88",
+      "",
+      "B. Hyland misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "10:10.0",
+      "Defensive rebound by R. Hachimura",
+      "",
+      "102-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "9:57.0",
+      "Personal foul by B. Hyland (drawn by R. Hachimura)",
+      "",
+      "102-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "102-88",
+      "",
+      "M. Conley enters the game for B. Hyland"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "102-88",
+      "",
+      "D. DiVincenzo enters the game for N. Reid"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "102-88",
+      "",
+      "J. Randle enters the game for T. Shannon"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "9:50.0",
+      "Turnover by A. Reaves (out of bounds lost ball)",
+      "",
+      "102-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "9:36.0",
+      "",
+      "",
+      "102-88",
+      "",
+      "Turnover by D. DiVincenzo (bad pass; steal by D. Knecht)"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "9:27.0",
+      "J. Vanderbilt misses 3-pt jump shot from 24 ft",
+      "",
+      "102-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "102-88",
+      "",
+      "Defensive rebound by D. DiVincenzo"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "102-88",
+      "",
+      "Shooting foul by J. Vanderbilt (drawn by R. Gobert)"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "102-89",
+      "+1",
+      "R. Gobert makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "9:17.0",
+      "D. Ayton enters the game for J. Hayes",
+      "",
+      "102-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "9:17.0",
+      "J. LaRavia enters the game for J. Vanderbilt",
+      "",
+      "102-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "102-89",
+      "",
+      "R. Gobert misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "9:15.0",
+      "Defensive rebound by D. Ayton",
+      "",
+      "102-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "9:03.0",
+      "J. LaRavia makes 3-pt jump shot from 23 ft (assist by A. Reaves)",
+      "+3",
+      "105-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "105-89",
+      "",
+      "Shooting foul by J. LaRavia (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "105-90",
+      "+1",
+      "J. Randle makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "105-91",
+      "+1",
+      "J. Randle makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "8:27.0",
+      "Personal foul by J. Randle (drawn by A. Reaves)",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "8:18.0",
+      "A. Reaves misses 3-pt jump shot from 24 ft",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "105-91",
+      "",
+      "Defensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "105-91",
+      "",
+      "M. Conley misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "8:07.0",
+      "Defensive rebound by Team",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "7:49.0",
+      "Turnover by R. Hachimura (bad pass; steal by M. Conley)",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "7:40.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "105-91",
+      "",
+      "J. McDaniels misses 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "105-91",
+      "",
+      "Offensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "105-91",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "7:23.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "7:19.0",
+      "Turnover by J. LaRavia (bad pass; steal by D. DiVincenzo)",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:19.0",
+      "",
+      "",
+      "105-91",
+      "",
+      "Personal foul by J. LaRavia (drawn by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "105-91",
+      "",
+      "J. Randle misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "7:03.0",
+      "Defensive rebound by J. LaRavia",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "6:56.0",
+      "Turnover by A. Reaves (lost ball; steal by M. Conley)",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "105-91",
+      "",
+      "Turnover by M. Conley (back court)"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "105-91",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "6:55.0",
+      "N. Smith enters the game for A. Reaves",
+      "",
+      "105-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "6:36.0",
+      "R. Hachimura makes 2-pt jump shot from 18 ft",
+      "+2",
+      "107-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "107-93",
+      "+2",
+      "D. DiVincenzo makes 2-pt layup from 4 ft (assist by M. Conley)"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "107-93",
+      "",
+      "Shooting foul by D. Ayton (drawn by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "107-94",
+      "+1",
+      "D. DiVincenzo makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "6:05.0",
+      "R. Hachimura makes 2-pt dunk from 1 ft (assist by D. Ayton)",
+      "+2",
+      "109-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "109-96",
+      "+2",
+      "J. McDaniels makes 2-pt layup from 2 ft (assist by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "5:38.0",
+      "R. Hachimura misses 2-pt jump shot from 14 ft (block by R. Gobert)",
+      "",
+      "109-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "5:35.0",
+      "Offensive rebound by R. Hachimura",
+      "",
+      "109-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "5:34.0",
+      "N. Smith misses 3-pt jump shot from 25 ft",
+      "",
+      "109-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "109-96",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "109-96",
+      "",
+      "Shooting foul by N. Smith (drawn by D. DiVincenzo)"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "109-97",
+      "+1",
+      "D. DiVincenzo makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "5:28.0",
+      "A. Reaves enters the game for N. Smith",
+      "",
+      "109-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "109-97",
+      "",
+      "T. Shannon enters the game for J. McDaniels"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "109-98",
+      "+1",
+      "D. DiVincenzo makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "5:05.0",
+      "R. Hachimura misses 3-pt jump shot from 27 ft",
+      "",
+      "109-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "5:04.0",
+      "Offensive rebound by Team",
+      "",
+      "109-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "5:04.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "109-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "109-98",
+      "",
+      "Turnover by R. Gobert (bad pass)"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "4:42.0",
+      "LA Lakers full timeout",
+      "",
+      "109-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "109-98",
+      "",
+      "J. McDaniels enters the game for T. Shannon"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "4:32.0",
+      "R. Hachimura misses 3-pt jump shot from 25 ft",
+      "",
+      "109-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "109-98",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "109-101",
+      "+3",
+      "M. Conley makes 3-pt jump shot from 25 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "4:01.0",
+      "A. Reaves makes 3-pt jump shot from 25 ft (assist by J. LaRavia)",
+      "+3",
+      "112-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "112-103",
+      "+2",
+      "R. Gobert makes 2-pt dunk from 1 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "3:21.0",
+      "D. Knecht misses 3-pt jump shot from 25 ft",
+      "",
+      "112-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "112-103",
+      "",
+      "Defensive rebound by J. Randle"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "112-106",
+      "+3",
+      "D. DiVincenzo makes 3-pt jump shot from 26 ft (assist by M. Conley)"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "3:04.0",
+      "LA Lakers full timeout",
+      "",
+      "112-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "2:44.0",
+      "R. Hachimura misses 2-pt jump shot from 18 ft (block by M. Conley)",
+      "",
+      "112-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "2:43.0",
+      "",
+      "",
+      "112-106",
+      "",
+      "Defensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "112-106",
+      "",
+      "Offensive foul by D. DiVincenzo (drawn by A. Reaves)"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "112-106",
+      "",
+      "Turnover by D. DiVincenzo (offensive foul)"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "2:30.0",
+      "D. Ayton makes 2-pt jump shot from 12 ft (assist by A. Reaves)",
+      "+2",
+      "114-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "2:08.0",
+      "",
+      "",
+      "114-106",
+      "",
+      "Shooting foul by A. Reaves (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "2:08.0",
+      "",
+      "",
+      "114-107",
+      "+1",
+      "J. Randle makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "2:08.0",
+      "",
+      "",
+      "114-108",
+      "+1",
+      "J. Randle makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "1:46.0",
+      "A. Reaves misses 2-pt jump shot from 17 ft",
+      "",
+      "114-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "114-108",
+      "",
+      "Defensive rebound by J. Randle"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "114-111",
+      "+3",
+      "J. McDaniels makes 3-pt jump shot from 26 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "1:11.0",
+      "D. Ayton misses 2-pt jump shot from 6 ft",
+      "",
+      "114-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "1:09.0",
+      "Offensive rebound by J. LaRavia",
+      "",
+      "114-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "1:09.0",
+      "Turnover by J. LaRavia (step out of bounds)",
+      "",
+      "114-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "114-113",
+      "+2",
+      "J. McDaniels makes 2-pt dunk from 1 ft (assist by M. Conley)"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "0:26.0",
+      "A. Reaves misses 3-pt jump shot from 23 ft",
+      "",
+      "114-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:23.0",
+      "",
+      "",
+      "114-113",
+      "",
+      "Defensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "114-115",
+      "+2",
+      "J. Randle makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "0:10.0",
+      "LA Lakers full timeout",
+      "",
+      "114-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "114-115",
+      "",
+      "B. Hyland enters the game for D. DiVincenzo"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "0:06.0",
+      "Personal foul by R. Gobert (drawn by A. Reaves)",
+      "",
+      "114-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "0:06.0",
+      "LA Lakers full timeout",
+      "",
+      "114-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "114-115",
+      "",
+      "D. DiVincenzo enters the game for B. Hyland"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "0:01.0",
+      "A. Reaves makes 2-pt jump shot from 12 ft",
+      "+2",
+      "116-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "0:00.0",
+      "Instant Replay (Request: Stands)",
+      "",
+      "116-115",
+      "",
+      ""
+    ]
+  }
+]

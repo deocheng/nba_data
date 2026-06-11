@@ -1,0 +1,302 @@
+[
+  {
+    "team_abbr": "BOS",
+    "season": "2022-23",
+    "wins": 35,
+    "losses": 47,
+    "points_per_game": 129.4,
+    "opp_points_per_game": 107.5,
+    "rebounds_per_game": 49.7,
+    "assists_per_game": 25.5
+  },
+  {
+    "team_abbr": "BKN",
+    "season": "2022-23",
+    "wins": 60,
+    "losses": 22,
+    "points_per_game": 126.1,
+    "opp_points_per_game": 122.1,
+    "rebounds_per_game": 44.3,
+    "assists_per_game": 27.6
+  },
+  {
+    "team_abbr": "NYK",
+    "season": "2022-23",
+    "wins": 26,
+    "losses": 56,
+    "points_per_game": 129.6,
+    "opp_points_per_game": 129.7,
+    "rebounds_per_game": 45.4,
+    "assists_per_game": 28.0
+  },
+  {
+    "team_abbr": "PHI",
+    "season": "2022-23",
+    "wins": 37,
+    "losses": 45,
+    "points_per_game": 101.6,
+    "opp_points_per_game": 100.9,
+    "rebounds_per_game": 42.3,
+    "assists_per_game": 20.0
+  },
+  {
+    "team_abbr": "TOR",
+    "season": "2022-23",
+    "wins": 45,
+    "losses": 37,
+    "points_per_game": 126.9,
+    "opp_points_per_game": 113.8,
+    "rebounds_per_game": 43.0,
+    "assists_per_game": 29.5
+  },
+  {
+    "team_abbr": "CHI",
+    "season": "2022-23",
+    "wins": 60,
+    "losses": 22,
+    "points_per_game": 119.5,
+    "opp_points_per_game": 113.3,
+    "rebounds_per_game": 44.3,
+    "assists_per_game": 28.7
+  },
+  {
+    "team_abbr": "CLE",
+    "season": "2022-23",
+    "wins": 23,
+    "losses": 59,
+    "points_per_game": 106.1,
+    "opp_points_per_game": 120.0,
+    "rebounds_per_game": 41.9,
+    "assists_per_game": 26.5
+  },
+  {
+    "team_abbr": "DET",
+    "season": "2022-23",
+    "wins": 28,
+    "losses": 54,
+    "points_per_game": 119.9,
+    "opp_points_per_game": 108.6,
+    "rebounds_per_game": 40.1,
+    "assists_per_game": 24.3
+  },
+  {
+    "team_abbr": "IND",
+    "season": "2022-23",
+    "wins": 24,
+    "losses": 58,
+    "points_per_game": 127.2,
+    "opp_points_per_game": 109.3,
+    "rebounds_per_game": 44.6,
+    "assists_per_game": 29.4
+  },
+  {
+    "team_abbr": "MIL",
+    "season": "2022-23",
+    "wins": 52,
+    "losses": 30,
+    "points_per_game": 101.6,
+    "opp_points_per_game": 101.7,
+    "rebounds_per_game": 48.8,
+    "assists_per_game": 27.5
+  },
+  {
+    "team_abbr": "ATL",
+    "season": "2022-23",
+    "wins": 48,
+    "losses": 34,
+    "points_per_game": 115.8,
+    "opp_points_per_game": 112.1,
+    "rebounds_per_game": 49.2,
+    "assists_per_game": 22.2
+  },
+  {
+    "team_abbr": "CHA",
+    "season": "2022-23",
+    "wins": 27,
+    "losses": 55,
+    "points_per_game": 115.7,
+    "opp_points_per_game": 114.3,
+    "rebounds_per_game": 48.4,
+    "assists_per_game": 28.0
+  },
+  {
+    "team_abbr": "MIA",
+    "season": "2022-23",
+    "wins": 36,
+    "losses": 46,
+    "points_per_game": 121.9,
+    "opp_points_per_game": 123.6,
+    "rebounds_per_game": 48.0,
+    "assists_per_game": 23.7
+  },
+  {
+    "team_abbr": "ORL",
+    "season": "2022-23",
+    "wins": 49,
+    "losses": 33,
+    "points_per_game": 102.2,
+    "opp_points_per_game": 113.8,
+    "rebounds_per_game": 46.6,
+    "assists_per_game": 21.9
+  },
+  {
+    "team_abbr": "WAS",
+    "season": "2022-23",
+    "wins": 52,
+    "losses": 30,
+    "points_per_game": 116.7,
+    "opp_points_per_game": 112.6,
+    "rebounds_per_game": 44.9,
+    "assists_per_game": 28.0
+  },
+  {
+    "team_abbr": "DEN",
+    "season": "2022-23",
+    "wins": 32,
+    "losses": 50,
+    "points_per_game": 121.0,
+    "opp_points_per_game": 100.4,
+    "rebounds_per_game": 47.3,
+    "assists_per_game": 26.1
+  },
+  {
+    "team_abbr": "MIN",
+    "season": "2022-23",
+    "wins": 55,
+    "losses": 27,
+    "points_per_game": 127.6,
+    "opp_points_per_game": 102.2,
+    "rebounds_per_game": 40.8,
+    "assists_per_game": 26.4
+  },
+  {
+    "team_abbr": "OKC",
+    "season": "2022-23",
+    "wins": 55,
+    "losses": 27,
+    "points_per_game": 123.3,
+    "opp_points_per_game": 115.5,
+    "rebounds_per_game": 40.0,
+    "assists_per_game": 26.5
+  },
+  {
+    "team_abbr": "POR",
+    "season": "2022-23",
+    "wins": 30,
+    "losses": 52,
+    "points_per_game": 112.4,
+    "opp_points_per_game": 113.6,
+    "rebounds_per_game": 42.3,
+    "assists_per_game": 22.3
+  },
+  {
+    "team_abbr": "UTA",
+    "season": "2022-23",
+    "wins": 40,
+    "losses": 42,
+    "points_per_game": 123.4,
+    "opp_points_per_game": 106.1,
+    "rebounds_per_game": 47.5,
+    "assists_per_game": 25.9
+  },
+  {
+    "team_abbr": "GSW",
+    "season": "2022-23",
+    "wins": 57,
+    "losses": 25,
+    "points_per_game": 113.9,
+    "opp_points_per_game": 104.0,
+    "rebounds_per_game": 40.9,
+    "assists_per_game": 21.5
+  },
+  {
+    "team_abbr": "LAC",
+    "season": "2022-23",
+    "wins": 21,
+    "losses": 61,
+    "points_per_game": 127.5,
+    "opp_points_per_game": 125.9,
+    "rebounds_per_game": 40.3,
+    "assists_per_game": 26.8
+  },
+  {
+    "team_abbr": "LAL",
+    "season": "2022-23",
+    "wins": 46,
+    "losses": 36,
+    "points_per_game": 115.4,
+    "opp_points_per_game": 103.9,
+    "rebounds_per_game": 40.1,
+    "assists_per_game": 25.9
+  },
+  {
+    "team_abbr": "PHX",
+    "season": "2022-23",
+    "wins": 27,
+    "losses": 55,
+    "points_per_game": 121.8,
+    "opp_points_per_game": 115.8,
+    "rebounds_per_game": 43.9,
+    "assists_per_game": 21.5
+  },
+  {
+    "team_abbr": "SAC",
+    "season": "2022-23",
+    "wins": 39,
+    "losses": 43,
+    "points_per_game": 127.8,
+    "opp_points_per_game": 106.8,
+    "rebounds_per_game": 45.6,
+    "assists_per_game": 29.2
+  },
+  {
+    "team_abbr": "DAL",
+    "season": "2022-23",
+    "wins": 60,
+    "losses": 22,
+    "points_per_game": 105.6,
+    "opp_points_per_game": 128.5,
+    "rebounds_per_game": 41.3,
+    "assists_per_game": 26.6
+  },
+  {
+    "team_abbr": "HOU",
+    "season": "2022-23",
+    "wins": 57,
+    "losses": 25,
+    "points_per_game": 127.1,
+    "opp_points_per_game": 113.4,
+    "rebounds_per_game": 42.3,
+    "assists_per_game": 26.6
+  },
+  {
+    "team_abbr": "MEM",
+    "season": "2022-23",
+    "wins": 26,
+    "losses": 56,
+    "points_per_game": 104.9,
+    "opp_points_per_game": 107.4,
+    "rebounds_per_game": 46.5,
+    "assists_per_game": 29.6
+  },
+  {
+    "team_abbr": "NOP",
+    "season": "2022-23",
+    "wins": 44,
+    "losses": 38,
+    "points_per_game": 118.8,
+    "opp_points_per_game": 117.4,
+    "rebounds_per_game": 40.7,
+    "assists_per_game": 22.3
+  },
+  {
+    "team_abbr": "SAS",
+    "season": "2022-23",
+    "wins": 45,
+    "losses": 37,
+    "points_per_game": 105.9,
+    "opp_points_per_game": 103.6,
+    "rebounds_per_game": 48.0,
+    "assists_per_game": 23.6
+  }
+]

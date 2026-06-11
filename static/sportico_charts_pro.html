@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sportico专业图表模板</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Helvetica Neue', Arial, sans-serif; 
+            background: #f5f5f5; 
+            color: #2d2d2d;
+            min-height: 100vh;
+            padding: 30px;
+        }
+        
+        .page-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .page-header h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+        .page-header p {
+            color: #666;
+            font-size: 1.1rem;
+        }
+
+        .charts-container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .chart-section {
+            background: #fff;
+            border-radius: 20px;
+            padding: 35px;
+            margin-bottom: 35px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+
+        .chart-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 8px;
+        }
+
+        .chart-subtitle {
+            font-size: 0.95rem;
+            color: #666;
+            margin-bottom: 30px;
+        }
+
+        .source-info {
+            font-size: 0.85rem;
+            color: #999;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+        }
+
+        .offense-plummeted-chart {
+            position: relative;
+            height: 500px;
+            padding: 40px 30px;
+            border-bottom: 2px solid #ddd;
+            border-left: 2px solid #ddd;
+            margin-left: 80px;
+        }
+
+        .offense-y-axis {
+            position: absolute;
+            left: -80px;
+            top: 40px;
+            height: calc(100% - 80px);
+            width: 70px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .offense-y-label {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #666;
+            text-align: right;
+        }
+
+        .offense-x-axis {
+            position: absolute;
+            bottom: 10px;
+            left: 80px;
+            right: 30px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .offense-x-label {
+            font-size: 0.85rem;
+            color: #999;
+            font-weight: 600;
+        }
+
+        .offense-data-point {
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            transform: translate(-50%, 50%);
+            transition: transform 0.2s;
+        }
+        .offense-data-point.up {
+            background: #22c55e;
+        }
+        .offense-data-point.down {
+            background: #ef4444;
+        }
+        .offense-data-point:hover {
+            transform: translate(-50%, 50%) scale(1.5);
+            z-index: 10;
+        }
+
+        .offense-bar {
+            position: absolute;
+            width: 8px;
+            left: 50%;
+            transform: translateX(-50%);
+            border-radius: 4px;
+        }
+        .offense-bar.up {
+            background: #22c55e;
+            bottom: 0;
+        }
+        .offense-bar.down {
+            background: #ef4444;
+            top: 0;
+        }
+
+        .annotation-box {
+            position: absolute;
+            background: rgba(255,255,255,0.95);
+            padding: 10px 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .jersey-table {
+            overflow-x: auto;
+        }
+
+        .jersey-grid {
+            display: grid;
+            grid-template-columns: 80px repeat(10, 1fr);
+            gap: 4px;
+        }
+
+        .jersey-header {
+            background: #f0f0f0;
+            padding: 12px 8px;
+            text-align: center;
+            font-weight: 700;
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .jersey-header.year {
+            text-align: left;
+            padding-left: 15px;
+        }
+
+        .jersey-cell {
+            padding: 10px 5px;
+            text-align: center;
+            font-weight: 700;
+            font-size: 0.85rem;
+            color: #fff;
+            border-radius: 6px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .jersey-cell:hover {
+            transform: scale(1.05);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+
+        .lottery-comparison {
+            display: grid;
+            grid-template-columns: 180px 1fr 1fr;
+            gap: 20px;
+        }
+
+        .lottery-label {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #333;
+            padding: 12px 0;
+            align-self: center;
+        }
+
+        .lottery-bar-container {
+            position: relative;
+            height: 40px;
+            display: flex;
+            align-items: center;
+        }
+
+        .lottery-bar {
+            height: 100%;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding-right: 12px;
+            font-weight: 700;
+            font-size: 0.85rem;
+            color: #fff;
+            transition: width 0.5s ease;
+        }
+
+        .lottery-bar.current {
+            background: linear-gradient(90deg, #064e3b, #166534);
+        }
+
+        .lottery-bar.new {
+            background: linear-gradient(90deg, #15803d, #22c55e);
+        }
+
+        .lottery-section-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            text-align: center;
+            padding: 15px 0;
+            border-bottom: 2px solid #eee;
+            margin-bottom: 15px;
+        }
+
+        .lottery-divider {
+            height: 100%;
+            border-left: 2px dashed #ddd;
+            position: absolute;
+            left: 40%;
+        }
+
+        .lottery-notes {
+            grid-column: 1 / -1;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            font-size: 0.85rem;
+            color: #666;
+            font-style: italic;
+        }
+
+        .player-color-map {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+
+        .color-tag {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 12px;
+            background: #f8f8f8;
+            border-radius: 20px;
+            font-size: 0.8rem;
+        }
+
+        .color-dot {
+            width: 16px;
+            height: 16px;
+            border-radius: 4px;
+        }
+
+        @media (max-width: 768px) {
+            body { padding: 15px; }
+            .chart-section { padding: 20px; }
+            .offense-plummeted-chart { margin-left: 60px; height: 400px; }
+            .offense-y-axis { width: 50px; left: -60px; }
+            .jersey-grid { grid-template-columns: 60px repeat(5, 1fr); }
+            .lottery-comparison { grid-template-columns: 120px 1fr 1fr; gap: 10px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="page-header">
+        <h1>Sportico专业图表模板</h1>
+        <p>NBA数据分析可视化 - 高级图表样式</p>
+    </div>
+
+    <div class="charts-container">
+        <div class="chart-section">
+            <div class="chart-title">📉 Offense Has Plummeted in the 2026 NBA Playoffs</div>
+            <div class="chart-subtitle">Change in points per 100 possessions from regular season to playoffs</div>
+            <div class="offense-plummeted-chart" id="offensePlummetedChart">
+                <div class="offense-y-axis">
+                    <div class="offense-y-label">+2.0</div>
+                    <div class="offense-y-label">0</div>
+                    <div class="offense-y-label">-2.0</div>
+                    <div class="offense-y-label">-4.0</div>
+                </div>
+                <div class="offense-x-axis">
+                    <div class="offense-x-label">1980</div>
+                    <div class="offense-x-label">1990</div>
+                    <div class="offense-x-label">2000</div>
+                    <div class="offense-x-label">2010</div>
+                    <div class="offense-x-label">2020</div>
+                </div>
+                <div class="annotation-box" style="top: 60px; right: 100px;">
+                    <span style="color: #22c55e; font-size: 1.1rem;">↑</span> Better offense<br>in playoffs
+                </div>
+                <div class="annotation-box" style="bottom: 100px; right: 100px;">
+                    <span style="color: #ef4444; font-size: 1.1rem;">↓</span> Better defense<br>in playoffs
+                </div>
+            </div>
+            <div class="source-info">Chart: Lev Akabas • Source: Basketball Reference</div>
+        </div>
+
+        <div class="chart-section">
+            <div class="chart-title">👕 Best-Selling NBA Jerseys by Season</div>
+            <div class="chart-subtitle">Top 10 jersey sales rankings by season</div>
+            <div class="jersey-table">
+                <div class="jersey-grid" id="jerseyGrid">
+                    <div class="jersey-header year">Season</div>
+                    <div class="jersey-header">1</div>
+                    <div class="jersey-header">2</div>
+                    <div class="jersey-header">3</div>
+                    <div class="jersey-header">4</div>
+                    <div class="jersey-header">5</div>
+                    <div class="jersey-header">6</div>
+                    <div class="jersey-header">7</div>
+                    <div class="jersey-header">8</div>
+                    <div class="jersey-header">9</div>
+                    <div class="jersey-header">10</div>
+                </div>
+            </div>
+            <div class="player-color-map" id="playerColorMap"></div>
+            <div class="source-info">Chart: Lev Akabas • Source: NBA</div>
+        </div>
+
+        <div class="chart-section">
+            <div class="chart-title">🎲 NBA Lottery Reform Proposal</div>
+            <div class="chart-subtitle">Chances of getting No. 1 overall pick</div>
+            <div class="lottery-comparison" id="lotteryComparison">
+                <div></div>
+                <div class="lottery-section-title">Current Odds</div>
+                <div class="lottery-section-title">New Odds</div>
+            </div>
+            <div class="source-info">Chart: Lev Akabas • Source: ESPN</div>
+        </div>
+    </div>
+
+    <script>
+        // 进攻效率下降数据
+        const offenseData = [
+            { year: 1980, value: 1.8 },
+            { year: 1982, value: 1.2 },
+            { year: 1984, value: -0.8 },
+            { year: 1986, value: -1.2 },
+            { year: 1988, value: 2.2 },
+            { year: 1990, value: 2.8 },
+            { year: 1992, value: 2.5 },
+            { year: 1994, value: 2.0 },
+            { year: 1996, value: 1.8 },
+            { year: 1998, value: 1.5 },
+            { year: 2000, value: 0.5 },
+            { year: 2002, value: -1.5 },
+            { year: 2004, value: -3.8 },
+            { year: 2006, value: -1.2 },
+            { year: 2008, value: -0.8 },
+            { year: 2010, value: -1.8 },
+            { year: 2012, value: -1.5 },
+            { year: 2014, value: -0.5 },
+            { year: 2016, value: -1.2 },
+            { year: 2018, value: -1.8 },
+            { year: 2020, value: 2.5 },
+            { year: 2022, value: 1.2 },
+            { year: 2024, value: 0.8 },
+            { year: 2026, value: -2.2 }
+        ];
+
+        // 渲染进攻效率图表
+        function renderOffenseChart() {
+            const container = document.getElementById('offensePlummetedChart');
+            const height = 420;
+            const width = container.offsetWidth - 110;
+            
+            offenseData.forEach(item => {
+                const x = ((item.year - 1980) / 46) * width + 55;
+                const normalizedValue = item.value / 4;
+                const y = height / 2 - normalizedValue * (height / 2);
+                
+                const bar = document.createElement('div');
+                bar.className = `offense-bar ${item.value >= 0 ? 'up' : 'down'}`;
+                bar.style.left = `${x}px`;
+                bar.style.width = '8px';
+                
+                if (item.value >= 0) {
+                    bar.style.bottom = `${height / 2}px`;
+                    bar.style.height = `${Math.abs(normalizedValue) * (height / 2)}px`;
+                } else {
+                    bar.style.top = `${height / 2}px`;
+                    bar.style.height = `${Math.abs(normalizedValue) * (height / 2)}px`;
+                }
+                
+                container.appendChild(bar);
+                
+                const point = document.createElement('div');
+                point.className = `offense-data-point ${item.value >= 0 ? 'up' : 'down'}`;
+                point.style.left = `${x}px`;
+                point.style.top = `${y}px`;
+                point.title = `${item.year}: ${item.value > 0 ? '+' : ''}${item.value}`;
+                
+                container.appendChild(point);
+            });
+        }
+
+        // 球员颜色映射
+        const playerColors = {
+            'LeBron': '#1e40af',
+            'Melo': '#3b82f6',
+            'Marbury': '#f59e0b',
+            'T-Mac': '#dc2626',
+            'Al': '#059669',
+            'Duncan': '#6b7280',
+            'Kobe': '#1f2937',
+            'Francis': '#9333ea',
+            'Shaq': '#2563eb',
+            'Pippen': '#db2777',
+            'Vince': '#9ca3af',
+            'Wade': '#e11d48',
+            'Ben': '#3b82f6',
+            'KG': '#22c55e',
+            'Nash': '#fb923c',
+            'Arenas': '#3730a3',
+            'Dirk': '#1e40af',
+            'Paul': '#06b6d4',
+            'Pierce': '#22c55e',
+            'Nate': '#f97316',
+            'Dwight': '#8b5cf6',
+            'Rose': '#dc2626',
+            'Wall': '#1e3a8a',
+            'Amare': '#fb923c',
+            'Lin': '#f59e0b',
+            'Rondo': '#166534',
+            'Deron': '#1f2937',
+            'KD': '#5b21b6',
+            'Blake': '#ea580c',
+            'Steph': '#fbbf24',
+            'Kyrie': '#3b82f6',
+            'Klay': '#fbbf24',
+            'Russ': '#3b82f6',
+            'Green': '#22c55e',
+            'Kawhi': '#9ca3af',
+            'Giannis': '#22c55e',
+            'Harden': '#dc2626',
+            'Embiid': '#dc2626',
+            'Kristaps': '#f59e0b',
+            'Butler': '#ef4444',
+            'Simmons': '#1e40af',
+            'Luka': '#7c3aed',
+            'AD': '#552583',
+            'Tatum': '#22c55e',
+            'Booker': '#6366f1',
+            'Ja': '#f59e0b',
+            'Wemby': '#1f2937',
+            'Dame': '#ef4444',
+            'Brunson': '#dc2626',
+            'Ant': '#22c55e',
+            'Shai': '#3b82f6',
+            'Jokic': '#1e40af',
+            'Flagg': '#1f2937',
+            'Maxey': '#dc2626'
+        };
+
+        // 球衣销售数据
+        const jerseyData = [
+            { year: '2004', players: ['LeBron', 'Melo', 'Marbury', 'T-Mac', 'Al', 'Duncan', 'Kobe', 'Francis', 'Shaq', 'Pippen'] },
+            { year: '2005', players: ['Shaq', 'T-Mac', 'LeBron', 'Marbury', 'Kobe', 'Al', 'Melo', 'Vince', 'Wade', 'Francis'] },
+            { year: '2006', players: ['Wade', 'LeBron', 'Al', 'Kobe', 'Marbury', 'Shaq', 'T-Mac', 'Melo', 'Vince', 'Ben'] },
+            { year: '2007', players: ['Kobe', 'Wade', 'LeBron', 'Al', 'Nash', 'Melo', 'Marbury', 'Dirk', 'Arenas', 'Vince'] },
+            { year: '2008', players: ['KG', 'Kobe', 'Al', 'LeBron', 'Nash', 'Wade', 'Arenas', 'Dirk', 'Marbury', 'Melo'] },
+            { year: '2009', players: ['Kobe', 'LeBron', 'Paul', 'KG', 'Al', 'Wade', 'Pierce', 'Nate', 'Pau', 'Dwight'] },
+            { year: '2010', players: ['Kobe', 'LeBron', 'KG', 'Rose', 'Dwight', 'Wade', 'Paul', 'Pierce', 'KD', 'Melo'] },
+            { year: '2011', players: ['LeBron', 'Kobe', 'Rondo', 'Amare', 'Rose', 'Wade', 'KD', 'Melo', 'Dwight', 'Wall'] },
+            { year: '2012', players: ['Rose', 'Lin', 'Kobe', 'LeBron', 'Melo', 'Wade', 'Dirk', 'KD', 'Blake', 'Rondo'] },
+            { year: '2013', players: ['Melo', 'LeBron', 'KD', 'Kobe', 'Rose', 'Deron', 'Wade', 'Rondo', 'Paul', 'Blake'] },
+            { year: '2014', players: ['LeBron', 'KD', 'Kobe', 'Rose', 'Steph', 'Melo', 'Wade', 'Paul', 'Kyrie', 'Harden'] },
+            { year: '2015', players: ['LeBron', 'Steph', 'Kobe', 'KD', 'Rose', 'Kyrie', 'Duncan', 'Melo', 'Wade', 'Blake'] },
+            { year: '2016', players: ['Steph', 'LeBron', 'Kobe', 'Kyrie', 'Klay', 'Russ', 'Green', 'KD', 'Kawhi', 'Rose'] },
+            { year: '2017', players: ['Steph', 'LeBron', 'KD', 'Russ', 'Kyrie', 'Kawhi', 'Kristaps', 'Butler', 'Giannis', 'Harden'] },
+            { year: '2018', players: ['Steph', 'LeBron', 'KD', 'Giannis', 'Kyrie', 'Russ', 'Kristaps', 'Embiid', 'Harden', 'Simmons'] },
+            { year: '2019', players: ['LeBron', 'Steph', 'Giannis', 'Kyrie', 'Embiid', 'Harden', 'Russ', 'KD', 'Simmons', 'Butler'] },
+            { year: '2020', players: ['LeBron', 'Luka', 'AD', 'Tatum', 'Giannis', 'Steph', 'KD', 'Dame', 'Kawhi', 'Butler'] },
+            { year: '2021', players: ['LeBron', 'Giannis', 'KD', 'Luka', 'Tatum', 'Booker', 'Steph', 'Kyrie', 'Harden', 'Dame'] },
+            { year: '2022', players: ['LeBron', 'Harden', 'Steph', 'KD', 'Tatum', 'Embiid', 'Giannis', 'Luka', 'Ja', 'Kyrie'] },
+            { year: '2023', players: ['LeBron', 'Steph', 'Tatum', 'Giannis', 'Luka', 'KD', 'Booker', 'Ja', 'Dame', 'Kyrie'] },
+            { year: '2024', players: ['Steph', 'LeBron', 'Tatum', 'Wemby', 'Giannis', 'Luka', 'Booker', 'KD', 'Dame', 'Maxey'] },
+            { year: '2025', players: ['Luka', 'Steph', 'LeBron', 'Tatum', 'Brunson', 'Wemby', 'Ant', 'Ja', 'Shai', 'Jokic'] },
+            { year: '2026', players: ['Steph', 'Luka', 'Brunson', 'Wemby', 'LeBron', 'Ant', 'Tatum', 'Shai', 'Flagg', 'Jokic'] }
+        ];
+
+        // 渲染球衣销售表格
+        function renderJerseyTable() {
+            const grid = document.getElementById('jerseyGrid');
+            
+            jerseyData.forEach(item => {
+                const yearDiv = document.createElement('div');
+                yearDiv.className = 'jersey-header year';
+                yearDiv.textContent = item.year;
+                grid.appendChild(yearDiv);
+                
+                item.players.forEach(player => {
+                    const cell = document.createElement('div');
+                    cell.className = 'jersey-cell';
+                    cell.textContent = player;
+                    cell.style.background = playerColors[player] || '#6b7280';
+                    cell.title = player;
+                    grid.appendChild(cell);
+                });
+            });
+        }
+
+        // 渲染球员颜色映射
+        function renderPlayerColorMap() {
+            const container = document.getElementById('playerColorMap');
+            
+            Object.keys(playerColors).forEach(player => {
+                const tag = document.createElement('div');
+                tag.className = 'color-tag';
+                
+                const dot = document.createElement('div');
+                dot.className = 'color-dot';
+                dot.style.background = playerColors[player];
+                
+                const name = document.createElement('span');
+                name.textContent = player;
+                
+                tag.appendChild(dot);
+                tag.appendChild(name);
+                container.appendChild(tag);
+            });
+        }
+
+        // 乐透抽签数据
+        const lotteryData = [
+            { label: 'Worst Record', current: 14.0, new: 5.4 },
+            { label: '2nd Worst', current: 14.0, new: 5.4 },
+            { label: '3rd Worst', current: 14.0, new: 5.4 },
+            { label: '4th Worst', current: 12.5, new: 8.1 },
+            { label: '5th Worst', current: 10.5, new: 8.1 },
+            { label: '6th Worst', current: 9.0, new: 8.1 },
+            { label: '7th Worst', current: 7.5, new: 8.1 },
+            { label: '8th Worst', current: 6.0, new: 8.1 },
+            { label: '9th Worst', current: 4.5, new: 8.1 },
+            { label: '10th Worst', current: 3.0, new: 8.1 },
+            { label: '11th Worst', current: 2.0, new: 5.4, note: 'No. 10 seed' },
+            { label: '12th Worst', current: 1.5, new: 5.4, note: 'No. 10 seed' },
+            { label: '13th Worst', current: 1.0, new: 5.4, note: 'No. 9 seed' },
+            { label: '14th Worst', current: 0.5, new: 5.4, note: 'No. 9 seed' },
+            { label: '', current: null, new: 2.7, note: '7-8 Play-in Loser' },
+            { label: '', current: null, new: 2.7, note: '7-8 Play-in Loser' }
+        ];
+
+        // 渲染乐透抽签对比图表
+        function renderLotteryChart() {
+            const container = document.getElementById('lotteryComparison');
+            const maxCurrent = 14;
+            const maxNew = 8.1;
+            
+            lotteryData.forEach(item => {
+                const labelDiv = document.createElement('div');
+                labelDiv.className = 'lottery-label';
+                labelDiv.textContent = item.label;
+                
+                const currentBarContainer = document.createElement('div');
+                currentBarContainer.className = 'lottery-bar-container';
+                
+                const currentBar = document.createElement('div');
+                currentBar.className = 'lottery-bar current';
+                if (item.current !== null) {
+                    currentBar.style.width = `${(item.current / maxCurrent) * 100}%`;
+                    currentBar.textContent = `${item.current}%`;
+                } else {
+                    currentBar.style.width = '0%';
+                    currentBar.style.background = 'transparent';
+                }
+                currentBarContainer.appendChild(currentBar);
+                
+                const newBarContainer = document.createElement('div');
+                newBarContainer.className = 'lottery-bar-container';
+                
+                const newBar = document.createElement('div');
+                newBar.className = 'lottery-bar new';
+                if (item.new !== null) {
+                    newBar.style.width = `${(item.new / maxNew) * 100}%`;
+                    newBar.textContent = `${item.new}%`;
+                } else {
+                    newBar.style.width = '0%';
+                    newBar.style.background = 'transparent';
+                }
+                newBarContainer.appendChild(newBar);
+                
+                container.appendChild(labelDiv);
+                container.appendChild(currentBarContainer);
+                container.appendChild(newBarContainer);
+                
+                if (item.note) {
+                    const noteDiv = document.createElement('div');
+                    noteDiv.style.gridColumn = '2 / 4';
+                    noteDiv.style.textAlign = 'center';
+                    noteDiv.style.fontSize = '0.8rem';
+                    noteDiv.style.color = '#888';
+                    noteDiv.style.padding = '5px 0';
+                    noteDiv.textContent = item.note;
+                    container.appendChild(noteDiv);
+                }
+            });
+        }
+
+        // 页面加载完成后渲染所有图表
+        document.addEventListener('DOMContentLoaded', () => {
+            renderOffenseChart();
+            renderJerseyTable();
+            renderPlayerColorMap();
+            renderLotteryChart();
+        });
+
+        // 窗口大小变化时重新渲染
+        window.addEventListener('resize', () => {
+            const container = document.getElementById('offensePlummetedChart');
+            while (container.children.length > 3) {
+                container.removeChild(container.lastChild);
+            }
+            renderOffenseChart();
+        });
+    </script>
+</body>
+</html>

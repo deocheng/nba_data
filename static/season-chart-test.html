@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>赛季成绩图表测试</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: 'Microsoft YaHei', sans-serif;
+            background: white;
+            color: black;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            color: black;
+            margin-bottom: 30px;
+        }
+        .controls {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        select, button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 0 5px;
+        }
+        select {
+            background: #f0f0f0;
+            color: black;
+        }
+        button {
+            background: #4cc9f0;
+            color: black;
+            font-weight: bold;
+        }
+        button:hover {
+            background: #3ba8c7;
+        }
+        .chart-container {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+        }
+        .chart-wrapper {
+            position: relative;
+            height: 500px;
+            width: 100%;
+        }
+        .legend-container {
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 20px;
+            border: 1px solid #ddd;
+        }
+        .legend-title {
+            font-size: 14px;
+            margin-bottom: 10px;
+            color: black;
+        }
+        .legend-items {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 12px;
+            color: black;
+        }
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 3px;
+        }
+        .legend-note {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #ddd;
+            font-size: 12px;
+            color: black;
+        }
+        .legend-note-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            margin: 5px 0;
+        }
+        .legend-note-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+        .info-panel {
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+        }
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .info-row:last-child {
+            border-bottom: none;
+        }
+        .info-label {
+            color: #666;
+        }
+        .info-value {
+            color: black;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏀 赛季成绩图表测试</h1>
+        
+        <div class="controls">
+            <select id="teamSelect">
+                <option value="LAL">洛杉矶湖人队</option>
+                <option value="SAS">圣安东尼奥马刺队</option>
+            </select>
+            <select id="seasonSelect">
+            </select>
+            <button onclick="loadData()">加载数据</button>
+        </div>
+        
+        <div class="info-panel">
+            <div class="info-row">
+                <span class="info-label">球队</span>
+                <span class="info-value" id="infoTeam">-</span>
+            </div>
+            <div class="info-row">
+                <span class="info-label">赛季</span>
+                <span class="info-value" id="infoSeason">-</span>
+            </div>
+            <div class="info-row">
+                <span class="info-label">常规赛</span>
+                <span class="info-value" id="infoRegular">-</span>
+            </div>
+            <div class="info-row">
+                <span class="info-label">季后赛</span>
+                <span class="info-value" id="infoPlayoff">-</span>
+            </div>
+            <div class="info-row">
+                <span class="info-label">胜场</span>
+                <span class="info-value" id="infoWins">-</span>
+            </div>
+            <div class="info-row">
+                <span class="info-label">负场</span>
+                <span class="info-value" id="infoLosses">-</span>
+            </div>
+        </div>
+        
+        <div class="chart-container">
+            <div class="chart-wrapper">
+                <canvas id="seasonChart"></canvas>
+            </div>
+            
+            <div class="legend-container">
+                <div class="legend-title">月份图例（背景颜色）</div>
+                <div class="legend-items" id="monthLegend"></div>
+                
+                <div class="legend-note">
+                    <div class="legend-note-item">
+                        <span class="legend-note-dot" style="background: #3B82F6;"></span>
+                        <span>蓝色 = 常规赛胜利</span>
+                    </div>
+                    <div class="legend-note-item">
+                        <span class="legend-note-dot" style="background: #EF4444;"></span>
+                        <span>红色 = 常规赛失利</span>
+                    </div>
+                    <div class="legend-note-item">
+                        <span class="legend-note-dot" style="background: #FFD700;"></span>
+                        <span>金色 = 季后赛胜利</span>
+                    </div>
+                    <div class="legend-note-item">
+                        <span class="legend-note-dot" style="background: #4B5563;"></span>
+                        <span>灰色 = 季后赛失利</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let seasonChart = null;
+        
+        // 月份背景色（纯白色）
+        const MONTH_BG_COLORS = {
+            10: 'rgba(255, 255, 255, 1)',   // 十月
+            11: 'rgba(255, 255, 255, 1)',   // 十一月
+            12: 'rgba(255, 255, 255, 1)',   // 十二月
+            1: 'rgba(255, 255, 255, 1)',    // 一月
+            2: 'rgba(255, 255, 255, 1)',    // 二月
+            3: 'rgba(255, 255, 255, 1)',    // 三月
+            4: 'rgba(255, 255, 255, 1)',    // 四月
+            5: 'rgba(255, 255, 255, 1)',    // 五月
+            6: 'rgba(255, 255, 255, 1)'     // 六月
+        };
+        
+        const MONTH_NAMES = {
+            10: '十月', 11: '十一月', 12: '十二月',
+            1: '一月', 2: '二月', 3: '三月', 4: '四月', 5: '五月', 6: '六月'
+        };
+        
+        // 页面加载时初始化
+        window.onload = function() {
+            loadSeasons();
+        };
+        
+        // 加载赛季列表
+        function loadSeasons() {
+            const teamId = document.getElementById('teamSelect').value;
+            
+            fetch(`/api/teams/${teamId}/history`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        const seasonSelect = document.getElementById('seasonSelect');
+                        seasonSelect.innerHTML = '';
+                        
+                        // 获取所有赛季并倒序排列
+                        const seasons = data.data.seasons.map(s => s.season).reverse();
+                        
+                        seasons.forEach(season => {
+                            const option = document.createElement('option');
+                            option.value = season;
+                            option.textContent = season;
+                            seasonSelect.appendChild(option);
+                        });
+                        
+                        // 查找当前赛季（2025-26）
+                        const currentSeason = seasons.find(s => s === '2025-26') || seasons[0];
+                        seasonSelect.value = currentSeason;
+                        
+                        // 自动加载当前赛季数据
+                        if (seasons.length > 0) {
+                            loadData();
+                        }
+                    }
+                })
+                .catch(error => console.error('Error:', error));
+        }
+        
+        // 加载数据
+        function loadData() {
+            const teamId = document.getElementById('teamSelect').value;
+            const season = document.getElementById('seasonSelect').value;
+            
+            fetch(`/api/teams/${teamId}/season_chart/${season}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        renderChart(data.data);
+                        updateInfo(data.data);
+                    }
+                })
+                .catch(error => console.error('Error:', error));
+        }
+        
+        // 更新信息面板
+        function updateInfo(data) {
+            const teamNames = {
+                'LAL': '洛杉矶湖人队',
+                'SAS': '圣安东尼奥马刺队'
+            };
+            
+            document.getElementById('infoTeam').textContent = teamNames[data.team_id] || data.team_id;
+            document.getElementById('infoSeason').textContent = data.season;
+            
+            const wins = data.games.filter(g => g.is_win).length;
+            const losses = data.games.length - wins;
+            
+            // 简化统计：只显示总场次和胜负
+            document.getElementById('infoRegular').textContent = data.games.length + ' 场';
+            document.getElementById('infoPlayoff').textContent = '-';
+            document.getElementById('infoWins').textContent = wins;
+            document.getElementById('infoLosses').textContent = losses;
+        }
+        
+        // 渲染图表
+        function renderChart(data) {
+            const games = data.games;
+            
+            // 渲染月份图例
+            const monthLegend = document.getElementById('monthLegend');
+            const presentMonths = [...new Set(games.map(g => g.month))].sort((a, b) => a - b);
+            monthLegend.innerHTML = presentMonths.map(month => `
+                <div class="legend-item">
+                    <div class="legend-color" style="background: ${MONTH_BG_COLORS[month]}; border: 1px solid #ccc;"></div>
+                    <span>${MONTH_NAMES[month]}</span>
+                </div>
+            `).join('');
+            
+            // 准备图表数据 - 只显示日期
+            const labels = games.map(g => g.game_date.substring(5));
+            
+            // 柱体高度3/5（848 * 2/3 ≈ 565）
+            const displayScores = games.map(g => g.display_score / 565);
+            
+            // 柱体颜色：使用game_type字段
+            const barColors = games.map(g => {
+                if (g.is_special) {
+                    // 附加赛或季后赛：金色或灰色
+                    return g.is_win ? '#FFD700' : '#4B5563';
+                }
+                // 常规赛：蓝色或红色
+                return g.is_win ? '#3B82F6' : '#EF4444';
+            });
+            
+            // 销毁旧图表
+            if (seasonChart) {
+                seasonChart.destroy();
+            }
+            
+            const ctx = document.getElementById('seasonChart').getContext('2d');
+            
+            // 创建渐变背景
+            const bgPlugins = [{
+                id: 'monthBackground',
+                beforeDraw: (chart) => {
+                    const ctx = chart.ctx;
+                    const chartArea = chart.chartArea;
+                    const xAxis = chart.scales.x;
+                    
+                    // 按月份绘制背景
+                    let currentMonth = null;
+                    let startIndex = 0;
+                    
+                    games.forEach((game, index) => {
+                        if (currentMonth !== game.month || index === games.length - 1) {
+                            if (currentMonth !== null) {
+                                const endIndex = index === games.length - 1 ? index + 1 : index;
+                                const startX = xAxis.getPixelForValue(startIndex);
+                                const endX = xAxis.getPixelForValue(endIndex);
+                                const width = endX - startX;
+                                
+                                ctx.fillStyle = MONTH_BG_COLORS[currentMonth] || 'rgba(255,255,255,0.1)';
+                                ctx.fillRect(startX, chartArea.top, width, chartArea.bottom - chartArea.top);
+                            }
+                            currentMonth = game.month;
+                            startIndex = index;
+                        }
+                    });
+                }
+            }];
+            
+            seasonChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: '比分',
+                        data: displayScores,
+                        backgroundColor: barColors,
+                        borderColor: barColors.map(c => c === '#FFD700' ? '#DAA520' : c === '#4B5563' ? '#374151' : c),
+                        borderWidth: 1,
+                        borderRadius: 3,
+                        barPercentage: 0.6,
+                        categoryPercentage: 0.7
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    interaction: {
+                        mode: 'index',
+                        intersect: false
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                            titleColor: 'white',
+                            bodyColor: 'white',
+                            padding: 12,
+                            callbacks: {
+                                title: function(context) {
+                                    const index = context[0].dataIndex;
+                                    const game = games[index];
+                                    
+                                    return `${game.game_date} vs ${game.opp_team}`;
+                                },
+                                label: function(context) {
+                                    const index = context.dataIndex;
+                                    const game = games[index];
+                                    const result = game.is_win ? '胜' : '负';
+                                    return [
+                                        `${result}: ${game.team_score} - ${game.opp_score}`
+                                    ];
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: {
+                                color: 'black',
+                                maxRotation: 90,
+                                minRotation: 45,
+                                font: { size: 9 },
+                                callback: function(value, index) {
+                                    const game = games[index];
+                                    const label = labels[index];
+                                    
+                                    // 只在每月的第一场比赛显示月份
+                                    if (index === 0 || games[index-1].month !== game.month) {
+                                        return `${MONTH_NAMES[game.month]} ${label}`;
+                                    }
+                                    
+                                    return label;
+                                }
+                            },
+                            grid: {
+                                display: false
+                            }
+                        },
+                        y: {
+                            min: -1,
+                            max: 1,
+                            display: false,
+                            grid: {
+                                display: false
+                            }
+                        }
+                    }
+                },
+                plugins: bgPlugins
+            });
+        }
+        
+        // 监听球队变化
+        document.getElementById('teamSelect').addEventListener('change', loadSeasons);
+    </script>
+</body>
+</html>

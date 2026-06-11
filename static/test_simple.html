@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试球员卡片渲染</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #1a1a2e; color: white; padding: 20px; }
+        .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+        .player-card { background: #16213e; padding: 20px; border-radius: 10px; }
+        .player-avatar { width: 80px; height: 80px; border-radius: 50%; }
+        .error { color: #ff6b6b; }
+        .success { color: #4ecdc4; }
+        .log { background: #0f0f1a; padding: 10px; margin: 10px 0; border-radius: 5px; font-size: 12px; max-height: 300px; overflow-y: auto; }
+    </style>
+</head>
+<body>
+    <h1>测试球员卡片渲染</h1>
+    <div class="log" id="log"></div>
+    <div class="cards-grid" id="cardsGrid"></div>
+
+    <script>
+        function log(message, type = 'info') {
+            const logDiv = document.getElementById('log');
+            const colors = { error: '#ff6b6b', success: '#4ecdc4', info: '#45b7d1' };
+            logDiv.innerHTML += `<p style="color: ${colors[type]};">${message}</p>`;
+            logDiv.scrollTop = logDiv.scrollHeight;
+        }
+
+        async function loadPlayers() {
+            try {
+                log('开始加载球员数据...', 'info');
+                const response = await fetch('/api/player-cards');
+                const data = await response.json();
+                
+                if (!data || !data.success || !Array.isArray(data.players)) {
+                    log('数据格式错误', 'error');
+                    return;
+                }
+                
+                log(`成功获取 ${data.players.length} 个球员`, 'success');
+                renderPlayers(data.players);
+                
+            } catch (e) {
+                log(`加载失败: ${e.message}`, 'error');
+                console.error(e);
+            }
+        }
+
+        function renderPlayers(players) {
+            const container = document.getElementById('cardsGrid');
+            let errorCount = 0;
+            
+            players.forEach((player, index) => {
+                try {
+                    const card = createPlayerCard(player);
+                    container.innerHTML += card;
+                    
+                    if ((index + 1) % 20 === 0) {
+                        log(`已渲染 ${index + 1} 个球员`, 'info');
+                    }
+                } catch (e) {
+                    errorCount++;
+                    log(`渲染球员 ${player.name || index} 失败: ${e.message}`, 'error');
+                }
+            });
+            
+            log(`渲染完成！成功 ${players.length - errorCount} 个，失败 ${errorCount} 个`, errorCount > 0 ? 'error' : 'success');
+        }
+
+        function createPlayerCard(player) {
+            // 安全检查
+            if (!player || !player.name) {
+                throw new Error('缺少必需字段');
+            }
+
+            return `
+                <div class="player-card">
+                    ${player.avatar_url ? `<img src="${player.avatar_url}" alt="${player.name}" class="player-avatar" onerror="this.style.display='none';">` : ''}
+                    <h3>${player.name}</h3>
+                    ${player.nickname ? `<p>"${player.nickname}"</p>` : ''}
+                    ${player.body_info ? `<p>${player.body_info}</p>` : ''}
+                </div>
+            `;
+        }
+
+        // 页面加载时执行
+        loadPlayers();
+    </script>
+</body>
+</html>

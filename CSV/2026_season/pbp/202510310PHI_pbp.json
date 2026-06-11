@@ -1,0 +1,5095 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:40.0",
+      "J. Brown misses 3-pt jump shot from 26 ft",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:38.0",
+      "Offensive rebound by J. Minott",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:27.0",
+      "P. Pritchard makes 2-pt jump shot from 19 ft",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "T. Maxey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:12.0",
+      "Defensive rebound by D. White",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "11:06.0",
+      "P. Pritchard makes 2-pt jump shot from 12 ft",
+      "+2",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "Personal foul by J. Brown (drawn by J. Embiid)"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "4-2",
+      "+2",
+      "J. Walker makes 2-pt layup from 1 ft (assist by J. Embiid)"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:14.0",
+      "P. Pritchard makes 2-pt jump shot from 18 ft",
+      "+2",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "Shooting foul by J. Minott (drawn by J. Embiid)"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "6-3",
+      "+1",
+      "J. Embiid makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "6-4",
+      "+1",
+      "J. Embiid makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:37.0",
+      "Personal foul by T. Maxey (drawn by J. Brown)",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:25.0",
+      "J. Minott misses 3-pt jump shot from 28 ft",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "6-4",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:05.0",
+      "",
+      "",
+      "6-4",
+      "",
+      "T. Maxey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:04.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:54.0",
+      "J. Brown makes 3-pt jump shot from 26 ft (assist by D. White)",
+      "+3",
+      "9-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:34.0",
+      "",
+      "",
+      "9-4",
+      "",
+      "J. Embiid misses 2-pt layup from 1 ft (block by J. Brown)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:32.0",
+      "",
+      "",
+      "9-4",
+      "",
+      "Offensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "9-4",
+      "",
+      "J. Walker misses 2-pt layup from 2 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:29.0",
+      "Defensive rebound by D. White",
+      "",
+      "9-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:21.0",
+      "J. Brown makes 2-pt jump shot from 19 ft (assist by P. Pritchard)",
+      "+2",
+      "11-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "11-7",
+      "+3",
+      "J. Embiid makes 3-pt jump shot from 26 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "7:49.0",
+      "Turnover by P. Pritchard (bad pass)",
+      "",
+      "11-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "11-7",
+      "",
+      "Turnover by K. Oubre (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:26.0",
+      "J. Brown makes 2-pt jump shot from 16 ft (assist by D. White)",
+      "+2",
+      "13-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "13-9",
+      "+2",
+      "J. Embiid makes 2-pt jump shot from 16 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "13-9",
+      "",
+      "Shooting foul by J. Minott (drawn by J. Embiid)"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:08.0",
+      "S. Hauser enters the game for J. Minott",
+      "",
+      "13-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "13-9",
+      "",
+      "Q. Grimes enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "13-10",
+      "+1",
+      "J. Embiid makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:42.0",
+      "P. Pritchard makes 2-pt jump shot from 12 ft",
+      "+2",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:30.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "Turnover by J. Embiid (lost ball; steal by D. White)"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:25.0",
+      "Personal foul by Q. Grimes (drawn by J. Brown)",
+      "",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:25.0",
+      "L. Garza enters the game for N. Queta",
+      "",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:25.0",
+      "A. Simons enters the game for D. White",
+      "",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "A. Bona enters the game for J. Embiid"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:17.0",
+      "S. Hauser misses 3-pt jump shot from 25 ft",
+      "",
+      "15-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "15-10",
+      "",
+      "Personal foul by L. Garza (drawn by K. Oubre)"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "15-12",
+      "+2",
+      "V. Edgecombe makes 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:43.0",
+      "J. Brown makes 2-pt jump shot from 19 ft (assist by S. Hauser)",
+      "+2",
+      "17-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "17-14",
+      "+2",
+      "T. Maxey makes 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:18.0",
+      "S. Hauser misses 3-pt jump shot from 28 ft",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "K. Oubre misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:03.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "4:58.0",
+      "A. Simons misses 2-pt jump shot from 8 ft",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "Defensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "4:52.0",
+      "",
+      "",
+      "17-16",
+      "+2",
+      "Q. Grimes makes 2-pt layup from 2 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:37.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "17-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:35.0",
+      "Offensive rebound by S. Hauser",
+      "",
+      "17-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:28.0",
+      "J. Brown makes 2-pt layup from 2 ft",
+      "+2",
+      "19-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "19-16",
+      "",
+      "Personal foul by S. Hauser (drawn by T. Maxey)"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "19-16",
+      "",
+      "T. Maxey misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "19-16",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "19-16",
+      "",
+      "J. Edwards enters the game for V. Edgecombe"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "19-17",
+      "+1",
+      "T. Maxey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:02.0",
+      "A. Simons makes 2-pt layup from 3 ft",
+      "+2",
+      "21-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "21-17",
+      "",
+      "Q. Grimes misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:50.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "21-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:46.0",
+      "A. Simons makes 3-pt jump shot from 24 ft (assist by J. Brown)",
+      "+3",
+      "24-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "24-17",
+      "",
+      "Turnover by T. Maxey (bad pass; steal by J. Brown)"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:29.0",
+      "J. Brown makes 2-pt layup from 1 ft",
+      "+2",
+      "26-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "26-17",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "26-20",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 27 ft (assist by Q. Grimes)"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "2:52.0",
+      "J. Brown makes 2-pt jump shot from 20 ft",
+      "+2",
+      "28-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "2:52.0",
+      "Shooting foul by K. Oubre (drawn by J. Brown)",
+      "",
+      "28-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:52.0",
+      "N. Queta enters the game for L. Garza",
+      "",
+      "28-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:52.0",
+      "D. White enters the game for P. Pritchard",
+      "",
+      "28-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:52.0",
+      "J. Brown makes free throw 1 of 1",
+      "+1",
+      "29-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "29-20",
+      "",
+      "Turnover by A. Bona (off goaltending)"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:31.0",
+      "H. González Peña enters the game for J. Brown",
+      "",
+      "29-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:12.0",
+      "D. White makes 3-pt jump shot from 24 ft (assist by A. Simons)",
+      "+3",
+      "32-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:03.0",
+      "",
+      "",
+      "32-20",
+      "",
+      "J. Edwards misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:02.0",
+      "Defensive rebound by A. Simons",
+      "",
+      "32-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "1:55.0",
+      "D. White makes 3-pt jump shot from 27 ft (assist by H. González Peña)",
+      "+3",
+      "35-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "35-20",
+      "",
+      "J. Edwards misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:39.0",
+      "Defensive rebound by D. White",
+      "",
+      "35-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:31.0",
+      "A. Simons misses 2-pt jump shot from 16 ft",
+      "",
+      "35-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "35-20",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "35-23",
+      "+3",
+      "K. Oubre makes 3-pt jump shot from 26 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "0:57.0",
+      "D. White misses 3-pt jump shot from 28 ft",
+      "",
+      "35-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "35-23",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "35-23",
+      "",
+      "T. Maxey misses 2-pt layup from 2 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "0:46.0",
+      "Defensive rebound by H. González Peña",
+      "",
+      "35-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:41.0",
+      "H. González Peña makes 3-pt jump shot from 27 ft (assist by A. Simons)",
+      "+3",
+      "38-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "38-23",
+      "",
+      "J. Edwards misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:26.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "38-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:18.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "38-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:15.0",
+      "",
+      "",
+      "38-23",
+      "",
+      "Defensive rebound by J. Edwards"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "38-23",
+      "",
+      "Personal foul by H. González Peña (drawn by T. Maxey)"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "38-24",
+      "+1",
+      "T. Maxey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:05.0",
+      "P. Pritchard enters the game for H. González Peña",
+      "",
+      "38-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "38-25",
+      "+1",
+      "T. Maxey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:00.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "38-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "38-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "38-25",
+      "",
+      "J. Embiid misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "11:38.0",
+      "Defensive rebound by X. Tillman",
+      "",
+      "38-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "11:23.0",
+      "A. Simons makes 2-pt layup from 4 ft",
+      "+2",
+      "40-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "40-25",
+      "",
+      "Personal foul by H. González Peña (drawn by J. Embiid)"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "40-25",
+      "",
+      "Shooting foul by D. White (drawn by Q. Grimes)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "40-25",
+      "",
+      "Q. Grimes misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "40-25",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "40-25",
+      "",
+      "Q. Grimes misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "11:11.0",
+      "",
+      "",
+      "40-25",
+      "",
+      "Offensive rebound by J. Edwards"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "40-27",
+      "+2",
+      "J. Edwards makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "10:48.0",
+      "H. González Peña misses 2-pt jump shot from 8 ft",
+      "",
+      "40-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "10:47.0",
+      "Offensive rebound by Team",
+      "",
+      "40-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "10:47.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "40-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "10:47.0",
+      "J. Minott enters the game for B. Scheierman",
+      "",
+      "40-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "40-27",
+      "",
+      "J. Embiid misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "10:36.0",
+      "Defensive rebound by X. Tillman",
+      "",
+      "40-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "10:34.0",
+      "Shooting foul by J. Edwards (drawn by D. White)",
+      "",
+      "40-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "10:34.0",
+      "D. White makes free throw 1 of 2",
+      "+1",
+      "41-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "41-27",
+      "",
+      "T. Maxey enters the game for J. Edwards"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:34.0",
+      "D. White misses free throw 2 of 2",
+      "",
+      "41-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "41-27",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "41-27",
+      "",
+      "T. Watford misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "41-27",
+      "",
+      "Offensive rebound by J. Embiid"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "41-27",
+      "",
+      "J. Embiid misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "41-27",
+      "",
+      "Offensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "41-27",
+      "",
+      "Q. Grimes misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:12.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "41-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:50.0",
+      "A. Simons makes 3-pt jump shot from 27 ft",
+      "+3",
+      "44-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "44-27",
+      "",
+      "Q. Grimes misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:29.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "44-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:25.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "44-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "44-27",
+      "",
+      "Defensive rebound by J. Embiid"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "44-27",
+      "",
+      "Shooting foul by X. Tillman (drawn by T. Maxey)"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "44-28",
+      "+1",
+      "T. Maxey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:19.0",
+      "B. Scheierman enters the game for H. González Peña",
+      "",
+      "44-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "44-29",
+      "+1",
+      "T. Maxey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:06.0",
+      "D. White makes 2-pt jump shot from 19 ft",
+      "+2",
+      "46-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "46-29",
+      "",
+      "Q. Grimes misses 2-pt layup from 2 ft (block by J. Minott)"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:43.0",
+      "Defensive rebound by A. Simons",
+      "",
+      "46-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:43.0",
+      "Shooting foul by V. Edgecombe (drawn by A. Simons)",
+      "",
+      "46-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:43.0",
+      "A. Simons misses free throw 1 of 2",
+      "",
+      "46-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:43.0",
+      "Offensive rebound by Team",
+      "",
+      "46-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:43.0",
+      "A. Simons makes free throw 2 of 2",
+      "+1",
+      "47-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:36.0",
+      "",
+      "",
+      "47-32",
+      "+3",
+      "Q. Grimes makes 3-pt jump shot from 23 ft (assist by T. Watford)"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:18.0",
+      "A. Simons misses 3-pt jump shot from 27 ft",
+      "",
+      "47-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "47-32",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:17.0",
+      "Loose ball foul by B. Scheierman (drawn by T. Watford)",
+      "",
+      "47-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "47-32",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:56.0",
+      "Defensive rebound by X. Tillman",
+      "",
+      "47-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:50.0",
+      "B. Scheierman misses 3-pt jump shot from 24 ft",
+      "",
+      "47-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:47.0",
+      "Offensive rebound by A. Simons",
+      "",
+      "47-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:43.0",
+      "J. Minott misses 2-pt layup from 2 ft (block by J. Embiid)",
+      "",
+      "47-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:42.0",
+      "Offensive rebound by J. Minott",
+      "",
+      "47-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:42.0",
+      "Shooting foul by V. Edgecombe (drawn by J. Minott)",
+      "",
+      "47-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:42.0",
+      "J. Minott makes free throw 1 of 2",
+      "+1",
+      "48-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:42.0",
+      "J. Brown enters the game for B. Scheierman",
+      "",
+      "48-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "48-32",
+      "",
+      "K. Oubre enters the game for T. Watford"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:42.0",
+      "J. Minott makes free throw 2 of 2",
+      "+1",
+      "49-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "49-32",
+      "",
+      "Q. Grimes misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "49-32",
+      "",
+      "Offensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "49-35",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 26 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:04.0",
+      "J. Brown makes 3-pt jump shot from 26 ft",
+      "+3",
+      "52-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:45.0",
+      "",
+      "",
+      "52-35",
+      "",
+      "J. Embiid misses 2-pt dunk from 2 ft (block by A. Simons)"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:42.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "52-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:39.0",
+      "A. Simons makes 3-pt jump shot from 24 ft (assist by J. Minott)",
+      "+3",
+      "55-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "55-35",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:27.0",
+      "L. Garza enters the game for X. Tillman",
+      "",
+      "55-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:27.0",
+      "P. Pritchard enters the game for D. White",
+      "",
+      "55-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "55-35",
+      "",
+      "A. Drummond enters the game for J. Embiid"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "55-35",
+      "",
+      "T. Maxey misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:09.0",
+      "Defensive rebound by L. Garza",
+      "",
+      "55-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:51.0",
+      "P. Pritchard makes 2-pt jump shot from 20 ft (assist by L. Garza)",
+      "+2",
+      "57-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "57-35",
+      "",
+      "K. Oubre misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "57-35",
+      "",
+      "Offensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "57-37",
+      "+2",
+      "Q. Grimes makes 2-pt layup from 2 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:16.0",
+      "J. Brown misses 2-pt jump shot from 17 ft",
+      "",
+      "57-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "57-37",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "57-37",
+      "",
+      "Turnover by Q. Grimes (traveling)"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "4:56.0",
+      "P. Pritchard makes 3-pt jump shot from 27 ft (assist by J. Brown)",
+      "+3",
+      "60-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "60-39",
+      "+2",
+      "V. Edgecombe makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "4:27.0",
+      "A. Simons misses 2-pt jump shot from 11 ft",
+      "",
+      "60-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "4:25.0",
+      "Offensive rebound by L. Garza",
+      "",
+      "60-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:24.0",
+      "L. Garza makes 2-pt layup at rim",
+      "+2",
+      "62-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "62-39",
+      "",
+      "V. Edgecombe misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:06.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "62-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "3:59.0",
+      "P. Pritchard misses 2-pt jump shot from 18 ft",
+      "",
+      "62-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "62-39",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:58.0",
+      "Loose ball foul by L. Garza (drawn by A. Drummond)",
+      "",
+      "62-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:58.0",
+      "S. Hauser enters the game for J. Minott",
+      "",
+      "62-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "62-39",
+      "",
+      "A. Drummond misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "62-39",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "62-40",
+      "+1",
+      "A. Drummond makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:34.0",
+      "L. Garza makes 2-pt layup from 2 ft (assist by J. Brown)",
+      "+2",
+      "64-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "64-42",
+      "+2",
+      "K. Oubre makes 2-pt jump shot from 6 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "64-42",
+      "",
+      "Shooting foul by A. Simons (drawn by K. Oubre)"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:21.0",
+      "D. White enters the game for A. Simons",
+      "",
+      "64-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "64-42",
+      "",
+      "J. Edwards enters the game for Q. Grimes"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "64-42",
+      "",
+      "K. Oubre misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:18.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "64-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:11.0",
+      "P. Pritchard misses 3-pt jump shot from 25 ft",
+      "",
+      "64-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "64-42",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:45.0",
+      "",
+      "",
+      "64-45",
+      "+3",
+      "V. Edgecombe makes 3-pt jump shot from 27 ft (assist by J. Edwards)"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:24.0",
+      "D. White misses 2-pt jump shot from 5 ft",
+      "",
+      "64-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "64-45",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "64-47",
+      "+2",
+      "V. Edgecombe makes 2-pt layup from 1 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "64-47",
+      "",
+      "Shooting foul by S. Hauser (drawn by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "2:18.0",
+      "Boston full timeout",
+      "",
+      "64-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "2:18.0",
+      "N. Queta enters the game for L. Garza",
+      "",
+      "64-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "64-48",
+      "+1",
+      "V. Edgecombe makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:57.0",
+      "P. Pritchard makes 2-pt jump shot from 14 ft (assist by J. Brown)",
+      "+2",
+      "66-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "66-48",
+      "",
+      "V. Edgecombe misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:44.0",
+      "Defensive rebound by Team",
+      "",
+      "66-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "1:28.0",
+      "P. Pritchard misses 2-pt jump shot from 11 ft",
+      "",
+      "66-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "66-48",
+      "",
+      "Defensive rebound by J. Edwards"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "66-51",
+      "+3",
+      "A. Drummond makes 3-pt jump shot from 22 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:59.0",
+      "Personal foul by J. Edwards (drawn by D. White)",
+      "",
+      "66-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:50.0",
+      "Turnover by J. Brown (bad pass; steal by A. Drummond)",
+      "",
+      "66-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:45.0",
+      "",
+      "",
+      "66-53",
+      "+2",
+      "K. Oubre makes 2-pt layup from 1 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:45.0",
+      "",
+      "",
+      "66-53",
+      "",
+      "Shooting foul by N. Queta (drawn by K. Oubre)"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:45.0",
+      "",
+      "",
+      "66-53",
+      "",
+      "K. Oubre misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "66-53",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:44.0",
+      "Loose ball foul by N. Queta (drawn by A. Drummond)",
+      "",
+      "66-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "66-54",
+      "+1",
+      "A. Drummond makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "66-55",
+      "+1",
+      "A. Drummond makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "0:33.0",
+      "Turnover by J. Brown (lost ball; steal by K. Oubre)",
+      "",
+      "66-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "66-55",
+      "",
+      "Turnover by K. Oubre (back court)"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "0:18.0",
+      "D. White makes 2-pt jump shot from 17 ft (assist by N. Queta)",
+      "+2",
+      "68-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "68-57",
+      "+2",
+      "K. Oubre makes 2-pt layup from 2 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "11:37.0",
+      "",
+      "",
+      "68-59",
+      "+2",
+      "J. Embiid makes 2-pt jump shot from 12 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "11:22.0",
+      "Turnover by J. Brown (lost ball; steal by T. Maxey)",
+      "",
+      "68-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "11:18.0",
+      "",
+      "",
+      "68-61",
+      "+2",
+      "T. Maxey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:58.0",
+      "J. Brown misses 2-pt jump shot from 16 ft",
+      "",
+      "68-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "68-61",
+      "",
+      "Defensive rebound by J. Embiid"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "68-63",
+      "+2",
+      "J. Embiid makes 2-pt layup from 3 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:29.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "68-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "68-63",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "68-63",
+      "",
+      "Turnover by T. Maxey (bad pass; steal by P. Pritchard)"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "10:15.0",
+      "D. White misses 2-pt layup from 1 ft (block by J. Embiid)",
+      "",
+      "68-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "10:14.0",
+      "Offensive rebound by Team",
+      "",
+      "68-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "10:06.0",
+      "D. White misses 3-pt jump shot from 26 ft",
+      "",
+      "68-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "68-63",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "68-63",
+      "",
+      "T. Maxey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "9:52.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "68-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "9:44.0",
+      "N. Queta makes 2-pt dunk from 2 ft (assist by J. Brown)",
+      "+2",
+      "70-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "K. Oubre misses 2-pt layup from 3 ft (block by D. White)"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "Turnover by J. Embiid (bad pass)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "9:17.0",
+      "D. White misses 2-pt jump shot from 12 ft (block by T. Maxey)",
+      "",
+      "70-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "9:14.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "Defensive rebound by J. Embiid"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "Personal foul by D. White (drawn by J. Embiid)"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "9:01.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "K. Oubre misses 2-pt layup from 6 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "Offensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "Turnover by T. Maxey (bad pass; steal by D. White)"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "8:51.0",
+      "J. Brown misses 3-pt jump shot from 27 ft",
+      "",
+      "70-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "Offensive foul by J. Embiid (drawn by J. Minott)"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "70-63",
+      "",
+      "Turnover by J. Embiid (offensive foul)"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "8:34.0",
+      "J. Brown makes 2-pt layup from 4 ft (assist by D. White)",
+      "+2",
+      "72-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "72-65",
+      "+2",
+      "J. Embiid makes 2-pt layup from 2 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "8:05.0",
+      "Turnover by D. White (bad pass; steal by K. Oubre)",
+      "",
+      "72-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "72-65",
+      "",
+      "Shooting foul by J. Brown (drawn by K. Oubre)"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "72-65",
+      "",
+      "K. Oubre misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "72-65",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "8:04.0",
+      "Technical foul by J. Brown",
+      "",
+      "72-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "72-66",
+      "+1",
+      "T. Maxey makes technical free throw"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "72-67",
+      "+1",
+      "K. Oubre makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "7:50.0",
+      "P. Pritchard misses 3-pt jump shot from 25 ft",
+      "",
+      "72-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "7:46.0",
+      "Offensive rebound by Team",
+      "",
+      "72-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "7:35.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft (block by T. Maxey)",
+      "",
+      "72-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "7:32.0",
+      "",
+      "",
+      "72-67",
+      "",
+      "Defensive rebound by J. Embiid"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "7:19.0",
+      "",
+      "",
+      "72-69",
+      "+2",
+      "J. Embiid makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "7:19.0",
+      "",
+      "",
+      "72-69",
+      "",
+      "Shooting foul by N. Queta (drawn by J. Embiid)"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:19.0",
+      "Boston full timeout",
+      "",
+      "72-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "7:19.0",
+      "L. Garza enters the game for N. Queta",
+      "",
+      "72-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "7:19.0",
+      "",
+      "",
+      "72-70",
+      "+1",
+      "J. Embiid makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "7:03.0",
+      "Turnover by J. Brown (out of bounds lost ball)",
+      "",
+      "72-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "72-70",
+      "",
+      "Personal foul by D. White (drawn by J. Embiid)"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "6:52.0",
+      "S. Hauser enters the game for J. Minott",
+      "",
+      "72-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "6:52.0",
+      "A. Simons enters the game for D. White",
+      "",
+      "72-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "72-72",
+      "+2",
+      "T. Maxey makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "6:16.0",
+      "A. Simons misses 2-pt jump shot from 17 ft",
+      "",
+      "72-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "6:13.0",
+      "Offensive rebound by P. Pritchard",
+      "",
+      "72-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "6:07.0",
+      "J. Brown makes 3-pt jump shot from 27 ft (assist by P. Pritchard)",
+      "+3",
+      "75-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "75-72",
+      "",
+      "Turnover by J. Embiid (bad pass; steal by P. Pritchard)"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "5:39.0",
+      "A. Simons misses 2-pt layup from 2 ft",
+      "",
+      "75-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "5:36.0",
+      "Offensive rebound by J. Brown",
+      "",
+      "75-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "5:36.0",
+      "J. Brown makes 2-pt layup at rim",
+      "+2",
+      "77-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "77-72",
+      "",
+      "J. Embiid misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "5:25.0",
+      "Defensive rebound by Team",
+      "",
+      "77-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "77-72",
+      "",
+      "A. Drummond enters the game for J. Embiid"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "77-72",
+      "",
+      "Q. Grimes enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "5:13.0",
+      "Personal foul by T. Maxey (drawn by J. Brown)",
+      "",
+      "77-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "5:07.0",
+      "J. Brown misses 3-pt jump shot from 26 ft",
+      "",
+      "77-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "77-72",
+      "",
+      "Defensive rebound by Q. Grimes"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "77-74",
+      "+2",
+      "V. Edgecombe makes 2-pt jump shot from 17 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "4:47.0",
+      "J. Brown makes 2-pt layup from 4 ft",
+      "+2",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "K. Oubre misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "4:15.0",
+      "Defensive rebound by L. Garza",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:08.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:05.0",
+      "Offensive rebound by L. Garza",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:04.0",
+      "A. Simons misses 3-pt jump shot from 28 ft",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:01.0",
+      "Offensive rebound by S. Hauser",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "4:00.0",
+      "S. Hauser misses 2-pt jump shot from 14 ft",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "3:53.0",
+      "",
+      "",
+      "79-76",
+      "+2",
+      "V. Edgecombe makes 2-pt dunk from 1 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "3:38.0",
+      "J. Brown misses 2-pt jump shot from 10 ft",
+      "",
+      "79-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "3:34.0",
+      "Offensive rebound by S. Hauser",
+      "",
+      "79-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "3:32.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "79-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "79-76",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "79-76",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "79-76",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "3:32.0",
+      "Loose ball foul by J. Brown (drawn by K. Oubre)",
+      "",
+      "79-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "3:32.0",
+      "H. González Peña enters the game for J. Brown",
+      "",
+      "79-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "79-76",
+      "",
+      "T. Watford enters the game for T. Maxey"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "79-77",
+      "+1",
+      "K. Oubre makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "79-77",
+      "",
+      "K. Oubre misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "3:29.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "79-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "3:18.0",
+      "A. Simons makes 2-pt layup from 3 ft",
+      "+2",
+      "81-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "3:18.0",
+      "Shooting foul by A. Drummond (drawn by A. Simons)",
+      "",
+      "81-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "81-77",
+      "",
+      "J. Edwards enters the game for K. Oubre"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "3:18.0",
+      "A. Simons makes free throw 1 of 1",
+      "+1",
+      "82-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "82-77",
+      "",
+      "J. Edwards misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "2:56.0",
+      "Defensive rebound by H. González Peña",
+      "",
+      "82-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "2:48.0",
+      "L. Garza misses 2-pt jump shot from 12 ft (block by A. Drummond)",
+      "",
+      "82-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "2:44.0",
+      "Offensive rebound by H. González Peña",
+      "",
+      "82-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "2:37.0",
+      "L. Garza makes 2-pt jump shot from 17 ft (assist by P. Pritchard)",
+      "+2",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "A. Drummond misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "2:13.0",
+      "Defensive rebound by Team",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "2:00.0",
+      "A. Simons misses 3-pt jump shot from 27 ft",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:46.0",
+      "Defensive rebound by L. Garza",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:37.0",
+      "H. González Peña misses 3-pt jump shot from 26 ft",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "1:34.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:24.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "A. Drummond misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "1:22.0",
+      "Defensive rebound by A. Simons",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "1:04.0",
+      "L. Garza makes 3-pt jump shot from 23 ft (assist by P. Pritchard)",
+      "+3",
+      "87-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "87-77",
+      "",
+      "Turnover by Q. Grimes (lost ball; steal by S. Hauser)"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "0:49.0",
+      "H. González Peña makes 2-pt dunk from 1 ft (assist by S. Hauser)",
+      "+2",
+      "89-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:49.0",
+      "D. White enters the game for P. Pritchard",
+      "",
+      "89-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "89-77",
+      "",
+      "T. Maxey enters the game for V. Edgecombe"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "89-80",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:13.0",
+      "Turnover by A. Simons (lost ball; steal by Q. Grimes)",
+      "",
+      "89-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "89-80",
+      "",
+      "Shooting foul by H. González Peña (drawn by Q. Grimes)"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "89-81",
+      "+1",
+      "Q. Grimes makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "89-81",
+      "",
+      "K. Oubre enters the game for A. Drummond"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "89-82",
+      "+1",
+      "Q. Grimes makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:02.0",
+      "S. Hauser misses 2-pt jump shot from 21 ft",
+      "",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "89-82",
+      "",
+      "Defensive rebound by J. Edwards"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "11:38.0",
+      "Turnover by D. White (lost ball; steal by T. Maxey)",
+      "",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "89-82",
+      "",
+      "Q. Grimes misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "11:33.0",
+      "",
+      "",
+      "89-82",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "11:33.0",
+      "Loose ball foul by H. González Peña (drawn by T. Watford)",
+      "",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "11:33.0",
+      "N. Queta enters the game for L. Garza",
+      "",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "89-82",
+      "",
+      "Turnover by T. Watford (traveling)"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "11:12.0",
+      "Personal foul by A. Bona (drawn by N. Queta)",
+      "",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "11:05.0",
+      "A. Simons misses 3-pt jump shot from 24 ft",
+      "",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "11:02.0",
+      "Offensive rebound by H. González Peña",
+      "",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "11:00.0",
+      "H. González Peña misses 2-pt layup at rim",
+      "",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "89-82",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "10:52.0",
+      "",
+      "",
+      "89-85",
+      "+3",
+      "K. Oubre makes 3-pt jump shot from 27 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "10:28.0",
+      "A. Simons misses 2-pt jump shot from 18 ft",
+      "",
+      "89-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "89-85",
+      "",
+      "Defensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "89-85",
+      "",
+      "Q. Grimes misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "89-85",
+      "",
+      "Offensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "10:07.0",
+      "",
+      "",
+      "89-85",
+      "",
+      "K. Oubre misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "10:04.0",
+      "Defensive rebound by Team",
+      "",
+      "89-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:46.0",
+      "S. Hauser makes 3-pt jump shot from 27 ft (assist by H. González Peña)",
+      "+3",
+      "92-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "T. Maxey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "9:14.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "92-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "9:08.0",
+      "A. Simons misses 2-pt layup from 5 ft (block by A. Bona)",
+      "",
+      "92-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "9:01.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "A. Bona misses 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "Offensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "92-87",
+      "+2",
+      "A. Bona makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "8:44.0",
+      "D. White misses 2-pt jump shot from 21 ft",
+      "",
+      "92-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "92-87",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "92-87",
+      "",
+      "Turnover by T. Maxey (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "92-87",
+      "",
+      "V. Edgecombe enters the game for T. Watford"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "8:16.0",
+      "A. Simons misses 2-pt layup from 5 ft (block by A. Bona)",
+      "",
+      "92-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "8:15.0",
+      "Offensive rebound by Team",
+      "",
+      "92-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "8:13.0",
+      "N. Queta makes 2-pt dunk from 2 ft (assist by D. White)",
+      "+2",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "94-87",
+      "",
+      "Turnover by Q. Grimes (bad pass; steal by H. González Peña)"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "8:03.0",
+      "D. White misses 3-pt jump shot from 26 ft",
+      "",
+      "94-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "94-87",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "94-87",
+      "",
+      "Turnover by K. Oubre (lost ball; steal by H. González Peña)"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "7:32.0",
+      "D. White makes 2-pt jump shot from 16 ft (assist by S. Hauser)",
+      "+2",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "96-87",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "7:30.0",
+      "X. Tillman enters the game for N. Queta",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "96-87",
+      "",
+      "J. Embiid enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "96-87",
+      "",
+      "Turnover by V. Edgecombe (traveling)"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "6:55.0",
+      "S. Hauser misses 3-pt jump shot from 27 ft",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "6:52.0",
+      "Offensive rebound by X. Tillman",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "6:51.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "6:51.0",
+      "Offensive rebound by H. González Peña",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "6:48.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "96-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "6:44.0",
+      "",
+      "",
+      "96-87",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "96-89",
+      "+2",
+      "Q. Grimes makes 2-pt layup from 2 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "6:24.0",
+      "A. Simons makes 2-pt jump shot from 19 ft",
+      "+2",
+      "98-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "98-89",
+      "",
+      "Shooting foul by H. González Peña (drawn by J. Embiid)"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "98-89",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "98-90",
+      "+1",
+      "J. Embiid makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "98-91",
+      "+1",
+      "J. Embiid makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "6:05.0",
+      "J. Brown enters the game for H. González Peña",
+      "",
+      "98-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "6:05.0",
+      "P. Pritchard enters the game for S. Hauser",
+      "",
+      "98-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "98-92",
+      "+1",
+      "J. Embiid makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "5:46.0",
+      "D. White makes 2-pt jump shot from 19 ft (assist by X. Tillman)",
+      "+2",
+      "100-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "100-92",
+      "",
+      "Turnover by T. Maxey (bad pass)"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "5:28.0",
+      "J. Minott enters the game for A. Simons",
+      "",
+      "100-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "5:15.0",
+      "X. Tillman makes 3-pt jump shot from 27 ft (assist by P. Pritchard)",
+      "+3",
+      "103-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "103-92",
+      "",
+      "J. Embiid misses 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "4:42.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "103-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "4:31.0",
+      "X. Tillman misses 3-pt jump shot from 26 ft",
+      "",
+      "103-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "103-92",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "103-95",
+      "+3",
+      "K. Oubre makes 3-pt jump shot from 26 ft (assist by Q. Grimes)"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "3:56.0",
+      "X. Tillman makes 2-pt layup from 4 ft (assist by J. Brown)",
+      "+2",
+      "105-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "105-98",
+      "+3",
+      "Q. Grimes makes 3-pt jump shot from 26 ft (assist by J. Embiid)"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "3:11.0",
+      "J. Brown makes 3-pt jump shot from 28 ft",
+      "+3",
+      "108-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "108-100",
+      "+2",
+      "Q. Grimes makes 2-pt layup from 3 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "2:26.0",
+      "J. Minott misses 2-pt jump shot from 16 ft",
+      "",
+      "108-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "108-100",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "108-100",
+      "",
+      "T. Maxey misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "2:15.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "108-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "2:08.0",
+      "J. Minott misses 2-pt dunk from 2 ft",
+      "",
+      "108-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "2:06.0",
+      "Offensive rebound by D. White",
+      "",
+      "108-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "1:56.0",
+      "X. Tillman misses 3-pt jump shot from 22 ft",
+      "",
+      "108-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "1:52.0",
+      "Offensive rebound by J. Minott",
+      "",
+      "108-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "1:41.0",
+      "J. Minott misses 3-pt jump shot from 27 ft",
+      "",
+      "108-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "1:37.0",
+      "",
+      "",
+      "108-100",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "108-103",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 26 ft (assist by Q. Grimes)"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "1:12.0",
+      "D. White misses 2-pt jump shot from 7 ft",
+      "",
+      "108-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "108-103",
+      "",
+      "Defensive rebound by Q. Grimes"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "108-106",
+      "+3",
+      "V. Edgecombe makes 3-pt jump shot from 28 ft (assist by J. Embiid)"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "0:32.0",
+      "Shooting foul by K. Oubre (drawn by J. Brown)",
+      "",
+      "108-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "0:32.0",
+      "Boston full timeout",
+      "",
+      "108-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:32.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "109-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "0:32.0",
+      "J. Brown misses free throw 2 of 2",
+      "",
+      "109-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "109-106",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "109-108",
+      "+2",
+      "T. Maxey makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:20.0",
+      "Boston full timeout",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "0:20.0",
+      "S. Hauser enters the game for J. Minott",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "0:20.0",
+      "A. Simons enters the game for X. Tillman",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "109-108",
+      "",
+      "A. Bona enters the game for J. Embiid"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "0:15.0",
+      "Boston full timeout",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:11.0",
+      "Turnover by J. Brown (lost ball)",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "0:11.0",
+      "Loose ball foul by J. Brown (drawn by T. Maxey)",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "0:11.0",
+      "J. Minott enters the game for S. Hauser",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "0:11.0",
+      "X. Tillman enters the game for A. Simons",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "109-108",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "109-108",
+      "",
+      "J. Embiid enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "109-108",
+      "",
+      "T. Maxey misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "0:03.0",
+      "Defensive rebound by J. Minott",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "0:03.0",
+      "Personal take foul by J. Embiid (drawn by J. Minott)",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "0:03.0",
+      "S. Hauser enters the game for D. White",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "0:03.0",
+      "J. Minott misses free throw 1 of 2",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "0:03.0",
+      "Offensive rebound by Team",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "109-108",
+      "",
+      "A. Bona enters the game for T. Maxey"
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "0:03.0",
+      "J. Minott misses free throw 2 of 2",
+      "",
+      "109-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "109-108",
+      "",
+      "Defensive rebound by J. Embiid"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "109-108",
+      "",
+      "Philadelphia full timeout"
+    ]
+  }
+]

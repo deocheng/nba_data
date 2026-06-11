@@ -1,0 +1,5337 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Golden State",
+      "",
+      "Score",
+      "",
+      "Sacramento"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:44.0",
+      "S. Curry makes 3-pt jump shot from 23 ft (assist by B. Podziemski)",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:31.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Offensive foul by M. Raynaud (drawn by D. Green)"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:31.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Turnover by M. Raynaud (offensive foul)"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:21.0",
+      "Turnover by K. Porziņģis (lost ball; steal by P. Achiuwa)",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "P. Achiuwa misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:15.0",
+      "Defensive rebound by K. Porziņģis",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:08.0",
+      "K. Porziņģis makes 3-pt jump shot from 26 ft (assist by G. Santos)",
+      "+3",
+      "6-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "6-2",
+      "+2",
+      "D. Plowden makes 2-pt jump shot from 15 ft (assist by P. Achiuwa)"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "Shooting foul by G. Santos (drawn by D. Plowden)"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "6-3",
+      "+1",
+      "D. Plowden makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:28.0",
+      "K. Porziņģis misses 2-pt jump shot from 13 ft",
+      "",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:26.0",
+      "",
+      "",
+      "6-3",
+      "",
+      "Defensive rebound by M. Raynaud"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "6-3",
+      "",
+      "D. Carter misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "6-3",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:16.0",
+      "Golden State full timeout",
+      "",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:16.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "6-5",
+      "+2",
+      "P. Achiuwa makes 2-pt jump shot from 14 ft (assist by D. Carter)"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:35.0",
+      "D. Green makes 3-pt jump shot from 28 ft (assist by S. Curry)",
+      "+3",
+      "9-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:14.0",
+      "",
+      "",
+      "9-7",
+      "+2",
+      "M. Raynaud makes 2-pt hook shot from 10 ft (assist by D. Carter)"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:08.0",
+      "Turnover by S. Curry (lost ball; steal by D. Carter)",
+      "",
+      "9-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:05.0",
+      "",
+      "",
+      "9-9",
+      "+2",
+      "D. Carter makes 2-pt dunk from 5 ft"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:53.0",
+      "Turnover by D. Green (bad pass; steal by P. Achiuwa)",
+      "",
+      "9-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "9-9",
+      "",
+      "N. Clifford misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "9-9",
+      "",
+      "Offensive rebound by D. Carter"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "9-12",
+      "+3",
+      "D. Plowden makes 3-pt jump shot from 29 ft (assist by D. Carter)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:43.0",
+      "Golden State full timeout",
+      "",
+      "9-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:19.0",
+      "G. Santos makes 2-pt jump shot from 7 ft",
+      "+2",
+      "11-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "11-14",
+      "+2",
+      "P. Achiuwa makes 2-pt jump shot from 12 ft (assist by N. Clifford)"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:53.0",
+      "B. Podziemski misses 3-pt jump shot from 26 ft",
+      "",
+      "11-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "11-14",
+      "",
+      "Defensive rebound by P. Achiuwa"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "11-14",
+      "",
+      "P. Achiuwa misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:38.0",
+      "Defensive rebound by K. Porziņģis",
+      "",
+      "11-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:31.0",
+      "Turnover by D. Green (bad pass; steal by D. Carter)",
+      "",
+      "11-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "11-14",
+      "",
+      "N. Clifford misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:20.0",
+      "Defensive rebound by S. Curry",
+      "",
+      "11-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:08.0",
+      "B. Podziemski makes 3-pt jump shot from 25 ft (assist by D. Green)",
+      "+3",
+      "14-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "14-14",
+      "",
+      "Turnover by D. Carter (lost ball; steal by B. Podziemski)"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:41.0",
+      "B. Podziemski makes 3-pt jump shot from 24 ft (assist by G. Santos)",
+      "+3",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:40.0",
+      "A. Horford enters the game for B. Podziemski",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:40.0",
+      "D. Melton enters the game for K. Porziņģis",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:40.0",
+      "G. Payton enters the game for G. Santos",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "K. Hayes enters the game for D. Carter"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "M. Monk enters the game for N. Clifford"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:26.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "K. Hayes misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:22.0",
+      "Defensive rebound by D. Green",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:04.0",
+      "G. Payton misses 2-pt layup from 6 ft (block by P. Achiuwa)",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:03.0",
+      "Offensive rebound by D. Green",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:59.0",
+      "A. Horford misses 3-pt jump shot from 26 ft",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "Defensive rebound by M. Raynaud"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "17-17",
+      "+3",
+      "M. Monk makes 3-pt jump shot from 27 ft (assist by P. Achiuwa)"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:29.0",
+      "A. Horford misses 2-pt layup from 5 ft",
+      "",
+      "17-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:27.0",
+      "",
+      "",
+      "17-17",
+      "",
+      "Defensive rebound by K. Hayes"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "17-17",
+      "",
+      "Shooting foul by D. Melton (drawn by K. Hayes)"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "17-18",
+      "+1",
+      "K. Hayes makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "17-19",
+      "+1",
+      "K. Hayes makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:15.0",
+      "A. Horford makes 3-pt jump shot from 24 ft (assist by S. Curry)",
+      "+3",
+      "20-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:51.0",
+      "",
+      "",
+      "20-21",
+      "+2",
+      "M. Monk makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:44.0",
+      "G. Payton makes 2-pt layup from 1 ft (assist by D. Green)",
+      "+2",
+      "22-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:30.0",
+      "",
+      "",
+      "22-21",
+      "",
+      "P. Achiuwa misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:26.0",
+      "Defensive rebound by D. Green",
+      "",
+      "22-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:13.0",
+      "A. Horford makes 2-pt layup from 2 ft (assist by D. Melton)",
+      "+2",
+      "24-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:08.0",
+      "",
+      "",
+      "24-21",
+      "",
+      "Turnover by M. Raynaud (bad pass; steal by S. Curry)"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:55.0",
+      "S. Curry misses 3-pt jump shot from 26 ft",
+      "",
+      "24-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "24-21",
+      "",
+      "Defensive rebound by P. Achiuwa"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "24-21",
+      "",
+      "P. Achiuwa misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:42.0",
+      "",
+      "",
+      "24-21",
+      "",
+      "Offensive rebound by M. Raynaud"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "24-24",
+      "+3",
+      "M. Monk makes 3-pt jump shot from 28 ft (assist by D. Plowden)"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:24.0",
+      "S. Curry misses 3-pt jump shot from 25 ft",
+      "",
+      "24-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:20.0",
+      "",
+      "",
+      "24-24",
+      "",
+      "Defensive rebound by D. Plowden"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "24-27",
+      "+3",
+      "M. Monk makes 3-pt jump shot from 27 ft (assist by K. Hayes)"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "2:55.0",
+      "D. Green misses 3-pt jump shot from 26 ft",
+      "",
+      "24-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:51.0",
+      "",
+      "",
+      "24-27",
+      "",
+      "Defensive rebound by P. Achiuwa"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "24-27",
+      "",
+      "M. Monk misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:36.0",
+      "Defensive rebound by D. Green",
+      "",
+      "24-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:22.0",
+      "D. Green makes 2-pt layup from 2 ft (assist by A. Horford)",
+      "+2",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "26-27",
+      "",
+      "Personal take foul by G. Payton (drawn by K. Hayes)"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:11.0",
+      "C. Bassey enters the game for S. Curry",
+      "",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:11.0",
+      "B. Podziemski enters the game for D. Green",
+      "",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:11.0",
+      "K. Porziņģis enters the game for A. Horford",
+      "",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:11.0",
+      "G. Santos enters the game for D. Melton",
+      "",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:11.0",
+      "P. Spencer enters the game for G. Payton",
+      "",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "26-27",
+      "",
+      "D. Cardwell enters the game for P. Achiuwa"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "26-27",
+      "",
+      "N. Clifford enters the game for D. Plowden"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "26-27",
+      "",
+      "D. McDermott enters the game for M. Raynaud"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "26-27",
+      "",
+      "K. Hayes misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:53.0",
+      "Defensive rebound by C. Bassey",
+      "",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:44.0",
+      "Turnover by B. Podziemski (bad pass; steal by K. Hayes)",
+      "",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "26-29",
+      "+2",
+      "N. Clifford makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:25.0",
+      "K. Porziņģis misses 2-pt jump shot from 11 ft",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "26-29",
+      "",
+      "Defensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "26-29",
+      "",
+      "N. Clifford misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "26-29",
+      "",
+      "Offensive rebound by N. Clifford"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "26-29",
+      "",
+      "N. Clifford misses 2-pt layup from 6 ft (block by C. Bassey)"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "1:07.0",
+      "Defensive rebound by G. Santos",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "1:00.0",
+      "Shooting foul by D. McDermott (drawn by K. Porziņģis)",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "1:00.0",
+      "K. Porziņģis misses free throw 1 of 2",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "1:00.0",
+      "Offensive rebound by Team",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "1:00.0",
+      "K. Porziņģis makes free throw 2 of 2",
+      "+1",
+      "27-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:53.0",
+      "",
+      "",
+      "27-29",
+      "",
+      "D. McDermott misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:50.0",
+      "Defensive rebound by G. Santos",
+      "",
+      "27-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:44.0",
+      "K. Porziņģis misses 3-pt jump shot from 27 ft",
+      "",
+      "27-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "27-29",
+      "",
+      "Defensive rebound by N. Clifford"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "27-29",
+      "",
+      "N. Clifford misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:29.0",
+      "Defensive rebound by P. Spencer",
+      "",
+      "27-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:07.0",
+      "K. Porziņģis misses 2-pt jump shot from 11 ft",
+      "",
+      "27-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "27-29",
+      "",
+      "Defensive rebound by M. Monk"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "27-29",
+      "",
+      "Personal take foul by B. Podziemski (drawn by M. Monk)"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:02.0",
+      "G. Payton enters the game for K. Porziņģis",
+      "",
+      "27-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "27-32",
+      "+3",
+      "D. Cardwell makes 3-pt jump shot from 29 ft (assist by D. McDermott)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "27-32",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "Time",
+      "Golden State",
+      "",
+      "Score",
+      "",
+      "Sacramento"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "11:53.0",
+      "",
+      "",
+      "27-32",
+      "",
+      "Turnover by M. Monk (bad pass; steal by G. Santos)"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "11:48.0",
+      "Shooting foul by N. Clifford (drawn by D. Melton)",
+      "",
+      "27-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "11:48.0",
+      "D. Melton makes free throw 1 of 2",
+      "+1",
+      "28-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "11:48.0",
+      "D. Melton makes free throw 2 of 2",
+      "+1",
+      "29-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "11:23.0",
+      "",
+      "",
+      "29-32",
+      "",
+      "M. Monk misses 2-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "11:18.0",
+      "Defensive rebound by D. Melton",
+      "",
+      "29-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "11:12.0",
+      "D. Melton makes 2-pt layup from 5 ft",
+      "+2",
+      "31-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "31-32",
+      "",
+      "Shooting foul by G. Santos (drawn by K. Hayes)"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "31-33",
+      "+1",
+      "K. Hayes makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "11:05.0",
+      "D. Green enters the game for G. Santos",
+      "",
+      "31-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "31-34",
+      "+1",
+      "K. Hayes makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:52.0",
+      "S. Curry misses 3-pt jump shot from 26 ft (block by M. Monk)",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Defensive rebound by D. McDermott"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:48.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Turnover by N. Clifford (bad pass; steal by D. Melton)"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:47.0",
+      "Turnover by D. Melton (traveling)",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:44.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Turnover by D. McDermott (bad pass; steal by G. Payton)"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:28.0",
+      "Turnover by S. Curry (bad pass; steal by D. Cardwell)",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Shooting foul by K. Porziņģis (drawn by D. Cardwell)"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "D. Cardwell misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "D. Cardwell misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:17.0",
+      "Defensive rebound by D. Melton",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:58.0",
+      "K. Porziņģis misses 2-pt jump shot from 12 ft",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:55.0",
+      "Offensive rebound by Team",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:49.0",
+      "K. Porziņģis misses 2-pt jump shot from 9 ft (block by M. Monk)",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:45.0",
+      "Offensive rebound by G. Payton",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:43.0",
+      "Turnover by D. Melton (bad pass; steal by D. Cardwell)",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Turnover by N. Clifford (bad pass)"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:26.0",
+      "G. Payton makes 2-pt jump shot from 9 ft",
+      "+2",
+      "33-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "33-34",
+      "",
+      "D. McDermott misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "33-34",
+      "",
+      "Offensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "33-36",
+      "+2",
+      "D. Cardwell makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:58.0",
+      "Personal foul by K. Hayes (drawn by S. Curry)",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:58.0",
+      "G. Santos enters the game for G. Payton",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:53.0",
+      "G. Santos misses 2-pt layup from 5 ft",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:52.0",
+      "Offensive rebound by K. Porziņģis",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:52.0",
+      "K. Porziņģis makes 2-pt jump shot from 2 ft",
+      "+2",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:52.0",
+      "Shooting foul by D. Cardwell (drawn by K. Porziņģis)",
+      "",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:52.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "D. Carter enters the game for D. Cardwell"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:52.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "D. Plowden enters the game for K. Hayes"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:52.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "M. Raynaud enters the game for M. Monk"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:52.0",
+      "K. Porziņģis makes free throw 1 of 1",
+      "+1",
+      "36-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "36-38",
+      "+2",
+      "N. Clifford makes 2-pt dunk from 8 ft"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "8:23.0",
+      "S. Curry misses 2-pt layup from 4 ft",
+      "",
+      "36-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "36-38",
+      "",
+      "Defensive rebound by M. Raynaud"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "36-38",
+      "",
+      "D. McDermott misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "36-38",
+      "",
+      "Offensive rebound by D. Plowden"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "36-40",
+      "+2",
+      "N. Clifford makes 2-pt layup from 6 ft (assist by M. Raynaud)"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:57.0",
+      "D. Melton makes 3-pt jump shot from 27 ft (assist by K. Porziņģis)",
+      "+3",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "39-43",
+      "+3",
+      "N. Clifford makes 3-pt jump shot from 28 ft (assist by M. Raynaud)"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:21.0",
+      "Turnover by K. Porziņģis (bad pass; steal by D. Plowden)",
+      "",
+      "39-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "39-45",
+      "+2",
+      "D. Carter makes 2-pt dunk from 4 ft (assist by D. Plowden)"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:06.0",
+      "Personal foul by N. Clifford (drawn by D. Green)",
+      "",
+      "39-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:06.0",
+      "A. Horford enters the game for D. Melton",
+      "",
+      "39-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:06.0",
+      "B. Podziemski enters the game for K. Porziņģis",
+      "",
+      "39-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:00.0",
+      "S. Curry misses 3-pt jump shot from 26 ft",
+      "",
+      "39-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "39-45",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "39-45",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:58.0",
+      "D. Melton enters the game for S. Curry",
+      "",
+      "39-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "39-45",
+      "",
+      "P. Achiuwa enters the game for D. McDermott"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "39-48",
+      "+3",
+      "M. Raynaud makes 3-pt jump shot from 28 ft (assist by P. Achiuwa)"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:20.0",
+      "G. Santos misses 3-pt jump shot from 26 ft",
+      "",
+      "39-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "39-48",
+      "",
+      "Defensive rebound by D. Plowden"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:07.0",
+      "",
+      "",
+      "39-48",
+      "",
+      "Turnover by M. Raynaud (lost ball; steal by D. Green)"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:02.0",
+      "G. Santos misses 2-pt layup from 5 ft",
+      "",
+      "39-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "6:00.0",
+      "",
+      "",
+      "39-48",
+      "",
+      "Defensive rebound by N. Clifford"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:54.0",
+      "",
+      "",
+      "39-50",
+      "+2",
+      "D. Carter makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:29.0",
+      "D. Melton makes 3-pt jump shot from 26 ft (assist by G. Santos)",
+      "+3",
+      "42-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "42-53",
+      "+3",
+      "D. Carter makes 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "4:41.0",
+      "B. Podziemski misses 3-pt jump shot from 28 ft",
+      "",
+      "42-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "42-53",
+      "",
+      "Defensive rebound by M. Raynaud"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "42-53",
+      "",
+      "Shooting foul by A. Horford (drawn by P. Achiuwa)"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "42-53",
+      "",
+      "P. Achiuwa misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "42-53",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "4:34.0",
+      "K. Porziņģis enters the game for D. Green",
+      "",
+      "42-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "42-54",
+      "+1",
+      "P. Achiuwa makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:20.0",
+      "K. Porziņģis misses 2-pt jump shot from 17 ft",
+      "",
+      "42-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "42-54",
+      "",
+      "Defensive rebound by P. Achiuwa"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "42-57",
+      "+3",
+      "N. Clifford makes 3-pt jump shot from 28 ft (assist by P. Achiuwa)"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:45.0",
+      "B. Podziemski misses 3-pt jump shot from 26 ft",
+      "",
+      "42-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:42.0",
+      "",
+      "",
+      "42-57",
+      "",
+      "Defensive rebound by D. Carter"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "42-57",
+      "",
+      "D. Carter misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:35.0",
+      "Defensive rebound by K. Porziņģis",
+      "",
+      "42-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:21.0",
+      "D. Melton makes 3-pt jump shot from 27 ft (assist by G. Santos)",
+      "+3",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "2:56.0",
+      "",
+      "",
+      "45-57",
+      "",
+      "P. Achiuwa misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "2:54.0",
+      "Defensive rebound by D. Melton",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "2:46.0",
+      "G. Santos misses 3-pt jump shot from 27 ft",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "45-57",
+      "",
+      "Defensive rebound by D. Carter"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "45-57",
+      "",
+      "Shooting foul by G. Santos (drawn by D. Carter)"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:33.0",
+      "Golden State full timeout",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "45-57",
+      "",
+      "D. Carter misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "45-57",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:33.0",
+      "C. Bassey enters the game for A. Horford",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:33.0",
+      "M. Leons enters the game for B. Podziemski",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:33.0",
+      "W. Richard enters the game for K. Porziņģis",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:33.0",
+      "P. Spencer enters the game for G. Santos",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "45-57",
+      "",
+      "D. Carter misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "2:31.0",
+      "Defensive rebound by Team",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "2:12.0",
+      "W. Richard misses 3-pt jump shot from 24 ft",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "45-57",
+      "",
+      "Defensive rebound by D. Plowden"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "1:59.0",
+      "",
+      "",
+      "45-57",
+      "",
+      "D. Plowden misses 2-pt layup from 11 ft (block by W. Richard)"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "1:57.0",
+      "Defensive rebound by W. Richard",
+      "",
+      "45-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:39.0",
+      "M. Leons makes 2-pt layup from 3 ft (assist by D. Melton)",
+      "+2",
+      "47-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "47-57",
+      "",
+      "Personal foul by C. Bassey (drawn by M. Raynaud)"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "47-58",
+      "+1",
+      "M. Raynaud makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "47-58",
+      "",
+      "M. Raynaud misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "1:14.0",
+      "Defensive rebound by C. Bassey",
+      "",
+      "47-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "0:59.0",
+      "D. Melton makes 2-pt jump shot from 10 ft",
+      "+2",
+      "49-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "49-61",
+      "+3",
+      "D. Carter makes 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:33.0",
+      "Personal foul by N. Clifford (drawn by D. Melton)",
+      "",
+      "49-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:33.0",
+      "D. Melton makes free throw 1 of 2",
+      "+1",
+      "50-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "50-61",
+      "",
+      "K. Hayes enters the game for N. Clifford"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:33.0",
+      "D. Melton makes free throw 2 of 2",
+      "+1",
+      "51-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "51-63",
+      "+2",
+      "D. Plowden makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:02.0",
+      "D. Melton misses 3-pt jump shot from 27 ft",
+      "",
+      "51-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by W. Richard",
+      "",
+      "51-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "Time",
+      "Golden State",
+      "",
+      "Score",
+      "",
+      "Sacramento"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "51-63",
+      "",
+      "D. Plowden misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "11:42.0",
+      "",
+      "",
+      "51-63",
+      "",
+      "Offensive rebound by D. Carter"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "51-65",
+      "+2",
+      "D. Carter makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "11:30.0",
+      "K. Porziņģis misses 3-pt jump shot from 30 ft",
+      "",
+      "51-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "51-65",
+      "",
+      "Defensive rebound by M. Raynaud"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "11:19.0",
+      "",
+      "",
+      "51-65",
+      "",
+      "P. Achiuwa misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "11:16.0",
+      "Defensive rebound by Team",
+      "",
+      "51-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "11:07.0",
+      "S. Curry makes 3-pt jump shot from 27 ft (assist by D. Green)",
+      "+3",
+      "54-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "54-65",
+      "",
+      "N. Clifford misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "10:42.0",
+      "Defensive rebound by S. Curry",
+      "",
+      "54-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:35.0",
+      "Flagrant foul type 1 by D. Carter (drawn by D. Green)",
+      "",
+      "54-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:35.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "54-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "10:35.0",
+      "D. Green makes flagrant free throw 1 of 2",
+      "+1",
+      "55-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "10:35.0",
+      "D. Green makes flagrant free throw 2 of 2",
+      "+1",
+      "56-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:26.0",
+      "B. Podziemski makes 2-pt jump shot from 16 ft (assist by G. Santos)",
+      "+2",
+      "58-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "10:26.0",
+      "Shooting foul by D. Plowden (drawn by B. Podziemski)",
+      "",
+      "58-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "10:26.0",
+      "B. Podziemski makes free throw 1 of 1",
+      "+1",
+      "59-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "59-65",
+      "",
+      "D. Carter misses 2-pt jump shot from 13 ft (block by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "10:05.0",
+      "Defensive rebound by S. Curry",
+      "",
+      "59-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "10:02.0",
+      "G. Santos misses 2-pt layup from 6 ft",
+      "",
+      "59-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "59-65",
+      "",
+      "Defensive rebound by D. Carter"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "59-65",
+      "",
+      "D. Carter misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "9:52.0",
+      "",
+      "",
+      "59-65",
+      "",
+      "Offensive rebound by P. Achiuwa"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "59-65",
+      "",
+      "D. Plowden misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "9:46.0",
+      "Defensive rebound by K. Porziņģis",
+      "",
+      "59-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "9:45.0",
+      "Turnover by K. Porziņģis (bad pass; steal by M. Raynaud)",
+      "",
+      "59-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "59-65",
+      "",
+      "Personal foul by D. Green (drawn by M. Raynaud)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "59-65",
+      "",
+      "P. Achiuwa misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "9:29.0",
+      "Defensive rebound by Team",
+      "",
+      "59-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "9:18.0",
+      "B. Podziemski makes 2-pt layup from 5 ft (assist by D. Green)",
+      "+2",
+      "61-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "61-65",
+      "",
+      "D. Plowden misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "9:07.0",
+      "Defensive rebound by G. Santos",
+      "",
+      "61-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "8:58.0",
+      "S. Curry makes 2-pt layup from 4 ft",
+      "+2",
+      "63-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "63-65",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "8:58.0",
+      "G. Payton enters the game for G. Santos",
+      "",
+      "63-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "63-68",
+      "+3",
+      "D. Carter makes 3-pt jump shot from 26 ft (assist by N. Clifford)"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "8:16.0",
+      "K. Porziņģis makes 2-pt jump shot from 13 ft (assist by S. Curry)",
+      "+2",
+      "65-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "65-68",
+      "",
+      "Turnover by D. Plowden (lost ball; steal by G. Payton)"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "65-68",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "7:38.0",
+      "D. Melton enters the game for B. Podziemski",
+      "",
+      "65-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "7:35.0",
+      "Personal foul by P. Achiuwa (drawn by K. Porziņģis)",
+      "",
+      "65-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "65-68",
+      "",
+      "Flagrant foul type 1 by G. Payton (drawn by D. Carter)"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "7:31.0",
+      "Turnover by G. Payton (offensive foul)",
+      "",
+      "65-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "7:31.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "65-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "65-68",
+      "",
+      "K. Hayes enters the game for N. Clifford"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "65-69",
+      "+1",
+      "D. Carter makes flagrant free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "65-69",
+      "",
+      "D. Carter misses flagrant free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "65-69",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "65-69",
+      "",
+      "Personal foul by G. Payton (drawn by D. Carter)"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "65-69",
+      "",
+      "D. Carter misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "7:14.0",
+      "Defensive rebound by K. Porziņģis",
+      "",
+      "65-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "7:09.0",
+      "Turnover by D. Green (bad pass)",
+      "",
+      "65-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "65-69",
+      "",
+      "Turnover by P. Achiuwa (traveling)"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "7:02.0",
+      "A. Horford enters the game for K. Porziņģis",
+      "",
+      "65-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "6:53.0",
+      "G. Payton makes 2-pt layup from 5 ft (assist by D. Green)",
+      "+2",
+      "67-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "67-69",
+      "",
+      "D. Plowden misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "67-69",
+      "",
+      "Offensive rebound by D. Carter"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "67-69",
+      "",
+      "K. Hayes misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "6:21.0",
+      "Defensive rebound by G. Payton",
+      "",
+      "67-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "6:17.0",
+      "Personal foul by D. Plowden (drawn by S. Curry)",
+      "",
+      "67-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "67-69",
+      "",
+      "D. Cardwell enters the game for P. Achiuwa"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "6:11.0",
+      "G. Payton makes 2-pt layup from 5 ft (assist by D. Green)",
+      "+2",
+      "69-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "6:00.0",
+      "",
+      "",
+      "69-69",
+      "",
+      "Turnover by D. Carter (bad pass; steal by S. Curry)"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "5:56.0",
+      "Turnover by S. Curry (bad pass; steal by D. Plowden)",
+      "",
+      "69-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "69-72",
+      "+3",
+      "D. Carter makes 3-pt jump shot from 23 ft (assist by D. Plowden)"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "5:36.0",
+      "Offensive foul by G. Payton (drawn by D. Carter)",
+      "",
+      "69-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "5:36.0",
+      "Turnover by G. Payton (offensive foul)",
+      "",
+      "69-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "5:36.0",
+      "Technical foul by G. Payton",
+      "",
+      "69-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "5:36.0",
+      "",
+      "",
+      "69-73",
+      "+1",
+      "M. Raynaud makes technical free throw"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "5:36.0",
+      "",
+      "",
+      "69-73",
+      "",
+      "D. McDermott enters the game for D. Plowden"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "5:21.0",
+      "",
+      "",
+      "69-73",
+      "",
+      "Personal foul by D. Green (drawn by D. Carter)"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "69-75",
+      "+2",
+      "M. Raynaud makes 2-pt jump shot from 12 ft (assist by K. Hayes)"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "4:58.0",
+      "D. Melton misses 3-pt jump shot from 28 ft",
+      "",
+      "69-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "69-75",
+      "",
+      "Defensive rebound by D. Carter"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "69-75",
+      "",
+      "Turnover by D. Carter (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "4:47.0",
+      "B. Podziemski enters the game for S. Curry",
+      "",
+      "69-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "4:47.0",
+      "K. Porziņģis enters the game for D. Green",
+      "",
+      "69-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "4:35.0",
+      "A. Horford makes 3-pt jump shot from 28 ft (assist by D. Melton)",
+      "+3",
+      "72-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:33.0",
+      "Technical foul by S. Curry",
+      "",
+      "72-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "72-75",
+      "",
+      "M. Raynaud misses technical free throw"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "72-75",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "72-75",
+      "",
+      "M. Raynaud misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "4:11.0",
+      "Defensive rebound by B. Podziemski",
+      "",
+      "72-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "4:08.0",
+      "B. Podziemski makes 2-pt layup from 6 ft",
+      "+2",
+      "74-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "74-75",
+      "",
+      "M. Raynaud misses 3-pt jump shot from 29 ft (block by A. Horford)"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "3:47.0",
+      "Defensive rebound by D. Melton",
+      "",
+      "74-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "3:41.0",
+      "D. Melton misses 2-pt layup from 4 ft",
+      "",
+      "74-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "74-75",
+      "",
+      "Defensive rebound by M. Raynaud"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "74-75",
+      "",
+      "M. Raynaud misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "3:22.0",
+      "Defensive rebound by G. Payton",
+      "",
+      "74-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "3:14.0",
+      "K. Porziņģis makes 2-pt dunk from 4 ft (assist by A. Horford)",
+      "+2",
+      "76-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "76-77",
+      "+2",
+      "M. Raynaud makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "2:31.0",
+      "G. Payton makes 2-pt layup from 5 ft (assist by K. Porziņģis)",
+      "+2",
+      "78-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "2:31.0",
+      "Violation by Team (delay of game)",
+      "",
+      "78-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:25.0",
+      "",
+      "",
+      "78-77",
+      "",
+      "Shooting foul by B. Podziemski (drawn by D. McDermott)"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "2:25.0",
+      "Golden State full timeout",
+      "",
+      "78-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "2:25.0",
+      "C. Bassey enters the game for A. Horford",
+      "",
+      "78-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "2:25.0",
+      "M. Leons enters the game for D. Melton",
+      "",
+      "78-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "2:25.0",
+      "G. Santos enters the game for G. Payton",
+      "",
+      "78-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "2:25.0",
+      "P. Spencer enters the game for K. Porziņģis",
+      "",
+      "78-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "2:25.0",
+      "",
+      "",
+      "78-77",
+      "",
+      "P. Achiuwa enters the game for D. Carter"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "2:25.0",
+      "",
+      "",
+      "78-77",
+      "",
+      "N. Clifford enters the game for M. Raynaud"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "2:25.0",
+      "",
+      "",
+      "78-78",
+      "+1",
+      "D. McDermott makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "2:25.0",
+      "",
+      "",
+      "78-79",
+      "+1",
+      "D. McDermott makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "2:25.0",
+      "",
+      "",
+      "78-80",
+      "+1",
+      "D. McDermott makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "2:03.0",
+      "C. Bassey misses 2-pt jump shot from 11 ft",
+      "",
+      "78-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "1:59.0",
+      "",
+      "",
+      "78-80",
+      "",
+      "Defensive rebound by P. Achiuwa"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "78-80",
+      "",
+      "D. McDermott misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "1:48.0",
+      "Defensive rebound by M. Leons",
+      "",
+      "78-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "1:43.0",
+      "Personal foul by D. McDermott (drawn by C. Bassey)",
+      "",
+      "78-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "1:43.0",
+      "C. Bassey makes free throw 1 of 2",
+      "+1",
+      "79-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:43.0",
+      "C. Bassey makes free throw 2 of 2",
+      "+1",
+      "80-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "80-80",
+      "",
+      "Shooting foul by M. Leons (drawn by K. Hayes)"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "80-81",
+      "+1",
+      "K. Hayes makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "80-82",
+      "+1",
+      "K. Hayes makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "1:20.0",
+      "G. Santos makes 3-pt jump shot from 28 ft (assist by P. Spencer)",
+      "+3",
+      "83-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "83-82",
+      "",
+      "D. McDermott misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "0:57.0",
+      "Defensive rebound by C. Bassey",
+      "",
+      "83-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "0:53.0",
+      "B. Podziemski makes 2-pt layup from 3 ft (assist by P. Spencer)",
+      "+2",
+      "85-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:53.0",
+      "Shooting foul by K. Hayes (drawn by B. Podziemski)",
+      "",
+      "85-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:53.0",
+      "B. Podziemski makes free throw 1 of 1",
+      "+1",
+      "86-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "86-82",
+      "",
+      "N. Clifford misses 2-pt layup from 8 ft"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:32.0",
+      "Defensive rebound by B. Podziemski",
+      "",
+      "86-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:26.0",
+      "B. Podziemski misses 3-pt jump shot from 29 ft",
+      "",
+      "86-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:25.0",
+      "Offensive rebound by M. Leons",
+      "",
+      "86-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:12.0",
+      "M. Leons makes 3-pt jump shot from 25 ft (assist by G. Santos)",
+      "+3",
+      "89-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "89-82",
+      "",
+      "N. Clifford misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "89-82",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "Time",
+      "Golden State",
+      "",
+      "Score",
+      "",
+      "Sacramento"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "11:46.0",
+      "A. Horford makes 2-pt layup from 4 ft (assist by S. Curry)",
+      "+2",
+      "91-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "91-82",
+      "",
+      "N. Clifford misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "91-82",
+      "",
+      "Offensive rebound by D. Plowden"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "11:23.0",
+      "",
+      "",
+      "91-82",
+      "",
+      "D. Plowden misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "91-82",
+      "",
+      "Offensive rebound by D. Plowden"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "91-84",
+      "+2",
+      "D. Plowden makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "11:17.0",
+      "B. Podziemski makes 2-pt layup from 3 ft (assist by S. Curry)",
+      "+2",
+      "93-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "93-84",
+      "",
+      "D. Plowden misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "10:58.0",
+      "Defensive rebound by K. Porziņģis",
+      "",
+      "93-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "10:50.0",
+      "Shooting foul by D. McDermott (drawn by B. Podziemski)",
+      "",
+      "93-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "10:50.0",
+      "B. Podziemski makes free throw 1 of 2",
+      "+1",
+      "94-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "94-84",
+      "",
+      "D. Carter enters the game for K. Hayes"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "94-84",
+      "",
+      "M. Raynaud enters the game for D. McDermott"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "10:50.0",
+      "B. Podziemski makes free throw 2 of 2",
+      "+1",
+      "95-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "10:39.0",
+      "",
+      "",
+      "95-87",
+      "+3",
+      "D. Plowden makes 3-pt jump shot from 23 ft (assist by M. Raynaud)"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "10:09.0",
+      "B. Podziemski misses 3-pt jump shot from 28 ft (block by D. Carter)",
+      "",
+      "95-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "95-87",
+      "",
+      "Defensive rebound by M. Raynaud"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "95-87",
+      "",
+      "D. Plowden misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "95-87",
+      "",
+      "Offensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "95-87",
+      "",
+      "D. Cardwell misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "95-87",
+      "",
+      "Offensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "95-87",
+      "",
+      "Shooting foul by D. Melton (drawn by N. Clifford)"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "95-88",
+      "+1",
+      "N. Clifford makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "95-89",
+      "+1",
+      "N. Clifford makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "9:35.0",
+      "Turnover by K. Porziņģis (3 sec)",
+      "",
+      "95-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "95-92",
+      "+3",
+      "D. Carter makes 3-pt jump shot from 31 ft (assist by D. Cardwell)"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:56.0",
+      "Shooting foul by D. Cardwell (drawn by S. Curry)",
+      "",
+      "95-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:56.0",
+      "S. Curry makes free throw 1 of 3",
+      "+1",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "8:56.0",
+      "S. Curry makes free throw 2 of 3",
+      "+1",
+      "97-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "8:56.0",
+      "G. Santos enters the game for B. Podziemski",
+      "",
+      "97-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "8:56.0",
+      "S. Curry makes free throw 3 of 3",
+      "+1",
+      "98-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "Turnover by N. Clifford (bad pass; steal by G. Santos)"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "8:24.0",
+      "A. Horford misses 2-pt hook shot from 5 ft (block by D. Cardwell)",
+      "",
+      "98-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "Defensive rebound by N. Clifford"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "Turnover by D. Plowden (lost ball; steal by K. Porziņģis)"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "8:09.0",
+      "A. Horford misses 3-pt jump shot from 28 ft",
+      "",
+      "98-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "8:06.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "Defensive rebound by M. Raynaud"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "7:57.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "D. Plowden misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "Offensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "Shooting foul by K. Porziņģis (drawn by N. Clifford)"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "N. Clifford misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "98-92",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "7:53.0",
+      "C. Bassey enters the game for A. Horford",
+      "",
+      "98-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "7:53.0",
+      "G. Payton enters the game for D. Melton",
+      "",
+      "98-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "7:53.0",
+      "B. Podziemski enters the game for K. Porziņģis",
+      "",
+      "98-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "98-93",
+      "+1",
+      "N. Clifford makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "7:33.0",
+      "G. Santos misses 2-pt layup from 8 ft (block by D. Cardwell)",
+      "",
+      "98-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "98-93",
+      "",
+      "Defensive rebound by D. Carter"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "98-95",
+      "+2",
+      "D. Carter makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "7:11.0",
+      "C. Bassey misses 2-pt jump shot from 11 ft",
+      "",
+      "98-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "7:07.0",
+      "",
+      "",
+      "98-95",
+      "",
+      "Defensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "98-98",
+      "+3",
+      "D. Carter makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "6:48.0",
+      "Golden State full timeout",
+      "",
+      "98-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "6:48.0",
+      "Technical foul by G. Payton",
+      "",
+      "98-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "6:48.0",
+      "G. Payton ejected from game",
+      "",
+      "98-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "6:48.0",
+      "M. Leons enters the game for S. Curry",
+      "",
+      "98-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "6:48.0",
+      "P. Spencer enters the game for G. Payton",
+      "",
+      "98-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "98-99",
+      "+1",
+      "N. Clifford makes technical free throw"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "6:42.0",
+      "Shooting foul by M. Raynaud (drawn by B. Podziemski)",
+      "",
+      "98-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "6:42.0",
+      "B. Podziemski makes free throw 1 of 2",
+      "+1",
+      "99-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "6:42.0",
+      "B. Podziemski makes free throw 2 of 2",
+      "+1",
+      "100-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "100-101",
+      "+2",
+      "M. Raynaud makes 2-pt jump shot from 7 ft (assist by N. Clifford)"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "6:16.0",
+      "Personal foul by D. Carter (drawn by G. Santos)",
+      "",
+      "100-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "6:16.0",
+      "D. Melton enters the game for G. Santos",
+      "",
+      "100-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "6:02.0",
+      "Turnover by B. Podziemski (traveling)",
+      "",
+      "100-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "100-101",
+      "",
+      "Shooting foul by C. Bassey (drawn by N. Clifford)"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "100-102",
+      "+1",
+      "N. Clifford makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "100-103",
+      "+1",
+      "N. Clifford makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "5:32.0",
+      "D. Melton misses 3-pt jump shot from 29 ft",
+      "",
+      "100-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "100-103",
+      "",
+      "Defensive rebound by D. Plowden"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "100-106",
+      "+3",
+      "M. Raynaud makes 3-pt jump shot from 24 ft (assist by N. Clifford)"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "4:56.0",
+      "P. Spencer makes 2-pt layup from 5 ft",
+      "+2",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "102-106",
+      "",
+      "D. Cardwell misses 2-pt dunk from 8 ft"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "102-106",
+      "",
+      "Offensive rebound by D. Carter"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "102-106",
+      "",
+      "D. Carter misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "4:32.0",
+      "Defensive rebound by B. Podziemski",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "4:28.0",
+      "Shooting foul by D. Cardwell (drawn by M. Leons)",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "4:28.0",
+      "M. Leons makes free throw 1 of 2",
+      "+1",
+      "103-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "4:28.0",
+      "M. Leons makes free throw 2 of 2",
+      "+1",
+      "104-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "104-109",
+      "+3",
+      "D. Plowden makes 3-pt jump shot from 27 ft (assist by M. Raynaud)"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "4:05.0",
+      "M. Leons misses 2-pt layup from 5 ft",
+      "",
+      "104-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "4:03.0",
+      "Offensive rebound by C. Bassey",
+      "",
+      "104-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "4:03.0",
+      "C. Bassey makes 2-pt jump shot from 5 ft",
+      "+2",
+      "106-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "3:55.0",
+      "",
+      "",
+      "106-109",
+      "",
+      "Sacramento full timeout"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "3:55.0",
+      "G. Santos enters the game for D. Melton",
+      "",
+      "106-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "3:42.0",
+      "",
+      "",
+      "106-109",
+      "",
+      "D. Cardwell misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "106-109",
+      "",
+      "Offensive rebound by D. Plowden"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "106-111",
+      "+2",
+      "D. Plowden makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "3:36.0",
+      "Shooting foul by D. Cardwell (drawn by B. Podziemski)",
+      "",
+      "106-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "3:36.0",
+      "B. Podziemski makes free throw 1 of 2",
+      "+1",
+      "107-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "3:36.0",
+      "B. Podziemski makes free throw 2 of 2",
+      "+1",
+      "108-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "3:24.0",
+      "",
+      "",
+      "108-111",
+      "",
+      "D. Carter misses 3-pt jump shot from 31 ft"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "108-111",
+      "",
+      "Offensive rebound by D. Cardwell"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "108-111",
+      "",
+      "Turnover by N. Clifford (lost ball; steal by M. Leons)"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "2:53.0",
+      "G. Santos makes 2-pt jump shot from 5 ft (assist by C. Bassey)",
+      "+2",
+      "110-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "110-113",
+      "+2",
+      "M. Raynaud makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "2:14.0",
+      "B. Podziemski makes 2-pt layup from 5 ft (assist by P. Spencer)",
+      "+2",
+      "112-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "112-115",
+      "+2",
+      "M. Raynaud makes 2-pt jump shot from 9 ft (assist by D. Carter)"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "112-115",
+      "",
+      "Shooting foul by C. Bassey (drawn by M. Raynaud)"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "112-116",
+      "+1",
+      "M. Raynaud makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "1:46.0",
+      "Shooting foul by M. Raynaud (drawn by C. Bassey)",
+      "",
+      "112-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "1:46.0",
+      "C. Bassey makes free throw 1 of 2",
+      "+1",
+      "113-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "1:46.0",
+      "C. Bassey makes free throw 2 of 2",
+      "+1",
+      "114-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "114-116",
+      "",
+      "Turnover by D. Carter (bad pass; steal by M. Leons)"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "1:28.0",
+      "G. Santos misses 2-pt layup from 4 ft",
+      "",
+      "114-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "114-116",
+      "",
+      "Defensive rebound by D. Plowden"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "114-116",
+      "",
+      "Personal foul by P. Spencer (drawn by D. Plowden)"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "114-117",
+      "+1",
+      "D. Plowden makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "114-118",
+      "+1",
+      "D. Plowden makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "1:11.0",
+      "P. Spencer misses 3-pt jump shot from 29 ft",
+      "",
+      "114-118",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "114-118",
+      "",
+      "Defensive rebound by N. Clifford"
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "114-120",
+      "+2",
+      "D. Cardwell makes 2-pt layup from 3 ft (assist by N. Clifford)"
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "0:49.0",
+      "P. Spencer misses 3-pt jump shot from 29 ft",
+      "",
+      "114-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "0:46.0",
+      "Offensive rebound by Team",
+      "",
+      "114-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "0:46.0",
+      "Golden State full timeout",
+      "",
+      "114-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "0:44.0",
+      "B. Podziemski makes 3-pt jump shot from 24 ft (assist by P. Spencer)",
+      "+3",
+      "117-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "117-120",
+      "",
+      "Personal foul by G. Santos (drawn by N. Clifford)"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "117-121",
+      "+1",
+      "N. Clifford makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "117-122",
+      "+1",
+      "N. Clifford makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "0:18.0",
+      "B. Podziemski misses 2-pt jump shot from 7 ft",
+      "",
+      "117-122",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "117-122",
+      "",
+      "Defensive rebound by N. Clifford"
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "117-124",
+      "+2",
+      "M. Raynaud makes 2-pt dunk from 3 ft (assist by N. Clifford)"
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "0:04.0",
+      "Shooting foul by D. Cardwell (drawn by B. Podziemski)",
+      "",
+      "117-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "0:04.0",
+      "B. Podziemski misses free throw 1 of 2",
+      "",
+      "117-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "0:04.0",
+      "Offensive rebound by Team",
+      "",
+      "117-124",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "0:04.0",
+      "B. Podziemski makes free throw 2 of 2",
+      "+1",
+      "118-124",
+      "",
+      ""
+    ]
+  }
+]

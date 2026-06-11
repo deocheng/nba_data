@@ -1,0 +1,4820 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "Cleveland",
+      "",
+      "Score",
+      "",
+      "Toronto"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:35.0",
+      "D. Mitchell makes 3-pt jump shot from 30 ft",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Turnover by B. Ingram (bad pass; steal by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:03.0",
+      "D. Mitchell misses 3-pt jump shot from 25 ft",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Defensive rebound by I. Quickley"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:57.0",
+      "",
+      "",
+      "3-3",
+      "+3",
+      "I. Quickley makes 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:38.0",
+      "L. Nance misses 3-pt jump shot from 24 ft",
+      "",
+      "3-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "3-3",
+      "",
+      "Defensive rebound by I. Quickley"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "3-6",
+      "+3",
+      "B. Ingram makes 3-pt jump shot from 25 ft (assist by S. Barnes)"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:26.0",
+      "Cleveland full timeout",
+      "",
+      "3-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:06.0",
+      "D. Mitchell misses 2-pt layup from 1 ft",
+      "",
+      "3-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "3-6",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "3-6",
+      "",
+      "J. Walter misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "3-6",
+      "",
+      "Offensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "3-6",
+      "",
+      "B. Ingram misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:44.0",
+      "Defensive rebound by E. Mobley",
+      "",
+      "3-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:40.0",
+      "J. Tyson makes 2-pt layup from 1 ft (assist by E. Mobley)",
+      "+2",
+      "5-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "5-6",
+      "",
+      "Turnover by I. Quickley (bad pass; steal by L. Nance)"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:17.0",
+      "J. Tyson makes 2-pt layup from 1 ft",
+      "+2",
+      "7-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:17.0",
+      "Shooting foul by J. Walter (drawn by J. Tyson)",
+      "",
+      "7-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:17.0",
+      "J. Tyson makes free throw 1 of 1",
+      "+1",
+      "8-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:02.0",
+      "",
+      "",
+      "8-6",
+      "",
+      "Turnover by B. Ingram (bad pass; steal by L. Ball)"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:01.0",
+      "Personal foul by S. Barnes (drawn by E. Mobley)",
+      "",
+      "8-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:51.0",
+      "L. Ball misses 3-pt jump shot from 23 ft",
+      "",
+      "8-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "8-6",
+      "",
+      "Defensive rebound by J. Walter"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "8-8",
+      "+2",
+      "S. Barnes makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:22.0",
+      "Turnover by E. Mobley (lost ball; steal by J. Walter)",
+      "",
+      "8-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "8-10",
+      "+2",
+      "J. Walter makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:57.0",
+      "Turnover by J. Tyson (bad pass; steal by J. Walter)",
+      "",
+      "8-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "8-12",
+      "+2",
+      "S. Barnes makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:30.0",
+      "L. Ball makes 3-pt jump shot from 24 ft (assist by D. Mitchell)",
+      "+3",
+      "11-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "11-15",
+      "+3",
+      "B. Ingram makes 3-pt jump shot from 26 ft (assist by I. Quickley)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:05.0",
+      "L. Ball makes 3-pt jump shot from 26 ft",
+      "+3",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "14-15",
+      "",
+      "S. Barnes misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:46.0",
+      "Defensive rebound by L. Ball",
+      "",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:37.0",
+      "Turnover by J. Tyson (bad pass; steal by J. Poeltl)",
+      "",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "14-15",
+      "",
+      "Turnover by J. Poeltl (lost ball; steal by L. Ball)"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:22.0",
+      "D. Mitchell misses 3-pt jump shot from 26 ft",
+      "",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:20.0",
+      "Offensive rebound by J. Tyson",
+      "",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:17.0",
+      "L. Nance makes 3-pt jump shot from 24 ft (assist by D. Mitchell)",
+      "+3",
+      "17-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "17-15",
+      "",
+      "Toronto full timeout"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:15.0",
+      "T. Proctor enters the game for D. Mitchell",
+      "",
+      "17-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:15.0",
+      "N. Tomlin enters the game for E. Mobley",
+      "",
+      "17-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "17-15",
+      "",
+      "G. Dick enters the game for J. Poeltl"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "17-15",
+      "",
+      "S. Mamukelashvili enters the game for J. Walter"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:03.0",
+      "",
+      "",
+      "17-17",
+      "+2",
+      "B. Ingram makes 2-pt jump shot from 17 ft (assist by I. Quickley)"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:49.0",
+      "J. Tyson misses 2-pt layup from 6 ft",
+      "",
+      "17-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "17-17",
+      "",
+      "Defensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "17-17",
+      "",
+      "I. Quickley misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:39.0",
+      "Defensive rebound by N. Tomlin",
+      "",
+      "17-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:34.0",
+      "N. Tomlin makes 2-pt layup from 1 ft (assist by L. Ball)",
+      "+2",
+      "19-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "19-17",
+      "",
+      "B. Ingram misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:07.0",
+      "Defensive rebound by L. Nance",
+      "",
+      "19-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:54.0",
+      "Personal foul by I. Quickley (drawn by L. Nance)",
+      "",
+      "19-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:54.0",
+      "L. Travers enters the game for J. Tyson",
+      "",
+      "19-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "19-17",
+      "",
+      "C. Murray-Boyles enters the game for S. Barnes"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:50.0",
+      "L. Ball misses 3-pt jump shot from 29 ft",
+      "",
+      "19-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "19-17",
+      "",
+      "Defensive rebound by S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "19-17",
+      "",
+      "G. Dick misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:32.0",
+      "Defensive rebound by T. Proctor",
+      "",
+      "19-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:26.0",
+      "T. Proctor misses 3-pt jump shot from 27 ft",
+      "",
+      "19-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "19-17",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "19-17",
+      "",
+      "J. Shead enters the game for I. Quickley"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "19-17",
+      "",
+      "Turnover by C. Murray-Boyles (bad pass; steal by L. Travers)"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:05.0",
+      "N. Tomlin makes 2-pt layup from 1 ft (assist by L. Travers)",
+      "+2",
+      "21-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "21-17",
+      "",
+      "B. Ingram misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:46.0",
+      "Defensive rebound by L. Ball",
+      "",
+      "21-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:32.0",
+      "Shooting foul by G. Dick (drawn by T. Proctor)",
+      "",
+      "21-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:32.0",
+      "T. Proctor makes free throw 1 of 2",
+      "+1",
+      "22-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:32.0",
+      "D. Mitchell enters the game for L. Ball",
+      "",
+      "22-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "3:32.0",
+      "E. Mobley enters the game for L. Nance",
+      "",
+      "22-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "22-17",
+      "",
+      "S. Barnes enters the game for B. Ingram"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:32.0",
+      "T. Proctor makes free throw 2 of 2",
+      "+1",
+      "23-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "23-20",
+      "+3",
+      "S. Mamukelashvili makes 3-pt jump shot from 23 ft (assist by S. Barnes)"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:02.0",
+      "L. Travers misses 2-pt layup from 2 ft",
+      "",
+      "23-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "23-20",
+      "",
+      "Defensive rebound by S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "23-23",
+      "+3",
+      "S. Mamukelashvili makes 3-pt jump shot from 23 ft (assist by J. Shead)"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:45.0",
+      "Personal foul by G. Dick (drawn by T. Proctor)",
+      "",
+      "23-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:45.0",
+      "T. Proctor makes free throw 1 of 2",
+      "+1",
+      "24-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:45.0",
+      "T. Proctor makes free throw 2 of 2",
+      "+1",
+      "25-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "25-23",
+      "",
+      "S. Mamukelashvili misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:31.0",
+      "Defensive rebound by T. Proctor",
+      "",
+      "25-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:25.0",
+      "N. Tomlin misses 2-pt layup from 4 ft (block by S. Mamukelashvili)",
+      "",
+      "25-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "25-23",
+      "",
+      "Defensive rebound by S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "25-23",
+      "",
+      "G. Dick misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "25-23",
+      "",
+      "Offensive rebound by S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "25-25",
+      "+2",
+      "S. Mamukelashvili makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:02.0",
+      "E. Mobley makes 2-pt dunk from 1 ft (assist by D. Mitchell)",
+      "+2",
+      "27-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "27-25",
+      "",
+      "Personal foul by L. Travers (drawn by S. Mamukelashvili)"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "27-25",
+      "",
+      "S. Barnes misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "1:37.0",
+      "Defensive rebound by L. Travers",
+      "",
+      "27-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "1:29.0",
+      "E. Mobley makes 3-pt jump shot from 23 ft (assist by T. Proctor)",
+      "+3",
+      "30-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "30-27",
+      "+2",
+      "C. Murray-Boyles makes 2-pt layup at rim (assist by S. Barnes)"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:47.0",
+      "L. Travers misses 3-pt jump shot from 26 ft",
+      "",
+      "30-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "30-27",
+      "",
+      "Defensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "30-29",
+      "+2",
+      "J. Shead makes 2-pt layup from 1 ft (assist by S. Mamukelashvili)"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:10.0",
+      "D. Mitchell makes 2-pt jump shot from 12 ft",
+      "+2",
+      "32-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "32-29",
+      "",
+      "S. Mamukelashvili misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "32-29",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "Time",
+      "Cleveland",
+      "",
+      "Score",
+      "",
+      "Toronto"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "32-29",
+      "",
+      "S. Barnes misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "11:42.0",
+      "Defensive rebound by J. Tyson",
+      "",
+      "32-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "11:32.0",
+      "L. Travers misses 3-pt jump shot from 24 ft",
+      "",
+      "32-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "11:29.0",
+      "Offensive rebound by T. Bryant",
+      "",
+      "32-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "11:28.0",
+      "Shooting foul by J. Poeltl (drawn by L. Travers)",
+      "",
+      "32-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "11:28.0",
+      "L. Travers makes free throw 1 of 2",
+      "+1",
+      "33-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "11:28.0",
+      "L. Travers makes free throw 2 of 2",
+      "+1",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "S. Barnes misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "11:11.0",
+      "Defensive rebound by E. Mobley",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "10:55.0",
+      "D. Mitchell misses 2-pt jump shot from 17 ft",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "10:52.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "Defensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "10:49.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "G. Dick misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "10:46.0",
+      "Defensive rebound by L. Travers",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "10:37.0",
+      "L. Travers misses 2-pt layup from 5 ft",
+      "",
+      "34-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "10:34.0",
+      "",
+      "",
+      "34-29",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "10:24.0",
+      "",
+      "",
+      "34-31",
+      "+2",
+      "S. Barnes makes 2-pt jump shot from 12 ft (assist by J. Shead)"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "10:17.0",
+      "T. Bryant makes 2-pt dunk from 1 ft (assist by D. Mitchell)",
+      "+2",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "J. Poeltl misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:03.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "Offensive rebound by J. Walter"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "J. Walter misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "36-31",
+      "",
+      "Offensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "36-33",
+      "+2",
+      "J. Poeltl makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "36-33",
+      "",
+      "Shooting foul by T. Bryant (drawn by J. Poeltl)"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:01.0",
+      "C. Livingston enters the game for L. Travers",
+      "",
+      "36-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "36-33",
+      "",
+      "O. Agbaji enters the game for G. Dick"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "36-34",
+      "+1",
+      "J. Poeltl makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "9:49.0",
+      "J. Tyson misses 3-pt jump shot from 26 ft",
+      "",
+      "36-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:45.0",
+      "",
+      "",
+      "36-34",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "36-34",
+      "",
+      "J. Shead misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:35.0",
+      "Defensive rebound by E. Mobley",
+      "",
+      "36-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:26.0",
+      "E. Mobley makes 3-pt jump shot from 27 ft (assist by D. Mitchell)",
+      "+3",
+      "39-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "39-36",
+      "+2",
+      "S. Barnes makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "8:46.0",
+      "Turnover by E. Mobley (bad pass; steal by J. Shead)",
+      "",
+      "39-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "39-36",
+      "",
+      "Turnover by J. Shead (bad pass)"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "39-36",
+      "",
+      "B. Ingram enters the game for S. Barnes"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:28.0",
+      "D. Mitchell misses 3-pt jump shot from 26 ft",
+      "",
+      "39-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:26.0",
+      "Offensive rebound by J. Tyson",
+      "",
+      "39-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:19.0",
+      "C. Livingston makes 2-pt hook shot from 3 ft (assist by D. Mitchell)",
+      "+2",
+      "41-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:19.0",
+      "Shooting foul by B. Ingram (drawn by C. Livingston)",
+      "",
+      "41-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:19.0",
+      "L. Ball enters the game for D. Mitchell",
+      "",
+      "41-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:19.0",
+      "N. Tomlin enters the game for E. Mobley",
+      "",
+      "41-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "41-36",
+      "",
+      "C. Murray-Boyles enters the game for J. Shead"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "41-36",
+      "",
+      "I. Quickley enters the game for J. Walter"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:19.0",
+      "C. Livingston makes free throw 1 of 1",
+      "+1",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "I. Quickley misses 2-pt jump shot from 13 ft (block by T. Bryant)"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "7:55.0",
+      "Defensive rebound by J. Tyson",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "7:54.0",
+      "Turnover by J. Tyson (bad pass; steal by B. Ingram)",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Shooting foul by N. Tomlin (drawn by B. Ingram)"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "B. Ingram misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "B. Ingram misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Offensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "I. Quickley misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:30.0",
+      "Defensive rebound by C. Livingston",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:21.0",
+      "L. Ball misses 2-pt jump shot from 18 ft",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Defensive rebound by B. Ingram"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "B. Ingram misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:07.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Offensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Shooting foul by N. Tomlin (drawn by C. Murray-Boyles)"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "C. Murray-Boyles misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:06.0",
+      "T. Proctor enters the game for J. Tyson",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "S. Mamukelashvili enters the game for J. Poeltl"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "C. Murray-Boyles misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "7:04.0",
+      "Defensive rebound by L. Ball",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:48.0",
+      "L. Ball misses 3-pt jump shot from 26 ft",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:47.0",
+      "Loose ball foul by C. Livingston (drawn by O. Agbaji)",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Toronto full timeout"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:47.0",
+      "L. Nance enters the game for T. Bryant",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "Turnover by I. Quickley (traveling)"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:18.0",
+      "T. Proctor makes 2-pt jump shot from 12 ft",
+      "+2",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "44-38",
+      "+2",
+      "B. Ingram makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:48.0",
+      "L. Nance misses 2-pt jump shot from 12 ft",
+      "",
+      "44-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "44-38",
+      "",
+      "Defensive rebound by S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "44-40",
+      "+2",
+      "B. Ingram makes 2-pt layup from 3 ft (assist by I. Quickley)"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:25.0",
+      "C. Livingston misses 3-pt jump shot from 23 ft",
+      "",
+      "44-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "44-40",
+      "",
+      "Defensive rebound by I. Quickley"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "44-40",
+      "",
+      "I. Quickley misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:14.0",
+      "Defensive rebound by L. Ball",
+      "",
+      "44-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:09.0",
+      "N. Tomlin makes 3-pt jump shot from 25 ft (assist by L. Nance)",
+      "+3",
+      "47-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "47-40",
+      "",
+      "B. Ingram misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:42.0",
+      "Defensive rebound by N. Tomlin",
+      "",
+      "47-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:24.0",
+      "T. Proctor misses 3-pt jump shot from 30 ft",
+      "",
+      "47-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "47-40",
+      "",
+      "Defensive rebound by C. Murray-Boyles"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "47-42",
+      "+2",
+      "O. Agbaji makes 2-pt dunk from 1 ft (assist by C. Murray-Boyles)"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:50.0",
+      "N. Tomlin makes 3-pt jump shot from 31 ft (assist by L. Nance)",
+      "+3",
+      "50-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:23.0",
+      "",
+      "",
+      "50-44",
+      "+2",
+      "I. Quickley makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:23.0",
+      "Cleveland full timeout",
+      "",
+      "50-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:23.0",
+      "D. Mitchell enters the game for C. Livingston",
+      "",
+      "50-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:23.0",
+      "E. Mobley enters the game for L. Nance",
+      "",
+      "50-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:23.0",
+      "J. Tyson enters the game for N. Tomlin",
+      "",
+      "50-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:23.0",
+      "",
+      "",
+      "50-44",
+      "",
+      "S. Barnes enters the game for O. Agbaji"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:23.0",
+      "",
+      "",
+      "50-44",
+      "",
+      "J. Shead enters the game for C. Murray-Boyles"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:07.0",
+      "L. Ball makes 2-pt layup from 1 ft",
+      "+2",
+      "52-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "52-46",
+      "+2",
+      "I. Quickley makes 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:30.0",
+      "T. Proctor misses 3-pt jump shot from 24 ft",
+      "",
+      "52-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "52-46",
+      "",
+      "Defensive rebound by B. Ingram"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "52-48",
+      "+2",
+      "I. Quickley makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:13.0",
+      "J. Tyson misses 2-pt jump shot from 13 ft",
+      "",
+      "52-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:12.0",
+      "Offensive rebound by J. Tyson",
+      "",
+      "52-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:09.0",
+      "L. Ball misses 3-pt jump shot from 26 ft",
+      "",
+      "52-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "52-48",
+      "",
+      "Defensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "52-50",
+      "+2",
+      "S. Mamukelashvili makes 2-pt layup from 2 ft (assist by J. Shead)"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:38.0",
+      "T. Proctor makes 2-pt layup from 1 ft (assist by E. Mobley)",
+      "+2",
+      "54-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "54-52",
+      "+2",
+      "J. Shead makes 2-pt layup from 1 ft (assist by I. Quickley)"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "1:20.0",
+      "T. Proctor misses 2-pt jump shot from 21 ft",
+      "",
+      "54-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "54-52",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "1:20.0",
+      "Loose ball foul by J. Tyson (drawn by B. Ingram)",
+      "",
+      "54-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "54-52",
+      "",
+      "B. Ingram misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "54-52",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:20.0",
+      "N. Tomlin enters the game for T. Proctor",
+      "",
+      "54-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "54-52",
+      "",
+      "J. Poeltl enters the game for S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "54-53",
+      "+1",
+      "B. Ingram makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "1:07.0",
+      "D. Mitchell misses 2-pt hook shot from 9 ft",
+      "",
+      "54-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "1:05.0",
+      "",
+      "",
+      "54-53",
+      "",
+      "Defensive rebound by B. Ingram"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "54-55",
+      "+2",
+      "B. Ingram makes 2-pt jump shot from 15 ft (assist by I. Quickley)"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:42.0",
+      "Turnover by E. Mobley (back court)",
+      "",
+      "54-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:24.0",
+      "",
+      "",
+      "54-57",
+      "+2",
+      "B. Ingram makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:03.0",
+      "L. Ball misses 3-pt jump shot from 26 ft",
+      "",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "54-57",
+      "",
+      "Defensive rebound by I. Quickley"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "54-57",
+      "",
+      "I. Quickley misses 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "54-57",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "Time",
+      "Cleveland",
+      "",
+      "Score",
+      "",
+      "Toronto"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "54-57",
+      "",
+      "Turnover by B. Ingram (bad pass; steal by J. Tyson)"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "11:31.0",
+      "E. Mobley misses 3-pt jump shot from 24 ft",
+      "",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "54-57",
+      "",
+      "Defensive rebound by B. Ingram"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "11:18.0",
+      "",
+      "",
+      "54-59",
+      "+2",
+      "I. Quickley makes 2-pt jump shot from 21 ft (assist by B. Ingram)"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "11:11.0",
+      "E. Mobley makes 2-pt layup from 1 ft (assist by L. Ball)",
+      "+2",
+      "56-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "10:49.0",
+      "",
+      "",
+      "56-61",
+      "+2",
+      "B. Ingram makes 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "10:35.0",
+      "D. Mitchell misses 3-pt jump shot from 28 ft",
+      "",
+      "56-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "56-61",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "56-61",
+      "",
+      "J. Walter misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "10:25.0",
+      "Defensive rebound by J. Tyson",
+      "",
+      "56-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "10:17.0",
+      "L. Ball misses 2-pt jump shot from 19 ft",
+      "",
+      "56-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "56-61",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "56-61",
+      "",
+      "I. Quickley misses 3-pt jump shot from 32 ft"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "10:05.0",
+      "Defensive rebound by E. Mobley",
+      "",
+      "56-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "9:58.0",
+      "Personal foul by J. Walter (drawn by D. Mitchell)",
+      "",
+      "56-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "9:49.0",
+      "L. Ball misses 3-pt jump shot from 23 ft",
+      "",
+      "56-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "9:45.0",
+      "",
+      "",
+      "56-61",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "9:40.0",
+      "",
+      "",
+      "56-61",
+      "",
+      "I. Quickley misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:38.0",
+      "Defensive rebound by Team",
+      "",
+      "56-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "9:26.0",
+      "D. Mitchell misses 3-pt jump shot from 27 ft",
+      "",
+      "56-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "56-61",
+      "",
+      "Defensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "9:20.0",
+      "",
+      "",
+      "56-63",
+      "+2",
+      "J. Poeltl makes 2-pt dunk from 1 ft (assist by S. Barnes)"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "9:20.0",
+      "Cleveland full timeout",
+      "",
+      "56-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "9:04.0",
+      "Shooting foul by J. Walter (drawn by E. Mobley)",
+      "",
+      "56-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "9:04.0",
+      "E. Mobley makes free throw 1 of 2",
+      "+1",
+      "57-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "9:04.0",
+      "E. Mobley makes free throw 2 of 2",
+      "+1",
+      "58-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "58-66",
+      "+3",
+      "J. Walter makes 3-pt jump shot from 23 ft (assist by I. Quickley)"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "8:23.0",
+      "D. Mitchell misses 2-pt jump shot from 21 ft",
+      "",
+      "58-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "58-66",
+      "",
+      "Defensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "8:14.0",
+      "",
+      "",
+      "58-68",
+      "+2",
+      "B. Ingram makes 2-pt dunk from 1 ft (assist by S. Barnes)"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "7:56.0",
+      "L. Nance makes 3-pt jump shot from 24 ft (assist by E. Mobley)",
+      "+3",
+      "61-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "61-70",
+      "+2",
+      "S. Barnes makes 2-pt layup from 1 ft (assist by I. Quickley)"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "7:40.0",
+      "T. Proctor enters the game for D. Mitchell",
+      "",
+      "61-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "7:40.0",
+      "N. Tomlin enters the game for E. Mobley",
+      "",
+      "61-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "7:24.0",
+      "J. Tyson makes 3-pt jump shot from 23 ft (assist by L. Ball)",
+      "+3",
+      "64-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "7:00.0",
+      "",
+      "",
+      "64-70",
+      "",
+      "J. Walter misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "6:58.0",
+      "Defensive rebound by J. Tyson",
+      "",
+      "64-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "6:46.0",
+      "T. Proctor misses 3-pt jump shot from 23 ft",
+      "",
+      "64-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "64-70",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "64-73",
+      "+3",
+      "B. Ingram makes 3-pt jump shot from 27 ft (assist by J. Walter)"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "6:23.0",
+      "L. Ball misses 3-pt jump shot from 26 ft",
+      "",
+      "64-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "64-73",
+      "",
+      "Defensive rebound by I. Quickley"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "6:12.0",
+      "",
+      "",
+      "64-73",
+      "",
+      "Turnover by S. Barnes (bad pass; steal by L. Nance)"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "6:07.0",
+      "J. Tyson makes 3-pt jump shot from 26 ft (assist by L. Ball)",
+      "+3",
+      "67-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "5:48.0",
+      "",
+      "",
+      "67-73",
+      "",
+      "B. Ingram misses 2-pt jump shot from 10 ft (block by L. Ball)"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "5:45.0",
+      "Defensive rebound by J. Tyson",
+      "",
+      "67-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "5:44.0",
+      "N. Tomlin makes 2-pt dunk from 1 ft (assist by J. Tyson)",
+      "+2",
+      "69-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "69-73",
+      "",
+      "Toronto full timeout"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "5:44.0",
+      "T. Bryant enters the game for L. Nance",
+      "",
+      "69-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "69-73",
+      "",
+      "G. Dick enters the game for S. Barnes"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "69-73",
+      "",
+      "S. Mamukelashvili enters the game for J. Poeltl"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "69-73",
+      "",
+      "C. Murray-Boyles enters the game for J. Walter"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "69-75",
+      "+2",
+      "B. Ingram makes 2-pt jump shot from 15 ft (assist by S. Mamukelashvili)"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "69-75",
+      "",
+      "Shooting foul by L. Ball (drawn by B. Ingram)"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "69-76",
+      "+1",
+      "B. Ingram makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "5:12.0",
+      "T. Bryant misses 2-pt jump shot from 14 ft",
+      "",
+      "69-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "Defensive rebound by I. Quickley"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "B. Ingram misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "5:02.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "Offensive rebound by C. Murray-Boyles"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "G. Dick misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "4:52.0",
+      "Defensive rebound by T. Bryant",
+      "",
+      "69-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "4:50.0",
+      "Turnover by L. Ball (bad pass)",
+      "",
+      "69-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "4:30.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "B. Ingram misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "4:28.0",
+      "Defensive rebound by J. Tyson",
+      "",
+      "69-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "4:19.0",
+      "L. Ball misses 3-pt jump shot from 26 ft",
+      "",
+      "69-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "Flagrant foul type 1 by T. Bryant (drawn by C. Murray-Boyles)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "4:19.0",
+      "D. Mitchell enters the game for L. Ball",
+      "",
+      "69-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "4:19.0",
+      "E. Mobley enters the game for J. Tyson",
+      "",
+      "69-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "S. Barnes enters the game for B. Ingram"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "69-76",
+      "",
+      "J. Shead enters the game for I. Quickley"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "69-77",
+      "+1",
+      "C. Murray-Boyles makes flagrant free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "69-78",
+      "+1",
+      "C. Murray-Boyles makes flagrant free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "4:19.0",
+      "L. Travers enters the game for T. Bryant",
+      "",
+      "69-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "69-78",
+      "",
+      "B. Ingram enters the game for C. Murray-Boyles"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "69-78",
+      "",
+      "B. Ingram misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:11.0",
+      "Defensive rebound by N. Tomlin",
+      "",
+      "69-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:05.0",
+      "D. Mitchell makes 2-pt jump shot from 7 ft",
+      "+2",
+      "71-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "3:43.0",
+      "",
+      "",
+      "71-80",
+      "+2",
+      "B. Ingram makes 2-pt jump shot from 20 ft (assist by J. Shead)"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "3:27.0",
+      "T. Proctor misses 2-pt jump shot from 7 ft",
+      "",
+      "71-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "3:25.0",
+      "",
+      "",
+      "71-80",
+      "",
+      "Defensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "71-80",
+      "",
+      "G. Dick misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "3:10.0",
+      "Defensive rebound by E. Mobley",
+      "",
+      "71-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "2:54.0",
+      "L. Travers makes 2-pt layup from 1 ft (assist by E. Mobley)",
+      "+2",
+      "73-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "2:54.0",
+      "Shooting foul by G. Dick (drawn by L. Travers)",
+      "",
+      "73-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "73-80",
+      "",
+      "J. Walter enters the game for G. Dick"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "2:54.0",
+      "L. Travers makes free throw 1 of 1",
+      "+1",
+      "74-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "B. Ingram misses 3-pt jump shot from 25 ft (block by E. Mobley)"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "Offensive rebound by J. Walter"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "S. Mamukelashvili misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:26.0",
+      "Defensive rebound by T. Proctor",
+      "",
+      "74-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "2:16.0",
+      "D. Mitchell misses 2-pt jump shot from 8 ft",
+      "",
+      "74-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "Defensive rebound by S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "74-83",
+      "+3",
+      "J. Shead makes 3-pt jump shot from 27 ft (assist by S. Mamukelashvili)"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "2:06.0",
+      "Offensive foul by T. Proctor (drawn by J. Walter)",
+      "",
+      "74-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "2:06.0",
+      "Turnover by T. Proctor (offensive foul)",
+      "",
+      "74-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "2:06.0",
+      "Violation by Team (delay of game)",
+      "",
+      "74-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "74-85",
+      "+2",
+      "S. Mamukelashvili makes 2-pt hook shot from 6 ft (assist by J. Shead)"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "1:29.0",
+      "L. Travers misses 3-pt jump shot from 25 ft",
+      "",
+      "74-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "74-85",
+      "",
+      "Defensive rebound by B. Ingram"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "74-88",
+      "+3",
+      "B. Ingram makes 3-pt jump shot from 26 ft (assist by J. Shead)"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "1:18.0",
+      "Cleveland full timeout",
+      "",
+      "74-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "1:07.0",
+      "E. Mobley makes 2-pt dunk from 1 ft (assist by D. Mitchell)",
+      "+2",
+      "76-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "76-88",
+      "",
+      "Personal foul by N. Tomlin (drawn by B. Ingram)"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "76-88",
+      "",
+      "B. Ingram misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "0:41.0",
+      "Defensive rebound by N. Tomlin",
+      "",
+      "76-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "0:36.0",
+      "D. Mitchell misses 3-pt jump shot from 28 ft",
+      "",
+      "76-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "76-88",
+      "",
+      "Defensive rebound by S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "0:21.0",
+      "",
+      "",
+      "76-88",
+      "",
+      "Turnover by B. Ingram (lost ball; steal by T. Proctor)"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "0:10.0",
+      "Personal take foul by J. Walter (drawn by D. Mitchell)",
+      "",
+      "76-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "0:10.0",
+      "L. Ball enters the game for N. Tomlin",
+      "",
+      "76-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "0:10.0",
+      "J. Tyson enters the game for L. Travers",
+      "",
+      "76-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "76-88",
+      "",
+      "O. Agbaji enters the game for J. Walter"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "0:00.0",
+      "T. Proctor misses 3-pt jump shot from 24 ft",
+      "",
+      "76-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "76-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "Time",
+      "Cleveland",
+      "",
+      "Score",
+      "",
+      "Toronto"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "11:51.0",
+      "N. Tomlin makes 2-pt layup from 1 ft (assist by D. Mitchell)",
+      "+2",
+      "78-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "11:25.0",
+      "",
+      "",
+      "78-88",
+      "",
+      "S. Barnes misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "11:23.0",
+      "",
+      "",
+      "78-88",
+      "",
+      "Offensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "78-88",
+      "",
+      "Turnover by S. Barnes (bad pass; steal by T. Bryant)"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "11:06.0",
+      "Shooting foul by J. Poeltl (drawn by D. Mitchell)",
+      "",
+      "78-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "11:06.0",
+      "D. Mitchell makes free throw 1 of 2",
+      "+1",
+      "79-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "11:06.0",
+      "D. Mitchell makes free throw 2 of 2",
+      "+1",
+      "80-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "10:52.0",
+      "",
+      "",
+      "80-90",
+      "+2",
+      "O. Agbaji makes 2-pt layup at rim (assist by J. Poeltl)"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "10:39.0",
+      "D. Mitchell makes 2-pt jump shot from 10 ft (assist by J. Tyson)",
+      "+2",
+      "82-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "82-90",
+      "",
+      "Shooting foul by N. Tomlin (drawn by S. Barnes)"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "82-91",
+      "+1",
+      "S. Barnes makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "82-92",
+      "+1",
+      "S. Barnes makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "9:58.0",
+      "J. Tyson makes 2-pt layup from 5 ft (assist by C. Livingston)",
+      "+2",
+      "84-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "84-94",
+      "+2",
+      "J. Poeltl makes 2-pt dunk at rim (assist by S. Barnes)"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "84-94",
+      "",
+      "J. Battle enters the game for S. Barnes"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "9:36.0",
+      "Turnover by D. Mitchell (lost ball; steal by J. Poeltl)",
+      "",
+      "84-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "84-94",
+      "",
+      "Shooting foul by C. Livingston (drawn by J. Battle)"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "84-95",
+      "+1",
+      "J. Battle makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "84-96",
+      "+1",
+      "J. Battle makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "9:25.0",
+      "L. Ball enters the game for D. Mitchell",
+      "",
+      "84-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "84-96",
+      "",
+      "I. Quickley enters the game for J. Shead"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "84-97",
+      "+1",
+      "J. Battle makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "9:13.0",
+      "C. Livingston makes 2-pt layup from 1 ft (assist by T. Bryant)",
+      "+2",
+      "86-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "86-97",
+      "",
+      "Turnover by J. Poeltl (bad pass; steal by C. Livingston)"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "9:02.0",
+      "C. Livingston misses 3-pt jump shot from 24 ft",
+      "",
+      "86-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "9:01.0",
+      "",
+      "",
+      "86-97",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "86-97",
+      "",
+      "O. Agbaji misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "8:40.0",
+      "Defensive rebound by C. Livingston",
+      "",
+      "86-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "8:27.0",
+      "N. Tomlin misses 3-pt jump shot from 23 ft",
+      "",
+      "86-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "86-97",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "86-97",
+      "",
+      "J. Walter misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:07.0",
+      "Defensive rebound by L. Ball",
+      "",
+      "86-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:03.0",
+      "C. Livingston makes 2-pt jump shot from 6 ft",
+      "+2",
+      "88-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "88-97",
+      "",
+      "Toronto full timeout"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "88-97",
+      "",
+      "S. Barnes enters the game for O. Agbaji"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "88-97",
+      "",
+      "B. Ingram enters the game for J. Battle"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "88-97",
+      "",
+      "S. Mamukelashvili enters the game for J. Poeltl"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "88-99",
+      "+2",
+      "B. Ingram makes 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "7:26.0",
+      "Personal foul by S. Mamukelashvili (drawn by T. Bryant)",
+      "",
+      "88-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "7:16.0",
+      "T. Bryant makes 3-pt jump shot from 26 ft (assist by L. Ball)",
+      "+3",
+      "91-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "91-99",
+      "",
+      "J. Walter misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "91-99",
+      "",
+      "Offensive rebound by S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "91-99",
+      "",
+      "I. Quickley misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "6:49.0",
+      "Defensive rebound by C. Livingston",
+      "",
+      "91-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "6:46.0",
+      "J. Tyson makes 2-pt jump shot from 8 ft",
+      "+2",
+      "93-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "6:22.0",
+      "",
+      "",
+      "93-99",
+      "",
+      "B. Ingram misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "6:20.0",
+      "Defensive rebound by L. Ball",
+      "",
+      "93-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "6:08.0",
+      "T. Bryant misses 3-pt jump shot from 26 ft",
+      "",
+      "93-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "93-99",
+      "",
+      "Defensive rebound by S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "93-99",
+      "",
+      "Turnover by S. Mamukelashvili (bad pass)"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "6:02.0",
+      "D. Mitchell enters the game for T. Bryant",
+      "",
+      "93-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "6:02.0",
+      "E. Mobley enters the game for J. Tyson",
+      "",
+      "93-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "93-99",
+      "",
+      "J. Shead enters the game for J. Walter"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "5:55.0",
+      "Turnover by D. Mitchell (bad pass; steal by I. Quickley)",
+      "",
+      "93-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "93-101",
+      "+2",
+      "S. Barnes makes 2-pt layup from 1 ft (assist by B. Ingram)"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "5:35.0",
+      "E. Mobley misses 2-pt layup from 5 ft",
+      "",
+      "93-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "93-101",
+      "",
+      "Defensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "93-103",
+      "+2",
+      "S. Barnes makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "5:13.0",
+      "D. Mitchell makes 3-pt jump shot from 26 ft (assist by L. Ball)",
+      "+3",
+      "96-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "96-103",
+      "",
+      "Turnover by S. Barnes (lost ball; steal by N. Tomlin)"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "4:37.0",
+      "D. Mitchell makes 3-pt jump shot from 26 ft (assist by L. Ball)",
+      "+3",
+      "99-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "99-103",
+      "",
+      "Toronto full timeout"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "4:35.0",
+      "J. Tyson enters the game for C. Livingston",
+      "",
+      "99-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "99-103",
+      "",
+      "J. Poeltl enters the game for S. Mamukelashvili"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "99-106",
+      "+3",
+      "B. Ingram makes 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "3:51.0",
+      "Turnover by E. Mobley (out of bounds lost ball)",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "3:51.0",
+      "Cleveland full timeout",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "3:51.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "3:51.0",
+      "Instant Replay",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "3:30.0",
+      "",
+      "",
+      "99-106",
+      "",
+      "B. Ingram misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "3:28.0",
+      "Defensive rebound by Team",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "3:19.0",
+      "D. Mitchell misses 3-pt jump shot from 26 ft",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "3:15.0",
+      "",
+      "",
+      "99-106",
+      "",
+      "Defensive rebound by S. Barnes"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "99-106",
+      "",
+      "B. Ingram misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "2:50.0",
+      "Defensive rebound by D. Mitchell",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "2:47.0",
+      "D. Mitchell misses 3-pt jump shot from 25 ft",
+      "",
+      "99-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "2:43.0",
+      "",
+      "",
+      "99-106",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "99-106",
+      "",
+      "Shooting foul by J. Tyson (drawn by J. Shead)"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "99-107",
+      "+1",
+      "J. Shead makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "99-107",
+      "",
+      "J. Shead misses free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "99-107",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "99-108",
+      "+1",
+      "J. Shead makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "2:04.0",
+      "Turnover by L. Ball (bad pass; steal by S. Barnes)",
+      "",
+      "99-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "99-108",
+      "",
+      "I. Quickley misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "1:43.0",
+      "Defensive rebound by L. Ball",
+      "",
+      "99-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "1:40.0",
+      "L. Ball misses 3-pt jump shot from 28 ft",
+      "",
+      "99-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "1:37.0",
+      "",
+      "",
+      "99-108",
+      "",
+      "Defensive rebound by B. Ingram"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "99-108",
+      "",
+      "B. Ingram misses 2-pt jump shot from 14 ft (block by J. Tyson)"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "99-108",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "99-110",
+      "+2",
+      "S. Barnes makes 2-pt jump shot from 6 ft (assist by J. Shead)"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "1:07.0",
+      "D. Mitchell misses 3-pt jump shot from 30 ft",
+      "",
+      "99-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "99-110",
+      "",
+      "Defensive rebound by B. Ingram"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "99-110",
+      "",
+      "Offensive foul by S. Barnes (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "99-110",
+      "",
+      "Turnover by S. Barnes (offensive foul)"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "0:36.0",
+      "L. Ball misses 3-pt jump shot from 26 ft",
+      "",
+      "99-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "99-110",
+      "",
+      "Defensive rebound by J. Poeltl"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "99-110",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+rk,game_num,game_date,is_home,opponent,opponent_abbr,result,team_score,opp_score,game_type,is_win
+1,1,2026-04-19,True,POR,POR,W,111,98,playin,True
+2,2,2026-04-21,True,POR,POR,L,103,106,playin,False
+3,3,2026-04-24,False,POR,POR,W,120,108,playin,True
+4,4,2026-04-26,False,POR,POR,W,114,93,playin,True
+5,5,2026-04-28,True,POR,POR,W,114,95,playin,True
+6,6,2026-05-04,True,MIN,MIN,L,102,104,playin,False
+7,7,2026-05-06,True,MIN,MIN,W,133,95,playoff,True
+8,8,2026-05-08,False,MIN,MIN,W,115,108,playoff,True
+9,9,2026-05-10,False,MIN,MIN,L,109,114,playoff,False
+10,10,2026-05-12,True,MIN,MIN,W,126,97,playoff,True

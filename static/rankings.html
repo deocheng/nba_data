@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA高阶数据排行榜</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #FFFFFF;
+            min-height: 100vh;
+            color: #333333;
+        }
+
+        .navbar {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid rgba(11, 61, 145, 0.1);
+        }
+
+        .navbar h1 {
+            font-size: 1.8rem;
+            color: #0b3d91;
+        }
+
+        .navbar nav {
+            margin-top: 0.5rem;
+        }
+
+        .navbar nav a {
+            color: rgba(11, 61, 145, 0.8);
+            text-decoration: none;
+            margin-right: 2rem;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .navbar nav a:hover,
+        .navbar nav a.active {
+            background: rgba(11, 61, 145, 0.15);
+            color: #0b3d91;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #0b3d91, #1e4daf);
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            color: #FFFFFF;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 30px;
+        }
+
+        .metric-selector {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .metric-btn {
+            padding: 12px 24px;
+            font-size: 14px;
+            font-weight: 600;
+            border: 2px solid transparent;
+            border-radius: 25px;
+            background: rgba(255, 215, 0, 0.1);
+            color: #ffd700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .metric-btn:hover {
+            background: rgba(255, 215, 0, 0.2);
+            border-color: #ffd700;
+        }
+
+        .metric-btn.active {
+            background: linear-gradient(135deg, #ffd700, #ffaa00);
+            color: #000;
+            border-color: #ffd700;
+        }
+
+        .description-box {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            text-align: center;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .card {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            margin-bottom: 30px;
+        }
+
+        .card-title {
+            font-size: 1.3rem;
+            color: #ffd700;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .rankings-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+
+        .ranking-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .ranking-item {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            margin-bottom: 10px;
+            transition: all 0.3s ease;
+        }
+
+        .ranking-item:hover {
+            background: rgba(255, 215, 0, 0.1);
+            transform: translateX(5px);
+        }
+
+        .ranking-item.legendary {
+            border-left: 3px solid #ffd700;
+        }
+
+        .rank-badge {
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 14px;
+            margin-right: 15px;
+        }
+
+        .rank-badge.gold {
+            background: linear-gradient(135deg, #ffd700, #ffaa00);
+            color: #000;
+        }
+
+        .rank-badge.silver {
+            background: linear-gradient(135deg, #c0c0c0, #a0a0a0);
+            color: #000;
+        }
+
+        .rank-badge.bronze {
+            background: linear-gradient(135deg, #cd7f32, #b87333);
+            color: #000;
+        }
+
+        .rank-badge.other {
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+        }
+
+        .player-info {
+            flex: 1;
+        }
+
+        .player-name {
+            font-weight: 600;
+            margin-bottom: 3px;
+        }
+
+        .player-team {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .player-value {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #ffd700;
+        }
+
+        .career-section {
+            margin-top: 30px;
+        }
+
+        .career-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .career-table th,
+        .career-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .career-table th {
+            background: rgba(0, 0, 0, 0.3);
+            font-weight: 600;
+            color: #ffd700;
+        }
+
+        .career-table tr:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .chart-container {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .chart-container h3 {
+            color: #ffd700;
+            margin-bottom: 20px;
+        }
+
+        .chart-wrapper {
+            position: relative;
+            height: 300px;
+        }
+
+        @media (max-width: 1000px) {
+            .rankings-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .career-table {
+                font-size: 12px;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 1.5rem;
+            }
+
+            .metric-btn {
+                padding: 10px 16px;
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <h1>NBA数据</h1>
+        <nav>
+            <a href="/">球队</a>
+            <a href="/team-history" target="_blank">球队历史</a>
+            <a href="/matchup" target="_blank">球队对阵</a>
+            <a href="/player-compare" target="_blank">球员对比</a>
+            <a href="/legendary-players" target="_blank">传奇球员</a>
+            <a href="/player-radar" target="_blank">能力雷达图</a>
+            <a href="/rankings" class="active">高阶数据</a>
+            <a href="/spurs" target="_blank">马刺专区</a>
+        </nav>
+    </nav>
+
+    <div class="header">
+        <h1>🏆 高阶数据排行榜</h1>
+        <p>NBA球员高阶数据排名与分析</p>
+    </div>
+
+    <div class="container">
+        <div class="metric-selector">
+            <button class="metric-btn active" data-metric="per">PER效率值</button>
+            <button class="metric-btn" data-metric="ws">WS胜利贡献值</button>
+            <button class="metric-btn" data-metric="bpm">BPM正负值</button>
+            <button class="metric-btn" data-metric="vorp">VORP球员价值</button>
+            <button class="metric-btn" data-metric="pts">场均得分</button>
+            <button class="metric-btn" data-metric="reb">场均篮板</button>
+            <button class="metric-btn" data-metric="ast">场均助攻</button>
+        </div>
+
+        <div class="description-box" id="metricDescription">
+            <strong>PER效率值</strong> - 球员效率评分，综合衡量球员每48分钟的贡献
+        </div>
+
+        <div class="rankings-grid">
+            <div class="card">
+                <div class="card-title">
+                    <span>⭐</span> 传奇球员排名
+                </div>
+                <ul class="ranking-list" id="legendaryList">
+                </ul>
+            </div>
+
+            <div class="card">
+                <div class="card-title">
+                    <span>📊</span> 数据库球员排名
+                </div>
+                <ul class="ranking-list" id="dbList">
+                </ul>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <h3>📈 传奇球员数据对比</h3>
+            <div class="chart-wrapper">
+                <canvas id="rankingsChart"></canvas>
+            </div>
+        </div>
+
+        <div class="card career-section">
+            <div class="card-title">
+                <span>🎯</span> 生涯数据汇总排名
+            </div>
+            <table class="career-table" id="careerTable">
+                <thead>
+                    <tr>
+                        <th>排名</th>
+                        <th>球员</th>
+                        <th>PER</th>
+                        <th>WS</th>
+                        <th>BPM</th>
+                        <th>VORP</th>
+                        <th>场均得分</th>
+                        <th>场均篮板</th>
+                        <th>场均助攻</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        let currentMetric = 'per';
+        let rankingsChart = null;
+
+        document.querySelectorAll('.metric-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.metric-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                currentMetric = this.dataset.metric;
+                loadRankings(currentMetric);
+            });
+        });
+
+        async function loadRankings(metric) {
+            const response = await fetch(`/api/rankings/${metric}`);
+            const result = await response.json();
+            
+            if (result.success) {
+                updateDescription(result.data);
+                const legendaryRankings = result.data.legendary_rankings || result.data.rankings.filter(p => p.is_legendary);
+                const dbRankings = result.data.db_rankings || result.data.rankings.filter(p => !p.is_legendary);
+                updateLegendaryList(legendaryRankings);
+                updateDbList(dbRankings);
+                updateChart(legendaryRankings, result.data.metric_name);
+            }
+        }
+
+        function updateDescription(data) {
+            document.getElementById('metricDescription').innerHTML = 
+                `<strong>${data.metric_name}</strong> - ${data.description}`;
+        }
+
+        function updateLegendaryList(rankings) {
+            const list = document.getElementById('legendaryList');
+            list.innerHTML = rankings.map((player, index) => {
+                const badgeClass = index === 0 ? 'gold' : index === 1 ? 'silver' : index === 2 ? 'bronze' : 'other';
+                return `
+                    <li class="ranking-item legendary">
+                        <div class="rank-badge ${badgeClass}">${index + 1}</div>
+                        <div class="player-info">
+                            <div class="player-name">${player.player_name}</div>
+                            <div class="player-team">${player.team} | ${player.season}</div>
+                        </div>
+                        <div class="player-value">${player.value}</div>
+                    </li>
+                `;
+            }).join('');
+        }
+
+        function updateDbList(rankings) {
+            const list = document.getElementById('dbList');
+            
+            if (rankings.length === 0) {
+                list.innerHTML = `<li style="text-align: center; padding: 20px; color: rgba(255,255,255,0.5);">暂无数据</li>`;
+                return;
+            }
+            
+            list.innerHTML = rankings.map((player, index) => {
+                const badgeClass = index === 0 ? 'gold' : index === 1 ? 'silver' : index === 2 ? 'bronze' : 'other';
+                return `
+                    <li class="ranking-item">
+                        <div class="rank-badge ${badgeClass}">${index + 1}</div>
+                        <div class="player-info">
+                            <div class="player-name">${player.player_name}</div>
+                            <div class="player-team">${player.team || '未知'} | ${player.season || '未知赛季'}</div>
+                        </div>
+                        <div class="player-value">${player.value}</div>
+                    </li>
+                `;
+            }).join('');
+        }
+
+        function updateChart(rankings, metricName) {
+            if (rankingsChart) rankingsChart.destroy();
+            
+            const ctx = document.getElementById('rankingsChart').getContext('2d');
+            rankingsChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: rankings.map(p => p.player_name),
+                    datasets: [{
+                        label: metricName,
+                        data: rankings.map(p => p.value),
+                        backgroundColor: rankings.map((_, i) => 
+                            i === 0 ? 'rgba(255, 215, 0, 0.8)' :
+                            i === 1 ? 'rgba(192, 192, 192, 0.8)' :
+                            i === 2 ? 'rgba(205, 127, 50, 0.8)' :
+                            'rgba(30, 144, 255, 0.6)'
+                        ),
+                        borderColor: rankings.map((_, i) => 
+                            i === 0 ? '#ffd700' :
+                            i === 1 ? '#c0c0c0' :
+                            i === 2 ? '#cd7f32' :
+                            '#1e90ff'
+                        ),
+                        borderWidth: 1,
+                        borderRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: { color: 'rgba(255,255,255,0.1)' },
+                            ticks: { color: '#fff' }
+                        },
+                        x: {
+                            grid: { display: false },
+                            ticks: { color: '#fff', font: { size: 11 }, maxRotation: 45, minRotation: 45 }
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false }
+                    }
+                }
+            });
+        }
+
+        async function loadCareerRankings() {
+            const response = await fetch('/api/rankings/career');
+            const result = await response.json();
+            
+            if (result.success && result.data.length > 0) {
+                const tbody = document.querySelector('#careerTable tbody');
+                tbody.innerHTML = result.data.slice(0, 10).map((player, index) => {
+                    return `
+                        <tr>
+                            <td>${index + 1}</td>
+                            <td>${player.player_name}</td>
+                            <td>${player.avg_per}</td>
+                            <td>${player.total_ws}</td>
+                            <td>${player.avg_bpm}</td>
+                            <td>${player.total_vorp}</td>
+                            <td>${player.avg_points}</td>
+                            <td>${player.avg_rebounds}</td>
+                            <td>${player.avg_assists}</td>
+                        </tr>
+                    `;
+                }).join('');
+            }
+        }
+
+        loadRankings('per');
+        loadCareerRankings();
+    </script>
+</body>
+</html>

@@ -1,0 +1,5007 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Minnesota",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:43.0",
+      "J. McDaniels misses 2-pt jump shot from 18 ft",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "N. Vučević misses 2-pt jump shot from 11 ft (block by R. Gobert)"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:23.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:15.0",
+      "D. DiVincenzo makes 3-pt jump shot from 23 ft (assist by J. Randle)",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:58.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "I. Okoro misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:55.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:48.0",
+      "J. McDaniels misses 2-pt layup from 1 ft",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "N. Vučević misses 2-pt layup from 2 ft (block by A. Edwards)"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:37.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:17.0",
+      "A. Edwards misses 3-pt jump shot from 25 ft",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:16.0",
+      "Offensive rebound by Team",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:16.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Shooting foul by J. McDaniels (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "3-1",
+      "+1",
+      "J. Giddey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "3-2",
+      "+1",
+      "J. Giddey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:43.0",
+      "J. McDaniels makes 2-pt jump shot from 6 ft",
+      "+2",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "5-2",
+      "",
+      "N. Vučević misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:31.0",
+      "Defensive rebound by J. McDaniels",
+      "",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:18.0",
+      "Shooting foul by N. Vučević (drawn by R. Gobert)",
+      "",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:18.0",
+      "R. Gobert misses free throw 1 of 2",
+      "",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:18.0",
+      "Offensive rebound by Team",
+      "",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:18.0",
+      "R. Gobert makes free throw 2 of 2",
+      "+1",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "6-4",
+      "+2",
+      "N. Vučević makes 2-pt hook shot from 6 ft (assist by C. White)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:47.0",
+      "J. McDaniels misses 2-pt jump shot from 7 ft (block by M. Buzelis)",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "6-4",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:41.0",
+      "",
+      "",
+      "6-4",
+      "",
+      "I. Okoro misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:36.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:22.0",
+      "D. DiVincenzo misses 2-pt layup from 3 ft",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "6-4",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "6-4",
+      "",
+      "I. Okoro misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:14.0",
+      "Defensive rebound by A. Edwards",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:11.0",
+      "R. Gobert makes 2-pt dunk from 1 ft (assist by J. Randle)",
+      "+2",
+      "8-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "8-4",
+      "",
+      "J. Giddey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:54.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "8-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:46.0",
+      "D. DiVincenzo misses 3-pt jump shot from 27 ft",
+      "",
+      "8-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "8-4",
+      "",
+      "Defensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:36.0",
+      "",
+      "",
+      "8-4",
+      "",
+      "N. Vučević misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:34.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "8-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:24.0",
+      "J. Randle misses 3-pt jump shot from 26 ft",
+      "",
+      "8-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "8-4",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "8-4",
+      "",
+      "J. Giddey misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:15.0",
+      "Defensive rebound by A. Edwards",
+      "",
+      "8-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:01.0",
+      "D. DiVincenzo misses 3-pt jump shot from 29 ft",
+      "",
+      "8-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "8-4",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "8-6",
+      "+2",
+      "N. Vučević makes 2-pt hook shot from 3 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:15.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "8-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "8-6",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:15.0",
+      "J. Clark enters the game for J. McDaniels",
+      "",
+      "8-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:15.0",
+      "N. Reid enters the game for J. Randle",
+      "",
+      "8-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "8-6",
+      "",
+      "J. Smith enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "8-9",
+      "+3",
+      "N. Vučević makes 3-pt jump shot from 25 ft (assist by C. White)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:31.0",
+      "D. DiVincenzo misses 3-pt jump shot from 27 ft",
+      "",
+      "8-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "8-9",
+      "",
+      "Defensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "8-9",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "8-9",
+      "",
+      "A. Dosunmu enters the game for N. Vučević"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:25.0",
+      "",
+      "",
+      "8-9",
+      "",
+      "P. Williams enters the game for C. White"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "8-9",
+      "",
+      "J. Giddey misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:07.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "8-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "5:03.0",
+      "N. Reid makes 3-pt jump shot from 25 ft (assist by D. DiVincenzo)",
+      "+3",
+      "11-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "11-11",
+      "+2",
+      "P. Williams makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:22.0",
+      "R. Gobert misses 2-pt dunk from 1 ft (block by J. Smith)",
+      "",
+      "11-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "11-11",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:22.0",
+      "M. Conley enters the game for D. DiVincenzo",
+      "",
+      "11-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "11-11",
+      "",
+      "K. Huerter enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "11-11",
+      "",
+      "T. Jones enters the game for I. Okoro"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:03.0",
+      "",
+      "",
+      "11-11",
+      "",
+      "T. Jones misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "11-11",
+      "",
+      "Offensive rebound by A. Dosunmu"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "11-13",
+      "+2",
+      "A. Dosunmu makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:41.0",
+      "N. Reid makes 2-pt layup from 1 ft",
+      "+2",
+      "13-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "13-15",
+      "+2",
+      "T. Jones makes 2-pt layup from 1 ft (assist by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:55.0",
+      "N. Reid misses 2-pt jump shot from 6 ft",
+      "",
+      "13-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "13-15",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "13-17",
+      "+2",
+      "P. Williams makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:42.0",
+      "Minnesota full timeout",
+      "",
+      "13-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:42.0",
+      "J. Randle enters the game for R. Gobert",
+      "",
+      "13-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:30.0",
+      "N. Reid makes 3-pt jump shot from 26 ft (assist by J. Randle)",
+      "+3",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "16-17",
+      "",
+      "A. Dosunmu misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:17.0",
+      "Defensive rebound by J. Randle",
+      "",
+      "16-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:08.0",
+      "J. Clark makes 2-pt jump shot from 4 ft (assist by N. Reid)",
+      "+2",
+      "18-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:00.0",
+      "",
+      "",
+      "18-19",
+      "+2",
+      "K. Huerter makes 2-pt layup from 2 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:48.0",
+      "Shooting foul by P. Williams (drawn by A. Edwards)",
+      "",
+      "18-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:48.0",
+      "A. Edwards makes free throw 1 of 2",
+      "+1",
+      "19-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "19-19",
+      "",
+      "N. Vučević enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:48.0",
+      "A. Edwards misses free throw 2 of 2",
+      "",
+      "19-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "19-19",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "19-21",
+      "+2",
+      "N. Vučević makes 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:10.0",
+      "N. Reid misses 3-pt jump shot from 24 ft",
+      "",
+      "19-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "K. Huerter misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "19-21",
+      "",
+      "Offensive rebound by A. Dosunmu"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "19-23",
+      "+2",
+      "T. Jones makes 2-pt layup from 1 ft (assist by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:33.0",
+      "J. Randle misses 3-pt jump shot from 26 ft",
+      "",
+      "19-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "19-23",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "19-23",
+      "",
+      "Turnover by P. Williams (bad pass; steal by J. Clark)"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:24.0",
+      "Shooting foul by K. Huerter (drawn by J. Clark)",
+      "",
+      "19-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:24.0",
+      "J. Clark makes free throw 1 of 2",
+      "+1",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:24.0",
+      "J. McDaniels enters the game for M. Conley",
+      "",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:24.0",
+      "J. Clark makes free throw 2 of 2",
+      "+1",
+      "21-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "21-23",
+      "",
+      "P. Williams misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "21-23",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "21-23",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "Time",
+      "Minnesota",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "11:47.0",
+      "",
+      "",
+      "21-25",
+      "+2",
+      "N. Vučević makes 2-pt hook shot from 6 ft (assist by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "11:29.0",
+      "B. Hyland misses 3-pt jump shot from 26 ft",
+      "",
+      "21-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "21-25",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "11:12.0",
+      "",
+      "",
+      "21-28",
+      "+3",
+      "J. Smith makes 3-pt jump shot from 25 ft (assist by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "11:00.0",
+      "N. Reid misses 3-pt jump shot from 27 ft",
+      "",
+      "21-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "10:54.0",
+      "Offensive rebound by J. McDaniels",
+      "",
+      "21-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "10:53.0",
+      "B. Hyland makes 3-pt jump shot from 25 ft (assist by J. McDaniels)",
+      "+3",
+      "24-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "24-28",
+      "",
+      "Turnover by K. Huerter (bad pass; steal by M. Conley)"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "10:41.0",
+      "B. Hyland makes 2-pt layup from 2 ft (assist by N. Reid)",
+      "+2",
+      "26-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "26-28",
+      "",
+      "N. Vučević misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "26-28",
+      "",
+      "Offensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "26-31",
+      "+3",
+      "K. Huerter makes 3-pt jump shot from 23 ft (assist by J. Smith)"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "9:58.0",
+      "Turnover by N. Reid (bad pass; steal by J. Smith)",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Turnover by A. Dosunmu (bad pass; steal by B. Hyland)"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "9:52.0",
+      "M. Conley misses 3-pt jump shot from 24 ft",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Defensive rebound by A. Dosunmu"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "J. Giddey misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "9:39.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "9:29.0",
+      "J. McDaniels misses 2-pt jump shot from 16 ft",
+      "",
+      "26-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "Personal foul by B. Hyland (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "26-31",
+      "",
+      "M. Buzelis enters the game for A. Dosunmu"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "26-33",
+      "+2",
+      "J. Giddey makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "9:05.0",
+      "B. Hyland makes 2-pt jump shot from 10 ft",
+      "+2",
+      "28-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "28-33",
+      "",
+      "Turnover by N. Vučević (bad pass)"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "8:41.0",
+      "N. Reid misses 2-pt jump shot from 8 ft",
+      "",
+      "28-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "28-33",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "28-33",
+      "",
+      "N. Vučević misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "8:18.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "28-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "8:11.0",
+      "N. Reid makes 2-pt layup from 3 ft",
+      "+2",
+      "30-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "30-36",
+      "+3",
+      "M. Buzelis makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "7:44.0",
+      "B. Hyland misses 3-pt jump shot from 25 ft",
+      "",
+      "30-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "30-36",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "7:41.0",
+      "D. DiVincenzo enters the game for M. Conley",
+      "",
+      "30-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "7:41.0",
+      "J. Randle enters the game for R. Gobert",
+      "",
+      "30-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "30-36",
+      "",
+      "D. Terry enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "30-36",
+      "",
+      "J. Smith misses 2-pt layup from 4 ft (block by B. Hyland)"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "7:25.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "30-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "7:16.0",
+      "J. Randle makes 2-pt jump shot from 10 ft (assist by N. Reid)",
+      "+2",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "D. Terry misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "6:58.0",
+      "Defensive rebound by J. McDaniels",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "6:48.0",
+      "J. McDaniels misses 2-pt layup from 2 ft (block by J. Smith)",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "32-39",
+      "+3",
+      "J. Smith makes 3-pt jump shot from 24 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "6:21.0",
+      "J. Randle misses 2-pt jump shot from 18 ft",
+      "",
+      "32-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "32-39",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "32-39",
+      "",
+      "Shooting foul by B. Hyland (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "32-39",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "6:13.0",
+      "A. Edwards enters the game for J. McDaniels",
+      "",
+      "32-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "32-39",
+      "",
+      "P. Williams enters the game for N. Vučević"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "32-40",
+      "+1",
+      "J. Giddey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "32-41",
+      "+1",
+      "J. Giddey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "6:00.0",
+      "A. Edwards makes 2-pt layup from 2 ft (assist by J. Randle)",
+      "+2",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "34-43",
+      "+2",
+      "J. Giddey makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "5:32.0",
+      "A. Edwards makes 3-pt jump shot from 25 ft",
+      "+3",
+      "37-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "37-43",
+      "",
+      "J. Smith misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "5:17.0",
+      "Defensive rebound by J. Randle",
+      "",
+      "37-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "5:09.0",
+      "A. Edwards makes 3-pt jump shot from 25 ft",
+      "+3",
+      "40-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "40-43",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "4:48.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "40-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "4:40.0",
+      "Shooting foul by P. Williams (drawn by A. Edwards)",
+      "",
+      "40-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "4:40.0",
+      "A. Edwards makes free throw 1 of 2",
+      "+1",
+      "41-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "4:40.0",
+      "J. Clark enters the game for B. Hyland",
+      "",
+      "41-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "4:40.0",
+      "R. Gobert enters the game for N. Reid",
+      "",
+      "41-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "4:40.0",
+      "",
+      "",
+      "41-43",
+      "",
+      "T. Jones enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "4:40.0",
+      "",
+      "",
+      "41-43",
+      "",
+      "I. Okoro enters the game for D. Terry"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "4:40.0",
+      "A. Edwards makes free throw 2 of 2",
+      "+1",
+      "42-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "I. Okoro misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "Offensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "42-45",
+      "+2",
+      "M. Buzelis makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "4:10.0",
+      "Personal foul by M. Buzelis (drawn by J. Randle)",
+      "",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "42-45",
+      "",
+      "N. Vučević enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "4:04.0",
+      "Personal foul by P. Williams (drawn by A. Edwards)",
+      "",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "42-45",
+      "",
+      "A. Dosunmu enters the game for P. Williams"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "3:55.0",
+      "J. Randle makes 2-pt jump shot from 5 ft (assist by A. Edwards)",
+      "+2",
+      "44-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "44-45",
+      "",
+      "Personal foul by J. Randle (drawn by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "44-45",
+      "",
+      "M. Buzelis misses 2-pt layup from 3 ft (block by R. Gobert)"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "3:34.0",
+      "Defensive rebound by J. Clark",
+      "",
+      "44-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "3:29.0",
+      "R. Gobert makes 2-pt layup from 2 ft (assist by D. DiVincenzo)",
+      "+2",
+      "46-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "46-45",
+      "",
+      "T. Jones misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "3:00.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "46-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "2:54.0",
+      "J. Clark misses 2-pt layup from 6 ft",
+      "",
+      "46-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "46-45",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "46-45",
+      "",
+      "Turnover by M. Buzelis (lost ball; steal by J. Clark)"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "2:40.0",
+      "D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by J. Randle)",
+      "+3",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "49-45",
+      "",
+      "Shooting foul by J. Randle (drawn by I. Okoro)"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "2:24.0",
+      "Minnesota full timeout",
+      "",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "49-45",
+      "",
+      "J. Giddey enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "49-46",
+      "+1",
+      "I. Okoro makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "49-47",
+      "+1",
+      "I. Okoro makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "2:05.0",
+      "J. Randle makes 2-pt jump shot from 16 ft",
+      "+2",
+      "51-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "51-50",
+      "+3",
+      "J. Giddey makes 3-pt jump shot from 25 ft (assist by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "1:30.0",
+      "A. Edwards misses 3-pt jump shot from 26 ft",
+      "",
+      "51-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "51-50",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "51-50",
+      "",
+      "J. Giddey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "51-50",
+      "",
+      "Offensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "51-50",
+      "",
+      "Turnover by J. Giddey (bad pass; steal by A. Edwards)"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "0:44.0",
+      "R. Gobert makes 2-pt dunk from 1 ft (assist by A. Edwards)",
+      "+2",
+      "53-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "53-50",
+      "",
+      "J. Giddey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "0:34.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "53-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "0:12.0",
+      "J. Randle makes 2-pt layup from 6 ft (assist by A. Edwards)",
+      "+2",
+      "55-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "55-50",
+      "",
+      "J. Giddey misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "55-50",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "Time",
+      "Minnesota",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "11:48.0",
+      "",
+      "",
+      "55-53",
+      "+3",
+      "N. Vučević makes 3-pt jump shot from 25 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "11:35.0",
+      "A. Edwards misses 2-pt jump shot from 15 ft",
+      "",
+      "55-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "11:32.0",
+      "Offensive rebound by J. McDaniels",
+      "",
+      "55-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "11:30.0",
+      "D. DiVincenzo misses 3-pt jump shot from 24 ft",
+      "",
+      "55-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "55-53",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "55-53",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "55-53",
+      "",
+      "A. Dosunmu enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "11:23.0",
+      "",
+      "",
+      "55-53",
+      "",
+      "Turnover by A. Dosunmu (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "11:12.0",
+      "A. Edwards misses 3-pt jump shot from 25 ft",
+      "",
+      "55-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "11:09.0",
+      "",
+      "",
+      "55-53",
+      "",
+      "Defensive rebound by N. Vučević"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "55-55",
+      "+2",
+      "J. Smith makes 2-pt layup from 1 ft (assist by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "10:48.0",
+      "A. Edwards makes 2-pt jump shot from 16 ft (assist by R. Gobert)",
+      "+2",
+      "57-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "57-55",
+      "",
+      "M. Buzelis misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "10:30.0",
+      "Defensive rebound by J. Randle",
+      "",
+      "57-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "10:27.0",
+      "D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by J. Randle)",
+      "+3",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "60-55",
+      "",
+      "A. Dosunmu misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "10:07.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "10:03.0",
+      "J. McDaniels makes 2-pt layup from 2 ft (assist by J. Randle)",
+      "+2",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "10:03.0",
+      "",
+      "",
+      "62-55",
+      "",
+      "Violation by Team (def goaltending)"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "9:45.0",
+      "",
+      "",
+      "62-58",
+      "+3",
+      "M. Buzelis makes 3-pt jump shot from 24 ft (assist by N. Vučević)"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "9:35.0",
+      "Personal foul by A. Dosunmu (drawn by R. Gobert)",
+      "",
+      "62-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "9:26.0",
+      "J. Randle misses 2-pt jump shot from 13 ft",
+      "",
+      "62-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "62-58",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "62-58",
+      "",
+      "Turnover by N. Vučević (bad pass)"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "9:01.0",
+      "A. Edwards makes 2-pt jump shot from 14 ft",
+      "+2",
+      "64-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "64-60",
+      "+2",
+      "N. Vučević makes 2-pt layup from 2 ft (assist by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "8:35.0",
+      "Shooting foul by A. Dosunmu (drawn by J. Randle)",
+      "",
+      "64-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "8:35.0",
+      "J. Randle misses free throw 1 of 2",
+      "",
+      "64-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "8:35.0",
+      "Offensive rebound by Team",
+      "",
+      "64-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "64-60",
+      "",
+      "K. Huerter enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "8:35.0",
+      "J. Randle makes free throw 2 of 2",
+      "+1",
+      "65-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "65-60",
+      "",
+      "Personal foul by D. DiVincenzo (drawn by K. Huerter)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "65-60",
+      "",
+      "T. Jones enters the game for N. Vučević"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "65-60",
+      "",
+      "Shooting foul by R. Gobert (drawn by J. Smith)"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "65-60",
+      "",
+      "J. Smith misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "65-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "65-61",
+      "+1",
+      "J. Smith makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "7:53.0",
+      "J. Randle makes 2-pt jump shot from 10 ft",
+      "+2",
+      "67-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "67-61",
+      "",
+      "A. Dosunmu misses 2-pt layup from 3 ft (block by R. Gobert)"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "7:28.0",
+      "Defensive rebound by J. McDaniels",
+      "",
+      "67-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "7:19.0",
+      "J. McDaniels makes 3-pt jump shot from 26 ft (assist by J. Randle)",
+      "+3",
+      "70-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "70-64",
+      "+3",
+      "J. Smith makes 3-pt jump shot from 24 ft (assist by K. Huerter)"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "7:02.0",
+      "Minnesota full timeout",
+      "",
+      "70-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "7:02.0",
+      "B. Hyland enters the game for D. DiVincenzo",
+      "",
+      "70-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "7:02.0",
+      "N. Reid enters the game for J. Randle",
+      "",
+      "70-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "70-64",
+      "",
+      "M. Buzelis enters the game for I. Okoro"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "6:43.0",
+      "N. Reid makes 2-pt jump shot from 7 ft (assist by A. Edwards)",
+      "+2",
+      "72-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "6:22.0",
+      "",
+      "",
+      "72-64",
+      "",
+      "T. Jones misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "6:20.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "72-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "6:11.0",
+      "B. Hyland makes 2-pt layup from 1 ft",
+      "+2",
+      "74-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "6:11.0",
+      "Shooting foul by J. Smith (drawn by B. Hyland)",
+      "",
+      "74-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "6:11.0",
+      "B. Hyland makes free throw 1 of 1",
+      "+1",
+      "75-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "75-64",
+      "",
+      "Turnover by J. Smith (bad pass; steal by R. Gobert)"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "5:41.0",
+      "N. Reid misses 2-pt layup from 1 ft",
+      "",
+      "75-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "5:36.0",
+      "Offensive rebound by N. Reid",
+      "",
+      "75-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "5:36.0",
+      "N. Reid makes 2-pt layup at rim",
+      "+2",
+      "77-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "77-64",
+      "",
+      "A. Dosunmu misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "77-64",
+      "",
+      "Offensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "77-64",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "5:24.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "77-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "5:17.0",
+      "J. McDaniels misses 2-pt layup from 2 ft (block by K. Huerter)",
+      "",
+      "77-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "77-64",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "5:15.0",
+      "M. Conley enters the game for J. McDaniels",
+      "",
+      "77-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "77-64",
+      "",
+      "N. Vučević enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "77-64",
+      "",
+      "P. Williams enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "77-64",
+      "",
+      "Personal foul by R. Gobert (drawn by K. Huerter)"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "77-64",
+      "",
+      "P. Williams misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "5:02.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "77-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "4:44.0",
+      "A. Edwards makes 2-pt jump shot from 18 ft",
+      "+2",
+      "79-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "79-64",
+      "",
+      "Shooting foul by M. Conley (drawn by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "79-65",
+      "+1",
+      "A. Dosunmu makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "79-66",
+      "+1",
+      "A. Dosunmu makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "4:31.0",
+      "B. Hyland misses 3-pt jump shot from 30 ft",
+      "",
+      "79-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "79-66",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "4:23.0",
+      "",
+      "",
+      "79-68",
+      "+2",
+      "T. Jones makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "4:04.0",
+      "R. Gobert makes 2-pt dunk from 2 ft (assist by B. Hyland)",
+      "+2",
+      "81-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "3:42.0",
+      "",
+      "",
+      "81-68",
+      "",
+      "T. Jones misses 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "3:40.0",
+      "Defensive rebound by R. Gobert",
+      "",
+      "81-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "3:34.0",
+      "A. Edwards makes 2-pt jump shot from 14 ft",
+      "+2",
+      "83-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "83-68",
+      "",
+      "N. Vučević misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "83-68",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "83-68",
+      "",
+      "Turnover by N. Vučević (traveling)"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "3:19.0",
+      "J. Randle enters the game for R. Gobert",
+      "",
+      "83-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "3:02.0",
+      "B. Hyland makes 2-pt layup from 1 ft (assist by J. Randle)",
+      "+2",
+      "85-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "2:43.0",
+      "",
+      "",
+      "85-70",
+      "+2",
+      "N. Vučević makes 2-pt jump shot from 6 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "2:33.0",
+      "A. Edwards makes 2-pt dunk from 1 ft (assist by J. Randle)",
+      "+2",
+      "87-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "2:24.0",
+      "Minnesota full timeout",
+      "",
+      "87-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "2:24.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "87-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "87-70",
+      "",
+      "M. Buzelis enters the game for A. Dosunmu"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "87-70",
+      "",
+      "J. Smith enters the game for P. Williams"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "87-73",
+      "+3",
+      "K. Huerter makes 3-pt jump shot from 25 ft (assist by N. Vučević)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "1:39.0",
+      "N. Reid makes 3-pt jump shot from 23 ft (assist by M. Conley)",
+      "+3",
+      "90-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "90-75",
+      "+2",
+      "N. Vučević makes 2-pt layup from 1 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "1:12.0",
+      "A. Edwards makes 2-pt jump shot from 15 ft",
+      "+2",
+      "92-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "92-75",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "0:55.0",
+      "Defensive rebound by J. Randle",
+      "",
+      "92-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "0:45.0",
+      "N. Reid makes 3-pt jump shot from 24 ft (assist by J. Randle)",
+      "+3",
+      "95-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "95-77",
+      "+2",
+      "T. Jones makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "0:26.0",
+      "J. Randle misses 2-pt jump shot from 22 ft",
+      "",
+      "95-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "0:23.0",
+      "",
+      "",
+      "95-77",
+      "",
+      "Defensive rebound by T. Jones"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "95-77",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "95-77",
+      "",
+      "Offensive rebound by T. Jones"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "95-77",
+      "",
+      "Shooting foul by M. Conley (drawn by T. Jones)"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "95-77",
+      "",
+      "T. Jones misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "95-77",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "95-77",
+      "",
+      "I. Okoro enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "95-78",
+      "+1",
+      "T. Jones makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "0:00.0",
+      "N. Reid misses 3-pt jump shot from 28 ft",
+      "",
+      "95-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "95-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "Time",
+      "Minnesota",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "11:44.0",
+      "N. Reid makes 3-pt jump shot from 23 ft (assist by J. McDaniels)",
+      "+3",
+      "98-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "11:29.0",
+      "",
+      "",
+      "98-78",
+      "",
+      "Turnover by I. Okoro (bad pass)"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "11:18.0",
+      "Shooting foul by N. Vučević (drawn by R. Gobert)",
+      "",
+      "98-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "11:18.0",
+      "R. Gobert misses free throw 1 of 2",
+      "",
+      "98-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "11:18.0",
+      "Offensive rebound by Team",
+      "",
+      "98-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "11:18.0",
+      "R. Gobert misses free throw 2 of 2",
+      "",
+      "98-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "11:15.0",
+      "",
+      "",
+      "98-78",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "98-78",
+      "",
+      "Shooting foul by D. DiVincenzo (drawn by I. Okoro)"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "98-79",
+      "+1",
+      "I. Okoro makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "98-79",
+      "",
+      "T. Jones enters the game for A. Dosunmu"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "98-80",
+      "+1",
+      "I. Okoro makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "10:41.0",
+      "Personal foul by I. Okoro (drawn by R. Gobert)",
+      "",
+      "98-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "10:38.0",
+      "Minnesota full timeout",
+      "",
+      "98-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "10:38.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "98-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "10:38.0",
+      "Shooting foul by J. Smith (drawn by N. Reid)",
+      "",
+      "98-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "10:38.0",
+      "N. Reid makes free throw 1 of 3",
+      "+1",
+      "99-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "10:38.0",
+      "N. Reid makes free throw 2 of 3",
+      "+1",
+      "100-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "10:38.0",
+      "N. Reid makes free throw 3 of 3",
+      "+1",
+      "101-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "101-83",
+      "+3",
+      "N. Vučević makes 3-pt jump shot from 26 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "10:11.0",
+      "N. Reid makes 3-pt jump shot from 26 ft (assist by J. McDaniels)",
+      "+3",
+      "104-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "104-83",
+      "",
+      "K. Huerter misses 2-pt layup from 2 ft (block by R. Gobert)"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "9:58.0",
+      "Defensive rebound by Team",
+      "",
+      "104-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "9:58.0",
+      "M. Conley enters the game for A. Edwards",
+      "",
+      "104-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "9:41.0",
+      "D. DiVincenzo misses 3-pt jump shot from 25 ft",
+      "",
+      "104-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "104-83",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "104-83",
+      "",
+      "K. Huerter misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "9:28.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "104-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "9:21.0",
+      "Shooting foul by J. Smith (drawn by N. Reid)",
+      "",
+      "104-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "9:21.0",
+      "N. Reid makes free throw 1 of 2",
+      "+1",
+      "105-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "9:21.0",
+      "J. Randle enters the game for R. Gobert",
+      "",
+      "105-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "105-83",
+      "",
+      "M. Buzelis enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "105-83",
+      "",
+      "A. Dosunmu enters the game for I. Okoro"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "9:21.0",
+      "N. Reid makes free throw 2 of 2",
+      "+1",
+      "106-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "106-83",
+      "",
+      "Turnover by T. Jones (bad pass)"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "106-83",
+      "",
+      "P. Williams enters the game for N. Vučević"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "9:04.0",
+      "M. Conley makes 2-pt layup from 1 ft (assist by J. Randle)",
+      "+2",
+      "108-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "108-83",
+      "",
+      "M. Buzelis misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "8:51.0",
+      "Defensive rebound by J. Randle",
+      "",
+      "108-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "8:44.0",
+      "N. Reid misses 3-pt jump shot from 26 ft",
+      "",
+      "108-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "108-83",
+      "",
+      "Defensive rebound by A. Dosunmu"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "108-85",
+      "+2",
+      "T. Jones makes 2-pt layup from 1 ft (assist by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "8:31.0",
+      "J. Randle makes 2-pt layup from 1 ft",
+      "+2",
+      "110-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "110-85",
+      "",
+      "Turnover by M. Buzelis (bad pass; steal by J. Randle)"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "8:11.0",
+      "D. DiVincenzo makes 3-pt jump shot from 31 ft (assist by J. Randle)",
+      "+3",
+      "113-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "7:58.0",
+      "",
+      "",
+      "113-85",
+      "",
+      "A. Dosunmu misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "113-85",
+      "",
+      "Offensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "113-87",
+      "+2",
+      "M. Buzelis makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "7:55.0",
+      "Minnesota full timeout",
+      "",
+      "113-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "7:55.0",
+      "J. Clark enters the game for J. McDaniels",
+      "",
+      "113-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "113-87",
+      "",
+      "D. Terry enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "7:41.0",
+      "Shooting foul by T. Jones (drawn by J. Randle)",
+      "",
+      "113-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "7:41.0",
+      "J. Randle makes free throw 1 of 2",
+      "+1",
+      "114-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "7:41.0",
+      "J. Randle makes free throw 2 of 2",
+      "+1",
+      "115-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "115-87",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "7:27.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "115-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "7:22.0",
+      "Shooting foul by M. Buzelis (drawn by J. Randle)",
+      "",
+      "115-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "7:22.0",
+      "J. Randle makes free throw 1 of 2",
+      "+1",
+      "116-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "7:22.0",
+      "J. Randle makes free throw 2 of 2",
+      "+1",
+      "117-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "117-87",
+      "",
+      "A. Dosunmu misses 2-pt layup from 2 ft (block by J. Clark)"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "117-87",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "117-87",
+      "",
+      "K. Huerter enters the game for T. Jones"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "117-90",
+      "+3",
+      "M. Buzelis makes 3-pt jump shot from 25 ft (assist by P. Williams)"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "6:37.0",
+      "J. Clark makes 2-pt layup from 1 ft (assist by J. Randle)",
+      "+2",
+      "119-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "119-90",
+      "",
+      "P. Williams misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "6:23.0",
+      "Defensive rebound by D. DiVincenzo",
+      "",
+      "119-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "6:09.0",
+      "M. Conley misses 3-pt jump shot from 28 ft",
+      "",
+      "119-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "119-90",
+      "",
+      "Defensive rebound by D. Terry"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "119-90",
+      "",
+      "M. Buzelis misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "5:54.0",
+      "Defensive rebound by N. Reid",
+      "",
+      "119-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "5:48.0",
+      "N. Reid makes 2-pt layup from 1 ft (assist by D. DiVincenzo)",
+      "+2",
+      "121-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "121-90",
+      "",
+      "Turnover by P. Williams (bad pass; steal by J. Clark)"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "5:45.0",
+      "J. Clark makes 2-pt layup from 2 ft",
+      "+2",
+      "123-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "123-90",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "5:45.0",
+      "J. Beringer enters the game for M. Conley",
+      "",
+      "123-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "5:45.0",
+      "R. Dillingham enters the game for D. DiVincenzo",
+      "",
+      "123-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "5:45.0",
+      "J. Juzang enters the game for J. Randle",
+      "",
+      "123-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "5:45.0",
+      "L. Miller enters the game for N. Reid",
+      "",
+      "123-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "123-90",
+      "",
+      "J. Phillips enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "123-90",
+      "",
+      "Turnover by J. Phillips (bad pass)"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "5:23.0",
+      "Turnover by J. Beringer (lost ball; steal by D. Terry)",
+      "",
+      "123-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "123-92",
+      "+2",
+      "A. Dosunmu makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "4:59.0",
+      "J. Beringer misses 2-pt layup from 3 ft (block by P. Williams)",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "4:59.0",
+      "Offensive rebound by J. Beringer",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "4:59.0",
+      "J. Beringer misses 2-pt layup at rim (block by D. Terry)",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "4:59.0",
+      "",
+      "",
+      "123-92",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "4:59.0",
+      "",
+      "",
+      "123-92",
+      "",
+      "J. Carter enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "123-92",
+      "",
+      "P. Williams misses 2-pt dunk from 1 ft (block by J. Beringer)"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "123-92",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "123-92",
+      "",
+      "P. Williams misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "4:43.0",
+      "Defensive rebound by J. Clark",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "4:30.0",
+      "J. Clark misses 2-pt jump shot from 11 ft",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "4:30.0",
+      "Offensive rebound by Team",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "4:19.0",
+      "J. Juzang misses 3-pt jump shot from 23 ft",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "4:12.0",
+      "Offensive rebound by L. Miller",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "4:12.0",
+      "Turnover by L. Miller (lost ball; steal by A. Dosunmu)",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "123-92",
+      "",
+      "A. Dosunmu misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "4:05.0",
+      "Defensive rebound by J. Juzang",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "3:57.0",
+      "Shooting foul by J. Phillips (drawn by L. Miller)",
+      "",
+      "123-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "3:57.0",
+      "L. Miller makes free throw 1 of 2",
+      "+1",
+      "124-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "3:57.0",
+      "L. Miller misses free throw 2 of 2",
+      "",
+      "124-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "124-92",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "3:49.0",
+      "",
+      "",
+      "124-95",
+      "+3",
+      "P. Williams makes 3-pt jump shot from 28 ft (assist by D. Terry)"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "3:29.0",
+      "J. Juzang misses 3-pt jump shot from 31 ft",
+      "",
+      "124-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "3:29.0",
+      "Offensive rebound by J. Clark",
+      "",
+      "124-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "3:26.0",
+      "J. Clark makes 2-pt layup from 1 ft",
+      "+2",
+      "126-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "3:26.0",
+      "Shooting foul by J. Phillips (drawn by J. Clark)",
+      "",
+      "126-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "3:26.0",
+      "J. Clark makes free throw 1 of 1",
+      "+1",
+      "127-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "127-95",
+      "",
+      "J. Carter misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "3:09.0",
+      "Defensive rebound by J. Beringer",
+      "",
+      "127-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "2:56.0",
+      "J. Clark misses 2-pt jump shot from 7 ft",
+      "",
+      "127-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "2:56.0",
+      "",
+      "",
+      "127-95",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "127-95",
+      "",
+      "Turnover by D. Terry (bad pass; steal by J. Juzang)"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "2:41.0",
+      "L. Miller makes 2-pt layup from 1 ft (assist by J. Juzang)",
+      "+2",
+      "129-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "129-95",
+      "",
+      "A. Dosunmu misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "2:27.0",
+      "Defensive rebound by L. Miller",
+      "",
+      "129-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "2:13.0",
+      "R. Dillingham makes 3-pt jump shot from 27 ft (assist by J. Juzang)",
+      "+3",
+      "132-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "1:59.0",
+      "",
+      "",
+      "132-95",
+      "",
+      "J. Carter misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "1:55.0",
+      "Defensive rebound by J. Beringer",
+      "",
+      "132-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "1:48.0",
+      "R. Dillingham makes 2-pt jump shot from 11 ft",
+      "+2",
+      "134-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "134-95",
+      "",
+      "Personal foul by R. Dillingham (drawn by D. Terry)"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "134-95",
+      "",
+      "J. Phillips misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "134-95",
+      "",
+      "Offensive rebound by A. Dosunmu"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "134-95",
+      "",
+      "D. Terry misses 3-pt jump shot from 25 ft (block by J. Beringer)"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "1:17.0",
+      "Defensive rebound by J. Clark",
+      "",
+      "134-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "1:08.0",
+      "R. Dillingham misses 2-pt jump shot from 11 ft",
+      "",
+      "134-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "1:06.0",
+      "Offensive rebound by J. Juzang",
+      "",
+      "134-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "1:06.0",
+      "J. Juzang makes 2-pt jump shot from 8 ft",
+      "+2",
+      "136-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "0:51.0",
+      "",
+      "",
+      "136-97",
+      "+2",
+      "J. Phillips makes 2-pt dunk from 1 ft (assist by A. Dosunmu)"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "0:42.0",
+      "L. Miller misses 2-pt layup from 1 ft (block by P. Williams)",
+      "",
+      "136-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "136-97",
+      "",
+      "Defensive rebound by J. Phillips"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:36.0",
+      "",
+      "",
+      "136-97",
+      "",
+      "D. Terry misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "136-97",
+      "",
+      "Offensive rebound by A. Dosunmu"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "136-99",
+      "+2",
+      "A. Dosunmu makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "0:27.0",
+      "J. Juzang misses 3-pt jump shot from 24 ft",
+      "",
+      "136-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:24.0",
+      "",
+      "",
+      "136-99",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "136-101",
+      "+2",
+      "A. Dosunmu makes 2-pt layup from 1 ft (assist by P. Williams)"
+    ]
+  }
+]

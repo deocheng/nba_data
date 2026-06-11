@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sportico风格图表模板</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background: #0a0a0f; 
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .page-header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 30px;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .page-header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(90deg, #4cc9f0, #ff6b6b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+        .page-header p {
+            color: #888;
+            font-size: 1.1rem;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+            gap: 30px;
+            max-width: 1800px;
+            margin: 0 auto;
+        }
+
+        .chart-card {
+            background: #16161f;
+            border-radius: 16px;
+            padding: 25px;
+            border: 1px solid rgba(255,255,255,0.08);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .chart-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+        }
+
+        .chart-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #fff;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .chart-container {
+            position: relative;
+            height: 350px;
+            margin-bottom: 20px;
+        }
+
+        .chart-subtitle {
+            font-size: 0.85rem;
+            color: #888;
+            margin-top: 10px;
+            font-style: italic;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .stat-item {
+            background: rgba(255,255,255,0.05);
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #4cc9f0;
+        }
+        .stat-label {
+            font-size: 0.8rem;
+            color: #888;
+            margin-top: 5px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .scatter-legend {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            color: #aaa;
+        }
+
+        .legend-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+
+        .highlight-card {
+            background: linear-gradient(135deg, rgba(76, 201, 240, 0.1), rgba(255, 107, 107, 0.1));
+            border-color: rgba(76, 201, 240, 0.3);
+        }
+
+        .comparison-section {
+            grid-column: 1 / -1;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+        }
+
+        .comparison-card {
+            background: #16161f;
+            border-radius: 16px;
+            padding: 20px;
+            border: 1px solid rgba(255,255,255,0.08);
+        }
+
+        .team-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 5px 12px;
+            background: rgba(76, 201, 240, 0.2);
+            border-radius: 20px;
+            font-size: 0.85rem;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+
+        .badge-color {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+
+        @media (max-width: 768px) {
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+            .page-header h1 {
+                font-size: 1.8rem;
+            }
+            .chart-container {
+                height: 280px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="page-header">
+        <h1>Sportico风格数据可视化</h1>
+        <p>NBA体育数据分析图表模板</p>
+    </div>
+
+    <div class="charts-grid">
+        <div class="chart-card highlight-card">
+            <div class="chart-title">📊 比赛胜负分差分布</div>
+            <div class="chart-container">
+                <canvas id="scatterChart"></canvas>
+            </div>
+            <div class="scatter-legend">
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #4cc9f0;"></span>
+                    <span>常规赛</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #ff6b6b;"></span>
+                    <span>季后赛</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #FFD700;"></span>
+                    <span>总决赛</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="chart-card">
+            <div class="chart-title">📈 球队收入排名</div>
+            <div class="chart-container">
+                <canvas id="barChart"></canvas>
+            </div>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-value">$8.5B</div>
+                    <div class="stat-label">联盟总收入</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">30</div>
+                    <div class="stat-label">球队数量</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">+12%</div>
+                    <div class="stat-label">同比增长</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chart-card">
+            <div class="chart-title">⏱️ 比赛节奏变化趋势</div>
+            <div class="chart-container">
+                <canvas id="lineChart"></canvas>
+            </div>
+            <p class="chart-subtitle">自1977年以来，季后赛每百回合进攻次数变化趋势</p>
+        </div>
+
+        <div class="chart-card">
+            <div class="chart-title">🏆 攻防效率对比</div>
+            <div class="chart-container">
+                <canvas id="bubbleChart"></canvas>
+            </div>
+            <div class="scatter-legend">
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #4ade80;"></span>
+                    <span>进攻强队</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #f87171;"></span>
+                    <span>防守强队</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-dot" style="background: #a78bfa;"></span>
+                    <span>均衡球队</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="comparison-section">
+            <div class="comparison-card">
+                <h3 style="color: #fff; margin-bottom: 15px;">🏀 常规赛 vs 季后赛对比</h3>
+                <div class="chart-container" style="height: 250px;">
+                    <canvas id="comparisonChart"></canvas>
+                </div>
+            </div>
+            <div class="comparison-card">
+                <h3 style="color: #fff; margin-bottom: 15px;">📉 关键数据指标</h3>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-value">98.5</div>
+                        <div class="stat-label">常规赛效率</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">94.2</div>
+                        <div class="stat-label">季后赛效率</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">102.3</div>
+                        <div class="stat-label">雷霆进攻</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">101.8</div>
+                        <div class="stat-label">尼克斯进攻</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chart-card">
+            <div class="chart-title">🎯 三分命中率分布</div>
+            <div class="chart-container">
+                <canvas id="doughnutChart"></canvas>
+            </div>
+        </div>
+
+        <div class="chart-card">
+            <div class="chart-title">📊 球员效率评分</div>
+            <div class="chart-container">
+                <canvas id="radarChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 散点图 - 比赛胜负分差分布
+        const scatterCtx = document.getElementById('scatterChart').getContext('2d');
+        new Chart(scatterCtx, {
+            type: 'scatter',
+            data: {
+                datasets: [
+                    {
+                        label: '常规赛',
+                        data: Array.from({length: 100}, () => ({
+                            x: Math.random() * 50 + 1980,
+                            y: (Math.random() - 0.5) * 40
+                        })),
+                        backgroundColor: 'rgba(76, 201, 240, 0.6)',
+                        pointRadius: 5,
+                        pointHoverRadius: 8
+                    },
+                    {
+                        label: '季后赛',
+                        data: Array.from({length: 50}, () => ({
+                            x: Math.random() * 50 + 1980,
+                            y: (Math.random() - 0.5) * 30
+                        })),
+                        backgroundColor: 'rgba(255, 107, 107, 0.6)',
+                        pointRadius: 6,
+                        pointHoverRadius: 9
+                    },
+                    {
+                        label: '总决赛',
+                        data: Array.from({length: 20}, () => ({
+                            x: Math.random() * 50 + 1980,
+                            y: (Math.random() - 0.5) * 25
+                        })),
+                        backgroundColor: 'rgba(255, 215, 0, 0.8)',
+                        pointRadius: 8,
+                        pointHoverRadius: 12
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        min: 1980,
+                        max: 2030,
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#888' },
+                        title: { display: true, text: '年份', color: '#aaa' }
+                    },
+                    y: {
+                        min: -25,
+                        max: 25,
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#888' },
+                        title: { display: true, text: '胜负分差', color: '#aaa' }
+                    }
+                },
+                plugins: {
+                    legend: { display: false }
+                }
+            }
+        });
+
+        // 条形图 - 球队收入排名
+        const barCtx = document.getElementById('barChart').getContext('2d');
+        new Chart(barCtx, {
+            type: 'bar',
+            data: {
+                labels: ['尼克斯', '湖人', '勇士', '公牛', '凯尔特人', '篮网', '火箭', '独行侠'],
+                datasets: [{
+                    label: '收入(亿美元)',
+                    data: [5.8, 5.5, 5.2, 4.8, 4.5, 4.3, 4.1, 4.0],
+                    backgroundColor: [
+                        'rgba(255, 107, 107, 0.8)',
+                        'rgba(255, 193, 7, 0.8)',
+                        'rgba(255, 107, 107, 0.8)',
+                        'rgba(255, 107, 107, 0.8)',
+                        'rgba(34, 197, 94, 0.8)',
+                        'rgba(99, 102, 241, 0.8)',
+                        'rgba(239, 68, 68, 0.8)',
+                        'rgba(99, 102, 241, 0.8)'
+                    ],
+                    borderWidth: 0,
+                    borderRadius: 8
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        grid: { display: false },
+                        ticks: { color: '#aaa' }
+                    },
+                    y: {
+                        beginAtZero: true,
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#888' },
+                        title: { display: true, text: '收入(亿美元)', color: '#aaa' }
+                    }
+                },
+                plugins: {
+                    legend: { display: false }
+                }
+            }
+        });
+
+        // 折线图 - 比赛节奏变化趋势
+        const lineCtx = document.getElementById('lineChart').getContext('2d');
+        const years = Array.from({length: 20}, (_, i) => 2005 + i);
+        new Chart(lineCtx, {
+            type: 'line',
+            data: {
+                labels: years,
+                datasets: [
+                    {
+                        label: '常规赛',
+                        data: [94.2, 93.8, 94.5, 95.1, 94.8, 95.5, 96.2, 95.8, 96.5, 97.1, 96.8, 97.5, 98.2, 97.8, 98.5, 99.1, 98.8, 99.5, 100.2, 99.8],
+                        borderColor: '#4cc9f0',
+                        backgroundColor: 'rgba(76, 201, 240, 0.1)',
+                        fill: true,
+                        tension: 0.4,
+                        pointRadius: 0,
+                        pointHoverRadius: 6
+                    },
+                    {
+                        label: '季后赛',
+                        data: [91.5, 91.2, 92.1, 91.8, 92.5, 92.2, 93.0, 92.8, 93.5, 93.2, 94.0, 93.8, 94.5, 94.2, 95.0, 94.8, 95.5, 95.2, 96.0, 95.8],
+                        borderColor: '#ff6b6b',
+                        backgroundColor: 'rgba(255, 107, 107, 0.1)',
+                        fill: true,
+                        tension: 0.4,
+                        pointRadius: 0,
+                        pointHoverRadius: 6
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#888', maxTicksLimit: 10 }
+                    },
+                    y: {
+                        min: 88,
+                        max: 102,
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#888' },
+                        title: { display: true, text: '每百回合进攻次数', color: '#aaa' }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        position: 'top',
+                        labels: { color: '#aaa' }
+                    }
+                }
+            }
+        });
+
+        // 气泡图 - 攻防效率对比
+        const bubbleCtx = document.getElementById('bubbleChart').getContext('2d');
+        new Chart(bubbleCtx, {
+            type: 'bubble',
+            data: {
+                datasets: [
+                    {
+                        label: '进攻强队',
+                        data: [
+                            { x: 118, y: 110, r: 20 },
+                            { x: 115, y: 108, r: 18 },
+                            { x: 116, y: 107, r: 16 },
+                            { x: 114, y: 106, r: 14 }
+                        ],
+                        backgroundColor: 'rgba(74, 222, 128, 0.6)'
+                    },
+                    {
+                        label: '防守强队',
+                        data: [
+                            { x: 105, y: 115, r: 22 },
+                            { x: 103, y: 113, r: 17 },
+                            { x: 104, y: 112, r: 15 },
+                            { x: 102, y: 114, r: 13 }
+                        ],
+                        backgroundColor: 'rgba(248, 113, 113, 0.6)'
+                    },
+                    {
+                        label: '均衡球队',
+                        data: [
+                            { x: 110, y: 110, r: 25 },
+                            { x: 108, y: 109, r: 20 },
+                            { x: 109, y: 108, r: 18 },
+                            { x: 111, y: 111, r: 22 },
+                            { x: 107, y: 107, r: 16 }
+                        ],
+                        backgroundColor: 'rgba(167, 139, 250, 0.6)'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        min: 100,
+                        max: 125,
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#888' },
+                        title: { display: true, text: '进攻效率', color: '#aaa' }
+                    },
+                    y: {
+                        min: 100,
+                        max: 125,
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#888' },
+                        title: { display: true, text: '防守效率', color: '#aaa' }
+                    }
+                },
+                plugins: {
+                    legend: { display: false }
+                }
+            }
+        });
+
+        // 分组条形图 - 常规赛vs季后赛对比
+        const comparisonCtx = document.getElementById('comparisonChart').getContext('2d');
+        new Chart(comparisonCtx, {
+            type: 'bar',
+            data: {
+                labels: ['雷霆', '尼克斯', '马刺', '凯尔特人', '太阳'],
+                datasets: [
+                    {
+                        label: '常规赛',
+                        data: [115.2, 113.8, 112.1, 110.5, 109.8],
+                        backgroundColor: 'rgba(76, 201, 240, 0.7)',
+                        borderRadius: 6
+                    },
+                    {
+                        label: '季后赛',
+                        data: [120.1, 118.5, 108.2, 109.2, 106.5],
+                        backgroundColor: 'rgba(255, 107, 107, 0.7)',
+                        borderRadius: 6
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        grid: { display: false },
+                        ticks: { color: '#aaa' }
+                    },
+                    y: {
+                        beginAtZero: false,
+                        min: 100,
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#888' },
+                        title: { display: true, text: '进攻效率', color: '#aaa' }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        position: 'top',
+                        labels: { color: '#aaa' }
+                    }
+                }
+            }
+        });
+
+        // 环形图 - 三分命中率分布
+        const doughnutCtx = document.getElementById('doughnutChart').getContext('2d');
+        new Chart(doughnutCtx, {
+            type: 'doughnut',
+            data: {
+                labels: ['30-35%', '35-40%', '40-45%', '45%+'],
+                datasets: [{
+                    data: [15, 45, 32, 8],
+                    backgroundColor: [
+                        'rgba(156, 163, 175, 0.8)',
+                        'rgba(76, 201, 240, 0.8)',
+                        'rgba(74, 222, 128, 0.8)',
+                        'rgba(255, 215, 0, 0.8)'
+                    ],
+                    borderWidth: 0,
+                    cutout: '70%'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'right',
+                        labels: { color: '#aaa' }
+                    }
+                }
+            }
+        });
+
+        // 雷达图 - 球员效率评分
+        const radarCtx = document.getElementById('radarChart').getContext('2d');
+        new Chart(radarCtx, {
+            type: 'radar',
+            data: {
+                labels: ['得分', '篮板', '助攻', '防守', '三分', '效率'],
+                datasets: [
+                    {
+                        label: '进攻型',
+                        data: [95, 70, 75, 65, 85, 90],
+                        backgroundColor: 'rgba(76, 201, 240, 0.2)',
+                        borderColor: '#4cc9f0',
+                        borderWidth: 2
+                    },
+                    {
+                        label: '全能型',
+                        data: [85, 85, 85, 85, 75, 88],
+                        backgroundColor: 'rgba(255, 107, 107, 0.2)',
+                        borderColor: '#ff6b6b',
+                        borderWidth: 2
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    r: {
+                        beginAtZero: true,
+                        max: 100,
+                        grid: { color: 'rgba(255,255,255,0.1)' },
+                        angleLines: { color: 'rgba(255,255,255,0.1)' },
+                        pointLabels: { color: '#aaa' },
+                        ticks: { display: false }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        position: 'top',
+                        labels: { color: '#aaa' }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,5282 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "New York",
+      "",
+      "Score",
+      "",
+      "Atlanta"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:35.0",
+      "J. Brunson makes 2-pt jump shot from 14 ft",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:18.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "O. Okongwu misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:09.0",
+      "",
+      "",
+      "2-2",
+      "+2",
+      "J. Johnson makes 2-pt jump shot from 6 ft (assist by D. Daniels)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "10:54.0",
+      "J. Brunson misses 2-pt jump shot from 6 ft",
+      "",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:51.0",
+      "Offensive rebound by K. Towns",
+      "",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:50.0",
+      "K. Towns makes 2-pt layup from 2 ft",
+      "+2",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:41.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "C. McCollum misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:39.0",
+      "Defensive rebound by J. Hart",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:25.0",
+      "K. Towns makes 2-pt dunk from 1 ft (assist by J. Hart)",
+      "+2",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "Shooting foul by J. Hart (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "6-3",
+      "+1",
+      "J. Johnson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "6-4",
+      "+1",
+      "J. Johnson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:00.0",
+      "Turnover by J. Brunson (bad pass; steal by O. Okongwu)",
+      "",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "6-7",
+      "+3",
+      "N. Alexander-Walker makes 3-pt jump shot from 22 ft (assist by D. Daniels)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:33.0",
+      "J. Brunson makes 3-pt jump shot from 23 ft (assist by K. Towns)",
+      "+3",
+      "9-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:08.0",
+      "",
+      "",
+      "9-7",
+      "",
+      "N. Alexander-Walker misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:05.0",
+      "Defensive rebound by M. Bridges",
+      "",
+      "9-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "8:54.0",
+      "J. Hart misses 2-pt jump shot from 8 ft",
+      "",
+      "9-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "9-7",
+      "",
+      "Defensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "9-9",
+      "+2",
+      "C. McCollum makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:22.0",
+      "M. Bridges makes 2-pt layup from 1 ft",
+      "+2",
+      "11-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "11-11",
+      "+2",
+      "D. Daniels makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "7:51.0",
+      "O. Anunoby makes 2-pt dunk from 1 ft (assist by K. Towns)",
+      "+2",
+      "13-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "13-14",
+      "+3",
+      "N. Alexander-Walker makes 3-pt jump shot from 25 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "7:27.0",
+      "Turnover by J. Brunson (lost ball; steal by D. Daniels)",
+      "",
+      "13-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "13-14",
+      "",
+      "N. Alexander-Walker misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:21.0",
+      "Defensive rebound by J. Hart",
+      "",
+      "13-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:09.0",
+      "Personal foul by O. Okongwu (drawn by K. Towns)",
+      "",
+      "13-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:01.0",
+      "J. Brunson misses 2-pt jump shot from 11 ft",
+      "",
+      "13-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "13-14",
+      "",
+      "Defensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "13-14",
+      "",
+      "Offensive foul by N. Alexander-Walker (drawn by J. Brunson)"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "13-14",
+      "",
+      "Turnover by N. Alexander-Walker (offensive foul)"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "13-14",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "13-14",
+      "",
+      "G. Vincent enters the game for C. McCollum"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:40.0",
+      "O. Anunoby makes 2-pt dunk at rim (assist by K. Towns)",
+      "+2",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "5:48.0",
+      "J. Brunson misses 2-pt jump shot from 13 ft",
+      "",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "D. Daniels misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "5:41.0",
+      "Defensive rebound by O. Anunoby",
+      "",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "5:28.0",
+      "O. Anunoby misses 2-pt layup from 1 ft",
+      "",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "Defensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "15-14",
+      "",
+      "D. Daniels misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "5:11.0",
+      "Defensive rebound by J. Hart",
+      "",
+      "15-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "4:58.0",
+      "O. Anunoby makes 2-pt hook shot from 4 ft",
+      "+2",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "Turnover by J. Johnson (lost ball; steal by J. Hart)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "4:42.0",
+      "M. Bridges makes 2-pt dunk from 1 ft (assist by J. Brunson)",
+      "+2",
+      "19-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "4:42.0",
+      "J. Alvarado enters the game for O. Anunoby",
+      "",
+      "19-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "4:42.0",
+      "J. Clarkson enters the game for M. Bridges",
+      "",
+      "19-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "4:42.0",
+      "M. McBride enters the game for J. Brunson",
+      "",
+      "19-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "4:42.0",
+      "M. Robinson enters the game for K. Towns",
+      "",
+      "19-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "19-14",
+      "",
+      "M. Gueye enters the game for N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "19-14",
+      "",
+      "J. Kuminga enters the game for O. Okongwu"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "19-17",
+      "+3",
+      "G. Vincent makes 3-pt jump shot from 23 ft (assist by D. Daniels)"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:06.0",
+      "J. Clarkson makes 2-pt jump shot from 4 ft (assist by J. Alvarado)",
+      "+2",
+      "21-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "21-17",
+      "",
+      "Personal foul by J. Clarkson (drawn by J. Kuminga)"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "21-17",
+      "",
+      "Technical foul by M. Gueye"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "3:54.0",
+      "J. Clarkson makes technical free throw",
+      "+1",
+      "22-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "3:43.0",
+      "",
+      "",
+      "22-17",
+      "",
+      "M. Gueye misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "3:40.0",
+      "Defensive rebound by J. Hart",
+      "",
+      "22-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "3:32.0",
+      "Shooting foul by D. Daniels (drawn by M. Robinson)",
+      "",
+      "22-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "3:32.0",
+      "M. Robinson misses free throw 1 of 2",
+      "",
+      "22-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:32.0",
+      "Offensive rebound by Team",
+      "",
+      "22-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "22-17",
+      "",
+      "N. Alexander-Walker enters the game for D. Daniels"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "22-17",
+      "",
+      "C. McCollum enters the game for J. Johnson"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:32.0",
+      "M. Robinson makes free throw 2 of 2",
+      "+1",
+      "23-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:25.0",
+      "",
+      "",
+      "23-17",
+      "",
+      "Personal foul by M. McBride (drawn by N. Alexander-Walker)"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:25.0",
+      "O. Anunoby enters the game for J. Alvarado",
+      "",
+      "23-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:25.0",
+      "J. Brunson enters the game for J. Hart",
+      "",
+      "23-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:19.0",
+      "",
+      "",
+      "23-19",
+      "+2",
+      "C. McCollum makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "2:59.0",
+      "J. Brunson misses 3-pt jump shot from 26 ft",
+      "",
+      "23-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:56.0",
+      "Offensive rebound by M. Robinson",
+      "",
+      "23-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:48.0",
+      "J. Brunson makes 2-pt jump shot from 7 ft",
+      "+2",
+      "25-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "25-19",
+      "",
+      "Personal foul by M. McBride (drawn by C. McCollum)"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:34.0",
+      "New York full timeout",
+      "",
+      "25-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "25-19",
+      "",
+      "D. Daniels enters the game for G. Vincent"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:26.0",
+      "",
+      "",
+      "25-19",
+      "",
+      "J. Kuminga misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:22.0",
+      "Defensive rebound by O. Anunoby",
+      "",
+      "25-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:05.0",
+      "J. Brunson misses 2-pt layup from 1 ft",
+      "",
+      "25-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:02.0",
+      "Offensive rebound by M. Robinson",
+      "",
+      "25-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:02.0",
+      "M. Robinson makes 2-pt dunk at rim",
+      "+2",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "J. Kuminga misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:53.0",
+      "Defensive rebound by M. Robinson",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:40.0",
+      "J. Clarkson misses 3-pt jump shot from 25 ft",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "Defensive rebound by M. Gueye"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "J. Kuminga misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:22.0",
+      "Defensive rebound by O. Anunoby",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:14.0",
+      "O. Anunoby misses 2-pt layup from 1 ft (block by C. McCollum)",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "Defensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "C. McCollum misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:58.0",
+      "Defensive rebound by M. Robinson",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:36.0",
+      "J. Brunson misses 2-pt jump shot from 16 ft",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "Defensive rebound by N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "N. Alexander-Walker misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:12.0",
+      "M. Bridges enters the game for J. Brunson",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:12.0",
+      "J. Hart enters the game for M. McBride",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "O. Okongwu enters the game for M. Gueye"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "Personal foul by M. Robinson (drawn by O. Okongwu)"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "O. Okongwu misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:09.0",
+      "J. Brunson enters the game for M. Bridges",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:09.0",
+      "M. McBride enters the game for J. Hart",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:09.0",
+      "K. Towns enters the game for M. Robinson",
+      "",
+      "27-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "27-19",
+      "",
+      "G. Vincent enters the game for C. McCollum"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "27-20",
+      "+1",
+      "O. Okongwu makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:00.0",
+      "J. Brunson misses 3-pt jump shot from 24 ft",
+      "",
+      "27-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "27-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "Time",
+      "New York",
+      "",
+      "Score",
+      "",
+      "Atlanta"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "27-22",
+      "+2",
+      "C. McCollum makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "27-22",
+      "",
+      "Shooting foul by J. Alvarado (drawn by C. McCollum)"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "27-22",
+      "",
+      "C. McCollum misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "11:39.0",
+      "Defensive rebound by O. Anunoby",
+      "",
+      "27-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "11:18.0",
+      "J. Alvarado makes 3-pt jump shot from 26 ft (assist by M. Bridges)",
+      "+3",
+      "30-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "30-22",
+      "",
+      "C. McCollum misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "11:04.0",
+      "",
+      "",
+      "30-22",
+      "",
+      "Offensive rebound by M. Gueye"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "30-22",
+      "",
+      "Personal foul by K. Towns (drawn by C. McCollum)"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "30-22",
+      "",
+      "Turnover by C. McCollum (lost ball; steal by J. Alvarado)"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "10:51.0",
+      "M. Bridges makes 2-pt layup from 2 ft (assist by J. Alvarado)",
+      "+2",
+      "32-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "32-22",
+      "",
+      "Violation by Team (def goaltending)"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "32-22",
+      "",
+      "J. Kuminga misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "10:30.0",
+      "Defensive rebound by O. Anunoby",
+      "",
+      "32-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:14.0",
+      "J. Alvarado misses 3-pt jump shot from 25 ft",
+      "",
+      "32-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:12.0",
+      "Offensive rebound by O. Anunoby",
+      "",
+      "32-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:07.0",
+      "K. Towns misses 2-pt hook shot from 6 ft",
+      "",
+      "32-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "32-22",
+      "",
+      "Defensive rebound by C. McCollum"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "32-24",
+      "+2",
+      "J. Kuminga makes 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "9:47.0",
+      "Offensive foul by K. Towns (drawn by M. Gueye)",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "9:47.0",
+      "Turnover by K. Towns (offensive foul)",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "J. Johnson enters the game for C. Kispert"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "G. Vincent enters the game for C. McCollum"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "G. Vincent misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:36.0",
+      "Defensive rebound by J. Alvarado",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:26.0",
+      "Personal foul by G. Vincent (drawn by M. Bridges)",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:26.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "O. Okongwu enters the game for M. Gueye"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:16.0",
+      "K. Towns misses 2-pt layup from 2 ft",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:14.0",
+      "Offensive rebound by K. Towns",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:13.0",
+      "K. Towns misses 2-pt layup from 1 ft",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "Defensive rebound by N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:12.0",
+      "Turnover by J. Alvarado (out of bounds lost ball)",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "Turnover by N. Alexander-Walker (lost ball; steal by J. Alvarado)"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:12.0",
+      "J. Hart enters the game for O. Anunoby",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:00.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "J. Johnson misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:56.0",
+      "Defensive rebound by K. Towns",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:47.0",
+      "K. Towns makes 2-pt jump shot from 6 ft",
+      "+2",
+      "34-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:47.0",
+      "Shooting foul by O. Okongwu (drawn by K. Towns)",
+      "",
+      "34-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:47.0",
+      "K. Towns makes free throw 1 of 1",
+      "+1",
+      "35-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:32.0",
+      "",
+      "",
+      "35-27",
+      "+3",
+      "G. Vincent makes 3-pt jump shot from 23 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:19.0",
+      "Shooting foul by J. Johnson (drawn by K. Towns)",
+      "",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:19.0",
+      "K. Towns makes free throw 1 of 2",
+      "+1",
+      "36-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:19.0",
+      "K. Towns misses free throw 2 of 2",
+      "",
+      "36-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "36-27",
+      "",
+      "G. Vincent misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:05.0",
+      "Defensive rebound by K. Towns",
+      "",
+      "36-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:55.0",
+      "K. Towns makes 2-pt jump shot from 6 ft (assist by J. Hart)",
+      "+2",
+      "38-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "38-29",
+      "+2",
+      "O. Okongwu makes 2-pt dunk from 2 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:31.0",
+      "Personal foul by J. Kuminga (drawn by K. Towns)",
+      "",
+      "38-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:31.0",
+      "O. Anunoby enters the game for J. Alvarado",
+      "",
+      "38-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:31.0",
+      "J. Brunson enters the game for M. Bridges",
+      "",
+      "38-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:31.0",
+      "M. McBride enters the game for J. Clarkson",
+      "",
+      "38-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "38-29",
+      "",
+      "D. Daniels enters the game for N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "38-29",
+      "",
+      "C. McCollum enters the game for G. Vincent"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:25.0",
+      "O. Anunoby misses 3-pt jump shot from 24 ft",
+      "",
+      "38-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "38-29",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:07.0",
+      "",
+      "",
+      "38-29",
+      "",
+      "J. Johnson misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:04.0",
+      "Defensive rebound by J. Hart",
+      "",
+      "38-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:56.0",
+      "J. Brunson makes 3-pt jump shot from 26 ft (assist by O. Anunoby)",
+      "+3",
+      "41-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "41-29",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:54.0",
+      "M. Robinson enters the game for K. Towns",
+      "",
+      "41-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "41-29",
+      "",
+      "Turnover by D. Daniels (bad pass)"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:40.0",
+      "Turnover by J. Brunson (out of bounds lost ball)",
+      "",
+      "41-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "41-31",
+      "+2",
+      "J. Johnson makes 2-pt layup from 1 ft (assist by O. Okongwu)"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:06.0",
+      "Turnover by J. Brunson (lost ball; steal by O. Okongwu)",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "5:58.0",
+      "New York full timeout",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "5:58.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "41-31",
+      "",
+      "Turnover by C. McCollum (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:40.0",
+      "Turnover by O. Anunoby (step out of bounds)",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "41-31",
+      "",
+      "Turnover by C. McCollum (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:07.0",
+      "M. McBride misses 3-pt jump shot from 25 ft",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "41-31",
+      "",
+      "Defensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "41-31",
+      "",
+      "J. Kuminga misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "4:51.0",
+      "Defensive rebound by M. Robinson",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "4:41.0",
+      "J. Hart misses 3-pt jump shot from 26 ft",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "41-31",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "41-31",
+      "",
+      "N. Alexander-Walker enters the game for J. Kuminga"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "4:21.0",
+      "",
+      "",
+      "41-31",
+      "",
+      "J. Johnson misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:18.0",
+      "Defensive rebound by J. Hart",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:07.0",
+      "O. Anunoby misses 2-pt dunk from 1 ft",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:04.0",
+      "Offensive rebound by M. Robinson",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:01.0",
+      "Turnover by J. Brunson (bad pass; steal by O. Okongwu)",
+      "",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "41-31",
+      "",
+      "Turnover by O. Okongwu (lost ball; steal by J. Brunson)"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:54.0",
+      "O. Anunoby makes 3-pt jump shot from 26 ft",
+      "+3",
+      "44-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "44-33",
+      "+2",
+      "O. Okongwu makes 2-pt layup from 1 ft (assist by D. Daniels)"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:20.0",
+      "O. Anunoby makes 3-pt jump shot from 25 ft",
+      "+3",
+      "47-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "47-35",
+      "+2",
+      "C. McCollum makes 2-pt jump shot from 2 ft (assist by D. Daniels)"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "2:53.0",
+      "J. Hart makes 2-pt layup from 1 ft",
+      "+2",
+      "49-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "49-35",
+      "",
+      "Turnover by N. Alexander-Walker (lost ball; steal by J. Hart)"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "2:43.0",
+      "J. Hart makes 2-pt dunk at rim",
+      "+2",
+      "51-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "51-35",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:42.0",
+      "M. Bridges enters the game for M. McBride",
+      "",
+      "51-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:42.0",
+      "K. Towns enters the game for M. Robinson",
+      "",
+      "51-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "51-38",
+      "+3",
+      "N. Alexander-Walker makes 3-pt jump shot from 26 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:12.0",
+      "Turnover by J. Hart (lost ball; steal by C. McCollum)",
+      "",
+      "51-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:08.0",
+      "",
+      "",
+      "51-38",
+      "",
+      "Turnover by N. Alexander-Walker (bad pass; steal by O. Anunoby)"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:08.0",
+      "Personal foul by D. Daniels (drawn by M. Bridges)",
+      "",
+      "51-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:08.0",
+      "M. Bridges makes free throw 1 of 2",
+      "+1",
+      "52-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:08.0",
+      "M. Bridges makes free throw 2 of 2",
+      "+1",
+      "53-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "53-40",
+      "+2",
+      "C. McCollum makes 2-pt jump shot from 8 ft (assist by J. Johnson)"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:25.0",
+      "J. Hart makes 3-pt jump shot from 25 ft (assist by K. Towns)",
+      "+3",
+      "56-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "56-40",
+      "",
+      "Offensive foul by N. Alexander-Walker (drawn by J. Brunson)"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "56-40",
+      "",
+      "Turnover by N. Alexander-Walker (offensive foul)"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "0:58.0",
+      "M. Bridges misses 2-pt layup from 4 ft (block by C. McCollum)",
+      "",
+      "56-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "0:57.0",
+      "Offensive rebound by Team",
+      "",
+      "56-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "0:54.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "56-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "56-42",
+      "+2",
+      "C. McCollum makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "0:25.0",
+      "J. Hart makes 2-pt layup from 3 ft",
+      "+2",
+      "58-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "0:25.0",
+      "Violation by Team (delay of game)",
+      "",
+      "58-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "58-42",
+      "",
+      "Personal foul by M. Bridges (drawn by C. McCollum)"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "0:13.0",
+      "M. McBride enters the game for J. Brunson",
+      "",
+      "58-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:13.0",
+      "M. Robinson enters the game for K. Towns",
+      "",
+      "58-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "58-44",
+      "+2",
+      "C. McCollum makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:00.0",
+      "J. Hart misses 3-pt jump shot from 27 ft",
+      "",
+      "58-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "58-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "Time",
+      "New York",
+      "",
+      "Score",
+      "",
+      "Atlanta"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "58-44",
+      "",
+      "Shooting foul by O. Anunoby (drawn by O. Okongwu)"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "58-45",
+      "+1",
+      "O. Okongwu makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "58-46",
+      "+1",
+      "O. Okongwu makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "11:28.0",
+      "Turnover by J. Brunson (lost ball; steal by D. Daniels)",
+      "",
+      "58-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "58-46",
+      "",
+      "J. Johnson misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "11:17.0",
+      "Defensive rebound by K. Towns",
+      "",
+      "58-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "11:10.0",
+      "O. Anunoby misses 3-pt jump shot from 23 ft",
+      "",
+      "58-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "58-46",
+      "",
+      "Defensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "58-49",
+      "+3",
+      "N. Alexander-Walker makes 3-pt jump shot from 24 ft (assist by C. McCollum)"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "10:33.0",
+      "J. Hart misses 3-pt jump shot from 25 ft",
+      "",
+      "58-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "58-49",
+      "",
+      "Defensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "10:30.0",
+      "J. Alvarado enters the game for J. Brunson",
+      "",
+      "58-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "58-49",
+      "",
+      "O. Okongwu misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "58-49",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:12.0",
+      "",
+      "",
+      "58-49",
+      "",
+      "J. Johnson misses 2-pt jump shot from 5 ft (block by O. Anunoby)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:09.0",
+      "Defensive rebound by J. Hart",
+      "",
+      "58-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "10:06.0",
+      "Shooting foul by C. McCollum (drawn by J. Hart)",
+      "",
+      "58-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "10:06.0",
+      "J. Hart misses free throw 1 of 2",
+      "",
+      "58-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:06.0",
+      "Offensive rebound by Team",
+      "",
+      "58-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "10:06.0",
+      "J. Hart makes free throw 2 of 2",
+      "+1",
+      "59-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "59-51",
+      "+2",
+      "C. McCollum makes 2-pt jump shot from 20 ft (assist by N. Alexander-Walker)"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "9:37.0",
+      "O. Anunoby makes 2-pt dunk at rim (assist by K. Towns)",
+      "+2",
+      "61-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "9:20.0",
+      "",
+      "",
+      "61-51",
+      "",
+      "N. Alexander-Walker misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "61-51",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "9:17.0",
+      "Loose ball foul by J. Hart (drawn by O. Okongwu)",
+      "",
+      "61-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "61-51",
+      "",
+      "Turnover by D. Daniels (traveling)"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "8:52.0",
+      "J. Alvarado misses 2-pt jump shot from 1 ft",
+      "",
+      "61-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "61-51",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "61-53",
+      "+2",
+      "O. Okongwu makes 2-pt layup from 4 ft (assist by C. McCollum)"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "8:26.0",
+      "Personal foul by O. Okongwu (drawn by K. Towns)",
+      "",
+      "61-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "8:11.0",
+      "J. Hart misses 2-pt jump shot from 8 ft",
+      "",
+      "61-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "8:07.0",
+      "",
+      "",
+      "61-53",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "8:06.0",
+      "",
+      "",
+      "61-53",
+      "",
+      "Turnover by C. McCollum (lost ball; steal by J. Alvarado)"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "7:59.0",
+      "O. Anunoby makes 2-pt layup from 2 ft (assist by K. Towns)",
+      "+2",
+      "63-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "63-53",
+      "",
+      "N. Alexander-Walker misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "7:38.0",
+      "Defensive rebound by M. Bridges",
+      "",
+      "63-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "7:34.0",
+      "Personal foul by N. Alexander-Walker (drawn by M. Bridges)",
+      "",
+      "63-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "7:34.0",
+      "J. Clarkson enters the game for M. Bridges",
+      "",
+      "63-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "7:21.0",
+      "J. Alvarado makes 3-pt jump shot from 24 ft (assist by K. Towns)",
+      "+3",
+      "66-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "66-53",
+      "",
+      "D. Daniels misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "7:00.0",
+      "Defensive rebound by K. Towns",
+      "",
+      "66-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "6:53.0",
+      "Shooting foul by O. Okongwu (drawn by K. Towns)",
+      "",
+      "66-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "66-53",
+      "",
+      "Atlanta full timeout"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "66-53",
+      "",
+      "M. Gueye enters the game for D. Daniels"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "66-53",
+      "",
+      "G. Vincent enters the game for O. Okongwu"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "6:53.0",
+      "K. Towns makes free throw 1 of 2",
+      "+1",
+      "67-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "6:53.0",
+      "K. Towns makes free throw 2 of 2",
+      "+1",
+      "68-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "68-53",
+      "",
+      "C. McCollum misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "6:36.0",
+      "Defensive rebound by O. Anunoby",
+      "",
+      "68-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "6:27.0",
+      "J. Clarkson makes 2-pt layup from 1 ft (assist by K. Towns)",
+      "+2",
+      "70-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "70-53",
+      "",
+      "J. Johnson misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "6:11.0",
+      "Defensive rebound by J. Hart",
+      "",
+      "70-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "6:04.0",
+      "K. Towns misses 3-pt jump shot from 27 ft",
+      "",
+      "70-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "70-53",
+      "",
+      "Defensive rebound by M. Gueye"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "70-53",
+      "",
+      "J. Johnson misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "70-53",
+      "",
+      "Offensive rebound by J. Johnson"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "70-53",
+      "",
+      "C. McCollum misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "5:39.0",
+      "Defensive rebound by O. Anunoby",
+      "",
+      "70-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "5:38.0",
+      "Shooting foul by N. Alexander-Walker (drawn by J. Clarkson)",
+      "",
+      "70-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "5:38.0",
+      "J. Clarkson makes free throw 1 of 2",
+      "+1",
+      "71-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "5:38.0",
+      "J. Brunson enters the game for J. Alvarado",
+      "",
+      "71-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "5:38.0",
+      "M. McBride enters the game for O. Anunoby",
+      "",
+      "71-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "5:38.0",
+      "",
+      "",
+      "71-53",
+      "",
+      "D. Daniels enters the game for N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "5:38.0",
+      "",
+      "",
+      "71-53",
+      "",
+      "J. Kuminga enters the game for C. McCollum"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "5:38.0",
+      "J. Clarkson makes free throw 2 of 2",
+      "+1",
+      "72-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "5:20.0",
+      "",
+      "",
+      "72-55",
+      "+2",
+      "G. Vincent makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "5:05.0",
+      "J. Hart misses 3-pt jump shot from 26 ft",
+      "",
+      "72-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "5:02.0",
+      "",
+      "",
+      "72-55",
+      "",
+      "Defensive rebound by M. Gueye"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "5:02.0",
+      "M. Robinson enters the game for K. Towns",
+      "",
+      "72-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "72-57",
+      "+2",
+      "J. Johnson makes 2-pt jump shot from 6 ft (assist by G. Vincent)"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "72-57",
+      "",
+      "Shooting foul by M. McBride (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "72-58",
+      "+1",
+      "J. Johnson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "4:30.0",
+      "J. Brunson makes 2-pt jump shot from 19 ft",
+      "+2",
+      "74-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "74-58",
+      "",
+      "Turnover by J. Johnson (discontinued dribble)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "4:04.0",
+      "M. McBride makes 3-pt jump shot from 25 ft",
+      "+3",
+      "77-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "77-58",
+      "",
+      "Turnover by G. Vincent (bad pass)"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "3:41.0",
+      "J. Brunson misses 3-pt jump shot from 26 ft",
+      "",
+      "77-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "77-58",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "3:39.0",
+      "Loose ball foul by J. Hart (drawn by J. Kuminga)",
+      "",
+      "77-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "3:39.0",
+      "Technical foul by J. Hart",
+      "",
+      "77-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "77-58",
+      "",
+      "G. Vincent misses technical free throw"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "77-58",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "3:39.0",
+      "O. Anunoby enters the game for J. Hart",
+      "",
+      "77-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "3:39.0",
+      "K. Towns enters the game for M. Robinson",
+      "",
+      "77-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "77-58",
+      "",
+      "O. Okongwu enters the game for M. Gueye"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "77-58",
+      "",
+      "J. Kuminga misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "77-58",
+      "",
+      "Offensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "77-60",
+      "+2",
+      "D. Daniels makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "2:44.0",
+      "J. Brunson misses 2-pt layup from 4 ft (block by G. Vincent)",
+      "",
+      "77-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "77-60",
+      "",
+      "Defensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "77-60",
+      "",
+      "O. Okongwu misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "77-60",
+      "",
+      "Offensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "77-60",
+      "",
+      "D. Daniels misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "2:35.0",
+      "Defensive rebound by K. Towns",
+      "",
+      "77-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "2:25.0",
+      "O. Anunoby misses 3-pt jump shot from 25 ft",
+      "",
+      "77-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "77-60",
+      "",
+      "Defensive rebound by O. Okongwu"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "77-63",
+      "+3",
+      "J. Johnson makes 3-pt jump shot from 26 ft (assist by G. Vincent)"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "2:09.0",
+      "New York full timeout",
+      "",
+      "77-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "77-63",
+      "",
+      "C. McCollum enters the game for D. Daniels"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "1:50.0",
+      "O. Anunoby makes 2-pt dunk from 1 ft (assist by K. Towns)",
+      "+2",
+      "79-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "79-63",
+      "",
+      "C. McCollum misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "1:27.0",
+      "Defensive rebound by K. Towns",
+      "",
+      "79-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "1:21.0",
+      "K. Towns makes 3-pt jump shot from 25 ft (assist by J. Brunson)",
+      "+3",
+      "82-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "82-63",
+      "",
+      "Turnover by J. Kuminga (lost ball; steal by K. Towns)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "0:56.0",
+      "M. McBride misses 3-pt jump shot from 23 ft",
+      "",
+      "82-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "82-63",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "0:55.0",
+      "Loose ball foul by J. Clarkson (drawn by G. Vincent)",
+      "",
+      "82-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "82-64",
+      "+1",
+      "G. Vincent makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "82-64",
+      "",
+      "M. Gueye enters the game for O. Okongwu"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "82-65",
+      "+1",
+      "G. Vincent makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:40.0",
+      "Personal foul by J. Kuminga (drawn by K. Towns)",
+      "",
+      "82-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:40.0",
+      "K. Towns makes free throw 1 of 2",
+      "+1",
+      "83-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "0:40.0",
+      "K. Towns makes free throw 2 of 2",
+      "+1",
+      "84-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "84-65",
+      "",
+      "J. Johnson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "0:27.0",
+      "Defensive rebound by K. Towns",
+      "",
+      "84-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "0:04.0",
+      "J. Brunson misses 2-pt jump shot from 2 ft",
+      "",
+      "84-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "0:03.0",
+      "Offensive rebound by K. Towns",
+      "",
+      "84-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "0:03.0",
+      "K. Towns makes 2-pt layup at rim",
+      "+2",
+      "86-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "86-65",
+      "",
+      "G. Vincent misses 3-pt jump shot from 36 ft"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "86-65",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "Time",
+      "New York",
+      "",
+      "Score",
+      "",
+      "Atlanta"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "11:41.0",
+      "Shooting foul by C. Kispert (drawn by O. Anunoby)",
+      "",
+      "86-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "11:41.0",
+      "O. Anunoby makes free throw 1 of 2",
+      "+1",
+      "87-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "11:41.0",
+      "O. Anunoby misses free throw 2 of 2",
+      "",
+      "87-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "11:39.0",
+      "",
+      "",
+      "87-65",
+      "",
+      "Defensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "87-65",
+      "",
+      "Shooting foul by K. Towns (drawn by C. McCollum)"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "87-65",
+      "",
+      "C. McCollum misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "87-65",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "87-66",
+      "+1",
+      "C. McCollum makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "11:17.0",
+      "Offensive foul by K. Towns (drawn by T. Bradley)",
+      "",
+      "87-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "11:17.0",
+      "Turnover by K. Towns (offensive foul)",
+      "",
+      "87-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "87-66",
+      "",
+      "C. McCollum misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "87-66",
+      "",
+      "Offensive rebound by N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "87-66",
+      "",
+      "Turnover by N. Alexander-Walker (bad pass; steal by K. Towns)"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "10:46.0",
+      "O. Anunoby makes 3-pt jump shot from 23 ft (assist by K. Towns)",
+      "+3",
+      "90-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "90-66",
+      "",
+      "J. Kuminga misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "10:26.0",
+      "",
+      "",
+      "90-66",
+      "",
+      "Offensive rebound by C. Kispert"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "10:24.0",
+      "",
+      "",
+      "90-68",
+      "+2",
+      "C. Kispert makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "10:00.0",
+      "Shooting foul by T. Bradley (drawn by K. Towns)",
+      "",
+      "90-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "10:00.0",
+      "K. Towns makes free throw 1 of 2",
+      "+1",
+      "91-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "10:00.0",
+      "K. Towns misses free throw 2 of 2",
+      "",
+      "91-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "91-68",
+      "",
+      "Defensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "91-68",
+      "",
+      "Personal take foul by M. McBride (drawn by C. McCollum)"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "9:56.0",
+      "M. Robinson enters the game for K. Towns",
+      "",
+      "91-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "91-68",
+      "",
+      "C. Kispert misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:35.0",
+      "",
+      "",
+      "91-68",
+      "",
+      "Offensive rebound by J. Kuminga"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:34.0",
+      "",
+      "",
+      "91-68",
+      "",
+      "Turnover by J. Kuminga (bad pass)"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "9:10.0",
+      "J. Clarkson misses 2-pt jump shot from 11 ft",
+      "",
+      "91-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "91-68",
+      "",
+      "Defensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "91-70",
+      "+2",
+      "J. Kuminga makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "8:43.0",
+      "J. Brunson misses 3-pt jump shot from 26 ft",
+      "",
+      "91-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "91-70",
+      "",
+      "Defensive rebound by J. Kuminga"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "91-70",
+      "",
+      "C. Kispert misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "91-70",
+      "",
+      "Offensive rebound by N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "8:27.0",
+      "J. Hart enters the game for M. McBride",
+      "",
+      "91-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "8:27.0",
+      "K. Towns enters the game for M. Robinson",
+      "",
+      "91-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "91-70",
+      "",
+      "J. Johnson enters the game for T. Bradley"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "91-73",
+      "+3",
+      "N. Alexander-Walker makes 3-pt jump shot from 26 ft (assist by C. McCollum)"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "8:06.0",
+      "Personal foul by J. Johnson (drawn by O. Anunoby)",
+      "",
+      "91-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "91-73",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:00.0",
+      "Personal foul by J. Johnson (drawn by K. Towns)",
+      "",
+      "91-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "7:50.0",
+      "New York full timeout",
+      "",
+      "91-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "7:50.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "91-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "7:50.0",
+      "M. McBride enters the game for J. Clarkson",
+      "",
+      "91-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "7:46.0",
+      "Shooting foul by J. Kuminga (drawn by J. Brunson)",
+      "",
+      "91-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "7:46.0",
+      "J. Brunson makes free throw 1 of 2",
+      "+1",
+      "92-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "7:46.0",
+      "J. Brunson makes free throw 2 of 2",
+      "+1",
+      "93-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "93-73",
+      "",
+      "C. Kispert misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "7:34.0",
+      "Defensive rebound by O. Anunoby",
+      "",
+      "93-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "7:27.0",
+      "M. McBride makes 3-pt jump shot from 26 ft (assist by J. Hart)",
+      "+3",
+      "96-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "96-75",
+      "+2",
+      "J. Kuminga makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "96-75",
+      "",
+      "Shooting foul by K. Towns (drawn by J. Kuminga)"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "7:18.0",
+      "M. Robinson enters the game for K. Towns",
+      "",
+      "96-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "96-75",
+      "",
+      "O. Okongwu enters the game for C. Kispert"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "96-76",
+      "+1",
+      "J. Kuminga makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "6:55.0",
+      "O. Anunoby misses 2-pt jump shot from 1 ft",
+      "",
+      "96-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "6:50.0",
+      "Offensive rebound by M. Robinson",
+      "",
+      "96-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "6:50.0",
+      "M. Robinson makes 2-pt dunk at rim",
+      "+2",
+      "98-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "98-76",
+      "",
+      "Shooting foul by J. Brunson (drawn by J. Kuminga)"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "98-77",
+      "+1",
+      "J. Kuminga makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "98-77",
+      "",
+      "D. Daniels enters the game for C. McCollum"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "98-78",
+      "+1",
+      "J. Kuminga makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "6:17.0",
+      "M. McBride makes 3-pt jump shot from 25 ft (assist by J. Brunson)",
+      "+3",
+      "101-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "101-78",
+      "",
+      "Personal foul by O. Anunoby (drawn by J. Johnson)"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "101-79",
+      "+1",
+      "J. Johnson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "6:08.0",
+      "",
+      "",
+      "101-80",
+      "+1",
+      "J. Johnson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "5:43.0",
+      "M. McBride misses 3-pt jump shot from 25 ft",
+      "",
+      "101-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "5:39.0",
+      "Offensive rebound by O. Anunoby",
+      "",
+      "101-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "5:26.0",
+      "J. Brunson makes 3-pt jump shot from 25 ft (assist by M. McBride)",
+      "+3",
+      "104-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "104-80",
+      "",
+      "Shooting foul by O. Anunoby (drawn by J. Kuminga)"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "104-81",
+      "+1",
+      "J. Kuminga makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "104-81",
+      "",
+      "J. Kuminga misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "5:01.0",
+      "Defensive rebound by J. Hart",
+      "",
+      "104-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "4:44.0",
+      "Turnover by J. Hart (bad pass; steal by O. Okongwu)",
+      "",
+      "104-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "104-83",
+      "+2",
+      "D. Daniels makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "4:19.0",
+      "J. Brunson makes 2-pt jump shot from 10 ft",
+      "+2",
+      "106-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "106-83",
+      "",
+      "Loose ball foul by J. Johnson (drawn by M. Robinson)"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "4:19.0",
+      "M. Robinson makes free throw 1 of 1",
+      "+1",
+      "107-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "107-83",
+      "",
+      "N. Alexander-Walker misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "107-83",
+      "",
+      "Offensive rebound by D. Daniels"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "107-86",
+      "+3",
+      "O. Okongwu makes 3-pt jump shot from 26 ft (assist by D. Daniels)"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "3:54.0",
+      "New York full timeout",
+      "",
+      "107-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "T. Bradley enters the game for N. Alexander-Walker"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "C. Kispert enters the game for D. Daniels"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "A. Newell enters the game for J. Johnson"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "Z. Risacher enters the game for J. Kuminga"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "107-86",
+      "",
+      "K. Wallace enters the game for O. Okongwu"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "3:46.0",
+      "M. Robinson misses 2-pt layup from 1 ft",
+      "",
+      "107-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "3:44.0",
+      "Offensive rebound by M. Robinson",
+      "",
+      "107-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "3:42.0",
+      "M. McBride makes 2-pt jump shot from 11 ft (assist by M. Robinson)",
+      "+2",
+      "109-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "109-86",
+      "",
+      "Personal take foul by J. Brunson (drawn by K. Wallace)"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "109-87",
+      "+1",
+      "K. Wallace makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "3:35.0",
+      "J. Alvarado enters the game for O. Anunoby",
+      "",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "3:35.0",
+      "M. Diawara enters the game for J. Brunson",
+      "",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "3:35.0",
+      "A. Hukporti enters the game for J. Hart",
+      "",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "3:35.0",
+      "T. Kolek enters the game for M. McBride",
+      "",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "3:35.0",
+      "L. Shamet enters the game for M. Robinson",
+      "",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "109-88",
+      "+1",
+      "K. Wallace makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "3:23.0",
+      "L. Shamet makes 3-pt jump shot from 25 ft (assist by M. Diawara)",
+      "+3",
+      "112-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "112-88",
+      "",
+      "Z. Risacher misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "3:02.0",
+      "Defensive rebound by A. Hukporti",
+      "",
+      "112-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "2:43.0",
+      "M. Diawara misses 2-pt hook shot from 4 ft",
+      "",
+      "112-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "2:41.0",
+      "Offensive rebound by A. Hukporti",
+      "",
+      "112-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "2:41.0",
+      "Turnover by A. Hukporti (step out of bounds)",
+      "",
+      "112-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "112-88",
+      "",
+      "A. Newell misses 2-pt dunk from 2 ft (block by A. Hukporti)"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "112-88",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "112-88",
+      "",
+      "K. Wallace misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "112-88",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "2:22.0",
+      "Loose ball foul by T. Kolek (drawn by T. Bradley)",
+      "",
+      "112-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "112-89",
+      "+1",
+      "T. Bradley makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "112-90",
+      "+1",
+      "T. Bradley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "2:04.0",
+      "M. Diawara misses 2-pt jump shot from 17 ft",
+      "",
+      "112-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "112-90",
+      "",
+      "Defensive rebound by Z. Risacher"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "112-92",
+      "+2",
+      "A. Newell makes 2-pt dunk at rim (assist by C. Kispert)"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "1:26.0",
+      "M. Diawara misses 2-pt jump shot from 12 ft",
+      "",
+      "112-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "1:22.0",
+      "Offensive rebound by A. Hukporti",
+      "",
+      "112-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "1:10.0",
+      "A. Hukporti misses 2-pt layup from 4 ft (block by A. Newell)",
+      "",
+      "112-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "112-92",
+      "",
+      "Defensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "1:05.0",
+      "",
+      "",
+      "112-92",
+      "",
+      "C. Kispert misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "112-92",
+      "",
+      "Offensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "112-94",
+      "+2",
+      "T. Bradley makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "0:46.0",
+      "J. Alvarado misses 2-pt layup from 2 ft (block by T. Bradley)",
+      "",
+      "112-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "0:45.0",
+      "Offensive rebound by Team",
+      "",
+      "112-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "0:45.0",
+      "Technical foul by J. Alvarado",
+      "",
+      "112-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "0:45.0",
+      "",
+      "",
+      "112-95",
+      "+1",
+      "C. Kispert makes technical free throw"
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "0:43.0",
+      "Turnover by L. Shamet (bad pass; steal by A. Newell)",
+      "",
+      "112-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "0:37.0",
+      "",
+      "",
+      "112-98",
+      "+3",
+      "Z. Risacher makes 3-pt jump shot from 25 ft (assist by A. Newell)"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "0:18.0",
+      "T. Kolek makes 2-pt hook shot from 9 ft",
+      "+2",
+      "114-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "114-98",
+      "",
+      "C. Kispert misses 2-pt layup from 9 ft (block by T. Kolek)"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "114-98",
+      "",
+      "Offensive rebound by C. Kispert"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "114-98",
+      "",
+      "C. Kispert misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "114-98",
+      "",
+      "Offensive rebound by Z. Risacher"
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "114-98",
+      "",
+      "K. Wallace misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "114-98",
+      "",
+      "Offensive rebound by Team"
+    ]
+  }
+]

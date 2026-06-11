@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏀 比赛列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #fff;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            padding: 20px 0;
+            margin-bottom: 30px;
+        }
+        header h1 {
+            font-size: 2rem;
+            background: linear-gradient(90deg, #ff6b6b, #feca57);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .nav-links a {
+            text-decoration: none;
+            color: #fff;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 12px 30px;
+            border-radius: 30px;
+            transition: all 0.3s;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .nav-links a:hover {
+            background: #feca57;
+            color: #1a1a2e;
+            border-color: #feca57;
+        }
+        .game-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .game-card:hover {
+            transform: translateX(5px);
+            box-shadow: 0 5px 20px rgba(255, 255, 255, 0.1);
+        }
+        .game-card a {
+            text-decoration: none;
+            color: inherit;
+        }
+        .game-info {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+        }
+        .teams {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .team {
+            text-align: center;
+            min-width: 80px;
+        }
+        .team-name {
+            font-weight: bold;
+            font-size: 1.2rem;
+            color: #feca57;
+        }
+        .score {
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: #fff;
+            min-width: 80px;
+            text-align: center;
+        }
+        .vs {
+            color: #aaa;
+            font-size: 1.2rem;
+        }
+        .game-meta {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 5px;
+        }
+        .season {
+            background: rgba(255, 254, 202, 0.2);
+            color: #feca57;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+        .game-id {
+            color: #aaa;
+            font-size: 0.8rem;
+        }
+        .pagination {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 30px;
+        }
+        .pagination a {
+            text-decoration: none;
+            color: #fff;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px 15px;
+            border-radius: 8px;
+            transition: all 0.3s;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .pagination a:hover, .pagination a.active {
+            background: #feca57;
+            color: #1a1a2e;
+            border-color: #feca57;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎮 比赛列表</h1>
+            <p>共 {{ (page - 1) * 20 + 1 }} - {{ page * 20 }} 场比赛</p>
+        </header>
+        
+        <div class="nav-links">
+            <a href="/">📊 仪表盘</a>
+            <a href="/games">🎮 比赛列表</a>
+        </div>
+        
+        <div class="games-list">
+            {% for game in games %}
+            <div class="game-card">
+                <a href="/game/{{ game.gameid }}">
+                    <div class="game-info">
+                        <div class="teams">
+                            <div class="team">
+                                <div class="team-name">{{ game.home_team or '?' }}</div>
+                                <div class="score">{{ game.home_score }}</div>
+                            </div>
+                            <span class="vs">VS</span>
+                            <div class="team">
+                                <div class="team-name">{{ game.away_team or '?' }}</div>
+                                <div class="score">{{ game.visitor_score }}</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="game-meta">
+                        <span class="season">{{ game.season }} 赛季</span>
+                        <span class="game-id">ID: {{ game.gameid }}</span>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+        
+        <div class="pagination">
+            {% if page > 1 %}
+            <a href="/games?page={{ page - 1 }}">← 上一页</a>
+            {% endif %}
+            
+            {% for p in range(1, total_pages + 1) %}
+                {% if p == page %}
+                <a href="/games?page={{ p }}" class="active">{{ p }}</a>
+                {% else %}
+                <a href="/games?page={{ p }}">{{ p }}</a>
+                {% endif %}
+            {% endfor %}
+            
+            {% if page < total_pages %}
+            <a href="/games?page={{ page + 1 }}">下一页 →</a>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

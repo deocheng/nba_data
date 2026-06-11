@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>休斯顿火箭专区</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --nba-blue: #0b3d91;
+            --nba-blue-light: #1e4daf;
+            --rockets-primary: #CE1141;
+            --rockets-secondary: #FFFFFF;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #FFFFFF;
+            min-height: 100vh;
+            color: #333333;
+        }
+
+        .navbar {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 0.75rem 1.5rem;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            z-index: 100;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(11, 61, 145, 0.2);
+        }
+
+        .navbar.minimized {
+            width: 50px;
+            height: 50px;
+            padding: 0;
+            right: 10px;
+            left: auto;
+            border-radius: 50%;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+            background: #FFFFFF;
+            background-image: url('/nbalogo/HOU.svg');
+            background-size: 32px;
+            background-repeat: no-repeat;
+            background-position: center;
+            border: 2px solid rgba(11, 61, 145, 0.3);
+            cursor: pointer;
+        }
+
+        .navbar.minimized:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
+        }
+
+        .navbar h1 {
+            font-size: 1rem;
+            color: var(--nba-blue);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 0;
+            transition: all 0.3s ease;
+        }
+
+        .navbar.minimized h1 {
+            opacity: 0;
+            height: 0;
+            overflow: hidden;
+            margin: 0;
+        }
+
+        .navbar .team-logo {
+            width: 35px;
+            height: 35px;
+            background-image: url('/nbalogo/HOU.svg');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .navbar.minimized .team-logo {
+            display: none;
+        }
+
+        .navbar .team-info {
+            font-size: 0.65rem;
+            color: rgba(11, 61, 145, 0.7);
+            margin-left: 45px;
+            display: flex;
+            gap: 10px;
+            transition: all 0.3s ease;
+            opacity: 1;
+            margin-top: 2px;
+        }
+
+        .navbar.minimized .team-info {
+            opacity: 0;
+            height: 0;
+            overflow: hidden;
+        }
+
+        .navbar nav {
+            margin-top: 0.5rem;
+            transition: all 0.3s ease;
+            opacity: 1;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .navbar.minimized nav {
+            opacity: 0;
+            height: 0;
+            overflow: hidden;
+        }
+
+        .content {
+            margin-top: 0;
+        }
+
+        .navbar nav a {
+            color: rgba(11, 61, 145, 0.8);
+            text-decoration: none;
+            padding: 0.3rem 0.6rem;
+            border-radius: 12px;
+            transition: all 0.2s ease;
+            font-size: 0.75rem;
+        }
+
+        .navbar nav a:hover,
+        .navbar nav a.active {
+            background: rgba(11, 61, 145, 0.15);
+            color: var(--nba-blue);
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--nba-blue), var(--nba-blue-light));
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            color: #FFFFFF;
+            text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+        }
+
+        .header p {
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 1.1rem;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 30px;
+        }
+
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            padding: 12px 24px;
+            font-size: 14px;
+            font-weight: 600;
+            border: 2px solid transparent;
+            border-radius: 25px;
+            background: rgba(11, 61, 145, 0.1);
+            color: var(--nba-blue);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .tab-btn:hover {
+            background: rgba(11, 61, 145, 0.2);
+            border-color: var(--nba-blue);
+        }
+
+        .tab-btn.active {
+            background: linear-gradient(135deg, var(--nba-blue), var(--nba-blue-light));
+            color: #fff;
+            border-color: var(--nba-blue);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .card {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            border: 1px solid rgba(11, 61, 145, 0.1);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        .card h3 {
+            color: var(--nba-blue);
+            margin-bottom: 20px;
+            font-size: 1.3rem;
+            border-bottom: 1px solid rgba(11, 61, 145, 0.2);
+            padding-bottom: 10px;
+        }
+
+        .season-selector {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .season-btn {
+            padding: 8px 20px;
+            font-size: 12px;
+            border: 1px solid rgba(11, 61, 145, 0.3);
+            border-radius: 20px;
+            background: transparent;
+            color: var(--nba-blue);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .season-btn:hover {
+            border-color: var(--nba-blue);
+            background: rgba(11, 61, 145, 0.05);
+        }
+
+        .season-btn.active {
+            background: var(--nba-blue);
+            color: #fff;
+        }
+
+        .roster-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .player-card {
+            background: #ffffff;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+            border: 1px solid rgba(206, 17, 65, 0.3);
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .player-card:hover {
+            transform: translateY(-3px);
+            border-color: var(--rockets-primary);
+            box-shadow: 0 4px 12px rgba(206, 17, 65, 0.2);
+        }
+
+        .player-card .player-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--rockets-primary);
+        }
+
+        .player-card .player-name {
+            font-weight: 600;
+            color: #000000;
+            margin: 5px 0;
+        }
+
+        .player-card .player-position {
+            color: #333333;
+            font-size: 0.9rem;
+        }
+
+        .player-card .player-info {
+            font-size: 0.8rem;
+            color: #666666;
+            margin-top: 5px;
+        }
+
+        .schedule-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+        }
+
+        .game-card {
+            background: rgba(206, 17, 65, 0.1);
+            border-radius: 10px;
+            padding: 15px;
+            border-left: 4px solid var(--rockets-primary);
+        }
+
+        .game-card.win {
+            border-left-color: #4CAF50;
+        }
+
+        .game-card.loss {
+            border-left-color: #f44336;
+        }
+
+        .game-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .game-date {
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .game-result {
+            font-size: 0.85rem;
+            font-weight: bold;
+        }
+
+        .game-result.W {
+            color: #4CAF50;
+        }
+
+        .game-result.L {
+            color: #f44336;
+        }
+
+        .game-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .game-team {
+            text-align: center;
+        }
+
+        .game-team .team-name {
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        .game-team .team-score {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--rockets-primary);
+        }
+
+        .game-score {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 8px;
+            padding: 10px 25px;
+            min-width: 160px;
+        }
+
+        .game-score .team-score {
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: #C4CED4;
+            text-shadow: 0 0 10px rgba(196, 206, 212, 0.5);
+        }
+
+        .game-score .score-separator {
+            font-size: 1.2rem;
+            color: rgba(255, 255, 255, 0.3);
+        }
+
+        .game-score .opp-score {
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: #666;
+        }
+
+        .game-score.win .team-score {
+            color: var(--rockets-primary);
+            text-shadow: 0 0 15px rgba(206, 17, 65, 0.7);
+        }
+
+        .game-score.win .opp-score {
+            color: #888888;
+        }
+
+        .game-score.loss .team-score {
+            color: #888888;
+        }
+
+        .game-score.loss .opp-score {
+            color: var(--rockets-primary);
+            text-shadow: 0 0 15px rgba(206, 17, 65, 0.5);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .stat-card {
+            background: rgba(206, 17, 65, 0.15);
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid rgba(206, 17, 65, 0.3);
+        }
+
+        .stat-card .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--rockets-primary);
+        }
+
+        .stat-card .stat-label {
+            font-size: 0.9rem;
+            color: rgba(255, 255, 255, 0.6);
+            margin-top: 5px;
+        }
+
+        .chart-container {
+            height: 400px;
+        }
+
+        .yao-section {
+            background: linear-gradient(135deg, rgba(206, 17, 65, 0.15), rgba(0, 0, 0, 0.3));
+            border: 2px solid var(--rockets-primary);
+        }
+
+        .yao-header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .yao-avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--rockets-primary), #E8384F);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .yao-info h3 {
+            font-size: 1.8rem;
+            margin-bottom: 5px;
+        }
+
+        .yao-info .position {
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .yao-stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .yao-stat {
+            text-align: center;
+        }
+
+        .yao-stat .value {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--rockets-primary);
+        }
+
+        .yao-stat .label {
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .yao-highlight {
+            background: rgba(206, 17, 65, 0.1);
+            border-left: 3px solid var(--rockets-primary);
+            padding: 15px;
+            margin-top: 15px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .comparison-section {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .comparison-card {
+            background: rgba(206, 17, 65, 0.1);
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .comparison-label {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: var(--rockets-primary);
+            margin-bottom: 15px;
+        }
+
+        .comparison-stats {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .comparison-item {
+            text-align: center;
+        }
+
+        .comparison-item .value {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .comparison-item .label {
+            font-size: 0.8rem;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        @media (max-width: 768px) {
+            .stats-grid, .yao-stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .comparison-section {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar minimized" id="navbar">
+        <h1><div class="team-logo"></div>休斯顿火箭</h1>
+        <div class="team-info">
+            <span>Houston Rockets</span>
+            <span>|</span>
+            <span>红色国度</span>
+            <span>|</span>
+            <span>2次总冠军</span>
+        </div>
+        <nav>
+            <a href="/" target="_blank">球队</a>
+            <a href="/team-history" target="_blank">球队历史</a>    
+            <a href="/matchup" target="_blank">球队对阵</a>
+            <a href="/player-compare" target="_blank">球员对比</a>
+            <a href="/legendary-players" target="_blank">传奇球员</a>
+            <a href="/player-radar" target="_blank">能力雷达图</a>  
+            <a href="/rankings" target="_blank">高阶数据</a>        
+            <a href="/spurs" target="_blank">马刺专区</a>
+            <a href="/lakers" target="_blank">湖人专区</a>
+            <a href="/rockets" class="active">火箭专区</a>
+        </nav>
+    </nav>
+
+    <div class="content">
+        <div class="header">
+            <h1>休斯顿火箭</h1>
+            <p>Houston Rockets | 红色国度 | 2次总冠军</p>
+        </div>
+
+        <div class="container">
+        <div class="tabs">
+            <button class="tab-btn active" onclick="showTab('roster')">球队阵容</button>
+            <button class="tab-btn" onclick="showTab('schedule')">赛季赛程</button>
+            <button class="tab-btn" onclick="showTab('stats')">赛季统计</button>
+            <button class="tab-btn" onclick="showTab('yao')">姚明专区</button>
+        </div>
+
+        <div id="roster" class="tab-content active">
+            <div class="card">
+                <h3>火箭阵容</h3>
+                <div class="roster-grid" id="rosterGrid">
+                    <div class="loading">加载中...</div>
+                </div>
+            </div>
+        </div>
+
+        <div id="schedule" class="tab-content">
+            <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 20px;">
+                <button class="season-btn" onclick="changeScheduleSeason(-1)">◀ 上赛季</button>
+                <select id="scheduleSeasonSelect" onchange="loadSchedule(this.value)" style="padding: 8px 15px; border-radius: 20px; border: 1px solid rgba(196, 206, 212, 0.3); background: rgba(196, 206, 212, 0.1); color: #ffffff; font-size: 14px; cursor: pointer;">
+                    <option value="2023-2024">2023-24</option>
+                    <option value="2024-2025">2024-25</option>
+                    <option value="2025-2026">2025-26</option>
+                </select>
+                <button class="season-btn" onclick="changeScheduleSeason(1)">下赛季 ▶</button>
+            </div>
+            <div class="card">
+                <h3>赛季赛程</h3>
+                <div class="schedule-grid" id="scheduleGrid">
+                    <div class="loading">加载中...</div>
+                </div>
+            </div>
+        </div>
+
+        <div id="stats" class="tab-content">
+            <div class="season-selector" id="statsSeasonSelector">
+                <button class="season-btn active" data-season="2023-2024">2023-24</button>
+                <button class="season-btn" data-season="2024-2025">2024-25</button>
+                <button class="season-btn" data-season="2025-2026">2025-26</button>
+            </div>
+            <div class="card">
+                <h3>赛季统计</h3>
+                <div class="stats-grid" id="statsGrid">
+                    <div class="loading">加载中...</div>
+                </div>
+            </div>
+            <div class="card">
+                <h3>得分趋势</h3>
+                <div class="chart-container">
+                    <canvas id="trendChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div id="yao" class="tab-content">
+            <div class="card yao-section">
+                <div class="yao-header">
+                    <div class="yao-avatar">Y</div>
+                    <div class="yao-info">
+                        <h3>姚明</h3>
+                        <div class="position">Yao Ming | 中锋 | #11</div>
+                    </div>
+                </div>
+                
+                <div class="yao-stats">
+                    <div class="yao-stat"><div class="value">9,247</div><div class="label">生涯总得分</div></div>
+                    <div class="yao-stat"><div class="value">19.0</div><div class="label">场均得分</div></div>
+                    <div class="yao-stat"><div class="value">9.2</div><div class="label">场均篮板</div></div>
+                    <div class="yao-stat"><div class="value">1.9</div><div class="label">场均盖帽</div></div>
+                </div>
+
+                <div class="yao-highlight">
+                    <strong>荣誉成就:</strong> 8次全明星、2次最佳阵容二队、3次最佳阵容三队、NBA名人堂成员、中国篮球里程碑
+                </div>
+
+                <div class="comparison-section">
+                    <div class="comparison-card">
+                        <div class="comparison-label">姚明 vs 奥尼尔</div>
+                        <div class="comparison-stats">
+                            <div class="comparison-item"><div class="value">19.0</div><div class="label">场均得分</div></div>
+                            <div class="comparison-item"><div class="value">23.7</div><div class="label">场均得分</div></div>
+                        </div>
+                    </div>
+                    <div class="comparison-card">
+                        <div class="comparison-label">姚明 vs 邓肯</div>
+                        <div class="comparison-stats">
+                            <div class="comparison-item"><div class="value">9.2</div><div class="label">场均篮板</div></div>
+                            <div class="comparison-item"><div class="value">10.8</div><div class="label">场均篮板</div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let trendChart = null;
+        let isInitialized = false;
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const navbar = document.getElementById('navbar');
+            navbar.addEventListener('click', function() {
+                navbar.classList.toggle('minimized');
+            });
+        });
+
+        function showTab(tabId) {
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+            
+            event.target.classList.add('active');
+            document.getElementById(tabId).classList.add('active');
+            
+            if (tabId === 'schedule') loadSchedule('2023-2024');
+            else if (tabId === 'stats') loadSeasonStats('2023-2024');
+            else if (tabId === 'yao') loadYaoData();
+        }
+
+        function changeScheduleSeason(direction) {
+            const select = document.getElementById('scheduleSeasonSelect');
+            if (!select) return;
+            
+            const options = select.options;
+            const currentIndex = select.selectedIndex;
+            const newIndex = currentIndex + direction;
+            
+            if (newIndex >= 0 && newIndex < options.length) {
+                select.selectedIndex = newIndex;
+                loadSchedule(options[newIndex].value);
+            }
+        }
+        
+        async function loadRoster() {
+            try {
+                const response = await fetch('/api/teams/2012/roster');
+                const result = await response.json();
+                
+                if (result.success && result.data && result.data.length > 0) {
+                    let html = '';
+                    result.data.forEach(player => {
+                        const number = player.number || '';
+                        const name = player.name || '未知球员';
+                        const position = player.position || '';
+                        const weight = player.weight ? `${parseFloat(player.weight) * 0.4536}kg` : '';
+                        const info = player.is_two_way ? `${name} | ${position} | ${weight} | 双向合同` : `${name} | ${position} | ${weight}`;
+                        
+                        html += `
+                            <div class="player-card" onclick="window.location.href='/player-profile?id=${player.player_id}'" style="cursor: pointer;">
+                                <div class="player-number">${number}</div>
+                                <div class="player-name">${name}</div>
+                                <div class="player-position">${position}</div>
+                                <div class="player-info">${info}</div>
+                            </div>
+                        `;
+                    });
+                    document.getElementById('rosterGrid').innerHTML = html;
+                } else {
+                    loadDefaultRoster();
+                }
+            } catch (error) {
+                console.error('获取阵容数据失败:', error);
+                loadDefaultRoster();
+            }
+        }
+
+        function loadDefaultRoster() {
+            const rosterData = [
+                { number: '7', name: '凯文·杜兰特', position: 'SF', info: 'Kevin Durant | 208cm | 109kg | 17年经验', player_id: 'kevin_durant' },
+                { number: '1', name: '阿门·汤普森', position: 'PG', info: 'Amen Thompson | 198cm | 91kg | 2年经验', player_id: 'amen_thompson' },
+                { number: '10', name: '小贾巴里·史密斯', position: 'PF', info: 'Jabari Smith Jr. | 211cm | 100kg | 3年经验', player_id: 'jabari_smith' },
+                { number: '28', name: '阿尔佩伦·申京', position: 'C', info: 'Alperen Sengun | 213cm | 110kg | 4年经验', player_id: 'alperen_sengun' },
+                { number: '30', name: '克林特·卡佩拉', position: 'C', info: 'Clint Capela | 208cm | 122kg | 11年经验', player_id: 'clint_capela' },
+                { number: '15', name: '里德·谢泼德', position: 'SG', info: 'Reed Sheppard | 193cm | 84kg | 1年经验', player_id: 'reed_sheppard' },
+                { number: '20', name: '约什·奥科吉', position: 'SG', info: 'Josh Okogie | 193cm | 97kg | 7年经验', player_id: 'josh_okogie' },
+                { number: '17', name: '塔里·伊森', position: 'PF', info: 'Tari Eason | 206cm | 98kg | 3年经验', player_id: 'tari_eason' },
+                { number: '8', name: '杰肖恩·泰特', position: 'SF', info: 'Jae\'Sean Tate | 193cm | 104kg | 5年经验', player_id: 'jaesean_tate' },
+                { number: '2', name: '多里安·芬尼-史密斯', position: 'PF', info: 'Dorian Finney-Smith | 201cm | 100kg | 9年经验', player_id: 'dorian_finney_smith' },
+                { number: '12', name: '史蒂文·亚当斯', position: 'C', info: 'Steven Adams | 213cm | 120kg | 11年经验', player_id: 'steven_adams' },
+                { number: '32', name: '杰夫·格林', position: 'PF', info: 'Jeff Green | 206cm | 107kg | 17年经验', player_id: 'jeff_green' },
+                { number: '0', name: '阿龙·霍勒迪', position: 'PG', info: 'Aaron Holiday | 183cm | 84kg | 7年经验', player_id: 'aaron_holiday' },
+                { number: '4', name: 'JD·戴维森', position: 'PG', info: 'JD Davison | 188cm | 88kg | 3年经验', player_id: 'jd_davison' },
+                { number: '27', name: '以赛亚·克劳福德', position: 'SF', info: 'Isaiah Crawford | 201cm | 100kg | 1年经验', player_id: 'isaiah_crawford' },
+                { number: '00', name: '弗雷德·范弗利特', position: 'PG', info: 'Fred VanVleet | 183cm | 89kg | 9年经验', player_id: 'fred_vanvleet' }
+            ];
+            
+            let html = '';
+            rosterData.forEach(player => {
+                html += `
+                    <div class="player-card" onclick="window.location.href='/player-profile?id=${player.player_id}'" style="cursor: pointer;">
+                        <div class="player-number">${player.number}</div>
+                        <div class="player-name">${player.name}</div>
+                        <div class="player-position">${player.position}</div>
+                        <div class="player-info">${player.info}</div>
+                    </div>
+                `;
+            });
+            document.getElementById('rosterGrid').innerHTML = html;
+        }
+
+        async function loadSchedule(season) {
+            try {
+                const response = await fetch(`/api/team/season/${season}?team=HOU`);
+                const result = await response.json();
+                
+                if (result.success && result.data.games) {
+                    let html = '';
+                    result.data.games.forEach(game => {
+                        const isWin = game.Tm > game.Opp_1;
+                        html += `
+                            <div class="game-card ${isWin ? 'win' : 'loss'}">
+                                <div class="game-header">
+                                    <span class="game-date">${game.Date}</span>
+                                    <span class="game-result ${game.Rslt}">${game.Rslt}</span>
+                                </div>
+                                <div class="game-content">
+                                    <div class="game-score ${isWin ? 'win' : 'loss'}">
+                                        <span class="team-score">${game.Tm}</span>
+                                        <span class="score-separator">-</span>
+                                        <span class="opp-score">${game.Opp_1}</span>
+                                    </div>
+                                    <div class="game-team">
+                                        <div class="team-name">vs ${game.Opp}</div>
+                                    </div>
+                                </div>
+                            </div>
+                        `;
+                    });
+                    document.getElementById('scheduleGrid').innerHTML = html;
+                } else {
+                    document.getElementById('scheduleGrid').innerHTML = '<div class="no-data">暂无数据</div>';
+                }
+            } catch (error) {
+                console.error('Failed to load schedule:', error);
+                document.getElementById('scheduleGrid').innerHTML = '<div class="no-data">加载失败</div>';
+            }
+        }
+
+        async function loadSeasonStats(season) {
+            try {
+                const response = await fetch(`/api/team/season_summary/${season}?team=HOU`);
+                const result = await response.json();
+                
+                if (result.success && result.data) {
+                    const stats = result.data;
+                    const html = `
+                        <div class="stat-card"><div class="stat-value">${stats.wins}-${stats.losses}</div><div class="stat-label">战绩</div></div>
+                        <div class="stat-card"><div class="stat-value">${stats.win_rate}%</div><div class="stat-label">胜率</div></div>
+                        <div class="stat-card"><div class="stat-value">${stats.avg_points}</div><div class="stat-label">场均得分</div></div>
+                        <div class="stat-card"><div class="stat-value">${stats.avg_opp_points}</div><div class="stat-label">场均失分</div></div>
+                        <div class="stat-card"><div class="stat-value">${stats.avg_fg_pct}%</div><div class="stat-label">投篮命中率</div></div>
+                        <div class="stat-card"><div class="stat-value">${stats.avg_three_pct}%</div><div class="stat-label">三分命中率</div></div>
+                        <div class="stat-card"><div class="stat-value">${stats.avg_ft_pct}%</div><div class="stat-label">罚球命中率</div></div>
+                        <div class="stat-card"><div class="stat-value">${stats.avg_rebounds}</div><div class="stat-label">场均篮板</div></div>
+                    `;
+                    document.getElementById('statsGrid').innerHTML = html;
+                    
+                    if (trendChart) trendChart.destroy();
+                    const ctx = document.getElementById('trendChart').getContext('2d');
+                    trendChart = new Chart(ctx, {
+                        type: 'line',
+                        data: {
+                            labels: stats.points_trend.map((_, i) => `G${i+1}`).slice(-20),
+                            datasets: [{
+                                label: '得分',
+                                data: stats.points_trend.slice(-20),
+                                borderColor: '#CE1141',
+                                backgroundColor: 'rgba(206, 17, 65, 0.1)',
+                                fill: true,
+                                tension: 0.4
+                            }, {
+                                label: '对手得分',
+                                data: stats.opp_points_trend.slice(-20),
+                                borderColor: '#FDB927',
+                                backgroundColor: 'rgba(253, 185, 39, 0.1)',
+                                fill: true,
+                                tension: 0.4
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            scales: {
+                                y: { beginAtZero: true, grid: { color: 'rgba(255,255,255,0.1)' }, ticks: { color: '#fff' } },
+                                x: { grid: { color: 'rgba(255,255,255,0.1)' }, ticks: { color: '#fff' } }
+                            },
+                            plugins: {
+                                legend: { labels: { color: '#fff' } }
+                            }
+                        }
+                    });
+                } else {
+                    document.getElementById('statsGrid').innerHTML = '<div class="no-data">暂无数据</div>';
+                }
+            } catch (error) {
+                console.error('Failed to load stats:', error);
+                document.getElementById('statsGrid').innerHTML = '<div class="no-data">加载失败</div>';
+            }
+        }
+
+        function loadYaoData() {
+            console.log('Yao section loaded');
+        }
+
+        function init() {
+            if (isInitialized) return;
+            isInitialized = true;
+
+            document.getElementById('scheduleSeasonSelector').addEventListener('click', function(e) {
+                const btn = e.target.closest('.season-btn');
+                if (btn) {
+                    document.querySelectorAll('#scheduleSeasonSelector .season-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    loadSchedule(btn.dataset.season);
+                }
+            });
+
+            document.getElementById('statsSeasonSelector').addEventListener('click', function(e) {
+                const btn = e.target.closest('.season-btn');
+                if (btn) {
+                    document.querySelectorAll('#statsSeasonSelector .season-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    loadSeasonStats(btn.dataset.season);
+                }
+            });
+
+            loadRoster();
+            loadSchedule('2023-2024');
+            loadSeasonStats('2023-2024');
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    </script>
+</body>
+</html>

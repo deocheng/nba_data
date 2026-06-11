@@ -1,0 +1,23 @@
+{
+  "advanced": [
+    {
+      "year_id": "1953-54",
+      "age": "23",
+      "team_name_abbr": "NYK",
+      "comp_name_abbr": "NBA",
+      "pos": "PG",
+      "games": "28",
+      "mp": "220",
+      "per": "1.0",
+      "ts_pct": ".285",
+      "fta_per_fga_pct": ".444",
+      "ows": "-0.7",
+      "dws": "0.1",
+      "ws": "-0.6",
+      "ws_per_48": "-0.123",
+      "awards": ""
+    }
+  ],
+  "player_id": "ackerdo01",
+  "player_name": "Don Ackerman"
+}

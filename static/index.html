@@ -1,0 +1,1536 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA球队数据</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --nba-blue: #0b3d91;
+            --nba-blue-light: #1e4d9e;
+            --nba-gold: #fdb927;
+            --text-primary: #333;
+            --text-secondary: #666;
+            --border-color: #ddd;
+            --card-bg: #fff;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #fff;
+            min-height: 100vh;
+            color: var(--text-primary);
+        }
+        
+        .navbar {
+            background: var(--nba-blue);
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            overflow: visible;
+        }
+        
+        .navbar-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 2rem;
+        }
+        
+        .navbar h1 {
+            font-size: 1.8rem;
+            color: var(--nba-gold);
+            margin: 0;
+        }
+        
+        .navbar nav {
+            display: flex;
+            gap: 0.5rem;
+            align-items: center;
+        }
+
+        .dropdown {
+            position: relative;
+            white-space: nowrap;
+        }
+
+        .dropdown-btn {
+            background: none;
+            border: none;
+            color: #fff;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+            font-family: inherit;
+            user-select: none;
+        }
+
+        .dropdown-btn:hover,
+        .dropdown-btn.active,
+        .dropdown:hover .dropdown-btn,
+        .dropdown-btn:focus {
+            background: rgba(255, 255, 255, 0.2);
+            color: var(--nba-gold);
+            outline: none;
+        }
+
+        .dropdown-btn::after {
+            content: ' ▾';
+            font-size: 0.8em;
+            transition: transform 0.3s ease;
+        }
+
+        .dropdown:hover .dropdown-btn::after {
+            transform: rotate(180deg);
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            top: calc(100% - 5px);
+            left: 0;
+            background: #fff;
+            min-width: 220px;
+            max-height: 450px;
+            overflow-y: auto;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            z-index: 9999;
+            opacity: 0;
+            transform: translateY(-10px);
+            transition: opacity 0.2s ease, transform 0.2s ease;
+            padding-top: 15px;
+        }
+
+        .dropdown:hover .dropdown-content,
+        .dropdown-content:hover,
+        .dropdown:focus-within .dropdown-content {
+            display: block;
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .dropdown-content a {
+            display: block;
+            padding: 0.8rem 1.2rem;
+            color: #333;
+            text-decoration: none;
+            transition: background 0.15s;
+            font-size: 0.9rem;
+            border-left: 3px solid transparent;
+            margin: 2px 5px;
+            border-radius: 6px;
+        }
+
+        .dropdown-content a:hover {
+            background: rgba(11, 61, 145, 0.15);
+            color: #0b3d91;
+            border-left-color: #0b3d91;
+        }
+
+        .dropdown-section {
+            padding: 0.6rem 1rem;
+            font-weight: bold;
+            color: #0b3d91;
+            border-bottom: 1px solid #ddd;
+            background: #f8f9fa;
+            font-size: 0.85rem;
+        }
+
+        .dropdown-divider {
+            border-top: 1px solid #ddd;
+            margin: 0.3rem 0;
+        }
+        
+        .nav-link {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+        
+        .nav-link:hover {
+            background: rgba(255, 255, 255, 0.2);
+            color: var(--nba-gold);
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .search-bar {
+            margin-bottom: 2rem;
+        }
+        
+        .search-bar input {
+            width: 100%;
+            padding: 1rem;
+            border: 2px solid var(--border-color);
+            border-radius: 10px;
+            background: #fff;
+            color: var(--text-primary);
+            font-size: 1rem;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+        
+        .search-bar input:focus {
+            border-color: var(--nba-blue);
+            box-shadow: 0 0 20px rgba(11, 61, 145, 0.2);
+        }
+        
+        .teams-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .team-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 15px;
+            padding: 1.5rem;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .team-card:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.1);
+            border-color: rgba(30, 144, 255, 0.5);
+            box-shadow: 0 10px 30px rgba(30, 144, 255, 0.2);
+        }
+        
+        .team-card .logo {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto 1rem;
+            border-radius: 50%;
+            display: block;
+            object-fit: contain;
+            background: #fff;
+            padding: 5px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        .logo-placeholder {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto 1rem;
+            background: linear-gradient(135deg, #1e90ff, #00bfff);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #fff;
+        }
+        
+        .team-card h3 {
+            margin-bottom: 0.5rem;
+            color: #1e90ff;
+        }
+        
+        .team-card p {
+            color: #aaa;
+            font-size: 0.9rem;
+        }
+        
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            overflow-y: auto;
+        }
+        
+        .modal-overlay.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        
+        .modal {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border-radius: 20px;
+            max-width: 900px;
+            width: 100%;
+            max-height: 90vh;
+            overflow: hidden;
+            border: 1px solid rgba(30, 144, 255, 0.3);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+        }
+        
+        .modal-header {
+            background: linear-gradient(135deg, #1e90ff, #00bfff);
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .modal-header h2 {
+            font-size: 1.5rem;
+        }
+        
+        .modal-header .close-btn {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.2);
+            border: none;
+            color: #fff;
+            font-size: 1.5rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .modal-header .close-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+        
+        .modal-tabs {
+            display: flex;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .modal-tabs button {
+            flex: 1;
+            padding: 1rem;
+            background: transparent;
+            border: none;
+            color: #aaa;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 1rem;
+        }
+        
+        .modal-tabs button.active {
+            color: #1e90ff;
+            border-bottom: 2px solid #1e90ff;
+            background: rgba(30, 144, 255, 0.1);
+        }
+        
+        .modal-content {
+            padding: 2rem;
+            max-height: calc(90vh - 160px);
+            overflow-y: auto;
+        }
+        
+        .tab-content {
+            display: none;
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        .season-selector {
+            margin-bottom: 1.5rem;
+        }
+        
+        .season-selector label {
+            margin-right: 1rem;
+            color: #aaa;
+        }
+        
+        .season-selector select {
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            background: #1a1a2e;
+            border: 1px solid #1e90ff;
+            color: #fff;
+            outline: none;
+            min-width: 120px;
+        }
+        
+        .season-selector select option {
+            background: #1a1a2e;
+            color: #fff;
+        }
+        
+        .record-cards {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        
+        .record-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            padding: 1rem;
+            text-align: center;
+        }
+        
+        .record-card .value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #1e90ff;
+        }
+        
+        .record-card .label {
+            color: #aaa;
+            font-size: 0.8rem;
+            margin-top: 0.5rem;
+        }
+        
+        .chart-container {
+            height: 350px;
+            margin-bottom: 2rem;
+        }
+        
+        .games-list {
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        
+        .game-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
+        }
+        
+        .game-item:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+        
+        .game-item.win {
+            border-left: 3px solid #3B82F6;
+        }
+        
+        .game-item.loss {
+            border-left: 3px solid #EF4444;
+        }
+        
+        .game-date {
+            color: #aaa;
+            font-size: 0.9rem;
+        }
+        
+        .game-teams {
+            flex: 1;
+            margin: 0 2rem;
+            text-align: center;
+        }
+        
+        .game-teams .team {
+            display: block;
+            font-weight: bold;
+        }
+        
+        .game-teams .vs {
+            color: #666;
+            font-size: 0.8rem;
+            margin: 0.2rem 0;
+        }
+        
+        .game-score {
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+        
+        .game-score.win {
+            color: #3B82F6;
+        }
+        
+        .game-score.loss {
+            color: #EF4444;
+        }
+        
+        .roster-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+        
+        .player-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            padding: 1rem;
+            text-align: center;
+        }
+        
+        .player-card .name {
+            font-weight: bold;
+            color: #1e90ff;
+            margin-bottom: 0.5rem;
+        }
+        
+        .player-card .position {
+            color: #aaa;
+            font-size: 0.9rem;
+        }
+        
+        .player-card .info {
+            color: #666;
+            font-size: 0.8rem;
+            margin-top: 0.5rem;
+        }
+        
+        .transactions-list {
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        
+        .transaction-item {
+            padding: 1rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .transaction-item .date {
+            color: #1e90ff;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        
+        .transaction-item .desc {
+            color: #aaa;
+            font-size: 0.9rem;
+        }
+        
+        .no-data {
+            text-align: center;
+            color: #666;
+            padding: 3rem;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: #1e90ff;
+        }
+        
+        .loading::after {
+            content: '';
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid #1e90ff;
+            border-radius: 50%;
+            border-top-color: transparent;
+            animation: spin 0.8s linear infinite;
+            margin-left: 10px;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .conference-title {
+            margin: 2rem 0 1rem;
+            font-size: 1.2rem;
+            color: #1e90ff;
+            border-bottom: 1px solid rgba(30, 144, 255, 0.3);
+            padding-bottom: 0.5rem;
+        }
+        
+        .division-title {
+            margin: 1.5rem 0 1rem;
+            font-size: 1rem;
+            color: #aaa;
+            padding-left: 1rem;
+        }
+        
+        .players-section {
+            display: none;
+        }
+        
+        .players-section.active {
+            display: block;
+        }
+        
+        .player-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 15px;
+            padding: 1.5rem;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            position: relative;
+        }
+        
+        .player-card:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.1);
+            border-color: rgba(30, 144, 255, 0.5);
+            box-shadow: 0 10px 30px rgba(30, 144, 255, 0.2);
+        }
+        
+        .player-card .player-avatar {
+            width: 75px;
+            height: 95px;
+            border-radius: 8px;
+            object-fit: contain;
+            margin-bottom: 0.5rem;
+        }
+        
+        .player-card .player-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: rgba(30, 144, 255, 0.5);
+            margin-bottom: 0.5rem;
+        }
+        
+        .player-card .player-name {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #1e90ff;
+            margin-bottom: 0.3rem;
+        }
+        
+        .player-card .player-nickname {
+            font-size: 0.9rem;
+            color: #fdb927;
+            font-style: italic;
+            margin-bottom: 0.5rem;
+        }
+        
+        .player-card .player-position {
+            color: #aaa;
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+        
+        .player-card .player-details {
+            text-align: left;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            padding-top: 1rem;
+        }
+        
+        .player-card .detail-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.4rem 0;
+            font-size: 0.85rem;
+        }
+        
+        .player-card .detail-label {
+            color: #666;
+        }
+        
+        .player-card .detail-value {
+            color: #fff;
+            font-weight: 500;
+        }
+        
+        .player-card .two-way-badge {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: #f59e0b;
+            color: #000;
+            font-size: 0.7rem;
+            padding: 0.25rem 0.5rem;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+        
+        .player-card .stat-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .player-card .stat-label {
+            color: #aaa;
+            font-size: 0.9rem;
+        }
+        
+        .player-card .stat-value {
+            color: #fff;
+            font-weight: bold;
+        }
+        
+        .player-highlights {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        
+        .highlight-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            padding: 1rem;
+            text-align: center;
+        }
+        
+        .highlight-card .highlight-value {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #1e90ff;
+        }
+        
+        .highlight-card .highlight-label {
+            color: #aaa;
+            font-size: 0.8rem;
+            margin-top: 0.5rem;
+        }
+        
+        .player-modal-tabs {
+            display: flex;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .player-modal-tabs button {
+            flex: 1;
+            padding: 1rem;
+            background: transparent;
+            border: none;
+            color: #aaa;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 1rem;
+        }
+        
+        .player-modal-tabs button.active {
+            color: #1e90ff;
+            border-bottom: 2px solid #1e90ff;
+            background: rgba(30, 144, 255, 0.1);
+        }
+        
+        .player-games-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .player-games-table th,
+        .player-games-table td {
+            padding: 0.75rem;
+            text-align: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .player-games-table th {
+            color: #1e90ff;
+            font-weight: bold;
+        }
+        
+        .player-games-table tr:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+        
+        .player-games-table .win {
+            color: #3B82F6;
+        }
+        
+        .player-games-table .loss {
+            color: #EF4444;
+        }
+        
+        #zonesSection {
+            display: none;
+        }
+        
+        .zone-title {
+            margin: 2rem 0 1.5rem;
+            font-size: 1.5rem;
+            color: #1e90ff;
+            border-bottom: 2px solid #1e90ff;
+            padding-bottom: 0.5rem;
+        }
+        
+        .zones-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .zone-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 2rem;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+        
+        .zone-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+        }
+        
+        .zone-logo {
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 1.5rem;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #C4CED4, #8892A6);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: #000;
+            box-shadow: 0 8px 25px rgba(196, 206, 212, 0.3);
+        }
+        
+        .zone-logo.lakers {
+            background: linear-gradient(135deg, #552583, #7B42BC);
+            color: #FDB927;
+            box-shadow: 0 8px 25px rgba(85, 37, 131, 0.4);
+        }
+        
+        .zone-logo.rockets {
+            background: linear-gradient(135deg, #CE1141, #E8384F);
+            color: #fff;
+            box-shadow: 0 8px 25px rgba(206, 17, 65, 0.4);
+        }
+        
+        .zone-card h3 {
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+            color: #fff;
+        }
+        
+        .zone-star {
+            color: #FDB927;
+            font-size: 0.95rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .zone-btn {
+            padding: 0.75rem 2rem;
+            border-radius: 25px;
+            border: none;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 1rem;
+        }
+        
+        .spurs-zone:hover, .spurs-zone.active {
+            border-color: #C4CED4;
+        }
+        
+        .spurs-zone .zone-btn {
+            background: linear-gradient(135deg, #C4CED4, #8892A6);
+            color: #000;
+        }
+        
+        .spurs-zone .zone-btn:hover {
+            transform: scale(1.05);
+        }
+        
+        .lakers-zone:hover, .lakers-zone.active {
+            border-color: #FDB927;
+        }
+        
+        .lakers-zone .zone-btn {
+            background: linear-gradient(135deg, #552583, #7B42BC);
+            color: #FDB927;
+        }
+        
+        .lakers-zone .zone-btn:hover {
+            transform: scale(1.05);
+        }
+        
+        .rockets-zone:hover, .rockets-zone.active {
+            border-color: #CE1141;
+        }
+        
+        .rockets-zone .zone-btn {
+            background: linear-gradient(135deg, #CE1141, #E8384F);
+            color: #fff;
+        }
+        
+        .rockets-zone .zone-btn:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <header class="navbar">
+        <div class="navbar-content">
+            <h1><i class="fas fa-basketball-ball" style="color: #fdb927;"></i> NBA数据</h1>
+            <nav>
+                <div class="dropdown">
+                    <button class="dropdown-btn active"><i class="fas fa-users"></i> 球队</button>
+                    <div class="dropdown-content">
+                        <div class="dropdown-section">球队专区</div>
+                        <a href="/spurs" target="_blank"><i class="fas fa-star"></i> 圣安东尼奥马刺</a>
+                        <a href="/lakers" target="_blank"><i class="fas fa-star"></i> 洛杉矶湖人</a>
+                        <a href="/rockets" target="_blank"><i class="fas fa-star"></i> 休斯顿火箭</a>
+                        <div class="dropdown-divider"></div>
+                        <div class="dropdown-section">球队列表</div>
+                        <a href="#teams">查看所有球队</a>
+                        <div class="dropdown-divider"></div>
+                        <div class="dropdown-section">球队工具</div>
+                        <a href="/matchup" target="_blank"><i class="fas fa-swords"></i> 球队对阵</a>
+                        <a href="/team-history" target="_blank"><i class="fas fa-history"></i> 球队历史</a>
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <button class="dropdown-btn"><i class="fas fa-user"></i> 球员工具</button>
+                    <div class="dropdown-content">
+                        <a href="/player-compare" target="_blank"><i class="fas fa-balance-scale"></i> 球员对比</a>
+                        <a href="/player-radar" target="_blank"><i class="fas fa-radar"></i> 能力雷达图</a>
+                        <a href="/legendary-players" target="_blank"><i class="fas fa-trophy"></i> 传奇球员</a>
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <button class="dropdown-btn"><i class="fas fa-chart-line"></i> 数据统计</button>
+                    <div class="dropdown-content">
+                        <a href="/rankings" target="_blank"><i class="fas fa-chart-bar"></i> 高阶数据</a>
+                    </div>
+                </div>
+                <a href="#about" class="nav-link">关于</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="搜索球队名称或缩写...">
+        </div>
+
+        <div id="teamsSection">
+            <div class="loading">加载中</div>
+        </div>
+
+        <div id="zonesSection">
+            <h2 class="zone-title"><i class="fas fa-trophy"></i> 球队专区</h2>
+            <div class="zones-grid">
+                <div class="zone-card spurs-zone" onclick="window.open('/spurs', '_blank')">
+                    <div class="zone-logo">SAS</div>
+                    <h3>圣安东尼奥马刺</h3>
+                    <p class="zone-star">⭐ 维克托·文班亚马</p>
+                    <button class="zone-btn">进入专区</button>
+                </div>
+                
+                <div class="zone-card lakers-zone" onclick="window.open('/lakers', '_blank')">
+                    <div class="zone-logo lakers">LAL</div>
+                    <h3>洛杉矶湖人</h3>
+                    <p class="zone-star">⭐ 科比·布莱恩特</p>
+                    <button class="zone-btn">进入专区</button>
+                </div>
+                
+                <div class="zone-card rockets-zone" onclick="window.open('/rockets', '_blank')">
+                    <div class="zone-logo rockets">HOU</div>
+                    <h3>休斯顿火箭</h3>
+                    <p class="zone-star">⭐ 姚明</p>
+                    <button class="zone-btn">进入专区</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="playersSection" class="players-section">
+            <div class="loading">加载中</div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="teamModal">
+        <div class="modal">
+            <div class="modal-header">
+                <h2 id="modalTitle">球队详情</h2>
+                <button class="close-btn" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-tabs">
+                <button class="active" onclick="showTab('record')">战绩统计</button>
+                <button onclick="showTab('recent')">近十场比赛</button>
+                <button onclick="showTab('roster')">球队阵容</button>
+                <button onclick="showTab('transactions')">交易记录</button>
+            </div>
+            <div class="modal-content">
+                <div class="tab-content active" id="record">
+                    <div class="season-selector">
+                        <label>选择赛季:</label>
+                        <select id="seasonSelect" onchange="loadTeamData()">
+                            <option value="2025-26">2025-26</option>
+                            <option value="2024-25">2024-25</option>
+                            <option value="2023-24">2023-24</option>
+                        </select>
+                    </div>
+                    <div class="record-cards" id="recordCards">
+                        <div class="loading">加载中</div>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="gamesChart"></canvas>
+                    </div>
+                </div>
+                
+                <div class="tab-content" id="recent">
+                    <div class="games-list" id="recentGames">
+                        <div class="loading">加载中</div>
+                    </div>
+                </div>
+                
+                <div class="tab-content" id="roster">
+                    <div class="roster-grid" id="rosterGrid">
+                        <div class="loading">加载中</div>
+                    </div>
+                </div>
+                
+                <div class="tab-content" id="transactions">
+                    <div class="transactions-list" id="transactionsList">
+                        <div class="loading">加载中</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="playerModal">
+        <div class="modal">
+            <div class="modal-header">
+                <h2 id="playerModalTitle">球员详情</h2>
+                <button class="close-btn" onclick="closePlayerModal()">&times;</button>
+            </div>
+            <div class="player-modal-tabs">
+                <button class="active" onclick="showPlayerTab('summary')">生涯摘要</button>
+                <button onclick="showPlayerTab('games')">比赛记录</button>
+            </div>
+            <div class="modal-content">
+                <div class="tab-content active" id="playerSummary">
+                    <div class="player-highlights" id="playerHighlights">
+                        <div class="loading">加载中</div>
+                    </div>
+                    <div class="season-selector">
+                        <label>选择赛季:</label>
+                        <select id="playerSeasonSelect" onchange="loadPlayerData()">
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="tab-content" id="playerGames">
+                    <div class="games-list" id="playerGamesList">
+                        <div class="loading">加载中</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentTeamId = null;
+        let gamesChart = null;
+
+        document.addEventListener('DOMContentLoaded', function() {
+            loadTeams();
+            
+            // 下拉菜单交互 - 仅使用CSS hover，移除JavaScript干扰
+            // 确保链接可以正常点击
+            document.querySelectorAll('.dropdown-content a').forEach(link => {
+                link.addEventListener('click', function(e) {
+                    // 允许链接正常跳转
+                    window.location = this.href;
+                });
+            });
+
+            document.getElementById('searchInput').addEventListener('input', function() {
+                filterTeams(this.value);
+            });
+
+            // 点击模态框外部关闭
+            document.getElementById('teamModal').addEventListener('click', function(e) {
+                if (e.target === this) {
+                    closeModal();
+                }
+            });
+        });
+
+        async function loadTeams() {
+            try {
+                const response = await fetch('/api/teams');
+                const data = await response.json();
+                
+                if (data.success) {
+                    displayTeams(data.data);
+                } else {
+                    document.getElementById('teamsSection').innerHTML = '<div class="no-data">无法加载球队数据</div>';
+                }
+            } catch (error) {
+                console.error('Error loading teams:', error);
+                document.getElementById('teamsSection').innerHTML = '<div class="no-data">加载球队数据失败</div>';
+            }
+        }
+
+        function getTeamPageUrl(abbr) {
+            const teamPages = {
+                'SAS': '/spurs',
+                'LAL': '/lakers',
+                'HOU': '/rockets'
+            };
+            return teamPages[abbr] || null;
+        }
+
+        function displayTeams(teams) {
+            const easternTeams = teams.filter(t => t.conference === '东部');
+            const westernTeams = teams.filter(t => t.conference === '西部');
+
+            const divisions = {
+                '东部': ['大西洋', '中部', '东南'],
+                '西部': ['西北', '太平洋', '西南']
+            };
+
+            let html = '';
+            
+            html += '<div class="conference-title">🌎 东部联盟</div>';
+            divisions['东部'].forEach(div => {
+                const divTeams = easternTeams.filter(t => t.division === div);
+                html += `<div class="division-title">${div}赛区</div>`;
+                html += '<div class="teams-grid">';
+                divTeams.forEach(team => {
+                    const abbr = team.team_abbr;
+                    const teamPageUrl = getTeamPageUrl(abbr);
+                    const clickHandler = teamPageUrl 
+                        ? `window.open('${teamPageUrl}', '_blank')` 
+                        : `openTeamModal('${team.team_id}', '${team.team_name}')`;
+                    html += `
+                        <div class="team-card" onclick="${clickHandler}" style="cursor: pointer;">
+                            <img class="logo" src="/nbalogo/${abbr}.svg" alt="${abbr}" 
+                                 onerror="this.onerror=null;this.src='/nbalogo/${abbr.toLowerCase()}.svg'"
+                                 onerror="this.onerror=null;this.style.display='none';this.parentElement.innerHTML='<div class=logo-placeholder>'+this.alt+'</div>'">
+                            <h3>${team.team_name}</h3>
+                            <p>${team.city}${teamPageUrl ? ' 🚀' : ''}</p>
+                        </div>
+                    `;
+                });
+                html += '</div>';
+            });
+
+            html += '<div class="conference-title">🌍 西部联盟</div>';
+            divisions['西部'].forEach(div => {
+                const divTeams = westernTeams.filter(t => t.division === div);
+                html += `<div class="division-title">${div}赛区</div>`;
+                html += '<div class="teams-grid">';
+                divTeams.forEach(team => {
+                    const abbr = team.team_abbr;
+                    const teamPageUrl = getTeamPageUrl(abbr);
+                    const clickHandler = teamPageUrl 
+                        ? `window.open('${teamPageUrl}', '_blank')` 
+                        : `openTeamModal('${team.team_id}', '${team.team_name}')`;
+                    html += `
+                        <div class="team-card" onclick="${clickHandler}" style="cursor: pointer;">
+                            <img class="logo" src="/nbalogo/${abbr}.svg" alt="${abbr}" 
+                                 onerror="this.onerror=null;this.src='/nbalogo/${abbr.toLowerCase()}.svg'"
+                                 onerror="this.onerror=null;this.style.display='none';this.parentElement.innerHTML='<div class=logo-placeholder>'+this.alt+'</div>'">
+                            <h3>${team.team_name}</h3>
+                            <p>${team.city}${teamPageUrl ? ' 🚀' : ''}</p>
+                        </div>
+                    `;
+                });
+                html += '</div>';
+            });
+
+            document.getElementById('teamsSection').innerHTML = html;
+        }
+
+        function filterTeams(query) {
+            const teamCards = document.querySelectorAll('.team-card');
+            query = query.toLowerCase();
+            
+            teamCards.forEach(card => {
+                const name = card.querySelector('h3').textContent.toLowerCase();
+                const abbr = card.querySelector('.logo').textContent.toLowerCase();
+                const city = card.querySelector('p').textContent.toLowerCase();
+                
+                if (name.includes(query) || abbr.includes(query) || city.includes(query)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        function openTeamModal(teamId, teamName) {
+            currentTeamId = teamId;
+            document.getElementById('modalTitle').textContent = teamName;
+            document.getElementById('teamModal').classList.add('active');
+            loadTeamData();
+        }
+
+        function closeModal() {
+            document.getElementById('teamModal').classList.remove('active');
+            currentTeamId = null;
+            if (gamesChart) {
+                gamesChart.destroy();
+                gamesChart = null;
+            }
+        }
+
+        function showTab(tabId) {
+            document.querySelectorAll('.modal-tabs button').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
+            
+            event.target.classList.add('active');
+            document.getElementById(tabId).classList.add('active');
+        }
+
+        async function loadTeamData() {
+            if (!currentTeamId) return;
+            
+            const season = document.getElementById('seasonSelect').value;
+            
+            // 加载战绩统计
+            loadRecord(season);
+            loadGamesChart(season);
+            
+            // 加载近十场比赛
+            loadRecentGames();
+            
+            // 加载球队阵容
+            loadRoster();
+            
+            // 加载交易记录
+            loadTransactions(season);
+        }
+
+        async function loadRecord(season) {
+            try {
+                const response = await fetch(`/api/teams/${currentTeamId}/record?season=${season}`);
+                const data = await response.json();
+                
+                if (data.success) {
+                    const record = data.data;
+                    document.getElementById('recordCards').innerHTML = `
+                        <div class="record-card">
+                            <div class="value">${record.wins}-${record.losses}</div>
+                            <div class="label">总战绩</div>
+                        </div>
+                        <div class="record-card">
+                            <div class="value">${record.win_rate}%</div>
+                            <div class="label">胜率</div>
+                        </div>
+                        <div class="record-card">
+                            <div class="value">${record.home_record}</div>
+                            <div class="label">主场战绩</div>
+                        </div>
+                        <div class="record-card">
+                            <div class="value">${record.away_record}</div>
+                            <div class="label">客场战绩</div>
+                        </div>
+                    `;
+                } else {
+                    document.getElementById('recordCards').innerHTML = '<div class="no-data">暂无战绩数据</div>';
+                }
+            } catch (error) {
+                console.error('Error loading record:', error);
+            }
+        }
+
+        async function loadGamesChart(season) {
+            try {
+                const response = await fetch(`/api/teams/${currentTeamId}/games_chart?season=${season}`);
+                const data = await response.json();
+                
+                if (data.success && data.data.labels.length > 0) {
+                    const chartData = data.data;
+                    
+                    if (gamesChart) {
+                        gamesChart.destroy();
+                    }
+                    
+                    const ctx = document.getElementById('gamesChart').getContext('2d');
+                    
+                    const displayScores = chartData.team_scores.map((score, index) => {
+                        return chartData.details[index].is_win ? score / 4 : -score / 4;
+                    });
+                    
+                    gamesChart = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: chartData.labels,
+                            datasets: [
+                                {
+                                    label: '本队得分',
+                                    data: displayScores,
+                                    backgroundColor: chartData.colors,
+                                    borderColor: chartData.colors,
+                                    borderWidth: 1,
+                                    borderRadius: 3,
+                                    barPercentage: 0.4
+                                }
+                            ]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            interaction: {
+                                mode: 'index',
+                                intersect: false
+                            },
+                            plugins: {
+                                legend: {
+                                    display: true,
+                                    position: 'top',
+                                    labels: { color: '#fff' }
+                                },
+                                tooltip: {
+                                    backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                    titleColor: '#fff',
+                                    bodyColor: '#fff',
+                                    padding: 12,
+                                    callbacks: {
+                                        title: function(context) {
+                                            const index = context[0].dataIndex;
+                                            const detail = chartData.details[index];
+                                            return `${chartData.labels[index]} - ${detail.is_home ? '主场' : '客场'}`;
+                                        },
+                                        label: function(context) {
+                                            const index = context.dataIndex;
+                                            const detail = chartData.details[index];
+                                            const result = detail.is_win ? '胜' : '负';
+                                            return [
+                                                `结果: ${result}`,
+                                                `${detail.team_score} - ${detail.opp_score}`,
+                                                `对手: ${detail.opp_team}`
+                                            ];
+                                        }
+                                    }
+                                }
+                            },
+                            scales: {
+                                x: {
+                                    ticks: { color: '#aaa' },
+                                    grid: { color: 'rgba(255, 255, 255, 0.1)' }
+                                },
+                                y: {
+                                    ticks: { 
+                                        color: '#aaa',
+                                        callback: function(value) {
+                                            return Math.abs(value);
+                                        }
+                                    },
+                                    grid: { color: 'rgba(255, 255, 255, 0.1)' },
+                                    title: {
+                                        display: true,
+                                        text: '得分',
+                                        color: '#aaa'
+                                    }
+                                }
+                            }
+                        }
+                    });
+                } else {
+                    document.getElementById('gamesChart').parentElement.innerHTML = '<div class="no-data">暂无比赛数据</div>';
+                }
+            } catch (error) {
+                console.error('Error loading chart:', error);
+            }
+        }
+
+        async function loadRecentGames() {
+            try {
+                const response = await fetch(`/api/teams/${currentTeamId}/recent_games?count=10`);
+                const data = await response.json();
+                
+                if (data.success && data.data.length > 0) {
+                    let html = '';
+                    data.data.forEach(game => {
+                        html += `
+                            <div class="game-item ${game.is_win ? 'win' : 'loss'}">
+                                <div class="game-date">${game.game_date}</div>
+                                <div class="game-teams">
+                                    <span class="team">${game.team_name}</span>
+                                    <span class="vs">${game.is_home ? 'vs' : '@'}</span>
+                                    <span class="team">${game.opp_team}</span>
+                                </div>
+                                <div class="game-score ${game.is_win ? 'win' : 'loss'}">
+                                    ${game.team_score} - ${game.opp_score}
+                                </div>
+                            </div>
+                        `;
+                    });
+                    document.getElementById('recentGames').innerHTML = html;
+                } else {
+                    document.getElementById('recentGames').innerHTML = '<div class="no-data">暂无近期比赛数据</div>';
+                }
+            } catch (error) {
+                console.error('Error loading recent games:', error);
+            }
+        }
+
+        async function loadRoster() {
+            try {
+                const response = await fetch(`/api/teams/${currentTeamId}/roster`);
+                const data = await response.json();
+                
+                if (data && data.success && Array.isArray(data.data) && data.data.length > 0) {
+                    let html = '';
+                    data.data.forEach(player => {
+                        // 安全检查 - 确保player对象存在
+                        if (!player) return;
+                        
+                        const bodyParts = player.body_info ? player.body_info.split(',') : [];
+                        const height = bodyParts[0] ? bodyParts[0].trim() : '';
+                        const weight = bodyParts[1] ? bodyParts[1].trim() : '';
+                        
+                        html += `
+                            <div class="player-card">
+                                ${player.avatar_url ? `
+                                    <img src="${player.avatar_url}" alt="${player.name || '球员'}" 
+                                         class="player-avatar" 
+                                         onerror="this.style.display='none';">
+                                ` : ''}
+                                <div class="player-number">#${player.number || 'N/A'}</div>
+                                <div class="player-name">${player.name || '未知球员'}</div>
+                                ${player.nickname ? `<div class="player-nickname">"${player.nickname}"</div>` : ''}
+                                <div class="player-position">${player.position || 'N/A'}</div>
+                                <div class="player-details">
+                                    ${height ? `<div class="detail-row">
+                                        <span class="detail-label">身高:</span>
+                                        <span class="detail-value">${height}</span>
+                                    </div>` : player.height ? `<div class="detail-row">
+                                        <span class="detail-label">身高:</span>
+                                        <span class="detail-value">${player.height} cm</span>
+                                    </div>` : ''}
+                                    ${weight ? `<div class="detail-row">
+                                        <span class="detail-label">体重:</span>
+                                        <span class="detail-value">${weight}</span>
+                                    </div>` : player.weight ? `<div class="detail-row">
+                                        <span class="detail-label">体重:</span>
+                                        <span class="detail-value">${player.weight} kg</span>
+                                    </div>` : ''}
+                                    ${player.experience ? `<div class="detail-row">
+                                        <span class="detail-label">经验:</span>
+                                        <span class="detail-value">${player.experience}年</span>
+                                    </div>` : ''}
+                                    ${player.college ? `<div class="detail-row">
+                                        <span class="detail-label">大学:</span>
+                                        <span class="detail-value">${player.college}</span>
+                                    </div>` : ''}
+                                </div>
+                                ${player.is_two_way ? '<div class="two-way-badge">双向合同</div>' : ''}
+                            </div>
+                        `;
+                    });
+                    document.getElementById('rosterGrid').innerHTML = html;
+                } else {
+                    document.getElementById('rosterGrid').innerHTML = '<div class="no-data">暂无阵容数据</div>';
+                }
+            } catch (error) {
+                console.error('Error loading roster:', error);
+                document.getElementById('rosterGrid').innerHTML = '<div class="no-data">加载阵容数据失败</div>';
+            }
+        }
+        async function loadTransactions(season) {
+            try {
+                const response = await fetch(`/api/teams/${currentTeamId}/transactions?season=${season}`);
+                const data = await response.json();
+                
+                if (data.success && data.data.length > 0) {
+                    let html = '';
+                    data.data.forEach(transaction => {
+                        html += `
+                            <div class="transaction-item">
+                                <div class="date">${transaction.date}</div>
+                                <div class="desc">${transaction.description}</div>
+                            </div>
+                        `;
+                    });
+                    document.getElementById('transactionsList').innerHTML = html;
+                } else {
+                    document.getElementById('transactionsList').innerHTML = '<div class="no-data">暂无当赛季交易记录</div>';
+                }
+            } catch (error) {
+                console.error('Error loading transactions:', error);
+            }
+        }
+
+        document.querySelectorAll('.navbar nav a').forEach(link => {
+            link.addEventListener('click', function(e) {
+                const href = this.getAttribute('href');
+                
+                if (href.startsWith('/static/')) {
+                    return;
+                }
+                
+                e.preventDefault();
+                const target = href.substring(1);
+                
+                document.querySelectorAll('.navbar nav a').forEach(a => a.classList.remove('active'));
+                this.classList.add('active');
+                
+                if (target === 'teams') {
+                    document.getElementById('teamsSection').style.display = 'block';
+                    document.getElementById('playersSection').style.display = 'none';
+                    document.getElementById('searchInput').placeholder = '搜索球队名称或缩写...';
+                    loadTeams();
+                } else if (target === 'players') {
+                    document.getElementById('teamsSection').style.display = 'none';
+                    document.getElementById('playersSection').style.display = 'block';
+                    document.getElementById('searchInput').placeholder = '搜索球员名称...';
+                    loadPlayers();
+                } else if (target === 'about') {
+                    document.getElementById('teamsSection').style.display = 'none';
+                    document.getElementById('playersSection').style.display = 'none';
+                }
+            });
+        });
+
+        async function loadPlayers() {
+            try {
+                const response = await fetch('/api/players/list');
+                const data = await response.json();
+                
+                if (data && data.length > 0) {
+                    displayPlayers(data);
+                } else {
+                    document.getElementById('playersSection').innerHTML = '<div class="no-data">无法加载球员数据</div>';
+                }
+            } catch (error) {
+                console.error('Error loading players:', error);
+                document.getElementById('playersSection').innerHTML = '<div class="no-data">加载球员数据失败</div>';
+            }
+        }
+
+        function displayPlayers(players) {
+            let html = '<h2 style="color: #1e90ff; margin-bottom: 1.5rem;">现役球员</h2>';
+            html += '<div class="teams-grid">';
+            
+            players.forEach(player => {
+                html += `
+                    <div class="team-card" onclick="selectPlayer('${player.id}', '${player.name}')">
+                        <div class="logo-placeholder">${player.name.charAt(0)}</div>
+                        <h3>${player.name}</h3>
+                        <p>${player.team_abbr || 'N/A'}</p>
+                    </div>
+                `;
+            });
+            
+            html += '</div>';
+            document.getElementById('playersSection').innerHTML = html;
+        }
+
+        function selectPlayer(playerId, playerName) {
+            alert(`选择球员: ${playerName}\n球员ID: ${playerId}\n\n球员对比功能请使用顶部导航的"球员对比"页面`);
+        }
+    </script>
+</body>
+</html>

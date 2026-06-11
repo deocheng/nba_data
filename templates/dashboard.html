@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏀 NBA数据可视化仪表盘</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #fff;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 30px 0;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #ff6b6b, #feca57);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 25px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 40px rgba(255, 255, 255, 0.1);
+        }
+        .stat-card .icon {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        .stat-card .value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #feca57;
+        }
+        .stat-card .label {
+            font-size: 1rem;
+            color: #aaa;
+        }
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .chart-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .chart-card h3 {
+            margin-bottom: 20px;
+            font-size: 1.2rem;
+            color: #feca57;
+        }
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .nav-links a {
+            text-decoration: none;
+            color: #fff;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 12px 30px;
+            border-radius: 30px;
+            transition: all 0.3s;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .nav-links a:hover {
+            background: #feca57;
+            color: #1a1a2e;
+            border-color: #feca57;
+        }
+        canvas {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏀 NBA数据可视化仪表盘</h1>
+            <p>1997-2026赛季数据总览</p>
+        </header>
+        
+        <div class="nav-links">
+            <a href="/">📊 仪表盘</a>
+            <a href="/players">🎯 球员分析</a>
+            <a href="/games">⚽ 比赛列表</a>
+        </div>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="icon">📈</div>
+                <div class="value">{{ "{:,}".format(total_events) }}</div>
+                <div class="label">总事件数</div>
+            </div>
+            <div class="stat-card">
+                <div class="icon">🏀</div>
+                <div class="value">{{ "{:,}".format(total_games) }}</div>
+                <div class="label">比赛场次</div>
+            </div>
+            <div class="stat-card">
+                <div class="icon">👥</div>
+                <div class="value">{{ total_teams }}</div>
+                <div class="label">球队数量</div>
+            </div>
+            <div class="stat-card">
+                <div class="icon">📅</div>
+                <div class="value">{{ seasons[0] }}-{{ seasons[1] }}</div>
+                <div class="label">赛季跨度</div>
+            </div>
+        </div>
+        
+        <div class="charts-grid">
+            <div class="chart-card">
+                <h3>📊 赛季比赛数量趋势</h3>
+                <canvas id="seasonChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>🔥 事件类型分布</h3>
+                <canvas id="eventChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 赛季趋势图
+        const seasonCtx = document.getElementById('seasonChart').getContext('2d');
+        const seasonLabels = {{ season_data | map(attribute=0) | list | tojson }};
+        const seasonValues = {{ season_data | map(attribute=1) | list | tojson }};
+        
+        new Chart(seasonCtx, {
+            type: 'line',
+            data: {
+                labels: seasonLabels,
+                datasets: [{
+                    label: '比赛场次',
+                    data: seasonValues,
+                    borderColor: '#feca57',
+                    backgroundColor: 'rgba(254, 202, 87, 0.1)',
+                    fill: true,
+                    tension: 0.4,
+                    pointBackgroundColor: '#feca57',
+                    pointBorderColor: '#fff',
+                    pointBorderWidth: 2,
+                    pointRadius: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    x: {
+                        grid: { color: 'rgba(255,255,255,0.1)' },
+                        ticks: { color: '#aaa' }
+                    },
+                    y: {
+                        grid: { color: 'rgba(255,255,255,0.1)' },
+                        ticks: { color: '#aaa' }
+                    }
+                },
+                plugins: {
+                    legend: { display: false }
+                }
+            }
+        });
+        
+        // 事件分布饼图
+        const eventCtx = document.getElementById('eventChart').getContext('2d');
+        const eventLabels = {{ event_data | map(attribute=0) | list | tojson }};
+        const eventValues = {{ event_data | map(attribute=1) | list | tojson }};
+        
+        const colors = ['#ff6b6b', '#feca57', '#48dbfb', '#1dd1a1', '#5f27cd', '#ff9ff3', '#54a0ff', '#ff9f43'];
+        
+        new Chart(eventCtx, {
+            type: 'doughnut',
+            data: {
+                labels: eventLabels,
+                datasets: [{
+                    data: eventValues,
+                    backgroundColor: colors,
+                    borderWidth: 2,
+                    borderColor: '#1a1a2e'
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        position: 'right',
+                        labels: { color: '#aaa', padding: 15 }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

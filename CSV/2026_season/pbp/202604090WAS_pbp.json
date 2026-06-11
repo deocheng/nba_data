@@ -1,0 +1,5458 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Chicago",
+      "",
+      "Score",
+      "",
+      "Washington"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:38.0",
+      "T. Jones makes 2-pt jump shot from 6 ft (assist by P. Williams)",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "W. Riley misses 2-pt layup from 9 ft"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:15.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Offensive rebound by A. Gill"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "J. Reese misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:09.0",
+      "Defensive rebound by G. Yabusele",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:59.0",
+      "L. Miller makes 2-pt layup from 1 ft (assist by P. Williams)",
+      "+2",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "J. Reese misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:40.0",
+      "Defensive rebound by L. Miller",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:31.0",
+      "C. Sexton misses 2-pt layup from 6 ft (block by J. Reese)",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "Defensive rebound by L. Black"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "B. Carrington misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:22.0",
+      "Defensive rebound by T. Jones",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:16.0",
+      "P. Williams makes 3-pt jump shot from 29 ft (assist by L. Miller)",
+      "+3",
+      "7-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "7-0",
+      "",
+      "Shooting foul by L. Miller (drawn by A. Gill)"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "7-1",
+      "+1",
+      "A. Gill makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "7-2",
+      "+1",
+      "A. Gill makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:47.0",
+      "G. Yabusele misses 3-pt jump shot from 26 ft",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:45.0",
+      "Offensive rebound by L. Miller",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:33.0",
+      "Shooting foul by J. Reese (drawn by T. Jones)",
+      "",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:33.0",
+      "T. Jones makes free throw 1 of 2",
+      "+1",
+      "8-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:33.0",
+      "T. Jones makes free throw 2 of 2",
+      "+1",
+      "9-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "9-2",
+      "",
+      "L. Black misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:20.0",
+      "",
+      "",
+      "9-2",
+      "",
+      "Offensive rebound by L. Black"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "9-4",
+      "+2",
+      "L. Black makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:11.0",
+      "Shooting foul by B. Carrington (drawn by C. Sexton)",
+      "",
+      "9-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:11.0",
+      "C. Sexton makes free throw 1 of 2",
+      "+1",
+      "10-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "9:11.0",
+      "C. Sexton makes free throw 2 of 2",
+      "+1",
+      "11-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "11-4",
+      "",
+      "Turnover by B. Carrington (bad pass; steal by G. Yabusele)"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "9:02.0",
+      "T. Jones makes 2-pt layup from 1 ft (assist by G. Yabusele)",
+      "+2",
+      "13-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "13-4",
+      "",
+      "W. Riley misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "13-4",
+      "",
+      "Offensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "13-4",
+      "",
+      "Turnover by J. Reese (lost ball; steal by T. Jones)"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:42.0",
+      "L. Miller makes 2-pt dunk from 1 ft (assist by G. Yabusele)",
+      "+2",
+      "15-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "15-4",
+      "",
+      "Washington full timeout"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:32.0",
+      "",
+      "",
+      "15-4",
+      "",
+      "W. Riley misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:30.0",
+      "Defensive rebound by P. Williams",
+      "",
+      "15-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:21.0",
+      "Shooting foul by W. Riley (drawn by P. Williams)",
+      "",
+      "15-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "8:21.0",
+      "P. Williams makes free throw 1 of 2",
+      "+1",
+      "16-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "8:21.0",
+      "P. Williams makes free throw 2 of 2",
+      "+1",
+      "17-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "17-6",
+      "+2",
+      "L. Black makes 2-pt jump shot from 21 ft (assist by W. Riley)"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:50.0",
+      "C. Sexton makes 2-pt layup from 2 ft (assist by T. Jones)",
+      "+2",
+      "19-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "19-9",
+      "+3",
+      "B. Carrington makes 3-pt jump shot from 26 ft (assist by A. Gill)"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:01.0",
+      "L. Miller misses 2-pt layup from 4 ft",
+      "",
+      "19-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "19-9",
+      "",
+      "Defensive rebound by W. Riley"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "19-9",
+      "",
+      "B. Carrington misses 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:57.0",
+      "Defensive rebound by T. Jones",
+      "",
+      "19-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:45.0",
+      "L. Miller makes 3-pt jump shot from 24 ft (assist by T. Jones)",
+      "+3",
+      "22-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "22-9",
+      "",
+      "L. Black misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "22-9",
+      "",
+      "Offensive rebound by L. Black"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "22-11",
+      "+2",
+      "J. Reese makes 2-pt layup from 1 ft (assist by B. Carrington)"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:02.0",
+      "C. Sexton makes 2-pt layup from 6 ft",
+      "+2",
+      "24-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "24-11",
+      "",
+      "J. Reese misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "24-11",
+      "",
+      "Offensive rebound by A. Gill"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "24-13",
+      "+2",
+      "A. Gill makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:36.0",
+      "T. Jones makes 2-pt layup from 2 ft",
+      "+2",
+      "26-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "26-13",
+      "",
+      "B. Carrington misses 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:06.0",
+      "Defensive rebound by G. Yabusele",
+      "",
+      "26-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:00.0",
+      "Turnover by C. Sexton (lost ball; steal by W. Riley)",
+      "",
+      "26-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "26-13",
+      "",
+      "Shooting foul by C. Sexton (drawn by W. Riley)"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "26-14",
+      "+1",
+      "W. Riley makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:57.0",
+      "R. Dillingham enters the game for T. Jones",
+      "",
+      "26-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:57.0",
+      "M. McClung enters the game for P. Williams",
+      "",
+      "26-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:57.0",
+      "L. Olbrich enters the game for G. Yabusele",
+      "",
+      "26-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "26-14",
+      "",
+      "J. Champagnie enters the game for A. Gill"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "26-15",
+      "+1",
+      "W. Riley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:34.0",
+      "M. McClung misses 2-pt jump shot from 6 ft",
+      "",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "26-15",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:33.0",
+      "Loose ball foul by L. Olbrich (drawn by J. Reese)",
+      "",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "26-15",
+      "",
+      "S. Cooper enters the game for W. Riley"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "26-15",
+      "",
+      "B. Carrington misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:16.0",
+      "Defensive rebound by L. Miller",
+      "",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:07.0",
+      "L. Olbrich misses 3-pt jump shot from 24 ft",
+      "",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "26-15",
+      "",
+      "Defensive rebound by L. Black"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "26-15",
+      "",
+      "J. Champagnie misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:52.0",
+      "Defensive rebound by R. Dillingham",
+      "",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:48.0",
+      "M. McClung misses 3-pt jump shot from 25 ft",
+      "",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "26-15",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "26-15",
+      "",
+      "Turnover by J. Reese (lost ball; steal by M. McClung)"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:13.0",
+      "L. Miller misses 2-pt layup from 3 ft (block by L. Black)",
+      "",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:11.0",
+      "",
+      "",
+      "26-15",
+      "",
+      "Defensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "26-18",
+      "+3",
+      "B. Carrington makes 3-pt jump shot from 27 ft (assist by S. Cooper)"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:02.0",
+      "Chicago full timeout",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:02.0",
+      "Y. Kawamura enters the game for L. Miller",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:02.0",
+      "P. Williams enters the game for C. Sexton",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "26-18",
+      "",
+      "J. Watkins enters the game for L. Black"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:44.0",
+      "Y. Kawamura misses 3-pt jump shot from 26 ft",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:42.0",
+      "Offensive rebound by Team",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "26-18",
+      "",
+      "Loose ball foul by J. Reese (drawn by L. Olbrich)"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "26-18",
+      "",
+      "A. Gill enters the game for J. Reese"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:40.0",
+      "R. Dillingham misses 3-pt jump shot from 26 ft",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "26-18",
+      "",
+      "Defensive rebound by S. Cooper"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "26-18",
+      "",
+      "Turnover by S. Cooper (lost ball; steal by M. McClung)"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:26.0",
+      "Turnover by M. McClung (bad pass; steal by A. Gill)",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "26-18",
+      "",
+      "S. Cooper misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:15.0",
+      "",
+      "",
+      "26-18",
+      "",
+      "Offensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "26-18",
+      "",
+      "J. Champagnie misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "2:10.0",
+      "Defensive rebound by L. Olbrich",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "2:06.0",
+      "M. McClung misses 2-pt layup from 5 ft",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "2:04.0",
+      "Offensive rebound by L. Olbrich",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "1:49.0",
+      "P. Williams makes 3-pt jump shot from 30 ft (assist by R. Dillingham)",
+      "+3",
+      "29-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "1:28.0",
+      "",
+      "",
+      "29-18",
+      "",
+      "A. Gill misses 2-pt jump shot from 5 ft (block by P. Williams)"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "29-18",
+      "",
+      "Offensive rebound by S. Cooper"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "29-18",
+      "",
+      "A. Gill misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "29-18",
+      "",
+      "Offensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "29-20",
+      "+2",
+      "J. Champagnie makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:09.0",
+      "Turnover by M. McClung (out of bounds lost ball)",
+      "",
+      "29-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "29-20",
+      "",
+      "W. Riley enters the game for B. Carrington"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:58.0",
+      "",
+      "",
+      "29-22",
+      "+2",
+      "J. Champagnie makes 2-pt layup from 2 ft (assist by S. Cooper)"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:49.0",
+      "R. Dillingham makes 3-pt jump shot from 24 ft (assist by Y. Kawamura)",
+      "+3",
+      "32-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "32-22",
+      "",
+      "J. Watkins misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:32.0",
+      "Defensive rebound by R. Dillingham",
+      "",
+      "32-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:27.0",
+      "R. Dillingham misses 2-pt layup from 2 ft",
+      "",
+      "32-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "32-22",
+      "",
+      "Defensive rebound by W. Riley"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:24.0",
+      "",
+      "",
+      "32-24",
+      "+2",
+      "J. Champagnie makes 2-pt layup from 4 ft (assist by W. Riley)"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:03.0",
+      "M. McClung misses 3-pt jump shot from 28 ft",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "Time",
+      "Chicago",
+      "",
+      "Score",
+      "",
+      "Washington"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "11:35.0",
+      "",
+      "",
+      "32-24",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "11:35.0",
+      "T. Jones enters the game for M. McClung",
+      "",
+      "32-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "11:25.0",
+      "T. Jones makes 2-pt layup from 2 ft",
+      "+2",
+      "34-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "34-24",
+      "",
+      "Offensive foul by J. Champagnie (drawn by Y. Kawamura)"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "34-24",
+      "",
+      "Turnover by J. Champagnie (offensive foul)"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:56.0",
+      "R. Dillingham misses 2-pt hook shot from 7 ft",
+      "",
+      "34-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "34-24",
+      "",
+      "Defensive rebound by J. Watkins"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:44.0",
+      "",
+      "",
+      "34-24",
+      "",
+      "W. Riley misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:42.0",
+      "Defensive rebound by G. Yabusele",
+      "",
+      "34-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:29.0",
+      "R. Dillingham misses 3-pt jump shot from 23 ft",
+      "",
+      "34-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:26.0",
+      "",
+      "",
+      "34-24",
+      "",
+      "Defensive rebound by L. Black"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "34-24",
+      "",
+      "J. Watkins misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:12.0",
+      "Defensive rebound by G. Yabusele",
+      "",
+      "34-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:02.0",
+      "Turnover by G. Yabusele (lost ball; steal by J. Watkins)",
+      "",
+      "34-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "34-26",
+      "+2",
+      "W. Riley makes 2-pt layup from 1 ft (assist by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:44.0",
+      "G. Yabusele misses 3-pt jump shot from 26 ft",
+      "",
+      "34-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "34-26",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "34-26",
+      "",
+      "Offensive foul by W. Riley (drawn by Y. Kawamura)"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "34-26",
+      "",
+      "Turnover by W. Riley (offensive foul)"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:30.0",
+      "M. McClung enters the game for R. Dillingham",
+      "",
+      "34-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:30.0",
+      "L. Miller enters the game for Y. Kawamura",
+      "",
+      "34-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:30.0",
+      "C. Sexton enters the game for P. Williams",
+      "",
+      "34-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:17.0",
+      "C. Sexton misses 3-pt jump shot from 27 ft",
+      "",
+      "34-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "34-26",
+      "",
+      "Defensive rebound by W. Riley"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:03.0",
+      "",
+      "",
+      "34-26",
+      "",
+      "W. Riley misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "9:02.0",
+      "Defensive rebound by C. Sexton",
+      "",
+      "34-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:52.0",
+      "C. Sexton makes 2-pt layup from 3 ft (assist by M. McClung)",
+      "+2",
+      "36-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "36-26",
+      "",
+      "Washington full timeout"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "36-28",
+      "+2",
+      "A. Gill makes 2-pt layup from 3 ft (assist by J. Watkins)"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "36-28",
+      "",
+      "Shooting foul by G. Yabusele (drawn by A. Gill)"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "36-29",
+      "+1",
+      "A. Gill makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:13.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "7:56.0",
+      "",
+      "",
+      "36-29",
+      "",
+      "J. Champagnie misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:54.0",
+      "Defensive rebound by M. McClung",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:31.0",
+      "C. Sexton misses 2-pt layup from 7 ft (block by W. Riley)",
+      "",
+      "36-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "36-29",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:16.0",
+      "",
+      "",
+      "36-32",
+      "+3",
+      "L. Black makes 3-pt jump shot from 23 ft (assist by J. Champagnie)"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:14.0",
+      "Chicago full timeout",
+      "",
+      "36-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:14.0",
+      "R. Dillingham enters the game for T. Jones",
+      "",
+      "36-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "36-32",
+      "",
+      "J. Reese enters the game for A. Gill"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:00.0",
+      "G. Yabusele makes 2-pt hook shot from 3 ft",
+      "+2",
+      "38-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "6:45.0",
+      "",
+      "",
+      "38-34",
+      "+2",
+      "W. Riley makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "6:34.0",
+      "Turnover by L. Miller (out of bounds lost ball)",
+      "",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "6:34.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "38-34",
+      "",
+      "B. Carrington enters the game for J. Champagnie"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:22.0",
+      "",
+      "",
+      "38-34",
+      "",
+      "Turnover by W. Riley (bad pass; steal by L. Miller)"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:15.0",
+      "Personal foul by J. Watkins (drawn by L. Miller)",
+      "",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:15.0",
+      "P. Williams enters the game for C. Sexton",
+      "",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:15.0",
+      "",
+      "",
+      "38-34",
+      "",
+      "S. Cooper enters the game for W. Riley"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:02.0",
+      "R. Dillingham misses 2-pt jump shot from 12 ft",
+      "",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "38-34",
+      "",
+      "Defensive rebound by J. Watkins"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "38-34",
+      "",
+      "J. Reese misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "38-34",
+      "",
+      "Offensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "38-34",
+      "",
+      "J. Reese misses 2-pt layup from 5 ft (block by G. Yabusele)"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "5:47.0",
+      "Defensive rebound by M. McClung",
+      "",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "5:39.0",
+      "M. McClung makes 2-pt layup from 3 ft",
+      "+2",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "5:29.0",
+      "",
+      "",
+      "40-37",
+      "+3",
+      "B. Carrington makes 3-pt jump shot from 25 ft (assist by J. Watkins)"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:16.0",
+      "G. Yabusele makes 3-pt jump shot from 26 ft (assist by L. Miller)",
+      "+3",
+      "43-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "43-39",
+      "+2",
+      "S. Cooper makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "4:48.0",
+      "Turnover by R. Dillingham (lost ball; steal by J. Watkins)",
+      "",
+      "43-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "43-42",
+      "+3",
+      "S. Cooper makes 3-pt jump shot from 25 ft (assist by J. Watkins)"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "4:28.0",
+      "Turnover by M. McClung (bad pass)",
+      "",
+      "43-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "4:28.0",
+      "T. Jones enters the game for M. McClung",
+      "",
+      "43-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "4:28.0",
+      "L. Olbrich enters the game for G. Yabusele",
+      "",
+      "43-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "4:28.0",
+      "",
+      "",
+      "43-42",
+      "",
+      "A. Gill enters the game for J. Watkins"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "43-42",
+      "",
+      "Personal foul by R. Dillingham (drawn by B. Carrington)"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "4:16.0",
+      "Y. Kawamura enters the game for R. Dillingham",
+      "",
+      "43-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "43-44",
+      "+2",
+      "S. Cooper makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "3:49.0",
+      "T. Jones misses 2-pt layup from 5 ft (block by A. Gill)",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "3:49.0",
+      "Offensive rebound by Team",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "3:49.0",
+      "Chicago full timeout",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "3:47.0",
+      "T. Jones misses 3-pt jump shot from 28 ft",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "43-44",
+      "",
+      "Defensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "43-44",
+      "",
+      "L. Black misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:26.0",
+      "Defensive rebound by Y. Kawamura",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:18.0",
+      "T. Jones misses 3-pt jump shot from 23 ft",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "43-44",
+      "",
+      "Defensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "43-44",
+      "",
+      "J. Reese misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:01.0",
+      "Defensive rebound by L. Miller",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "2:53.0",
+      "Y. Kawamura misses 3-pt jump shot from 24 ft",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "2:50.0",
+      "Offensive rebound by L. Olbrich",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:49.0",
+      "L. Olbrich misses 2-pt hook shot from 2 ft",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:49.0",
+      "Offensive rebound by L. Miller",
+      "",
+      "43-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:48.0",
+      "L. Miller makes 2-pt layup from 3 ft",
+      "+2",
+      "45-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "45-44",
+      "",
+      "Personal foul by T. Jones (drawn by B. Carrington)"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "45-44",
+      "",
+      "W. Riley enters the game for S. Cooper"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "45-44",
+      "",
+      "Shooting foul by L. Miller (drawn by A. Gill)"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "45-45",
+      "+1",
+      "A. Gill makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "45-45",
+      "",
+      "A. Gill misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "2:28.0",
+      "Defensive rebound by L. Miller",
+      "",
+      "45-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "2:17.0",
+      "L. Miller makes 2-pt dunk from 1 ft (assist by Y. Kawamura)",
+      "+2",
+      "47-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "47-47",
+      "+2",
+      "L. Black makes 2-pt layup from 1 ft (assist by W. Riley)"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "1:39.0",
+      "Shooting foul by W. Riley (drawn by Y. Kawamura)",
+      "",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "1:39.0",
+      "Y. Kawamura misses free throw 1 of 2",
+      "",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "1:39.0",
+      "Offensive rebound by Team",
+      "",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:39.0",
+      "Y. Kawamura makes free throw 2 of 2",
+      "+1",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "J. Champagnie enters the game for W. Riley"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "L. Black misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "Offensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "Personal foul by L. Olbrich (drawn by J. Reese)"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "48-48",
+      "+1",
+      "J. Reese makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "48-49",
+      "+1",
+      "J. Reese makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "1:05.0",
+      "Y. Kawamura misses 3-pt jump shot from 30 ft",
+      "",
+      "48-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "48-49",
+      "",
+      "Defensive rebound by L. Black"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "48-51",
+      "+2",
+      "J. Champagnie makes 2-pt layup from 1 ft (assist by B. Carrington)"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:34.0",
+      "L. Olbrich misses 3-pt jump shot from 26 ft",
+      "",
+      "48-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:32.0",
+      "Offensive rebound by L. Miller",
+      "",
+      "48-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:31.0",
+      "L. Miller makes 2-pt layup from 1 ft",
+      "+2",
+      "50-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "0:08.0",
+      "",
+      "",
+      "50-51",
+      "",
+      "L. Black misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "0:02.0",
+      "Defensive rebound by Y. Kawamura",
+      "",
+      "50-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "0:00.0",
+      "Shooting foul by B. Carrington (drawn by T. Jones)",
+      "",
+      "50-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "0:00.0",
+      "T. Jones makes free throw 1 of 2",
+      "+1",
+      "51-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "0:00.0",
+      "T. Jones makes free throw 2 of 2",
+      "+1",
+      "52-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "Time",
+      "Chicago",
+      "",
+      "Score",
+      "",
+      "Washington"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "11:35.0",
+      "",
+      "",
+      "52-51",
+      "",
+      "Turnover by L. Black (lost ball; steal by C. Sexton)"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "11:34.0",
+      "Turnover by P. Williams (bad pass; steal by W. Riley)",
+      "",
+      "52-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "52-53",
+      "+2",
+      "A. Gill makes 2-pt dunk from 2 ft (assist by B. Carrington)"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "11:24.0",
+      "T. Jones makes 2-pt layup from 1 ft",
+      "+2",
+      "54-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "11:11.0",
+      "",
+      "",
+      "54-53",
+      "",
+      "Turnover by B. Carrington (bad pass; steal by P. Williams)"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "11:07.0",
+      "T. Jones makes 2-pt layup from 2 ft",
+      "+2",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "56-53",
+      "",
+      "W. Riley misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:57.0",
+      "Defensive rebound by G. Yabusele",
+      "",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "10:51.0",
+      "C. Sexton makes 2-pt layup from 1 ft (assist by G. Yabusele)",
+      "+2",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "58-53",
+      "",
+      "W. Riley misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "58-53",
+      "",
+      "Offensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "58-53",
+      "",
+      "W. Riley misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "58-53",
+      "",
+      "Offensive rebound by W. Riley"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "10:25.0",
+      "L. Olbrich enters the game for G. Yabusele",
+      "",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "58-53",
+      "",
+      "L. Black misses 3-pt jump shot from 32 ft"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "58-53",
+      "",
+      "Offensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "58-53",
+      "",
+      "W. Riley misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "10:05.0",
+      "Defensive rebound by T. Jones",
+      "",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "10:02.0",
+      "Shooting foul by L. Black (drawn by T. Jones)",
+      "",
+      "58-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "10:02.0",
+      "T. Jones makes free throw 1 of 2",
+      "+1",
+      "59-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "10:02.0",
+      "T. Jones makes free throw 2 of 2",
+      "+1",
+      "60-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "60-53",
+      "",
+      "Shooting foul by L. Olbrich (drawn by J. Reese)"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "60-54",
+      "+1",
+      "J. Reese makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "60-55",
+      "+1",
+      "J. Reese makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "9:37.0",
+      "C. Sexton misses 2-pt layup from 4 ft (block by W. Riley)",
+      "",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "60-55",
+      "",
+      "Defensive rebound by L. Black"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "60-55",
+      "",
+      "B. Carrington misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "9:26.0",
+      "Defensive rebound by T. Jones",
+      "",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "9:18.0",
+      "Turnover by L. Miller (lost ball; steal by L. Black)",
+      "",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "60-55",
+      "",
+      "Turnover by B. Carrington (bad pass; steal by L. Olbrich)"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "9:04.0",
+      "C. Sexton makes 3-pt jump shot from 24 ft (assist by L. Miller)",
+      "+3",
+      "63-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "63-55",
+      "",
+      "Shooting foul by L. Miller (drawn by W. Riley)"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "63-55",
+      "",
+      "W. Riley misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "63-55",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "63-56",
+      "+1",
+      "W. Riley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "8:50.0",
+      "C. Sexton makes 2-pt jump shot from 11 ft",
+      "+2",
+      "65-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "65-58",
+      "+2",
+      "J. Reese makes 2-pt layup from 3 ft (assist by A. Gill)"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "8:04.0",
+      "P. Williams misses 2-pt layup from 7 ft",
+      "",
+      "65-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "8:02.0",
+      "Offensive rebound by P. Williams",
+      "",
+      "65-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "7:52.0",
+      "L. Olbrich misses 3-pt jump shot from 23 ft",
+      "",
+      "65-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "65-58",
+      "",
+      "Defensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "65-61",
+      "+3",
+      "W. Riley makes 3-pt jump shot from 23 ft (assist by B. Carrington)"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "7:33.0",
+      "Chicago full timeout",
+      "",
+      "65-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "7:33.0",
+      "R. Dillingham enters the game for T. Jones",
+      "",
+      "65-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "7:33.0",
+      "Y. Kawamura enters the game for L. Miller",
+      "",
+      "65-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "7:22.0",
+      "P. Williams misses 2-pt layup from 4 ft",
+      "",
+      "65-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "65-61",
+      "",
+      "Defensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "7:11.0",
+      "",
+      "",
+      "65-61",
+      "",
+      "Turnover by J. Reese (lost ball; steal by C. Sexton)"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:05.0",
+      "C. Sexton makes 2-pt layup from 2 ft",
+      "+2",
+      "67-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "67-61",
+      "",
+      "J. Reese misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "67-61",
+      "",
+      "Offensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "67-63",
+      "+2",
+      "J. Reese makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "67-63",
+      "",
+      "Shooting foul by L. Olbrich (drawn by J. Reese)"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "67-64",
+      "+1",
+      "J. Reese makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "6:31.0",
+      "C. Sexton makes 2-pt hook shot from 2 ft",
+      "+2",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "69-64",
+      "",
+      "B. Carrington misses 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "6:18.0",
+      "Defensive rebound by L. Olbrich",
+      "",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "6:16.0",
+      "C. Sexton misses 2-pt layup from 2 ft",
+      "",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "6:15.0",
+      "Offensive rebound by P. Williams",
+      "",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "6:13.0",
+      "P. Williams misses 2-pt layup from 3 ft",
+      "",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "6:13.0",
+      "Offensive rebound by R. Dillingham",
+      "",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "6:03.0",
+      "P. Williams misses 3-pt jump shot from 28 ft",
+      "",
+      "69-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "69-64",
+      "",
+      "Defensive rebound by W. Riley"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "5:54.0",
+      "",
+      "",
+      "69-67",
+      "+3",
+      "B. Carrington makes 3-pt jump shot from 30 ft (assist by W. Riley)"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "5:39.0",
+      "Personal foul by A. Gill (drawn by P. Williams)",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "5:39.0",
+      "L. Miller enters the game for L. Olbrich",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "J. Watkins enters the game for B. Carrington"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "5:33.0",
+      "Turnover by R. Dillingham (bad pass; steal by W. Riley)",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "W. Riley misses 3-pt jump shot from 32 ft"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "Offensive rebound by J. Watkins"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "J. Watkins misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "5:23.0",
+      "Defensive rebound by L. Miller",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "5:13.0",
+      "Y. Kawamura misses 3-pt jump shot from 27 ft",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "Defensive rebound by J. Watkins"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "5:03.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "A. Gill misses 2-pt jump shot from 6 ft (block by L. Miller)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "Offensive rebound by W. Riley"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "J. Watkins misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:52.0",
+      "Defensive rebound by P. Williams",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "4:49.0",
+      "C. Sexton misses 2-pt jump shot from 22 ft",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "4:45.0",
+      "Offensive rebound by L. Miller",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "4:42.0",
+      "L. Miller misses 2-pt layup from 4 ft",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "Defensive rebound by J. Watkins"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "A. Gill misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "4:32.0",
+      "Defensive rebound by P. Williams",
+      "",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "4:30.0",
+      "L. Miller makes 2-pt dunk from 1 ft (assist by R. Dillingham)",
+      "+2",
+      "71-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "4:03.0",
+      "",
+      "",
+      "71-70",
+      "+3",
+      "J. Watkins makes 3-pt jump shot from 28 ft (assist by W. Riley)"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "3:49.0",
+      "C. Sexton makes 2-pt layup from 3 ft",
+      "+2",
+      "73-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "73-70",
+      "",
+      "J. Reese misses 2-pt layup from 5 ft (block by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "3:42.0",
+      "Defensive rebound by L. Miller",
+      "",
+      "73-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "3:35.0",
+      "L. Miller makes 2-pt layup from 1 ft",
+      "+2",
+      "75-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "75-70",
+      "",
+      "Washington full timeout"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "3:34.0",
+      "T. Jones enters the game for L. Miller",
+      "",
+      "75-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "3:34.0",
+      "M. McClung enters the game for C. Sexton",
+      "",
+      "75-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "75-70",
+      "",
+      "J. Reese misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "3:14.0",
+      "Defensive rebound by P. Williams",
+      "",
+      "75-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "3:06.0",
+      "P. Williams makes 2-pt layup from 4 ft (assist by Y. Kawamura)",
+      "+2",
+      "77-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "3:05.0",
+      "Violation by Team (delay of game)",
+      "",
+      "77-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "77-72",
+      "+2",
+      "J. Reese makes 2-pt dunk from 2 ft (assist by A. Gill)"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "2:37.0",
+      "Shooting foul by J. Watkins (drawn by P. Williams)",
+      "",
+      "77-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "2:37.0",
+      "P. Williams makes free throw 1 of 2",
+      "+1",
+      "78-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "2:37.0",
+      "P. Williams makes free throw 2 of 2",
+      "+1",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "79-72",
+      "",
+      "W. Riley misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "2:20.0",
+      "Defensive rebound by Y. Kawamura",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "2:15.0",
+      "P. Williams misses 3-pt jump shot from 30 ft",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "79-72",
+      "",
+      "Defensive rebound by W. Riley"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "2:03.0",
+      "",
+      "",
+      "79-74",
+      "+2",
+      "W. Riley makes 2-pt layup at rim (assist by J. Reese)"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "1:54.0",
+      "M. McClung misses 2-pt layup from 3 ft",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "Defensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:41.0",
+      "Flagrant foul type 1 by J. Reese (drawn by Y. Kawamura)",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "Turnover by J. Reese (offensive foul)"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "1:41.0",
+      "Y. Kawamura makes flagrant free throw 1 of 2",
+      "+1",
+      "80-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "1:41.0",
+      "Y. Kawamura makes flagrant free throw 2 of 2",
+      "+1",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "1:41.0",
+      "L. Miller enters the game for Y. Kawamura",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "1:41.0",
+      "C. Sexton enters the game for P. Williams",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "1:36.0",
+      "Shooting foul by A. Gill (drawn by T. Jones)",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "1:36.0",
+      "T. Jones makes free throw 1 of 2",
+      "+1",
+      "82-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "1:36.0",
+      "T. Jones makes free throw 2 of 2",
+      "+1",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "L. Black misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "1:17.0",
+      "Defensive rebound by T. Jones",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "1:07.0",
+      "Turnover by C. Sexton (lost ball; steal by L. Black)",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "W. Riley misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "1:02.0",
+      "Defensive rebound by Team",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:47.0",
+      "T. Jones misses 2-pt layup from 4 ft",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:45.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "Defensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "Turnover by J. Watkins (bad pass; steal by M. McClung)"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "0:35.0",
+      "T. Jones makes 2-pt layup from 1 ft (assist by C. Sexton)",
+      "+2",
+      "85-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "0:24.0",
+      "",
+      "",
+      "85-74",
+      "",
+      "Turnover by W. Riley (bad pass; steal by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "0:21.0",
+      "T. Jones makes 2-pt layup from 2 ft (assist by R. Dillingham)",
+      "+2",
+      "87-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "87-74",
+      "",
+      "Personal foul by T. Jones (drawn by J. Watkins)"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "87-74",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "Time",
+      "Chicago",
+      "",
+      "Score",
+      "",
+      "Washington"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "11:54.0",
+      "L. Miller makes 2-pt layup from 3 ft (assist by M. McClung)",
+      "+2",
+      "89-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "89-74",
+      "",
+      "Shooting foul by C. Sexton (drawn by A. Gill)"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "89-75",
+      "+1",
+      "A. Gill makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "89-76",
+      "+1",
+      "A. Gill makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "89-77",
+      "+1",
+      "A. Gill makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "11:13.0",
+      "M. McClung misses 3-pt jump shot from 26 ft",
+      "",
+      "89-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "11:11.0",
+      "",
+      "",
+      "89-77",
+      "",
+      "Defensive rebound by L. Black"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "89-77",
+      "",
+      "J. Watkins misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "10:52.0",
+      "Defensive rebound by T. Jones",
+      "",
+      "89-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "10:45.0",
+      "C. Sexton makes 2-pt jump shot from 3 ft (assist by T. Jones)",
+      "+2",
+      "91-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "91-79",
+      "+2",
+      "J. Watkins makes 2-pt layup from 2 ft (assist by S. Cooper)"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "91-79",
+      "",
+      "Shooting foul by M. McClung (drawn by J. Watkins)"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "10:32.0",
+      "Y. Kawamura enters the game for T. Jones",
+      "",
+      "91-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "10:32.0",
+      "L. Olbrich enters the game for M. McClung",
+      "",
+      "91-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "91-79",
+      "",
+      "J. Reese enters the game for L. Black"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "91-79",
+      "",
+      "W. Riley enters the game for A. Gill"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "91-80",
+      "+1",
+      "J. Watkins makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "10:23.0",
+      "R. Dillingham misses 2-pt jump shot from 14 ft",
+      "",
+      "91-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "10:22.0",
+      "Offensive rebound by L. Olbrich",
+      "",
+      "91-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "10:20.0",
+      "L. Olbrich misses 2-pt layup from 4 ft",
+      "",
+      "91-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "10:19.0",
+      "Offensive rebound by L. Olbrich",
+      "",
+      "91-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "10:16.0",
+      "L. Miller makes 3-pt jump shot from 23 ft (assist by L. Olbrich)",
+      "+3",
+      "94-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "94-80",
+      "",
+      "J. Champagnie misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "94-80",
+      "",
+      "Offensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "94-80",
+      "",
+      "Personal foul by L. Olbrich (drawn by J. Reese)"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "9:50.0",
+      "P. Williams enters the game for L. Olbrich",
+      "",
+      "94-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "94-80",
+      "",
+      "J. Champagnie misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "94-80",
+      "",
+      "Offensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "94-80",
+      "",
+      "J. Champagnie misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "9:44.0",
+      "Defensive rebound by Y. Kawamura",
+      "",
+      "94-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "9:41.0",
+      "L. Miller makes 2-pt dunk from 1 ft (assist by Y. Kawamura)",
+      "+2",
+      "96-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "9:40.0",
+      "",
+      "",
+      "96-80",
+      "",
+      "Washington full timeout"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "96-80",
+      "",
+      "J. Watkins misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "96-80",
+      "",
+      "Offensive rebound by J. Watkins"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "96-82",
+      "+2",
+      "J. Watkins makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "8:56.0",
+      "C. Sexton makes 2-pt layup from 2 ft",
+      "+2",
+      "98-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "98-82",
+      "",
+      "Turnover by J. Watkins (bad pass; steal by C. Sexton)"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "8:43.0",
+      "Y. Kawamura makes 2-pt layup from 3 ft (assist by R. Dillingham)",
+      "+2",
+      "100-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "8:37.0",
+      "",
+      "",
+      "100-82",
+      "",
+      "Turnover by S. Cooper (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "8:30.0",
+      "Turnover by R. Dillingham (bad pass; steal by S. Cooper)",
+      "",
+      "100-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "100-82",
+      "",
+      "Personal foul by C. Sexton (drawn by S. Cooper)"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "100-82",
+      "",
+      "Violation by Team (delay of game)"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "100-82",
+      "",
+      "Personal foul by Y. Kawamura (drawn by W. Riley)"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "100-83",
+      "+1",
+      "W. Riley makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "100-84",
+      "+1",
+      "W. Riley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "8:14.0",
+      "Shooting foul by J. Reese (drawn by L. Miller)",
+      "",
+      "100-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "8:14.0",
+      "L. Miller makes free throw 1 of 2",
+      "+1",
+      "101-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "8:14.0",
+      "L. Miller makes free throw 2 of 2",
+      "+1",
+      "102-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "102-86",
+      "+2",
+      "S. Cooper makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "7:47.0",
+      "C. Sexton misses 2-pt layup from 1 ft",
+      "",
+      "102-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "102-86",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "7:46.0",
+      "Loose ball foul by L. Miller (drawn by J. Reese)",
+      "",
+      "102-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "102-86",
+      "",
+      "Technical foul by J. Reese"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "7:46.0",
+      "Y. Kawamura makes technical free throw",
+      "+1",
+      "103-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "103-87",
+      "+1",
+      "J. Reese makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "103-87",
+      "",
+      "J. Reese misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "7:46.0",
+      "Defensive rebound by L. Miller",
+      "",
+      "103-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "7:37.0",
+      "Turnover by R. Dillingham (bad pass; steal by S. Cooper)",
+      "",
+      "103-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "7:32.0",
+      "",
+      "",
+      "103-87",
+      "",
+      "J. Watkins misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "7:28.0",
+      "Defensive rebound by P. Williams",
+      "",
+      "103-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "7:24.0",
+      "R. Dillingham misses 2-pt layup from 6 ft (block by S. Cooper)",
+      "",
+      "103-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "7:20.0",
+      "Offensive rebound by C. Sexton",
+      "",
+      "103-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "7:20.0",
+      "C. Sexton misses 2-pt jump shot from 7 ft (block by W. Riley)",
+      "",
+      "103-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "103-87",
+      "",
+      "Defensive rebound by W. Riley"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "103-89",
+      "+2",
+      "W. Riley makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "103-89",
+      "",
+      "Shooting foul by R. Dillingham (drawn by W. Riley)"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "103-90",
+      "+1",
+      "W. Riley makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "6:57.0",
+      "Y. Kawamura misses 2-pt jump shot from 11 ft",
+      "",
+      "103-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "103-90",
+      "",
+      "Defensive rebound by J. Champagnie"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "6:44.0",
+      "",
+      "",
+      "103-90",
+      "",
+      "S. Cooper misses 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "103-90",
+      "",
+      "Offensive rebound by J. Reese"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "103-90",
+      "",
+      "W. Riley misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "6:33.0",
+      "Defensive rebound by R. Dillingham",
+      "",
+      "103-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "6:30.0",
+      "Turnover by R. Dillingham (bad pass; steal by S. Cooper)",
+      "",
+      "103-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "6:26.0",
+      "",
+      "",
+      "103-93",
+      "+3",
+      "J. Champagnie makes 3-pt jump shot from 23 ft (assist by S. Cooper)"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "6:25.0",
+      "Chicago full timeout",
+      "",
+      "103-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "6:25.0",
+      "T. Jones enters the game for R. Dillingham",
+      "",
+      "103-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "103-93",
+      "",
+      "L. Black enters the game for J. Champagnie"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "103-93",
+      "",
+      "A. Gill enters the game for S. Cooper"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "6:09.0",
+      "Personal foul by L. Black (drawn by P. Williams)",
+      "",
+      "103-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "6:09.0",
+      "L. Olbrich enters the game for Y. Kawamura",
+      "",
+      "103-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "6:07.0",
+      "C. Sexton makes 2-pt layup from 2 ft (assist by P. Williams)",
+      "+2",
+      "105-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "105-95",
+      "+2",
+      "J. Reese makes 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "5:35.0",
+      "Shooting foul by W. Riley (drawn by T. Jones)",
+      "",
+      "105-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "5:35.0",
+      "T. Jones makes free throw 1 of 2",
+      "+1",
+      "106-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "5:35.0",
+      "T. Jones makes free throw 2 of 2",
+      "+1",
+      "107-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "107-95",
+      "",
+      "Turnover by J. Reese (bad pass)"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "5:10.0",
+      "P. Williams misses 2-pt dunk from 3 ft",
+      "",
+      "107-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "107-95",
+      "",
+      "Defensive rebound by A. Gill"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "4:59.0",
+      "",
+      "",
+      "107-97",
+      "+2",
+      "L. Black makes 2-pt jump shot from 15 ft (assist by W. Riley)"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "4:39.0",
+      "T. Jones makes 3-pt jump shot from 27 ft (assist by P. Williams)",
+      "+3",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "110-97",
+      "",
+      "L. Black misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "110-97",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "110-97",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "4:02.0",
+      "T. Jones misses 2-pt layup from 5 ft (block by J. Reese)",
+      "",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "4:01.0",
+      "Offensive rebound by L. Olbrich",
+      "",
+      "110-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "4:00.0",
+      "L. Olbrich makes 2-pt layup from 1 ft",
+      "+2",
+      "112-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "112-97",
+      "",
+      "Personal foul by L. Olbrich (drawn by J. Watkins)"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "3:46.0",
+      "R. Dillingham enters the game for L. Olbrich",
+      "",
+      "112-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "112-97",
+      "",
+      "J. Watkins misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "112-97",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "112-98",
+      "+1",
+      "J. Watkins makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "3:38.0",
+      "Shooting foul by L. Black (drawn by T. Jones)",
+      "",
+      "112-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "3:38.0",
+      "T. Jones makes free throw 1 of 2",
+      "+1",
+      "113-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "3:38.0",
+      "T. Jones makes free throw 2 of 2",
+      "+1",
+      "114-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "3:24.0",
+      "",
+      "",
+      "114-98",
+      "",
+      "J. Watkins misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "3:22.0",
+      "Defensive rebound by C. Sexton",
+      "",
+      "114-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "3:12.0",
+      "P. Williams makes 3-pt jump shot from 26 ft (assist by C. Sexton)",
+      "+3",
+      "117-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "3:11.0",
+      "",
+      "",
+      "117-98",
+      "",
+      "Washington full timeout"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "117-100",
+      "+2",
+      "W. Riley makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "2:31.0",
+      "P. Williams misses 3-pt jump shot from 26 ft",
+      "",
+      "117-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "117-100",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "117-103",
+      "+3",
+      "L. Black makes 3-pt jump shot from 29 ft (assist by W. Riley)"
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "1:52.0",
+      "Turnover by R. Dillingham (lost ball; steal by J. Watkins)",
+      "",
+      "117-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "117-103",
+      "",
+      "J. Watkins misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "117-103",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "1:43.0",
+      "Loose ball foul by C. Sexton (drawn by A. Gill)",
+      "",
+      "117-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "117-104",
+      "+1",
+      "A. Gill makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "1:43.0",
+      "Y. Kawamura enters the game for T. Jones",
+      "",
+      "117-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "117-104",
+      "",
+      "A. Gill misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "1:41.0",
+      "Defensive rebound by R. Dillingham",
+      "",
+      "117-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "1:28.0",
+      "R. Dillingham misses 3-pt jump shot from 27 ft",
+      "",
+      "117-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "1:24.0",
+      "",
+      "",
+      "117-104",
+      "",
+      "Defensive rebound by W. Riley"
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "117-106",
+      "+2",
+      "W. Riley makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "1:01.0",
+      "C. Sexton misses 2-pt layup from 2 ft",
+      "",
+      "117-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "117-106",
+      "",
+      "Defensive rebound by L. Black"
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "117-108",
+      "+2",
+      "W. Riley makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "0:32.0",
+      "R. Dillingham makes 2-pt jump shot from 5 ft",
+      "+2",
+      "119-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "119-108",
+      "",
+      "W. Riley misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 495,
+    "cells": [
+      "0:14.0",
+      "Defensive rebound by P. Williams",
+      "",
+      "119-108",
+      "",
+      ""
+    ]
+  }
+]

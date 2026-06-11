@@ -1,0 +1,205 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA球员总览</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            color: #fff;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #e94560;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .player-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .player-card {
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.3s;
+            backdrop-filter: blur(10px);
+        }
+        .player-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(233,69,96,0.3);
+        }
+        .player-name {
+            color: #00ff88;
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .player-info {
+            color: #aaa;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+        }
+        .view-button {
+            display: inline-block;
+            background: #e94560;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+        .view-button:hover {
+            background: #00ff88;
+            color: #1a1a2e;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏀 NBA球员总览</h1>
+        
+        <div class="player-grid">
+
+            <div class="player-card">
+                <div class="player-name">Tim Duncan</div>
+                <div class="player-info">
+                    SAS | PF/C<br>
+                    1997-2016 | 已退役
+                </div>
+                <a href="players/Tim_Duncan/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Manu Ginobili</div>
+                <div class="player-info">
+                    SAS | SG<br>
+                    2002-2018 | 已退役
+                </div>
+                <a href="players/Manu_Ginobili/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Victor Wembanyama</div>
+                <div class="player-info">
+                    SAS | C/PF<br>
+                    2023-2026 | 现役
+                </div>
+                <a href="players/Victor_Wembanyama/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Nikola Jokic</div>
+                <div class="player-info">
+                    DEN | C<br>
+                    2015-2026 | 现役
+                </div>
+                <a href="players/Nikola_Jokic/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Luka Doncic</div>
+                <div class="player-info">
+                    DAL | PG/SG<br>
+                    2018-2026 | 现役
+                </div>
+                <a href="players/Luka_Doncic/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">James Harden</div>
+                <div class="player-info">
+                    PHI | SG/PG<br>
+                    2009-2026 | 现役
+                </div>
+                <a href="players/James_Harden/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Kevin Durant</div>
+                <div class="player-info">
+                    PHX | SF/PF<br>
+                    2007-2026 | 现役
+                </div>
+                <a href="players/Kevin_Durant/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Russell Westbrook</div>
+                <div class="player-info">
+                    LAC | PG<br>
+                    2008-2026 | 现役
+                </div>
+                <a href="players/Russell_Westbrook/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Stephen Curry</div>
+                <div class="player-info">
+                    GSW | PG<br>
+                    2009-2026 | 现役
+                </div>
+                <a href="players/Stephen_Curry/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Klay Thompson</div>
+                <div class="player-info">
+                    GSW | SG<br>
+                    2011-2026 | 现役
+                </div>
+                <a href="players/Klay_Thompson/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">De'Aaron Fox</div>
+                <div class="player-info">
+                    SAC | PG<br>
+                    2017-2026 | 现役
+                </div>
+                <a href="players/De'Aaron_Fox/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Scottie Barnes</div>
+                <div class="player-info">
+                    TOR | SF/PF<br>
+                    2021-2026 | 现役
+                </div>
+                <a href="players/Scottie_Barnes/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+            <div class="player-card">
+                <div class="player-name">Jalen Harper</div>
+                <div class="player-info">
+                    IND | PG<br>
+                    2022-2026 | 现役
+                </div>
+                <a href="players/Jalen_Harper/analysis/player_page.html" class="view-button">查看详情</a>
+            </div>
+
+        </div>
+        
+        <div class="footer">
+            <p>NBA Data Analysis Project | Generated by Trae AI</p>
+        </div>
+    </div>
+</body>
+</html>

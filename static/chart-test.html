@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Chart.js 柱体高度测试</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>柱体高度测试 - Y轴范围-1到1</h1>
+    <div style="width: 800px; height: 400px;">
+        <canvas id="testChart1"></canvas>
+    </div>
+    
+    <h1>柱体高度测试 - Y轴范围-0.5到0.5</h1>
+    <div style="width: 800px; height: 400px;">
+        <canvas id="testChart2"></canvas>
+    </div>
+
+    <script>
+        // 测试数据 - 随机比分
+        const labels = ['1月1日', '1月2日', '1月3日', '1月4日', '1月5日'];
+        
+        // 原始分数约100-130
+        const originalScores = [120, -115, 128, -108, 125];
+        
+        // 除以212后的值
+        const displayScores = originalScores.map(s => s / 212);
+        
+        console.log('原始分数:', originalScores);
+        console.log('显示分数(除以212):', displayScores);
+        
+        // 图表1: Y轴-1到1
+        new Chart(document.getElementById('testChart1'), {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: '比分/212',
+                    data: displayScores,
+                    backgroundColor: ['blue', 'red', 'blue', 'red', 'blue']
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        min: -1,
+                        max: 1
+                    }
+                }
+            }
+        });
+        
+        // 图表2: Y轴-0.5到0.5（更短的柱体）
+        new Chart(document.getElementById('testChart2'), {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: '比分/212',
+                    data: displayScores,
+                    backgroundColor: ['blue', 'red', 'blue', 'red', 'blue']
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        min: -0.5,
+                        max: 0.5
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

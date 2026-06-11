@@ -1,0 +1,5183 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Detroit",
+      "",
+      "Score",
+      "",
+      "Cleveland"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:43.0",
+      "D. Robinson makes 3-pt jump shot from 24 ft (assist by C. Cunningham)",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Turnover by E. Mobley (lost ball; steal by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:22.0",
+      "A. Thompson misses 2-pt layup from 2 ft",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:16.0",
+      "Offensive rebound by C. Cunningham",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:16.0",
+      "C. Cunningham misses 2-pt layup at rim",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:15.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "3-2",
+      "+2",
+      "D. Mitchell makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:59.0",
+      "J. Duren makes 2-pt layup from 2 ft (assist by C. Cunningham)",
+      "+2",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "5-5",
+      "+3",
+      "J. Harden makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:23.0",
+      "T. Harris misses 2-pt jump shot from 13 ft",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:21.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:20.0",
+      "C. Cunningham makes 3-pt jump shot from 26 ft (assist by A. Thompson)",
+      "+3",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "8-5",
+      "",
+      "Turnover by D. Wade (bad pass; steal by D. Robinson)"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:05.0",
+      "Shooting foul by D. Mitchell (drawn by C. Cunningham)",
+      "",
+      "8-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:05.0",
+      "C. Cunningham makes free throw 1 of 2",
+      "+1",
+      "9-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:05.0",
+      "C. Cunningham misses free throw 2 of 2",
+      "",
+      "9-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "9-5",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "9-5",
+      "",
+      "Turnover by J. Allen (step out of bounds)"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:32.0",
+      "T. Harris makes 2-pt layup from 2 ft",
+      "+2",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "11-5",
+      "",
+      "Turnover by D. Mitchell (bad pass; steal by D. Robinson)"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:15.0",
+      "Shooting foul by D. Mitchell (drawn by D. Robinson)",
+      "",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:15.0",
+      "D. Robinson misses free throw 1 of 2",
+      "",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:15.0",
+      "Offensive rebound by Team",
+      "",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:15.0",
+      "D. Robinson makes free throw 2 of 2",
+      "+1",
+      "12-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "12-5",
+      "",
+      "Shooting foul by C. Cunningham (drawn by E. Mobley)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "12-5",
+      "",
+      "E. Mobley misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "12-5",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "12-6",
+      "+1",
+      "E. Mobley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:45.0",
+      "Turnover by T. Harris (step out of bounds)",
+      "",
+      "12-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:31.0",
+      "",
+      "",
+      "12-9",
+      "+3",
+      "D. Mitchell makes 3-pt jump shot from 26 ft (assist by J. Allen)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:09.0",
+      "J. Duren misses 2-pt jump shot from 6 ft (block by E. Mobley)",
+      "",
+      "12-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:07.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "12-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:05.0",
+      "A. Thompson makes 2-pt jump shot from 13 ft",
+      "+2",
+      "14-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "14-11",
+      "+2",
+      "D. Mitchell makes 2-pt layup from 2 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:39.0",
+      "Shooting foul by J. Harden (drawn by T. Harris)",
+      "",
+      "14-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:39.0",
+      "T. Harris makes free throw 1 of 2",
+      "+1",
+      "15-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:39.0",
+      "T. Harris makes free throw 2 of 2",
+      "+1",
+      "16-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "16-13",
+      "+2",
+      "J. Allen makes 2-pt dunk at rim (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:00.0",
+      "T. Harris misses 2-pt jump shot from 15 ft",
+      "",
+      "16-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "16-13",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "16-13",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:51.0",
+      "Defensive rebound by D. Robinson",
+      "",
+      "16-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:43.0",
+      "J. Duren makes 2-pt dunk from 1 ft (assist by C. Cunningham)",
+      "+2",
+      "18-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "18-13",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:41.0",
+      "D. Jenkins enters the game for C. Cunningham",
+      "",
+      "18-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "18-13",
+      "",
+      "D. Schröder enters the game for D. Mitchell"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "18-13",
+      "",
+      "M. Strus enters the game for E. Mobley"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "18-13",
+      "",
+      "J. Tyson enters the game for D. Wade"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:26.0",
+      "",
+      "",
+      "18-15",
+      "+2",
+      "J. Allen makes 2-pt layup from 3 ft (assist by M. Strus)"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:26.0",
+      "",
+      "",
+      "18-15",
+      "",
+      "Shooting foul by A. Thompson (drawn by J. Allen)"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:26.0",
+      "",
+      "",
+      "18-16",
+      "+1",
+      "J. Allen makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:03.0",
+      "T. Harris makes 2-pt layup from 1 ft",
+      "+2",
+      "20-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "20-19",
+      "+3",
+      "D. Schröder makes 3-pt jump shot from 23 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:39.0",
+      "C. LeVert enters the game for D. Robinson",
+      "",
+      "20-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:21.0",
+      "Offensive foul by J. Duren (drawn by J. Allen)",
+      "",
+      "20-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:21.0",
+      "Turnover by J. Duren (offensive foul)",
+      "",
+      "20-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "20-21",
+      "+2",
+      "J. Allen makes 2-pt layup from 3 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:06.0",
+      "Detroit full timeout",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:06.0",
+      "C. Cunningham enters the game for J. Duren",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:06.0",
+      "I. Stewart enters the game for D. Jenkins",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:49.0",
+      "I. Stewart misses 2-pt hook shot from 3 ft",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "20-21",
+      "",
+      "Defensive rebound by M. Strus"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "20-21",
+      "",
+      "M. Strus misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:40.0",
+      "Defensive rebound by I. Stewart",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:25.0",
+      "C. Cunningham misses 3-pt jump shot from 25 ft",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "20-21",
+      "",
+      "Defensive rebound by M. Strus"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:15.0",
+      "",
+      "",
+      "20-21",
+      "",
+      "J. Tyson misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:12.0",
+      "Defensive rebound by C. Cunningham",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:04.0",
+      "T. Harris makes 2-pt jump shot from 7 ft",
+      "+2",
+      "22-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "22-23",
+      "+2",
+      "J. Allen makes 2-pt hook shot from 4 ft (assist by J. Tyson)"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:30.0",
+      "I. Stewart makes 2-pt dunk from 1 ft (assist by C. Cunningham)",
+      "+2",
+      "24-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "24-25",
+      "+2",
+      "D. Schröder makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:58.0",
+      "A. Thompson misses 2-pt hook shot from 4 ft",
+      "",
+      "24-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:56.0",
+      "",
+      "",
+      "24-25",
+      "",
+      "Defensive rebound by J. Tyson"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "24-27",
+      "+2",
+      "J. Harden makes 2-pt layup from 1 ft (assist by M. Strus)"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:39.0",
+      "Shooting foul by M. Strus (drawn by C. LeVert)",
+      "",
+      "24-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:39.0",
+      "C. LeVert makes free throw 1 of 2",
+      "+1",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:39.0",
+      "J. Green enters the game for T. Harris",
+      "",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:39.0",
+      "R. Holland enters the game for A. Thompson",
+      "",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "25-27",
+      "",
+      "D. Mitchell enters the game for J. Allen"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "25-27",
+      "",
+      "E. Mobley enters the game for J. Harden"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:39.0",
+      "C. LeVert makes free throw 2 of 2",
+      "+1",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "26-27",
+      "",
+      "Turnover by D. Schröder (lost ball; steal by C. LeVert)"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:27.0",
+      "C. LeVert makes 2-pt dunk from 1 ft",
+      "+2",
+      "28-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:13.0",
+      "",
+      "",
+      "28-27",
+      "",
+      "D. Mitchell misses 2-pt layup from 2 ft (block by R. Holland)"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:11.0",
+      "Defensive rebound by C. Cunningham",
+      "",
+      "28-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:02.0",
+      "J. Green misses 3-pt jump shot from 26 ft",
+      "",
+      "28-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "28-27",
+      "",
+      "Defensive rebound by D. Schröder"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:49.0",
+      "",
+      "",
+      "28-27",
+      "",
+      "Turnover by M. Strus (lost ball; steal by C. LeVert)"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:41.0",
+      "C. LeVert misses 2-pt jump shot from 21 ft",
+      "",
+      "28-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "1:41.0",
+      "Offensive rebound by C. Cunningham",
+      "",
+      "28-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "1:38.0",
+      "C. Cunningham makes 2-pt layup from 1 ft",
+      "+2",
+      "30-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "30-27",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "30-30",
+      "+3",
+      "D. Schröder makes 3-pt jump shot from 26 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:49.0",
+      "C. LeVert misses 2-pt jump shot from 12 ft (block by D. Schröder)",
+      "",
+      "30-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:49.0",
+      "Offensive rebound by C. LeVert",
+      "",
+      "30-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:49.0",
+      "Turnover by C. LeVert (step out of bounds)",
+      "",
+      "30-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "30-32",
+      "+2",
+      "D. Mitchell makes 2-pt jump shot from 23 ft (assist by D. Schröder)"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:05.0",
+      "C. Cunningham misses 2-pt layup from 2 ft (block by J. Tyson)",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:05.0",
+      "Offensive rebound by C. Cunningham",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:05.0",
+      "C. Cunningham misses 2-pt layup from 5 ft (block by E. Mobley)",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:05.0",
+      "Offensive rebound by Team",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "D. Wade enters the game for M. Strus"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:05.0",
+      "Turnover by (5 sec)",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:05.0",
+      "A. Thompson enters the game for C. Cunningham",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "M. Strus enters the game for D. Wade"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 36 ft"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "Time",
+      "Detroit",
+      "",
+      "Score",
+      "",
+      "Cleveland"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "11:48.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "M. Strus misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "11:44.0",
+      "Defensive rebound by R. Holland",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "11:26.0",
+      "C. Cunningham misses 2-pt jump shot from 7 ft",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "Defensive rebound by J. Tyson"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "11:19.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "Shooting foul by J. Green (drawn by E. Mobley)"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "11:19.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "E. Mobley misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "11:19.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "11:19.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "E. Mobley misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "11:18.0",
+      "Defensive rebound by Team",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "11:18.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "Loose ball foul by M. Strus (drawn by J. Duren)"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "11:04.0",
+      "C. Cunningham misses 3-pt jump shot from 25 ft",
+      "",
+      "30-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "30-32",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "10:52.0",
+      "",
+      "",
+      "30-34",
+      "+2",
+      "D. Mitchell makes 2-pt jump shot from 2 ft"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "10:52.0",
+      "D. Jenkins enters the game for R. Holland",
+      "",
+      "30-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:33.0",
+      "Shooting foul by E. Mobley (drawn by J. Duren)",
+      "",
+      "30-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:33.0",
+      "J. Duren makes free throw 1 of 2",
+      "+1",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "J. Harden enters the game for M. Strus"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:33.0",
+      "J. Duren misses free throw 2 of 2",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:29.0",
+      "Offensive rebound by C. LeVert",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:22.0",
+      "C. Cunningham misses 3-pt jump shot from 23 ft",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Turnover by J. Harden (bad pass; steal by J. Duren)"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:00.0",
+      "Personal foul by S. Merrill (drawn by D. Jenkins)",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:00.0",
+      "D. Robinson enters the game for C. LeVert",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:50.0",
+      "J. Green misses 3-pt jump shot from 23 ft",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:46.0",
+      "Offensive rebound by D. Jenkins",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:44.0",
+      "D. Robinson misses 3-pt jump shot from 25 ft",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:27.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "J. Tyson misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:25.0",
+      "Defensive rebound by J. Green",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:25.0",
+      "Personal foul by S. Merrill (drawn by J. Green)",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "D. Wade enters the game for J. Tyson"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:06.0",
+      "C. Cunningham misses 2-pt hook shot from 7 ft",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:06.0",
+      "Offensive rebound by Team",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:57.0",
+      "D. Jenkins misses 3-pt jump shot from 23 ft",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:53.0",
+      "Offensive rebound by J. Green",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:47.0",
+      "J. Green misses 3-pt jump shot from 26 ft",
+      "",
+      "31-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "31-34",
+      "",
+      "Shooting foul by D. Robinson (drawn by S. Merrill)"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "31-35",
+      "+1",
+      "S. Merrill makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:39.0",
+      "T. Harris enters the game for C. Cunningham",
+      "",
+      "31-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:39.0",
+      "A. Thompson enters the game for J. Green",
+      "",
+      "31-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "31-36",
+      "+1",
+      "S. Merrill makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:23.0",
+      "D. Jenkins makes 2-pt layup from 1 ft (assist by A. Thompson)",
+      "+2",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:08.0",
+      "",
+      "",
+      "33-38",
+      "+2",
+      "D. Mitchell makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:56.0",
+      "Shooting foul by E. Mobley (drawn by A. Thompson)",
+      "",
+      "33-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:56.0",
+      "A. Thompson misses free throw 1 of 2",
+      "",
+      "33-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:56.0",
+      "Offensive rebound by Team",
+      "",
+      "33-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:56.0",
+      "A. Thompson makes free throw 2 of 2",
+      "+1",
+      "34-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "34-41",
+      "+3",
+      "D. Wade makes 3-pt jump shot from 24 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:36.0",
+      "Detroit full timeout",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:36.0",
+      "C. Cunningham enters the game for D. Jenkins",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:36.0",
+      "",
+      "",
+      "34-41",
+      "",
+      "J. Allen enters the game for D. Mitchell"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:36.0",
+      "",
+      "",
+      "34-41",
+      "",
+      "D. Schröder enters the game for E. Mobley"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:15.0",
+      "A. Thompson misses 2-pt layup from 1 ft (block by J. Allen)",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:11.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:10.0",
+      "A. Thompson misses 3-pt jump shot from 24 ft",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:08.0",
+      "Offensive rebound by J. Duren",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:03.0",
+      "C. Cunningham misses 2-pt jump shot from 3 ft",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "34-41",
+      "",
+      "Defensive rebound by D. Wade"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:39.0",
+      "",
+      "",
+      "34-43",
+      "+2",
+      "S. Merrill makes 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:22.0",
+      "J. Duren makes 2-pt dunk from 1 ft (assist by A. Thompson)",
+      "+2",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "Personal foul by A. Thompson (drawn by D. Schröder)"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "Turnover by D. Wade (bad pass; steal by J. Duren)"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "5:58.0",
+      "Offensive foul by C. Cunningham (drawn by S. Merrill)",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "5:58.0",
+      "Turnover by C. Cunningham (offensive foul)",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "5:58.0",
+      "D. Jenkins enters the game for J. Duren",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:58.0",
+      "I. Stewart enters the game for A. Thompson",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:58.0",
+      "Detroit full timeout",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:58.0",
+      "J. Duren enters the game for D. Jenkins",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:58.0",
+      "A. Thompson enters the game for I. Stewart",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:58.0",
+      "Instant Replay (Challenge: Stands)",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:58.0",
+      "D. Jenkins enters the game for J. Duren",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:58.0",
+      "I. Stewart enters the game for A. Thompson",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "J. Allen misses 2-pt hook shot from 9 ft"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:37.0",
+      "Defensive rebound by I. Stewart",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:19.0",
+      "D. Jenkins misses 2-pt hook shot from 6 ft",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:18.0",
+      "Offensive rebound by Team",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "D. Mitchell enters the game for S. Merrill"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "E. Mobley enters the game for D. Schröder"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "36-43",
+      "",
+      "M. Strus enters the game for D. Wade"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "5:09.0",
+      "C. Cunningham misses 2-pt layup from 4 ft",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:06.0",
+      "Offensive rebound by C. Cunningham",
+      "",
+      "36-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "5:05.0",
+      "C. Cunningham makes 2-pt layup from 1 ft",
+      "+2",
+      "38-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "38-45",
+      "+2",
+      "E. Mobley makes 2-pt dunk from 3 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "4:47.0",
+      "Shooting foul by E. Mobley (drawn by T. Harris)",
+      "",
+      "38-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "4:47.0",
+      "T. Harris makes free throw 1 of 2",
+      "+1",
+      "39-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "4:47.0",
+      "A. Thompson enters the game for C. Cunningham",
+      "",
+      "39-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "4:47.0",
+      "T. Harris makes free throw 2 of 2",
+      "+1",
+      "40-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "40-45",
+      "",
+      "J. Allen misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "40-45",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "4:35.0",
+      "Loose ball foul by A. Thompson (drawn by E. Mobley)",
+      "",
+      "40-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "4:35.0",
+      "C. Cunningham enters the game for A. Thompson",
+      "",
+      "40-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "40-48",
+      "+3",
+      "J. Harden makes 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "40-48",
+      "",
+      "Shooting foul by C. Cunningham (drawn by J. Harden)"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "40-48",
+      "",
+      "J. Harden misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "40-48",
+      "",
+      "Offensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "4:25.0",
+      "",
+      "",
+      "40-50",
+      "+2",
+      "E. Mobley makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "4:01.0",
+      "C. Cunningham makes 2-pt jump shot from 13 ft",
+      "+2",
+      "42-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "42-50",
+      "",
+      "J. Harden misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "3:30.0",
+      "Defensive rebound by D. Robinson",
+      "",
+      "42-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "3:26.0",
+      "D. Robinson makes 2-pt dunk from 1 ft",
+      "+2",
+      "44-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "44-50",
+      "",
+      "Personal foul by D. Jenkins (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "44-51",
+      "+1",
+      "D. Mitchell makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "3:21.0",
+      "J. Duren enters the game for I. Stewart",
+      "",
+      "44-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "44-52",
+      "+1",
+      "D. Mitchell makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "3:14.0",
+      "Offensive foul by J. Duren (drawn by M. Strus)",
+      "",
+      "44-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "3:14.0",
+      "Turnover by J. Duren (offensive foul)",
+      "",
+      "44-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "44-55",
+      "+3",
+      "D. Mitchell makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "2:53.0",
+      "Turnover by C. Cunningham (out of bounds lost ball)",
+      "",
+      "44-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "2:53.0",
+      "C. LeVert enters the game for C. Cunningham",
+      "",
+      "44-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "44-57",
+      "+2",
+      "J. Allen makes 2-pt dunk from 1 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "2:39.0",
+      "Detroit full timeout",
+      "",
+      "44-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "2:26.0",
+      "J. Duren makes 2-pt dunk from 1 ft (assist by D. Jenkins)",
+      "+2",
+      "46-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "46-57",
+      "",
+      "D. Mitchell misses 2-pt jump shot from 18 ft (block by D. Robinson)"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "2:07.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "46-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "2:04.0",
+      "D. Jenkins misses 3-pt jump shot from 26 ft",
+      "",
+      "46-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "2:00.0",
+      "",
+      "",
+      "46-57",
+      "",
+      "Defensive rebound by M. Strus"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "46-57",
+      "",
+      "Shooting foul by T. Harris (drawn by E. Mobley)"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "46-57",
+      "",
+      "E. Mobley misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "46-57",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "46-58",
+      "+1",
+      "E. Mobley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "1:33.0",
+      "D. Jenkins misses 3-pt jump shot from 22 ft",
+      "",
+      "46-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "46-58",
+      "",
+      "Defensive rebound by M. Strus"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "1:24.0",
+      "",
+      "",
+      "46-60",
+      "+2",
+      "D. Mitchell makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "1:14.0",
+      "Offensive foul by J. Duren (drawn by D. Mitchell)",
+      "",
+      "46-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "1:14.0",
+      "Turnover by J. Duren (offensive foul)",
+      "",
+      "46-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "1:14.0",
+      "I. Stewart enters the game for J. Duren",
+      "",
+      "46-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "46-60",
+      "",
+      "Shooting foul by I. Stewart (drawn by J. Allen)"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "46-60",
+      "",
+      "J. Allen misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "46-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "46-61",
+      "+1",
+      "J. Allen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "0:41.0",
+      "C. LeVert misses 2-pt jump shot from 9 ft",
+      "",
+      "46-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "46-61",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "46-61",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "46-61",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "0:39.0",
+      "Loose ball foul by I. Stewart (drawn by J. Allen)",
+      "",
+      "46-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "46-61",
+      "",
+      "J. Allen misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "46-61",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "46-62",
+      "+1",
+      "J. Allen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "0:27.0",
+      "I. Stewart makes 2-pt layup from 1 ft (assist by D. Robinson)",
+      "+2",
+      "48-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "48-64",
+      "+2",
+      "E. Mobley makes 2-pt dunk from 1 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "0:04.0",
+      "T. Harris misses 3-pt jump shot from 27 ft",
+      "",
+      "48-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "Defensive rebound by J. Allen"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "Time",
+      "Detroit",
+      "",
+      "Score",
+      "",
+      "Cleveland"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "Shooting foul by T. Harris (drawn by E. Mobley)"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "E. Mobley misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "48-64",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "48-65",
+      "+1",
+      "E. Mobley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "11:22.0",
+      "J. Duren makes 2-pt layup from 1 ft (assist by C. Cunningham)",
+      "+2",
+      "50-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "50-67",
+      "+2",
+      "D. Mitchell makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "10:56.0",
+      "Shooting foul by J. Allen (drawn by C. Cunningham)",
+      "",
+      "50-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "10:56.0",
+      "C. Cunningham makes free throw 1 of 2",
+      "+1",
+      "51-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "10:56.0",
+      "C. Cunningham makes free throw 2 of 2",
+      "+1",
+      "52-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "52-67",
+      "",
+      "Turnover by D. Mitchell (traveling)"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "10:19.0",
+      "D. Robinson misses 3-pt jump shot from 27 ft",
+      "",
+      "52-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "52-67",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "10:07.0",
+      "",
+      "",
+      "52-67",
+      "",
+      "E. Mobley misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "10:04.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "52-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "9:59.0",
+      "A. Thompson makes 2-pt layup from 1 ft",
+      "+2",
+      "54-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "9:37.0",
+      "",
+      "",
+      "54-67",
+      "",
+      "J. Harden misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "9:34.0",
+      "Defensive rebound by T. Harris",
+      "",
+      "54-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "9:27.0",
+      "J. Duren misses 2-pt jump shot from 13 ft",
+      "",
+      "54-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "54-67",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "54-69",
+      "+2",
+      "J. Harden makes 2-pt jump shot from 7 ft (assist by E. Mobley)"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:56.0",
+      "Def 3 sec tech foul by Team",
+      "",
+      "54-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "8:56.0",
+      "C. Cunningham makes technical free throw",
+      "+1",
+      "55-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "8:43.0",
+      "A. Thompson misses 2-pt jump shot from 10 ft",
+      "",
+      "55-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "55-69",
+      "",
+      "Defensive rebound by J. Allen"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "55-69",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "8:21.0",
+      "Defensive rebound by T. Harris",
+      "",
+      "55-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "8:17.0",
+      "T. Harris misses 2-pt layup from 1 ft",
+      "",
+      "55-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "55-69",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "8:07.0",
+      "",
+      "",
+      "55-69",
+      "",
+      "J. Harden misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "8:05.0",
+      "Defensive rebound by T. Harris",
+      "",
+      "55-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "7:55.0",
+      "C. Cunningham misses 2-pt jump shot from 14 ft",
+      "",
+      "55-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "55-69",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "55-69",
+      "",
+      "D. Wade misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "7:30.0",
+      "Defensive rebound by T. Harris",
+      "",
+      "55-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "7:23.0",
+      "T. Harris makes 3-pt jump shot from 26 ft (assist by A. Thompson)",
+      "+3",
+      "58-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "58-69",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "58-69",
+      "",
+      "D. Schröder enters the game for D. Mitchell"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "58-69",
+      "",
+      "M. Strus enters the game for E. Mobley"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "58-72",
+      "+3",
+      "M. Strus makes 3-pt jump shot from 26 ft (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "6:33.0",
+      "C. Cunningham misses 2-pt layup from 3 ft (block by J. Allen)",
+      "",
+      "58-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "6:28.0",
+      "Offensive rebound by C. Cunningham",
+      "",
+      "58-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "6:27.0",
+      "C. Cunningham makes 2-pt layup from 2 ft",
+      "+2",
+      "60-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "60-72",
+      "",
+      "Turnover by J. Harden (bad pass; steal by D. Robinson)"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "6:10.0",
+      "A. Thompson makes 2-pt layup from 2 ft (assist by C. Cunningham)",
+      "+2",
+      "62-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "62-72",
+      "",
+      "M. Strus misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "5:49.0",
+      "Defensive rebound by D. Robinson",
+      "",
+      "62-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "5:33.0",
+      "A. Thompson makes 2-pt jump shot from 21 ft (assist by C. Cunningham)",
+      "+2",
+      "64-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "64-72",
+      "",
+      "J. Harden misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "64-72",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "5:07.0",
+      "P. Reed enters the game for J. Duren",
+      "",
+      "64-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "64-72",
+      "",
+      "J. Tyson enters the game for D. Wade"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "64-72",
+      "",
+      "J. Harden misses 2-pt jump shot from 16 ft (block by A. Thompson)"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "4:53.0",
+      "Defensive rebound by C. Cunningham",
+      "",
+      "64-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:52.0",
+      "Turnover by C. Cunningham (bad pass; steal by J. Harden)",
+      "",
+      "64-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "64-74",
+      "+2",
+      "J. Allen makes 2-pt layup from 3 ft (assist by J. Tyson)"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:32.0",
+      "D. Robinson makes 3-pt jump shot from 26 ft (assist by C. Cunningham)",
+      "+3",
+      "67-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:15.0",
+      "",
+      "",
+      "67-74",
+      "",
+      "Turnover by D. Schröder (bad pass; steal by D. Robinson)"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "4:04.0",
+      "P. Reed makes 2-pt dunk from 2 ft (assist by D. Robinson)",
+      "+2",
+      "69-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "69-74",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "4:04.0",
+      "C. LeVert enters the game for D. Robinson",
+      "",
+      "69-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "69-74",
+      "",
+      "D. Mitchell enters the game for J. Allen"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "69-74",
+      "",
+      "E. Mobley enters the game for J. Harden"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "69-74",
+      "",
+      "E. Mobley misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "3:49.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "69-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "3:32.0",
+      "C. Cunningham makes 2-pt jump shot from 14 ft",
+      "+2",
+      "71-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "71-74",
+      "",
+      "Turnover by D. Mitchell (lost ball; steal by C. LeVert)"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "3:05.0",
+      "C. Cunningham makes 2-pt jump shot from 1 ft",
+      "+2",
+      "73-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "3:05.0",
+      "Shooting foul by M. Strus (drawn by C. Cunningham)",
+      "",
+      "73-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "3:05.0",
+      "C. Cunningham makes free throw 1 of 1",
+      "+1",
+      "74-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "74-74",
+      "",
+      "D. Schröder misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "2:51.0",
+      "Defensive rebound by Team",
+      "",
+      "74-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "2:31.0",
+      "T. Harris misses 2-pt hook shot from 1 ft",
+      "",
+      "74-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "2:29.0",
+      "Offensive rebound by P. Reed",
+      "",
+      "74-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "2:28.0",
+      "P. Reed makes 2-pt dunk from 1 ft",
+      "+2",
+      "76-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "76-74",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "2:09.0",
+      "Defensive rebound by P. Reed",
+      "",
+      "76-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "2:04.0",
+      "Turnover by C. Cunningham (bad pass)",
+      "",
+      "76-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "76-76",
+      "+2",
+      "M. Strus makes 2-pt layup from 1 ft (assist by E. Mobley)"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "1:50.0",
+      "Turnover by C. Cunningham (bad pass)",
+      "",
+      "76-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "1:50.0",
+      "J. Green enters the game for C. Cunningham",
+      "",
+      "76-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "1:50.0",
+      "D. Jenkins enters the game for T. Harris",
+      "",
+      "76-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "76-79",
+      "+3",
+      "J. Tyson makes 3-pt jump shot from 23 ft (assist by E. Mobley)"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "1:18.0",
+      "C. LeVert misses 2-pt jump shot from 11 ft",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "76-79",
+      "",
+      "Defensive rebound by M. Strus"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "76-79",
+      "",
+      "Personal foul by D. Jenkins (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "1:14.0",
+      "T. Harris enters the game for A. Thompson",
+      "",
+      "76-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "76-81",
+      "+2",
+      "D. Mitchell makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "0:42.0",
+      "T. Harris misses 2-pt jump shot from 13 ft",
+      "",
+      "76-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "76-81",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "76-83",
+      "+2",
+      "D. Mitchell makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "0:05.0",
+      "T. Harris makes 2-pt jump shot from 15 ft",
+      "+2",
+      "78-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "0:05.0",
+      "Shooting foul by M. Strus (drawn by T. Harris)",
+      "",
+      "78-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "0:05.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "78-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "0:05.0",
+      "T. Harris makes free throw 1 of 1",
+      "+1",
+      "79-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:05.0",
+      "A. Thompson enters the game for D. Jenkins",
+      "",
+      "79-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "79-83",
+      "",
+      "Turnover by J. Tyson (bad pass; steal by C. LeVert)"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:03.0",
+      "J. Green misses 2-pt layup from 2 ft",
+      "",
+      "79-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:03.0",
+      "Offensive rebound by T. Harris",
+      "",
+      "79-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:03.0",
+      "T. Harris makes 2-pt layup from 1 ft",
+      "+2",
+      "81-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "81-83",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "81-83",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "Time",
+      "Detroit",
+      "",
+      "Score",
+      "",
+      "Cleveland"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "11:42.0",
+      "C. Cunningham misses 2-pt jump shot from 14 ft",
+      "",
+      "81-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "81-83",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "81-85",
+      "+2",
+      "D. Mitchell makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "11:19.0",
+      "C. Cunningham misses 2-pt jump shot from 12 ft",
+      "",
+      "81-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "11:16.0",
+      "Offensive rebound by C. Cunningham",
+      "",
+      "81-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "11:11.0",
+      "C. LeVert makes 2-pt dunk from 1 ft (assist by J. Duren)",
+      "+2",
+      "83-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "83-85",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "83-85",
+      "",
+      "Offensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "83-85",
+      "",
+      "S. Merrill misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "83-85",
+      "",
+      "Offensive rebound by J. Harden"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "83-85",
+      "",
+      "Shooting foul by C. Cunningham (drawn by E. Mobley)"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "83-86",
+      "+1",
+      "E. Mobley makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "83-87",
+      "+1",
+      "E. Mobley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "9:57.0",
+      "J. Green makes 3-pt jump shot from 25 ft (assist by D. Robinson)",
+      "+3",
+      "86-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "86-90",
+      "+3",
+      "S. Merrill makes 3-pt jump shot from 24 ft (assist by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:26.0",
+      "C. Cunningham misses 2-pt jump shot from 14 ft (block by D. Schröder)",
+      "",
+      "86-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "9:26.0",
+      "Offensive rebound by Team",
+      "",
+      "86-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "9:26.0",
+      "D. Jenkins enters the game for D. Robinson",
+      "",
+      "86-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "9:18.0",
+      "J. Duren misses 2-pt layup from 2 ft",
+      "",
+      "86-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "86-90",
+      "",
+      "Defensive rebound by J. Harden"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "86-92",
+      "+2",
+      "D. Mitchell makes 2-pt layup at rim (assist by J. Harden)"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "9:11.0",
+      "Detroit full timeout",
+      "",
+      "86-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "9:11.0",
+      "P. Reed enters the game for J. Duren",
+      "",
+      "86-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "9:11.0",
+      "D. Robinson enters the game for C. LeVert",
+      "",
+      "86-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:07.0",
+      "Offensive foul by D. Jenkins (drawn by D. Schröder)",
+      "",
+      "86-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:07.0",
+      "Turnover by D. Jenkins (offensive foul)",
+      "",
+      "86-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "9:07.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "86-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "86-94",
+      "+2",
+      "E. Mobley makes 2-pt jump shot from 2 ft"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:35.0",
+      "Personal foul by D. Mitchell (drawn by C. Cunningham)",
+      "",
+      "86-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:27.0",
+      "P. Reed makes 2-pt layup from 2 ft (assist by C. Cunningham)",
+      "+2",
+      "88-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "8:27.0",
+      "Shooting foul by E. Mobley (drawn by P. Reed)",
+      "",
+      "88-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "8:27.0",
+      "T. Harris enters the game for C. Cunningham",
+      "",
+      "88-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "8:27.0",
+      "A. Thompson enters the game for J. Green",
+      "",
+      "88-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:27.0",
+      "P. Reed makes free throw 1 of 1",
+      "+1",
+      "89-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "89-96",
+      "+2",
+      "J. Harden makes 2-pt jump shot from 1 ft"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "7:45.0",
+      "P. Reed makes 2-pt jump shot from 13 ft (assist by D. Jenkins)",
+      "+2",
+      "91-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "7:32.0",
+      "",
+      "",
+      "91-96",
+      "",
+      "Cleveland full timeout"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "91-99",
+      "+3",
+      "D. Schröder makes 3-pt jump shot from 23 ft (assist by E. Mobley)"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "7:09.0",
+      "D. Robinson makes 3-pt jump shot from 32 ft (assist by D. Jenkins)",
+      "+3",
+      "94-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "94-99",
+      "",
+      "Turnover by J. Harden (bad pass; steal by D. Robinson)"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "6:43.0",
+      "D. Robinson misses 2-pt jump shot from 4 ft",
+      "",
+      "94-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "6:43.0",
+      "Offensive rebound by P. Reed",
+      "",
+      "94-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "6:43.0",
+      "Shooting foul by E. Mobley (drawn by P. Reed)",
+      "",
+      "94-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "6:43.0",
+      "P. Reed makes free throw 1 of 2",
+      "+1",
+      "95-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "6:43.0",
+      "C. Cunningham enters the game for D. Jenkins",
+      "",
+      "95-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "95-99",
+      "",
+      "J. Allen enters the game for E. Mobley"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "6:43.0",
+      "P. Reed makes free throw 2 of 2",
+      "+1",
+      "96-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "96-99",
+      "",
+      "S. Merrill misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "6:25.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "96-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "6:17.0",
+      "Offensive foul by P. Reed (drawn by S. Merrill)",
+      "",
+      "96-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "6:17.0",
+      "Turnover by P. Reed (offensive foul)",
+      "",
+      "96-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "96-99",
+      "",
+      "Shooting foul by P. Reed (drawn by J. Allen)"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "96-100",
+      "+1",
+      "J. Allen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "96-100",
+      "",
+      "M. Strus enters the game for D. Schröder"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "96-100",
+      "",
+      "J. Allen misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "5:59.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "96-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "5:40.0",
+      "C. Cunningham makes 2-pt jump shot from 16 ft (assist by D. Robinson)",
+      "+2",
+      "98-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "98-100",
+      "",
+      "D. Mitchell misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "5:13.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "98-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "4:57.0",
+      "T. Harris makes 3-pt jump shot from 24 ft (assist by A. Thompson)",
+      "+3",
+      "101-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "101-100",
+      "",
+      "Shooting foul by A. Thompson (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "101-101",
+      "+1",
+      "D. Mitchell makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "4:32.0",
+      "J. Duren enters the game for P. Reed",
+      "",
+      "101-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "101-101",
+      "",
+      "E. Mobley enters the game for S. Merrill"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "101-102",
+      "+1",
+      "D. Mitchell makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "4:10.0",
+      "A. Thompson misses 3-pt jump shot from 22 ft",
+      "",
+      "101-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "101-102",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "4:01.0",
+      "",
+      "",
+      "101-102",
+      "",
+      "D. Mitchell misses 2-pt jump shot from 8 ft (block by A. Thompson)"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "4:01.0",
+      "",
+      "",
+      "101-102",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "101-102",
+      "",
+      "M. Strus misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "3:55.0",
+      "Defensive rebound by J. Duren",
+      "",
+      "101-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "3:42.0",
+      "T. Harris misses 2-pt jump shot from 7 ft",
+      "",
+      "101-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "101-102",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "101-102",
+      "",
+      "J. Harden misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "3:24.0",
+      "",
+      "",
+      "101-102",
+      "",
+      "Offensive rebound by J. Allen"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "3:23.0",
+      "",
+      "",
+      "101-104",
+      "+2",
+      "J. Allen makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "3:14.0",
+      "D. Robinson makes 3-pt jump shot from 27 ft (assist by C. Cunningham)",
+      "+3",
+      "104-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "104-104",
+      "",
+      "Offensive foul by M. Strus (drawn by D. Robinson)"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "3:05.0",
+      "",
+      "",
+      "104-104",
+      "",
+      "Turnover by M. Strus (offensive foul)"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "3:05.0",
+      "D. Jenkins enters the game for A. Thompson",
+      "",
+      "104-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "2:46.0",
+      "C. Cunningham misses 2-pt jump shot from 13 ft",
+      "",
+      "104-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "104-104",
+      "",
+      "Defensive rebound by E. Mobley"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "104-104",
+      "",
+      "D. Mitchell misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "2:34.0",
+      "Defensive rebound by Team",
+      "",
+      "104-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "2:32.0",
+      "Turnover by C. Cunningham (bad pass; steal by M. Strus)",
+      "",
+      "104-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "2:28.0",
+      "",
+      "",
+      "104-106",
+      "+2",
+      "M. Strus makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "2:08.0",
+      "Turnover by C. Cunningham (bad pass; steal by J. Allen)",
+      "",
+      "104-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "104-106",
+      "",
+      "D. Mitchell misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "1:54.0",
+      "Defensive rebound by C. Cunningham",
+      "",
+      "104-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "1:51.0",
+      "Turnover by C. Cunningham (bad pass)",
+      "",
+      "104-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "1:51.0",
+      "A. Thompson enters the game for D. Robinson",
+      "",
+      "104-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "104-108",
+      "+2",
+      "J. Harden makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "1:29.0",
+      "Detroit full timeout",
+      "",
+      "104-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "1:29.0",
+      "D. Robinson enters the game for A. Thompson",
+      "",
+      "104-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "1:21.0",
+      "C. Cunningham makes 2-pt dunk from 1 ft",
+      "+2",
+      "106-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "106-110",
+      "+2",
+      "J. Harden makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:50.0",
+      "C. Cunningham makes 3-pt jump shot from 29 ft",
+      "+3",
+      "109-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "0:45.0",
+      "",
+      "",
+      "109-110",
+      "",
+      "Personal foul by D. Robinson (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "0:45.0",
+      "A. Thompson enters the game for D. Robinson",
+      "",
+      "109-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "109-113",
+      "+3",
+      "J. Harden makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "0:25.0",
+      "Detroit full timeout",
+      "",
+      "109-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:25.0",
+      "D. Robinson enters the game for A. Thompson",
+      "",
+      "109-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "109-113",
+      "",
+      "D. Wade enters the game for M. Strus"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "0:22.0",
+      "D. Robinson misses 3-pt jump shot from 25 ft",
+      "",
+      "109-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "109-113",
+      "",
+      "Defensive rebound by J. Allen"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "109-113",
+      "",
+      "Personal foul by C. Cunningham (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "109-114",
+      "+1",
+      "D. Mitchell makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "109-114",
+      "",
+      "D. Mitchell misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "0:17.0",
+      "",
+      "",
+      "109-114",
+      "",
+      "Offensive rebound by D. Mitchell"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "0:15.0",
+      "",
+      "",
+      "109-114",
+      "",
+      "Personal foul by D. Robinson (drawn by D. Mitchell)"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "0:15.0",
+      "",
+      "",
+      "109-115",
+      "+1",
+      "D. Mitchell makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "0:15.0",
+      "",
+      "",
+      "109-116",
+      "+1",
+      "D. Mitchell makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "0:05.0",
+      "C. Cunningham misses 3-pt jump shot from 25 ft",
+      "",
+      "109-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "109-116",
+      "",
+      "Defensive rebound by D. Mitchell"
+    ]
+  }
+]

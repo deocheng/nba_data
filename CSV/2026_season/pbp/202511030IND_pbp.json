@@ -1,0 +1,5645 @@
+[
+  {
+    "row": 1,
+    "cells": [
+      "Time",
+      "Milwaukee",
+      "",
+      "Score",
+      "",
+      "Indiana"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:42.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Q. Jackson misses 2-pt layup from 3 ft (block by M. Turner)"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:38.0",
+      "Defensive rebound by G. Trent",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:34.0",
+      "Offensive foul by G. Antetokounmpo (drawn by Q. Jackson)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:34.0",
+      "Turnover by G. Antetokounmpo (offensive foul)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:23.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Turnover by P. Siakam (bad pass; steal by G. Antetokounmpo)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "11:19.0",
+      "G. Antetokounmpo makes 2-pt layup from 4 ft",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "P. Siakam misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Offensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "A. Nesmith misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "11:01.0",
+      "Defensive rebound by G. Antetokounmpo",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:56.0",
+      "Shooting foul by I. Jackson (drawn by M. Turner)",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:56.0",
+      "M. Turner misses free throw 1 of 2",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:56.0",
+      "Offensive rebound by Team",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:56.0",
+      "M. Turner makes free throw 2 of 2",
+      "+1",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "J. Walker misses 2-pt layup from 5 ft (block by M. Turner)"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Offensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "3-2",
+      "+2",
+      "I. Jackson makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "10:28.0",
+      "Offensive foul by M. Turner (drawn by A. Nesmith)",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "10:28.0",
+      "Turnover by M. Turner (offensive foul)",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "P. Siakam misses 2-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "10:21.0",
+      "Defensive rebound by G. Trent",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "10:12.0",
+      "Turnover by A. Green (bad pass; steal by P. Siakam)",
+      "",
+      "3-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "10:07.0",
+      "",
+      "",
+      "3-2",
+      "",
+      "Shooting foul by A. Green (drawn by A. Nesmith)"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "10:07.0",
+      "",
+      "",
+      "3-3",
+      "+1",
+      "A. Nesmith makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "10:07.0",
+      "",
+      "",
+      "3-4",
+      "+1",
+      "A. Nesmith makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "10:00.0",
+      "Turnover by R. Rollins (lost ball; steal by P. Siakam)",
+      "",
+      "3-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "3-4",
+      "",
+      "Q. Jackson misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "9:45.0",
+      "Defensive rebound by G. Antetokounmpo",
+      "",
+      "3-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "9:41.0",
+      "G. Trent makes 3-pt jump shot from 24 ft (assist by A. Green)",
+      "+3",
+      "6-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "6-7",
+      "+3",
+      "P. Siakam makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "9:20.0",
+      "M. Turner makes 3-pt jump shot from 27 ft (assist by A. Green)",
+      "+3",
+      "9-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "9-7",
+      "",
+      "A. Nesmith misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "9:02.0",
+      "Defensive rebound by M. Turner",
+      "",
+      "9-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:58.0",
+      "A. Green makes 3-pt jump shot from 27 ft",
+      "+3",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "12-7",
+      "",
+      "Turnover by J. Walker (lost ball; steal by R. Rollins)"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "8:42.0",
+      "Flagrant foul type 1 by A. Nesmith (drawn by G. Antetokounmpo)",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "8:42.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "8:42.0",
+      "G. Antetokounmpo misses flagrant free throw 2 of 2",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "8:42.0",
+      "Offensive rebound by Team",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "8:42.0",
+      "G. Antetokounmpo misses flagrant free throw 1 of 2",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "8:42.0",
+      "Offensive rebound by Team",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "8:41.0",
+      "Turnover by R. Rollins (bad pass; steal by I. Jackson)",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "8:24.0",
+      "",
+      "",
+      "12-7",
+      "",
+      "I. Jackson misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "8:21.0",
+      "Defensive rebound by G. Antetokounmpo",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "8:13.0",
+      "G. Trent misses 3-pt jump shot from 25 ft",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "12-7",
+      "",
+      "Defensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "12-7",
+      "",
+      "A. Nesmith misses 2-pt layup from 5 ft (block by M. Turner)"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "7:50.0",
+      "Defensive rebound by R. Rollins",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "7:48.0",
+      "G. Antetokounmpo misses 2-pt jump shot from 8 ft",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "7:48.0",
+      "Offensive rebound by G. Antetokounmpo",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "7:48.0",
+      "Shooting foul by J. Walker (drawn by G. Antetokounmpo)",
+      "",
+      "12-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "7:48.0",
+      "G. Antetokounmpo makes free throw 1 of 2",
+      "+1",
+      "13-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "7:48.0",
+      "G. Antetokounmpo makes free throw 2 of 2",
+      "+1",
+      "14-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "14-9",
+      "+2",
+      "I. Jackson makes 2-pt layup from 3 ft (assist by P. Siakam)"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "7:13.0",
+      "M. Turner makes 3-pt jump shot from 27 ft (assist by R. Rollins)",
+      "+3",
+      "17-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "17-9",
+      "",
+      "J. Walker misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "6:56.0",
+      "Defensive rebound by G. Antetokounmpo",
+      "",
+      "17-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "6:49.0",
+      "G. Antetokounmpo makes 2-pt dunk from 2 ft",
+      "+2",
+      "19-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "19-9",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "19-9",
+      "",
+      "J. Furphy enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "19-11",
+      "+2",
+      "I. Jackson makes 2-pt dunk from 2 ft (assist by Q. Jackson)"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "6:13.0",
+      "Turnover by G. Antetokounmpo (lost ball; steal by P. Siakam)",
+      "",
+      "19-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "19-11",
+      "",
+      "I. Jackson misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:56.0",
+      "Defensive rebound by G. Antetokounmpo",
+      "",
+      "19-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "5:51.0",
+      "A. Green misses 3-pt jump shot from 26 ft",
+      "",
+      "19-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "19-11",
+      "",
+      "Defensive rebound by A. Nesmith"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "19-11",
+      "",
+      "Personal foul by A. Green (drawn by Q. Jackson)"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "5:37.0",
+      "T. Prince enters the game for A. Green",
+      "",
+      "19-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "19-11",
+      "",
+      "T. Bradley enters the game for I. Jackson"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "19-11",
+      "",
+      "J. Walker enters the game for P. Siakam"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "19-11",
+      "",
+      "A. Nesmith misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "5:23.0",
+      "Defensive rebound by M. Turner",
+      "",
+      "19-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "5:16.0",
+      "G. Trent makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo)",
+      "+3",
+      "22-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "22-11",
+      "",
+      "Shooting foul by T. Prince (drawn by Q. Jackson)"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "22-12",
+      "+1",
+      "Q. Jackson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "22-13",
+      "+1",
+      "Q. Jackson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "5:06.0",
+      "Away from play foul by Q. Jackson (drawn by R. Rollins)",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "5:06.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "5:06.0",
+      "R. Rollins misses free throw 1 of 1",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "5:06.0",
+      "Offensive rebound by Team",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "R. Dennis enters the game for Q. Jackson"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "4:58.0",
+      "M. Turner misses 3-pt jump shot from 27 ft",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Defensive rebound by J. Furphy"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "R. Dennis misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Offensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "4:28.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Offensive foul by A. Nesmith (drawn by G. Trent)"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "4:28.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Turnover by A. Nesmith (offensive foul)"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "4:28.0",
+      "C. Anthony enters the game for G. Antetokounmpo",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "4:28.0",
+      "K. Kuzma enters the game for R. Rollins",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "4:28.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "P. Siakam enters the game for A. Nesmith"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "4:19.0",
+      "Turnover by C. Anthony (bad pass)",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "4:11.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Turnover by J. Walker (bad pass)"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "3:50.0",
+      "K. Kuzma misses 2-pt jump shot from 14 ft",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "3:42.0",
+      "",
+      "",
+      "22-15",
+      "+2",
+      "J. Walker makes 2-pt layup from 3 ft (assist by P. Siakam)"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "3:29.0",
+      "Shooting foul by J. Furphy (drawn by G. Trent)",
+      "",
+      "22-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "3:29.0",
+      "G. Trent makes free throw 1 of 2",
+      "+1",
+      "23-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "23-15",
+      "",
+      "B. Sheppard enters the game for J. Furphy"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "3:29.0",
+      "G. Trent makes free throw 2 of 2",
+      "+1",
+      "24-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "24-15",
+      "",
+      "R. Dennis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "3:16.0",
+      "Defensive rebound by K. Kuzma",
+      "",
+      "24-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "3:05.0",
+      "K. Kuzma misses 3-pt jump shot from 24 ft",
+      "",
+      "24-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "3:03.0",
+      "",
+      "",
+      "24-15",
+      "",
+      "Defensive rebound by B. Sheppard"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "24-15",
+      "",
+      "P. Siakam misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "2:52.0",
+      "Defensive rebound by K. Kuzma",
+      "",
+      "24-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "2:40.0",
+      "G. Trent misses 3-pt jump shot from 30 ft",
+      "",
+      "24-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "24-15",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "24-15",
+      "",
+      "Shooting foul by K. Kuzma (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "2:31.0",
+      "Milwaukee full timeout",
+      "",
+      "24-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "2:31.0",
+      "B. Portis enters the game for M. Turner",
+      "",
+      "24-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "24-15",
+      "",
+      "J. Huff enters the game for T. Bradley"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "24-16",
+      "+1",
+      "P. Siakam makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "24-16",
+      "",
+      "P. Siakam misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "2:28.0",
+      "Defensive rebound by K. Kuzma",
+      "",
+      "24-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "2:16.0",
+      "B. Portis misses 3-pt jump shot from 25 ft",
+      "",
+      "24-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "2:13.0",
+      "Offensive rebound by K. Kuzma",
+      "",
+      "24-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "2:12.0",
+      "K. Kuzma makes 2-pt layup from 6 ft",
+      "+2",
+      "26-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "2:03.0",
+      "",
+      "",
+      "26-16",
+      "",
+      "J. Walker misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "2:00.0",
+      "Defensive rebound by T. Prince",
+      "",
+      "26-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "1:52.0",
+      "T. Prince misses 3-pt jump shot from 23 ft",
+      "",
+      "26-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "1:50.0",
+      "Offensive rebound by B. Portis",
+      "",
+      "26-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "1:43.0",
+      "B. Portis misses 2-pt hook shot from 11 ft",
+      "",
+      "26-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "26-16",
+      "",
+      "Defensive rebound by J. Huff"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "1:34.0",
+      "",
+      "",
+      "26-18",
+      "+2",
+      "P. Siakam makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "1:25.0",
+      "Shooting foul by J. Walker (drawn by K. Kuzma)",
+      "",
+      "26-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "1:25.0",
+      "K. Kuzma makes free throw 1 of 2",
+      "+1",
+      "27-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "1:25.0",
+      "J. Sims enters the game for G. Trent",
+      "",
+      "27-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "27-18",
+      "",
+      "J. Furphy enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "1:25.0",
+      "K. Kuzma makes free throw 2 of 2",
+      "+1",
+      "28-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "28-20",
+      "+2",
+      "R. Dennis makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "0:58.0",
+      "K. Kuzma misses 2-pt jump shot from 4 ft",
+      "",
+      "28-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "28-20",
+      "",
+      "Defensive rebound by R. Dennis"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "28-22",
+      "+2",
+      "P. Siakam makes 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "0:31.0",
+      "B. Portis misses 3-pt jump shot from 24 ft",
+      "",
+      "28-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "0:29.0",
+      "Offensive rebound by Team",
+      "",
+      "28-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "28-22",
+      "",
+      "Loose ball foul by J. Huff (drawn by J. Sims)"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "0:29.0",
+      "J. Sims misses free throw 1 of 2",
+      "",
+      "28-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "0:29.0",
+      "Offensive rebound by Team",
+      "",
+      "28-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "0:29.0",
+      "J. Sims makes free throw 2 of 2",
+      "+1",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "0:18.0",
+      "",
+      "",
+      "29-22",
+      "",
+      "P. Siakam misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "0:13.0",
+      "Defensive rebound by T. Prince",
+      "",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "0:03.0",
+      "K. Kuzma makes 2-pt layup from 9 ft",
+      "+2",
+      "31-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "Time",
+      "Milwaukee",
+      "",
+      "Score",
+      "",
+      "Indiana"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "11:46.0",
+      "Turnover by C. Anthony (bad pass; steal by J. Huff)",
+      "",
+      "31-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "J. Huff misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "11:32.0",
+      "Defensive rebound by Team",
+      "",
+      "31-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "11:19.0",
+      "K. Kuzma misses 2-pt layup from 4 ft (block by J. Huff)",
+      "",
+      "31-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "Defensive rebound by A. Nesmith"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "11:04.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "J. Furphy misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "Offensive rebound by J. Furphy"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "10:32.0",
+      "C. Anthony misses 2-pt jump shot from 7 ft (block by J. Huff)",
+      "",
+      "31-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "Defensive rebound by A. Nesmith"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "J. Walker misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "10:26.0",
+      "Defensive rebound by T. Prince",
+      "",
+      "31-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "10:21.0",
+      "K. Kuzma misses 3-pt jump shot from 25 ft",
+      "",
+      "31-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "31-22",
+      "",
+      "Shooting foul by J. Sims (drawn by J. Walker)"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "31-23",
+      "+1",
+      "J. Walker makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "10:09.0",
+      "R. Rollins enters the game for T. Prince",
+      "",
+      "31-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "31-24",
+      "+1",
+      "J. Walker makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "9:59.0",
+      "Offensive foul by B. Portis (drawn by A. Nesmith)",
+      "",
+      "31-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "9:59.0",
+      "Turnover by B. Portis (offensive foul)",
+      "",
+      "31-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "31-24",
+      "",
+      "A. Nesmith misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "9:46.0",
+      "Defensive rebound by J. Sims",
+      "",
+      "31-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "9:28.0",
+      "K. Kuzma makes 2-pt jump shot from 23 ft",
+      "+2",
+      "33-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "33-24",
+      "",
+      "A. Nesmith misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "33-24",
+      "",
+      "Offensive rebound by A. Nesmith"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "9:08.0",
+      "",
+      "",
+      "33-26",
+      "+2",
+      "A. Nesmith makes 2-pt jump shot from 20 ft (assist by J. Huff)"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "9:03.0",
+      "Turnover by R. Rollins (out of bounds lost ball)",
+      "",
+      "33-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "33-26",
+      "",
+      "Shooting foul by B. Portis (drawn by Q. Jackson)"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "33-27",
+      "+1",
+      "Q. Jackson makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "33-27",
+      "",
+      "Q. Jackson misses free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "33-27",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "33-27",
+      "",
+      "Q. Jackson misses free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "8:49.0",
+      "Defensive rebound by B. Portis",
+      "",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "8:45.0",
+      "R. Rollins misses 2-pt jump shot from 15 ft",
+      "",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "33-27",
+      "",
+      "Defensive rebound by J. Furphy"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "8:31.0",
+      "",
+      "",
+      "33-27",
+      "",
+      "J. Walker misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "8:28.0",
+      "",
+      "",
+      "33-27",
+      "",
+      "Offensive rebound by A. Nesmith"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "33-30",
+      "+3",
+      "J. Furphy makes 3-pt jump shot from 24 ft (assist by A. Nesmith)"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "8:21.0",
+      "Milwaukee full timeout",
+      "",
+      "33-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "8:21.0",
+      "G. Antetokounmpo enters the game for C. Anthony",
+      "",
+      "33-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "8:21.0",
+      "A. Green enters the game for K. Kuzma",
+      "",
+      "33-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "8:21.0",
+      "G. Trent enters the game for J. Sims",
+      "",
+      "33-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "8:09.0",
+      "G. Trent misses 3-pt jump shot from 26 ft",
+      "",
+      "33-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "33-30",
+      "",
+      "Defensive rebound by Q. Jackson"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "33-30",
+      "",
+      "Shooting foul by A. Green (drawn by A. Nesmith)"
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "33-31",
+      "+1",
+      "A. Nesmith makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "7:51.0",
+      "A. Coffey enters the game for A. Green",
+      "",
+      "33-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "7:51.0",
+      "M. Turner enters the game for B. Portis",
+      "",
+      "33-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "33-32",
+      "+1",
+      "A. Nesmith makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "7:32.0",
+      "Turnover by R. Rollins (bad pass)",
+      "",
+      "33-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "33-32",
+      "",
+      "Turnover by Q. Jackson (lost ball; steal by G. Antetokounmpo)"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "7:14.0",
+      "G. Antetokounmpo makes 2-pt layup from 3 ft (assist by R. Rollins)",
+      "+2",
+      "35-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "35-32",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "35-32",
+      "",
+      "I. Jackson enters the game for J. Huff"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "35-32",
+      "",
+      "B. Sheppard enters the game for A. Nesmith"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "35-32",
+      "",
+      "P. Siakam enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "35-32",
+      "",
+      "Shooting foul by A. Coffey (drawn by I. Jackson)"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "35-33",
+      "+1",
+      "I. Jackson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "35-34",
+      "+1",
+      "I. Jackson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "6:45.0",
+      "G. Antetokounmpo makes 2-pt layup from 5 ft (assist by A. Coffey)",
+      "+2",
+      "37-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "6:45.0",
+      "Shooting foul by B. Sheppard (drawn by G. Antetokounmpo)",
+      "",
+      "37-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "6:45.0",
+      "G. Antetokounmpo makes free throw 1 of 1",
+      "+1",
+      "38-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "6:35.0",
+      "",
+      "",
+      "38-36",
+      "+2",
+      "I. Jackson makes 2-pt hook shot from 5 ft (assist by Q. Jackson)"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "6:23.0",
+      "Personal foul by P. Siakam (drawn by G. Antetokounmpo)",
+      "",
+      "38-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "6:18.0",
+      "R. Rollins misses 3-pt jump shot from 25 ft",
+      "",
+      "38-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "6:14.0",
+      "",
+      "",
+      "38-36",
+      "",
+      "Defensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "38-39",
+      "+3",
+      "B. Sheppard makes 3-pt jump shot from 27 ft (assist by Q. Jackson)"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "5:49.0",
+      "G. Trent misses 3-pt jump shot from 25 ft",
+      "",
+      "38-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "38-39",
+      "",
+      "Defensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "38-41",
+      "+2",
+      "P. Siakam makes 2-pt jump shot from 5 ft (assist by Q. Jackson)"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "5:27.0",
+      "R. Rollins makes 2-pt layup from 5 ft",
+      "+2",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "40-41",
+      "",
+      "P. Siakam misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "5:12.0",
+      "Defensive rebound by R. Rollins",
+      "",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "5:10.0",
+      "G. Antetokounmpo makes 2-pt dunk at rim (assist by R. Rollins)",
+      "+2",
+      "42-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "42-41",
+      "",
+      "Shooting foul by G. Trent (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "42-42",
+      "+1",
+      "P. Siakam makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "42-42",
+      "",
+      "A. Nesmith enters the game for J. Furphy"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "42-42",
+      "",
+      "J. Walker enters the game for B. Sheppard"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "42-43",
+      "+1",
+      "P. Siakam makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "4:42.0",
+      "A. Coffey misses 3-pt jump shot from 24 ft",
+      "",
+      "42-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "J. Walker misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "4:32.0",
+      "Loose ball foul by G. Trent (drawn by Q. Jackson)",
+      "",
+      "42-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "42-44",
+      "+1",
+      "Q. Jackson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "42-45",
+      "+1",
+      "Q. Jackson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "4:10.0",
+      "G. Trent misses 3-pt jump shot from 26 ft",
+      "",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "4:08.0",
+      "",
+      "",
+      "42-45",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "4:08.0",
+      "C. Anthony enters the game for A. Coffey",
+      "",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "4:08.0",
+      "T. Prince enters the game for R. Rollins",
+      "",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "42-47",
+      "+2",
+      "P. Siakam makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "3:44.0",
+      "Personal foul by Q. Jackson (drawn by G. Antetokounmpo)",
+      "",
+      "42-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "42-47",
+      "",
+      "R. Dennis enters the game for Q. Jackson"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "3:38.0",
+      "C. Anthony makes 2-pt jump shot from 10 ft",
+      "+2",
+      "44-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "3:25.0",
+      "",
+      "",
+      "44-47",
+      "",
+      "A. Nesmith misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "3:22.0",
+      "Defensive rebound by C. Anthony",
+      "",
+      "44-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "3:17.0",
+      "G. Antetokounmpo misses 2-pt layup from 5 ft (block by I. Jackson)",
+      "",
+      "44-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "3:17.0",
+      "Offensive rebound by Team",
+      "",
+      "44-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "3:03.0",
+      "G. Antetokounmpo makes 2-pt layup from 2 ft (assist by G. Trent)",
+      "+2",
+      "46-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "46-47",
+      "",
+      "Turnover by P. Siakam (lost ball; steal by G. Trent)"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "2:46.0",
+      "G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by G. Trent)",
+      "+2",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "2:45.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "P. Siakam misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "2:23.0",
+      "Defensive rebound by Team",
+      "",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "2:09.0",
+      "T. Prince makes 3-pt jump shot from 24 ft (assist by G. Antetokounmpo)",
+      "+3",
+      "51-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "R. Dennis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "Offensive rebound by A. Nesmith"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "Shooting foul by T. Prince (drawn by J. Walker)"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "J. Walker misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "Q. Jackson enters the game for R. Dennis"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "B. Sheppard enters the game for A. Nesmith"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "J. Walker misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "1:46.0",
+      "Defensive rebound by G. Antetokounmpo",
+      "",
+      "51-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "1:36.0",
+      "G. Trent misses 3-pt jump shot from 27 ft",
+      "",
+      "51-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "1:36.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "Defensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "1:27.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "I. Jackson misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "51-47",
+      "",
+      "Offensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "1:25.0",
+      "",
+      "",
+      "51-49",
+      "+2",
+      "J. Walker makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "1:02.0",
+      "Turnover by M. Turner (lost ball; steal by I. Jackson)",
+      "",
+      "51-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "51-51",
+      "+2",
+      "I. Jackson makes 2-pt layup from 3 ft (assist by J. Walker)"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "51-51",
+      "",
+      "Shooting foul by C. Anthony (drawn by I. Jackson)"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "51-52",
+      "+1",
+      "I. Jackson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "0:47.0",
+      "Personal foul by Q. Jackson (drawn by C. Anthony)",
+      "",
+      "51-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "51-52",
+      "",
+      "R. Dennis enters the game for Q. Jackson"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "0:47.0",
+      "Violation by Team (delay of game)",
+      "",
+      "51-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "51-52",
+      "",
+      "Violation by Team (delay of game)"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "0:44.0",
+      "G. Trent misses 2-pt jump shot from 7 ft",
+      "",
+      "51-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "0:43.0",
+      "Offensive rebound by G. Antetokounmpo",
+      "",
+      "51-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "0:43.0",
+      "G. Antetokounmpo makes 2-pt layup at rim",
+      "+2",
+      "53-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "0:41.0",
+      "Technical foul by G. Trent",
+      "",
+      "53-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "0:41.0",
+      "",
+      "",
+      "53-53",
+      "+1",
+      "R. Dennis makes technical free throw"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "0:41.0",
+      "",
+      "",
+      "53-53",
+      "",
+      "A. Nesmith enters the game for B. Sheppard"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "53-53",
+      "",
+      "A. Nesmith misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "53-53",
+      "",
+      "Offensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "0:23.0",
+      "",
+      "",
+      "53-53",
+      "",
+      "Turnover by R. Dennis (bad pass; steal by T. Prince)"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "0:06.0",
+      "C. Anthony makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo)",
+      "+3",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "56-53",
+      "",
+      "I. Jackson misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "56-53",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "Time",
+      "Milwaukee",
+      "",
+      "Score",
+      "",
+      "Indiana"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "11:39.0",
+      "M. Turner misses 3-pt jump shot from 29 ft",
+      "",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "56-53",
+      "",
+      "Defensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "11:31.0",
+      "",
+      "",
+      "56-53",
+      "",
+      "P. Siakam misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "11:28.0",
+      "Defensive rebound by M. Turner",
+      "",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "11:16.0",
+      "A. Green misses 3-pt jump shot from 27 ft",
+      "",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "11:13.0",
+      "",
+      "",
+      "56-53",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "11:04.0",
+      "",
+      "",
+      "56-53",
+      "",
+      "P. Siakam misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "11:01.0",
+      "Defensive rebound by M. Turner",
+      "",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "10:47.0",
+      "Personal foul by A. Nesmith (drawn by G. Antetokounmpo)",
+      "",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "10:41.0",
+      "G. Antetokounmpo misses 2-pt jump shot from 16 ft",
+      "",
+      "56-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "10:39.0",
+      "",
+      "",
+      "56-53",
+      "",
+      "Defensive rebound by Q. Jackson"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "56-55",
+      "+2",
+      "P. Siakam makes 2-pt layup from 2 ft (assist by J. Walker)"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "56-55",
+      "",
+      "Shooting foul by M. Turner (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "56-56",
+      "+1",
+      "P. Siakam makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "10:21.0",
+      "R. Rollins misses 2-pt jump shot from 15 ft",
+      "",
+      "56-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "56-56",
+      "",
+      "Defensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "56-56",
+      "",
+      "Q. Jackson misses 2-pt layup from 3 ft (block by M. Turner)"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "10:09.0",
+      "Defensive rebound by R. Rollins",
+      "",
+      "56-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "10:05.0",
+      "R. Rollins makes 2-pt dunk from 2 ft",
+      "+2",
+      "58-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "58-58",
+      "+2",
+      "P. Siakam makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "9:41.0",
+      "M. Turner misses 3-pt jump shot from 27 ft",
+      "",
+      "58-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "58-58",
+      "",
+      "Defensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "58-60",
+      "+2",
+      "Q. Jackson makes 2-pt layup from 3 ft (assist by P. Siakam)"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "9:07.0",
+      "G. Antetokounmpo makes 2-pt layup from 5 ft",
+      "+2",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "60-60",
+      "",
+      "J. Walker misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "8:46.0",
+      "Defensive rebound by A. Green",
+      "",
+      "60-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "8:40.0",
+      "G. Antetokounmpo makes 2-pt dunk from 3 ft (assist by R. Rollins)",
+      "+2",
+      "62-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "M. McClung enters the game for Q. Jackson"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "Shooting foul by R. Rollins (drawn by I. Jackson)"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "I. Jackson misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "62-61",
+      "+1",
+      "I. Jackson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "8:01.0",
+      "R. Rollins makes 3-pt jump shot from 26 ft",
+      "+3",
+      "65-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "65-61",
+      "",
+      "Personal foul by G. Trent (drawn by J. Walker)"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "65-61",
+      "",
+      "Offensive foul by I. Jackson (drawn by G. Trent)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "65-61",
+      "",
+      "Turnover by I. Jackson (offensive foul)"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "7:39.0",
+      "A. Green makes 3-pt jump shot from 24 ft (assist by R. Rollins)",
+      "+3",
+      "68-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "68-61",
+      "",
+      "P. Siakam misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "68-61",
+      "",
+      "Offensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "68-61",
+      "",
+      "A. Nesmith misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "7:04.0",
+      "Defensive rebound by M. Turner",
+      "",
+      "68-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "6:47.0",
+      "Personal foul by M. McClung (drawn by R. Rollins)",
+      "",
+      "68-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "6:38.0",
+      "G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by R. Rollins)",
+      "+2",
+      "70-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "70-61",
+      "",
+      "A. Nesmith misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "6:24.0",
+      "Defensive rebound by R. Rollins",
+      "",
+      "70-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "6:19.0",
+      "Turnover by R. Rollins (bad pass)",
+      "",
+      "70-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "70-61",
+      "",
+      "M. McClung misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "6:10.0",
+      "Defensive rebound by Team",
+      "",
+      "70-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "70-61",
+      "",
+      "Loose ball foul by I. Jackson (drawn by M. Turner)"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "70-61",
+      "",
+      "B. Sheppard enters the game for M. McClung"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "5:59.0",
+      "G. Trent misses 3-pt jump shot from 26 ft",
+      "",
+      "70-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "70-61",
+      "",
+      "Defensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "70-64",
+      "+3",
+      "A. Nesmith makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "5:31.0",
+      "G. Antetokounmpo makes 3-pt jump shot from 27 ft",
+      "+3",
+      "73-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "73-64",
+      "",
+      "Shooting foul by G. Trent (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "73-65",
+      "+1",
+      "P. Siakam makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "5:14.0",
+      "T. Prince enters the game for G. Trent",
+      "",
+      "73-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "73-66",
+      "+1",
+      "P. Siakam makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "4:55.0",
+      "Turnover by G. Antetokounmpo (out of bounds lost ball)",
+      "",
+      "73-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "73-66",
+      "",
+      "J. Walker misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "4:34.0",
+      "Defensive rebound by M. Turner",
+      "",
+      "73-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "4:22.0",
+      "R. Rollins makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo)",
+      "+3",
+      "76-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "76-66",
+      "",
+      "P. Siakam misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "76-66",
+      "",
+      "Offensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "76-68",
+      "+2",
+      "J. Walker makes 2-pt hook shot from 5 ft (assist by I. Jackson)"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "4:02.0",
+      "Milwaukee full timeout",
+      "",
+      "76-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "4:02.0",
+      "K. Kuzma enters the game for G. Antetokounmpo",
+      "",
+      "76-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "76-68",
+      "",
+      "T. Bradley enters the game for I. Jackson"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "76-68",
+      "",
+      "J. Huff enters the game for P. Siakam"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "76-68",
+      "",
+      "T. Peter enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "3:47.0",
+      "Turnover by R. Rollins (bad pass; steal by A. Nesmith)",
+      "",
+      "76-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "76-70",
+      "+2",
+      "B. Sheppard makes 2-pt layup from 1 ft (assist by J. Huff)"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "3:31.0",
+      "Personal foul by B. Sheppard (drawn by R. Rollins)",
+      "",
+      "76-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "3:21.0",
+      "T. Prince misses 2-pt jump shot from 17 ft",
+      "",
+      "76-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "76-70",
+      "",
+      "Defensive rebound by T. Peter"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "76-72",
+      "+2",
+      "T. Bradley makes 2-pt layup from 3 ft (assist by T. Peter)"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "2:59.0",
+      "K. Kuzma makes 2-pt layup from 4 ft (assist by R. Rollins)",
+      "+2",
+      "78-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "2:59.0",
+      "C. Anthony enters the game for R. Rollins",
+      "",
+      "78-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "2:59.0",
+      "B. Portis enters the game for M. Turner",
+      "",
+      "78-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "78-72",
+      "",
+      "Shooting foul by A. Green (drawn by A. Nesmith)"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "78-72",
+      "",
+      "A. Nesmith misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "78-72",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "78-73",
+      "+1",
+      "A. Nesmith makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "2:16.0",
+      "T. Prince misses 3-pt jump shot from 26 ft",
+      "",
+      "78-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "78-73",
+      "",
+      "Defensive rebound by J. Huff"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "78-75",
+      "+2",
+      "A. Nesmith makes 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "1:44.0",
+      "A. Green misses 3-pt jump shot from 25 ft",
+      "",
+      "78-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "78-75",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "78-75",
+      "",
+      "T. Peter misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "78-75",
+      "",
+      "Offensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "78-75",
+      "",
+      "Shooting foul by C. Anthony (drawn by T. Bradley)"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "78-76",
+      "+1",
+      "T. Bradley makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "1:30.0",
+      "",
+      "",
+      "78-77",
+      "+1",
+      "T. Bradley makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "1:18.0",
+      "T. Prince misses 2-pt hook shot from 4 ft",
+      "",
+      "78-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "78-77",
+      "",
+      "Defensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "78-77",
+      "",
+      "Personal foul by T. Prince (drawn by T. Bradley)"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "1:04.0",
+      "Personal foul by T. Bradley (drawn by T. Prince)",
+      "",
+      "78-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "78-77",
+      "",
+      "Offensive foul by T. Bradley (drawn by T. Prince)"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "78-77",
+      "",
+      "Turnover by T. Bradley (offensive foul)"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "0:51.0",
+      "B. Portis makes 3-pt jump shot from 26 ft (assist by C. Anthony)",
+      "+3",
+      "81-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "81-77",
+      "",
+      "B. Sheppard misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "0:30.0",
+      "Defensive rebound by C. Anthony",
+      "",
+      "81-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "0:13.0",
+      "T. Prince makes 3-pt jump shot from 23 ft (assist by C. Anthony)",
+      "+3",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "A. Nesmith misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "0:02.0",
+      "Defensive rebound by C. Anthony",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "0:00.0",
+      "Team misses heave shot",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "Time",
+      "Milwaukee",
+      "",
+      "Score",
+      "",
+      "Indiana"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "11:50.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "B. Sheppard misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "11:47.0",
+      "Defensive rebound by K. Kuzma",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "11:43.0",
+      "C. Anthony misses 2-pt layup from 3 ft",
+      "",
+      "84-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "11:42.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "Defensive rebound by J. Huff"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "84-77",
+      "",
+      "Turnover by J. Furphy (bad pass; steal by C. Anthony)"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "11:31.0",
+      "C. Anthony makes 3-pt jump shot from 27 ft",
+      "+3",
+      "87-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "87-80",
+      "+3",
+      "T. Peter makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "10:55.0",
+      "Personal take foul by J. Furphy (drawn by A. Green)",
+      "",
+      "87-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "87-80",
+      "",
+      "J. Walker enters the game for J. Furphy"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "10:45.0",
+      "K. Kuzma makes 3-pt jump shot from 23 ft (assist by C. Anthony)",
+      "+3",
+      "90-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "90-82",
+      "+2",
+      "P. Siakam makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "10:06.0",
+      "B. Portis makes 2-pt jump shot from 12 ft (assist by A. Green)",
+      "+2",
+      "92-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "92-84",
+      "+2",
+      "J. Walker makes 2-pt layup from 4 ft (assist by P. Siakam)"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "9:36.0",
+      "Shooting foul by T. Peter (drawn by K. Kuzma)",
+      "",
+      "92-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "9:36.0",
+      "K. Kuzma makes free throw 1 of 2",
+      "+1",
+      "93-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "9:36.0",
+      "",
+      "",
+      "93-84",
+      "",
+      "J. Robinson-Earl enters the game for J. Huff"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "9:36.0",
+      "K. Kuzma makes free throw 2 of 2",
+      "+1",
+      "94-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "94-84",
+      "",
+      "Turnover by P. Siakam (traveling)"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "9:09.0",
+      "Turnover by B. Portis (lost ball; steal by B. Sheppard)",
+      "",
+      "94-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "9:05.0",
+      "",
+      "",
+      "94-84",
+      "",
+      "T. Peter misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "9:03.0",
+      "",
+      "",
+      "94-84",
+      "",
+      "Offensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "94-87",
+      "+3",
+      "J. Walker makes 3-pt jump shot from 24 ft (assist by P. Siakam)"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "8:40.0",
+      "C. Anthony makes 3-pt jump shot from 28 ft",
+      "+3",
+      "97-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "97-89",
+      "+2",
+      "J. Walker makes 2-pt layup from 2 ft (assist by B. Sheppard)"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "8:08.0",
+      "A. Green makes 3-pt jump shot from 24 ft (assist by B. Portis)",
+      "+3",
+      "100-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "100-91",
+      "+2",
+      "P. Siakam makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "100-91",
+      "",
+      "Shooting foul by B. Portis (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "7:53.0",
+      "G. Antetokounmpo enters the game for K. Kuzma",
+      "",
+      "100-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "7:53.0",
+      "G. Trent enters the game for T. Prince",
+      "",
+      "100-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "100-91",
+      "",
+      "I. Jackson enters the game for J. Robinson-Earl"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "100-92",
+      "+1",
+      "P. Siakam makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "7:43.0",
+      "A. Green makes 3-pt jump shot from 23 ft (assist by C. Anthony)",
+      "+3",
+      "103-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "103-94",
+      "+2",
+      "P. Siakam makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "7:11.0",
+      "B. Portis makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo)",
+      "+3",
+      "106-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "106-96",
+      "+2",
+      "I. Jackson makes 2-pt hook shot from 5 ft (assist by B. Sheppard)"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "6:43.0",
+      "Shooting foul by P. Siakam (drawn by G. Antetokounmpo)",
+      "",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "106-96",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "106-96",
+      "",
+      "J. Robinson-Earl enters the game for B. Sheppard"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "6:43.0",
+      "G. Antetokounmpo misses free throw 1 of 2",
+      "",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "6:43.0",
+      "Offensive rebound by Team",
+      "",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "6:43.0",
+      "G. Antetokounmpo makes free throw 2 of 2",
+      "+1",
+      "107-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "107-98",
+      "+2",
+      "J. Robinson-Earl makes 2-pt layup from 4 ft (assist by P. Siakam)"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "6:12.0",
+      "C. Anthony misses 2-pt layup from 8 ft",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "6:10.0",
+      "Offensive rebound by G. Antetokounmpo",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "6:10.0",
+      "G. Antetokounmpo misses 2-pt layup at rim",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "6:09.0",
+      "Offensive rebound by G. Antetokounmpo",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "6:09.0",
+      "G. Antetokounmpo misses 2-pt layup from 3 ft",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "6:08.0",
+      "Offensive rebound by G. Antetokounmpo",
+      "",
+      "107-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "6:08.0",
+      "G. Antetokounmpo makes 2-pt layup from 2 ft",
+      "+2",
+      "109-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "109-101",
+      "+3",
+      "J. Walker makes 3-pt jump shot from 25 ft (assist by P. Siakam)"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "5:33.0",
+      "B. Portis misses 3-pt jump shot from 26 ft",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "5:30.0",
+      "Offensive rebound by C. Anthony",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "109-101",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "5:28.0",
+      "R. Rollins enters the game for C. Anthony",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "5:28.0",
+      "M. Turner enters the game for B. Portis",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "109-101",
+      "",
+      "A. Nesmith enters the game for T. Peter"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "5:17.0",
+      "G. Trent misses 2-pt jump shot from 10 ft",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "109-101",
+      "",
+      "Defensive rebound by I. Jackson"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "109-101",
+      "",
+      "P. Siakam misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "109-101",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "4:55.0",
+      "Loose ball foul by G. Antetokounmpo (drawn by I. Jackson)",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "109-101",
+      "",
+      "P. Siakam misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "4:42.0",
+      "Defensive rebound by G. Antetokounmpo",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "4:35.0",
+      "M. Turner misses 3-pt jump shot from 27 ft",
+      "",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "109-101",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "109-103",
+      "+2",
+      "I. Jackson makes 2-pt layup from 3 ft (assist by J. Walker)"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "109-103",
+      "",
+      "Shooting foul by G. Antetokounmpo (drawn by I. Jackson)"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "4:22.0",
+      "",
+      "",
+      "109-104",
+      "+1",
+      "I. Jackson makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "4:22.0",
+      "Milwaukee full timeout",
+      "",
+      "109-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "4:03.0",
+      "A. Green misses 3-pt jump shot from 28 ft",
+      "",
+      "109-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "4:01.0",
+      "",
+      "",
+      "109-104",
+      "",
+      "Defensive rebound by A. Nesmith"
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "3:49.0",
+      "",
+      "",
+      "109-106",
+      "+2",
+      "I. Jackson makes 2-pt dunk from 1 ft (assist by J. Walker)"
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "3:31.0",
+      "Shooting foul by J. Walker (drawn by G. Antetokounmpo)",
+      "",
+      "109-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "3:31.0",
+      "G. Antetokounmpo misses free throw 1 of 2",
+      "",
+      "109-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "3:31.0",
+      "Offensive rebound by Team",
+      "",
+      "109-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "3:31.0",
+      "C. Anthony enters the game for A. Green",
+      "",
+      "109-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "3:31.0",
+      "G. Antetokounmpo misses free throw 2 of 2",
+      "",
+      "109-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "3:30.0",
+      "",
+      "",
+      "109-106",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "109-106",
+      "",
+      "Shooting foul by G. Antetokounmpo (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "109-106",
+      "",
+      "P. Siakam misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "109-106",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "109-107",
+      "+1",
+      "P. Siakam makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "3:22.0",
+      "Milwaukee full timeout",
+      "",
+      "109-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "3:15.0",
+      "Offensive foul by C. Anthony (drawn by A. Nesmith)",
+      "",
+      "109-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "3:15.0",
+      "Turnover by C. Anthony (offensive foul)",
+      "",
+      "109-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "109-107",
+      "",
+      "J. Robinson-Earl misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "2:57.0",
+      "",
+      "",
+      "109-107",
+      "",
+      "Offensive rebound by J. Robinson-Earl"
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "109-109",
+      "+2",
+      "P. Siakam makes 2-pt layup from 3 ft (assist by J. Walker)"
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "2:25.0",
+      "C. Anthony misses 3-pt jump shot from 28 ft",
+      "",
+      "109-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 495,
+    "cells": [
+      "2:23.0",
+      "Offensive rebound by M. Turner",
+      "",
+      "109-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 496,
+    "cells": [
+      "2:22.0",
+      "M. Turner makes 2-pt layup from 3 ft",
+      "+2",
+      "111-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 497,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "111-109",
+      "",
+      "P. Siakam misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 498,
+    "cells": [
+      "2:07.0",
+      "Defensive rebound by G. Antetokounmpo",
+      "",
+      "111-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 499,
+    "cells": [
+      "1:58.0",
+      "G. Trent makes 3-pt jump shot from 24 ft (assist by M. Turner)",
+      "+3",
+      "114-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 500,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "114-109",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 501,
+    "cells": [
+      "1:56.0",
+      "A. Green enters the game for C. Anthony",
+      "",
+      "114-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 502,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "114-109",
+      "",
+      "B. Sheppard enters the game for J. Robinson-Earl"
+    ]
+  },
+  {
+    "row": 503,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "114-112",
+      "+3",
+      "A. Nesmith makes 3-pt jump shot from 23 ft (assist by P. Siakam)"
+    ]
+  },
+  {
+    "row": 504,
+    "cells": [
+      "1:31.0",
+      "G. Antetokounmpo misses 2-pt layup from 6 ft (block by P. Siakam)",
+      "",
+      "114-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 505,
+    "cells": [
+      "1:30.0",
+      "Offensive rebound by Team",
+      "",
+      "114-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 506,
+    "cells": [
+      "1:28.0",
+      "Turnover by R. Rollins (bad pass)",
+      "",
+      "114-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 507,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "114-112",
+      "",
+      "B. Sheppard misses 3-pt jump shot from 24 ft (block by M. Turner)"
+    ]
+  },
+  {
+    "row": 508,
+    "cells": [
+      "1:10.0",
+      "Defensive rebound by R. Rollins",
+      "",
+      "114-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 509,
+    "cells": [
+      "0:59.0",
+      "R. Rollins misses 3-pt jump shot from 25 ft",
+      "",
+      "114-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 510,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "114-112",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 511,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "114-112",
+      "",
+      "Shooting foul by M. Turner (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 512,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "114-112",
+      "",
+      "P. Siakam misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 513,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "114-112",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 514,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "114-113",
+      "+1",
+      "P. Siakam makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 515,
+    "cells": [
+      "0:31.0",
+      "G. Antetokounmpo misses 3-pt jump shot from 27 ft",
+      "",
+      "114-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 516,
+    "cells": [
+      "0:28.0",
+      "Offensive rebound by Team",
+      "",
+      "114-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 517,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "114-113",
+      "",
+      "Loose ball foul by P. Siakam (drawn by A. Green)"
+    ]
+  },
+  {
+    "row": 518,
+    "cells": [
+      "0:28.0",
+      "A. Green misses free throw 1 of 2",
+      "",
+      "114-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 519,
+    "cells": [
+      "0:28.0",
+      "Offensive rebound by Team",
+      "",
+      "114-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 520,
+    "cells": [
+      "0:28.0",
+      "A. Green makes free throw 2 of 2",
+      "+1",
+      "115-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 521,
+    "cells": [
+      "0:14.0",
+      "",
+      "",
+      "115-115",
+      "+2",
+      "A. Nesmith makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 522,
+    "cells": [
+      "0:14.0",
+      "Milwaukee full timeout",
+      "",
+      "115-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 523,
+    "cells": [
+      "0:00.0",
+      "G. Antetokounmpo makes 2-pt jump shot from 16 ft",
+      "+2",
+      "117-115",
+      "",
+      ""
+    ]
+  }
+]

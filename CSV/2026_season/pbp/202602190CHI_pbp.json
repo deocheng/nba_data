@@ -1,0 +1,5458 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Toronto",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:42.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Turnover by I. Okoro (lost ball; steal by S. Barnes)"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:36.0",
+      "B. Ingram makes 2-pt layup from 1 ft",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:11.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "A. Simons misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:08.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:05.0",
+      "R. Barrett misses 2-pt layup from 6 ft",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:05.0",
+      "Offensive rebound by Team",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:54.0",
+      "B. Ingram misses 2-pt layup from 2 ft",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:50.0",
+      "Offensive rebound by B. Ingram",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:50.0",
+      "B. Ingram misses 2-pt layup at rim",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:50.0",
+      "Offensive rebound by B. Ingram",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:49.0",
+      "B. Ingram makes 2-pt layup at rim",
+      "+2",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "Turnover by M. Buzelis (bad pass)"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:18.0",
+      "Turnover by B. Ingram (lost ball; steal by J. Smith)",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "J. Giddey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:56.0",
+      "Defensive rebound by C. Murray-Boyles",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:49.0",
+      "S. Barnes misses 2-pt jump shot from 11 ft",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "Turnover by M. Buzelis (lost ball; steal by S. Barnes)"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:34.0",
+      "S. Barnes makes 2-pt dunk from 1 ft (assist by I. Quickley)",
+      "+2",
+      "6-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "6-2",
+      "+2",
+      "A. Simons makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:52.0",
+      "R. Barrett misses 3-pt jump shot from 26 ft",
+      "",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:52.0",
+      "Offensive rebound by C. Murray-Boyles",
+      "",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:46.0",
+      "I. Quickley misses 3-pt jump shot from 26 ft",
+      "",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "Defensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "J. Giddey misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:33.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:26.0",
+      "R. Barrett misses 3-pt jump shot from 23 ft",
+      "",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "A. Simons misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:02.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:57.0",
+      "B. Ingram misses 2-pt layup from 1 ft (block by J. Giddey)",
+      "",
+      "6-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:57.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:57.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "N. Richards enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "6-2",
+      "",
+      "Turnover by J. Giddey (lost ball; steal by B. Ingram)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:41.0",
+      "R. Barrett makes 2-pt dunk at rim (assist by B. Ingram)",
+      "+2",
+      "8-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "8-2",
+      "",
+      "Turnover by N. Richards (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:18.0",
+      "C. Murray-Boyles makes 2-pt layup at rim (assist by R. Barrett)",
+      "+2",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "10-2",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:18.0",
+      "S. Mamukelashvili enters the game for S. Barnes",
+      "",
+      "10-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "10-2",
+      "",
+      "T. Jones enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:04.0",
+      "",
+      "",
+      "10-2",
+      "",
+      "Personal foul by S. Mamukelashvili (drawn by T. Jones)"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:53.0",
+      "",
+      "",
+      "10-5",
+      "+3",
+      "I. Okoro makes 3-pt jump shot from 24 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:29.0",
+      "R. Barrett misses 2-pt jump shot from 5 ft",
+      "",
+      "10-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "10-5",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "10-5",
+      "",
+      "Personal foul by S. Mamukelashvili (drawn by N. Richards)"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "10-5",
+      "",
+      "Flagrant foul type 1 by R. Barrett (drawn by N. Richards)"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "10-5",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "10-5",
+      "",
+      "Technical foul by N. Richards"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:21.0",
+      "B. Ingram makes technical free throw",
+      "+1",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "11-6",
+      "+1",
+      "A. Simons makes flagrant free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "11-7",
+      "+1",
+      "A. Simons makes flagrant free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "11-9",
+      "+2",
+      "I. Okoro makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:55.0",
+      "B. Ingram makes 2-pt jump shot at rim",
+      "+2",
+      "13-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "13-9",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "13-9",
+      "",
+      "Offensive rebound by N. Richards"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "13-9",
+      "",
+      "Shooting foul by R. Barrett (drawn by N. Richards)"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "13-10",
+      "+1",
+      "N. Richards makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:40.0",
+      "J. Shead enters the game for R. Barrett",
+      "",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:40.0",
+      "J. Walter enters the game for I. Quickley",
+      "",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "13-11",
+      "+1",
+      "N. Richards makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "5:19.0",
+      "B. Ingram makes 2-pt jump shot from 9 ft",
+      "+2",
+      "15-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "15-11",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:05.0",
+      "Defensive rebound by Team",
+      "",
+      "15-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:05.0",
+      "J. Poeltl enters the game for C. Murray-Boyles",
+      "",
+      "15-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:54.0",
+      "Personal foul by I. Okoro (drawn by B. Ingram)",
+      "",
+      "15-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:54.0",
+      "",
+      "",
+      "15-11",
+      "",
+      "C. Sexton enters the game for A. Simons"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:40.0",
+      "B. Ingram misses 2-pt jump shot from 15 ft",
+      "",
+      "15-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "15-11",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "15-13",
+      "+2",
+      "N. Richards makes 2-pt dunk at rim (assist by C. Sexton)"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:12.0",
+      "S. Mamukelashvili makes 2-pt jump shot from 11 ft (assist by J. Poeltl)",
+      "+2",
+      "17-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "17-13",
+      "",
+      "Shooting foul by J. Poeltl (drawn by C. Sexton)"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "17-13",
+      "",
+      "C. Sexton misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "17-13",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "17-14",
+      "+1",
+      "C. Sexton makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:52.0",
+      "Turnover by J. Poeltl (back court)",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "P. Williams enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "G. Yabusele enters the game for I. Okoro"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "Offensive foul by C. Sexton (drawn by J. Walter)"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "Turnover by C. Sexton (offensive foul)"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:29.0",
+      "S. Barnes enters the game for B. Ingram",
+      "",
+      "17-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "17-14",
+      "",
+      "J. Smith enters the game for N. Richards"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:14.0",
+      "J. Poeltl makes 2-pt jump shot from 8 ft (assist by S. Barnes)",
+      "+2",
+      "19-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "19-16",
+      "+2",
+      "G. Yabusele makes 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "2:45.0",
+      "S. Barnes misses 2-pt jump shot from 16 ft",
+      "",
+      "19-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "19-16",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "19-16",
+      "",
+      "C. Sexton misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:31.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "19-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "2:25.0",
+      "S. Barnes misses 2-pt dunk from 1 ft",
+      "",
+      "19-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "19-16",
+      "",
+      "Defensive rebound by T. Jones"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "19-18",
+      "+2",
+      "T. Jones makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "2:21.0",
+      "Toronto full timeout",
+      "",
+      "19-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:21.0",
+      "I. Quickley enters the game for S. Mamukelashvili",
+      "",
+      "19-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "19-18",
+      "",
+      "R. Dillingham enters the game for T. Jones"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:07.0",
+      "I. Quickley misses 3-pt jump shot from 26 ft",
+      "",
+      "19-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "19-18",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "19-18",
+      "",
+      "Turnover by (8 sec)"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "1:51.0",
+      "I. Quickley misses 2-pt jump shot from 12 ft",
+      "",
+      "19-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "1:49.0",
+      "",
+      "",
+      "19-18",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "1:40.0",
+      "",
+      "",
+      "19-18",
+      "",
+      "Turnover by C. Sexton (bad pass; steal by J. Shead)"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "1:35.0",
+      "Turnover by S. Barnes (bad pass)",
+      "",
+      "19-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "19-18",
+      "",
+      "Turnover by C. Sexton (bad pass; steal by J. Walter)"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "1:31.0",
+      "Shooting foul by J. Smith (drawn by J. Walter)",
+      "",
+      "19-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:31.0",
+      "J. Walter makes free throw 1 of 2",
+      "+1",
+      "20-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:31.0",
+      "J. Walter makes free throw 2 of 2",
+      "+1",
+      "21-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "21-18",
+      "",
+      "Turnover by R. Dillingham (bad pass; steal by J. Walter)"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:19.0",
+      "Personal foul by G. Yabusele (drawn by J. Walter)",
+      "",
+      "21-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:19.0",
+      "J. Walter makes free throw 1 of 2",
+      "+1",
+      "22-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "22-18",
+      "",
+      "M. Buzelis enters the game for G. Yabusele"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "1:19.0",
+      "J. Walter makes free throw 2 of 2",
+      "+1",
+      "23-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "23-21",
+      "+3",
+      "C. Sexton makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:47.0",
+      "Turnover by J. Shead (bad pass; steal by C. Sexton)",
+      "",
+      "23-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "23-23",
+      "+2",
+      "J. Smith makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:29.0",
+      "I. Quickley makes 2-pt jump shot from 8 ft (assist by S. Barnes)",
+      "+2",
+      "25-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "25-23",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "25-23",
+      "",
+      "I. Okoro enters the game for R. Dillingham"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:00.0",
+      "I. Quickley misses 2-pt jump shot from 15 ft",
+      "",
+      "25-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "25-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "Time",
+      "Toronto",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "11:36.0",
+      "I. Quickley misses 3-pt jump shot from 25 ft",
+      "",
+      "25-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "11:32.0",
+      "",
+      "",
+      "25-23",
+      "",
+      "Defensive rebound by R. Dillingham"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "25-25",
+      "+2",
+      "M. Buzelis makes 2-pt jump shot from 5 ft (assist by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "11:08.0",
+      "G. Dick misses 3-pt jump shot from 24 ft",
+      "",
+      "25-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "25-25",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "25-27",
+      "+2",
+      "P. Williams makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:50.0",
+      "S. Barnes misses 3-pt jump shot from 26 ft",
+      "",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:47.0",
+      "Offensive rebound by G. Dick",
+      "",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:43.0",
+      "C. Murray-Boyles makes 2-pt layup from 2 ft (assist by I. Quickley)",
+      "+2",
+      "27-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "27-27",
+      "",
+      "Violation by Team (def goaltending)"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:28.0",
+      "",
+      "",
+      "27-30",
+      "+3",
+      "C. Sexton makes 3-pt jump shot from 25 ft (assist by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:16.0",
+      "S. Barnes makes 2-pt jump shot from 15 ft",
+      "+2",
+      "29-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "29-30",
+      "",
+      "J. Smith misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "9:56.0",
+      "Defensive rebound by I. Quickley",
+      "",
+      "29-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:51.0",
+      "G. Dick misses 2-pt layup from 1 ft",
+      "",
+      "29-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "29-30",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "29-30",
+      "",
+      "Turnover by M. Buzelis (lost ball; steal by G. Dick)"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:42.0",
+      "Turnover by S. Barnes (bad pass)",
+      "",
+      "29-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "29-30",
+      "",
+      "J. Giddey enters the game for R. Dillingham"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "29-30",
+      "",
+      "A. Simons enters the game for C. Sexton"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "29-30",
+      "",
+      "P. Williams misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:26.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "29-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:19.0",
+      "S. Barnes makes 2-pt layup at rim",
+      "+2",
+      "31-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "31-30",
+      "",
+      "Turnover by J. Smith (bad pass; steal by R. Barrett)"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:59.0",
+      "Shooting foul by M. Buzelis (drawn by S. Barnes)",
+      "",
+      "31-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:59.0",
+      "S. Barnes makes free throw 1 of 2",
+      "+1",
+      "32-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "32-30",
+      "",
+      "G. Yabusele enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:59.0",
+      "S. Barnes makes free throw 2 of 2",
+      "+1",
+      "33-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:34.0",
+      "",
+      "",
+      "33-30",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:30.0",
+      "Defensive rebound by G. Dick",
+      "",
+      "33-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:23.0",
+      "S. Barnes makes 2-pt jump shot from 15 ft",
+      "+2",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:07.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "P. Williams misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:07.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:00.0",
+      "Turnover by S. Barnes (bad pass; steal by J. Giddey)",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "G. Yabusele misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "Offensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:49.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "A. Simons misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "Offensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "M. Buzelis misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:45.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:45.0",
+      "Toronto full timeout",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:45.0",
+      "B. Ingram enters the game for S. Barnes",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:45.0",
+      "J. Poeltl enters the game for C. Murray-Boyles",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "I. Okoro enters the game for P. Williams"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:33.0",
+      "B. Ingram makes 3-pt jump shot from 24 ft (assist by R. Barrett)",
+      "+3",
+      "38-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "38-30",
+      "",
+      "J. Giddey misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:13.0",
+      "Defensive rebound by Team",
+      "",
+      "38-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:04.0",
+      "Shooting foul by J. Giddey (drawn by R. Barrett)",
+      "",
+      "38-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:04.0",
+      "R. Barrett makes free throw 1 of 2",
+      "+1",
+      "39-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:04.0",
+      "R. Barrett misses free throw 2 of 2",
+      "",
+      "39-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:58.0",
+      "Offensive rebound by G. Dick",
+      "",
+      "39-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:58.0",
+      "G. Dick misses 2-pt dunk at rim",
+      "",
+      "39-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:57.0",
+      "",
+      "",
+      "39-30",
+      "",
+      "Defensive rebound by G. Yabusele"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "39-32",
+      "+2",
+      "M. Buzelis makes 2-pt dunk from 1 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:47.0",
+      "I. Quickley makes 2-pt jump shot from 7 ft",
+      "+2",
+      "41-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "41-32",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:47.0",
+      "S. Mamukelashvili enters the game for R. Barrett",
+      "",
+      "41-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:47.0",
+      "J. Shead enters the game for G. Dick",
+      "",
+      "41-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:47.0",
+      "J. Walter enters the game for I. Quickley",
+      "",
+      "41-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "41-32",
+      "",
+      "J. Giddey misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "6:25.0",
+      "Defensive rebound by S. Mamukelashvili",
+      "",
+      "41-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "6:20.0",
+      "S. Mamukelashvili makes 3-pt jump shot from 26 ft (assist by B. Ingram)",
+      "+3",
+      "44-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "44-32",
+      "",
+      "I. Okoro misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "44-32",
+      "",
+      "Offensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "44-32",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:52.0",
+      "Defensive rebound by J. Shead",
+      "",
+      "44-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:45.0",
+      "J. Walter misses 3-pt jump shot from 25 ft",
+      "",
+      "44-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:42.0",
+      "",
+      "",
+      "44-32",
+      "",
+      "Defensive rebound by G. Yabusele"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "44-32",
+      "",
+      "I. Okoro misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "5:30.0",
+      "Defensive rebound by J. Walter",
+      "",
+      "44-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "5:22.0",
+      "Turnover by B. Ingram (bad pass; steal by J. Giddey)",
+      "",
+      "44-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "44-35",
+      "+3",
+      "A. Simons makes 3-pt jump shot from 26 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "5:00.0",
+      "J. Walter makes 2-pt dunk from 1 ft (assist by B. Ingram)",
+      "+2",
+      "46-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "46-35",
+      "",
+      "T. Jones enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "46-38",
+      "+3",
+      "I. Okoro makes 3-pt jump shot from 23 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "46-38",
+      "",
+      "Violation by Team (delay of game)"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "4:19.0",
+      "B. Ingram misses 2-pt jump shot from 17 ft",
+      "",
+      "46-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "46-38",
+      "",
+      "Defensive rebound by G. Yabusele"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "46-38",
+      "",
+      "Personal foul by J. Shead (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "46-38",
+      "",
+      "M. Buzelis enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "46-38",
+      "",
+      "J. Smith enters the game for G. Yabusele"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "4:06.0",
+      "",
+      "",
+      "46-38",
+      "",
+      "T. Jones misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "4:02.0",
+      "Defensive rebound by S. Mamukelashvili",
+      "",
+      "46-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "3:52.0",
+      "S. Mamukelashvili misses 2-pt layup from 1 ft",
+      "",
+      "46-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "46-38",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "46-38",
+      "",
+      "I. Okoro misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:43.0",
+      "Defensive rebound by J. Shead",
+      "",
+      "46-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "3:41.0",
+      "B. Ingram makes 3-pt jump shot from 26 ft (assist by J. Shead)",
+      "+3",
+      "49-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "3:20.0",
+      "",
+      "",
+      "49-41",
+      "+3",
+      "A. Simons makes 3-pt jump shot from 31 ft (assist by I. Okoro)"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "3:04.0",
+      "J. Shead makes 2-pt jump shot from 7 ft",
+      "+2",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "51-41",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "2:52.0",
+      "Defensive rebound by S. Mamukelashvili",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "2:52.0",
+      "Toronto full timeout",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "2:52.0",
+      "S. Barnes enters the game for S. Mamukelashvili",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "2:52.0",
+      "C. Murray-Boyles enters the game for J. Poeltl",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "2:52.0",
+      "I. Quickley enters the game for J. Shead",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "2:40.0",
+      "B. Ingram misses 2-pt jump shot from 16 ft",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "2:36.0",
+      "Offensive rebound by B. Ingram",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "2:24.0",
+      "B. Ingram misses 3-pt jump shot from 23 ft",
+      "",
+      "51-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "51-41",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "51-41",
+      "",
+      "Shooting foul by J. Walter (drawn by J. Smith)"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "51-42",
+      "+1",
+      "J. Smith makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "2:05.0",
+      "R. Barrett enters the game for J. Walter",
+      "",
+      "51-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "51-42",
+      "",
+      "P. Williams enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "51-43",
+      "+1",
+      "J. Smith makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "1:51.0",
+      "Shooting foul by A. Simons (drawn by B. Ingram)",
+      "",
+      "51-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "1:51.0",
+      "B. Ingram makes free throw 1 of 2",
+      "+1",
+      "52-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "1:51.0",
+      "B. Ingram makes free throw 2 of 2",
+      "+1",
+      "53-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "53-45",
+      "+2",
+      "P. Williams makes 2-pt layup from 1 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "1:19.0",
+      "S. Barnes misses 2-pt jump shot from 13 ft",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "53-45",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "53-45",
+      "",
+      "A. Simons misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "53-45",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "53-45",
+      "",
+      "A. Simons misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "0:52.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "0:31.0",
+      "B. Ingram misses 2-pt jump shot from 17 ft",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "53-45",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "0:30.0",
+      "Loose ball foul by C. Murray-Boyles (drawn by A. Simons)",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "0:30.0",
+      "J. Walter enters the game for R. Barrett",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "53-45",
+      "",
+      "J. Smith misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "0:06.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "0:01.0",
+      "B. Ingram misses 2-pt jump shot from 17 ft",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "0:01.0",
+      "Offensive rebound by Team",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "Time",
+      "Toronto",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "11:50.0",
+      "Turnover by I. Quickley (bad pass; steal by J. Smith)",
+      "",
+      "53-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "11:31.0",
+      "",
+      "",
+      "53-48",
+      "+3",
+      "J. Smith makes 3-pt jump shot from 25 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "11:25.0",
+      "Shooting foul by J. Giddey (drawn by R. Barrett)",
+      "",
+      "53-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "11:25.0",
+      "R. Barrett makes free throw 1 of 2",
+      "+1",
+      "54-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "11:25.0",
+      "R. Barrett makes free throw 2 of 2",
+      "+1",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "55-48",
+      "",
+      "Turnover by J. Giddey (bad pass)"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "10:52.0",
+      "B. Ingram misses 2-pt jump shot from 11 ft",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "55-48",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "55-48",
+      "",
+      "J. Smith misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "10:42.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "10:37.0",
+      "R. Barrett makes 3-pt jump shot from 23 ft (assist by S. Barnes)",
+      "+3",
+      "58-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "58-51",
+      "+3",
+      "I. Okoro makes 3-pt jump shot from 24 ft (assist by J. Smith)"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "10:05.0",
+      "B. Ingram misses 2-pt layup from 3 ft",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "10:04.0",
+      "Offensive rebound by C. Murray-Boyles",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "10:01.0",
+      "Shooting foul by A. Simons (drawn by I. Quickley)",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "58-51",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "58-51",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "10:01.0",
+      "J. Poeltl enters the game for C. Murray-Boyles",
+      "",
+      "58-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "10:01.0",
+      "I. Quickley makes free throw 1 of 2",
+      "+1",
+      "59-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "10:01.0",
+      "I. Quickley makes free throw 2 of 2",
+      "+1",
+      "60-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "60-51",
+      "",
+      "Turnover by M. Buzelis (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "9:35.0",
+      "S. Barnes makes 2-pt layup from 2 ft (assist by R. Barrett)",
+      "+2",
+      "62-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "62-53",
+      "+2",
+      "A. Simons makes 2-pt jump shot from 5 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "9:08.0",
+      "Turnover by J. Poeltl (bad pass)",
+      "",
+      "62-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "62-53",
+      "",
+      "Shooting foul by R. Barrett (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "62-54",
+      "+1",
+      "J. Giddey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "8:58.0",
+      "",
+      "",
+      "62-55",
+      "+1",
+      "J. Giddey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "8:47.0",
+      "Shooting foul by M. Buzelis (drawn by B. Ingram)",
+      "",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "8:47.0",
+      "B. Ingram makes free throw 1 of 2",
+      "+1",
+      "63-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "8:47.0",
+      "B. Ingram makes free throw 2 of 2",
+      "+1",
+      "64-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "64-55",
+      "",
+      "Shooting foul by S. Barnes (drawn by J. Giddey)"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "64-55",
+      "",
+      "J. Giddey misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "64-55",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "64-56",
+      "+1",
+      "J. Giddey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "8:15.0",
+      "B. Ingram misses 3-pt jump shot from 26 ft",
+      "",
+      "64-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "8:14.0",
+      "",
+      "",
+      "64-56",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "64-56",
+      "",
+      "Turnover by J. Giddey (bad pass; steal by I. Quickley)"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "8:05.0",
+      "I. Quickley makes 2-pt jump shot from 9 ft (assist by S. Barnes)",
+      "+2",
+      "66-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "66-56",
+      "",
+      "Personal foul by J. Poeltl (drawn by J. Smith)"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "66-56",
+      "",
+      "N. Richards enters the game for J. Smith"
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "66-59",
+      "+3",
+      "A. Simons makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "7:24.0",
+      "I. Quickley makes 2-pt jump shot from 9 ft (assist by S. Barnes)",
+      "+2",
+      "68-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "7:24.0",
+      "Shooting foul by N. Richards (drawn by I. Quickley)",
+      "",
+      "68-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "7:24.0",
+      "S. Mamukelashvili enters the game for S. Barnes",
+      "",
+      "68-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "7:24.0",
+      "I. Quickley misses free throw 1 of 1",
+      "",
+      "68-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "68-59",
+      "",
+      "Defensive rebound by N. Richards"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "68-59",
+      "",
+      "A. Simons misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "7:08.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "68-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "6:56.0",
+      "R. Barrett misses 2-pt jump shot from 8 ft",
+      "",
+      "68-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "6:54.0",
+      "Offensive rebound by R. Barrett",
+      "",
+      "68-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "6:53.0",
+      "R. Barrett makes 2-pt layup from 1 ft",
+      "+2",
+      "70-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "70-59",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "70-59",
+      "",
+      "Offensive rebound by N. Richards"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "70-59",
+      "",
+      "A. Simons misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "70-59",
+      "",
+      "Offensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "70-59",
+      "",
+      "Personal foul by R. Barrett (drawn by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "6:33.0",
+      "J. Walter enters the game for R. Barrett",
+      "",
+      "70-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "70-59",
+      "",
+      "T. Jones enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "6:24.0",
+      "",
+      "",
+      "70-61",
+      "+2",
+      "A. Simons makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "6:08.0",
+      "J. Walter misses 3-pt jump shot from 24 ft",
+      "",
+      "70-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "6:05.0",
+      "Offensive rebound by J. Walter",
+      "",
+      "70-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "6:03.0",
+      "J. Walter makes 2-pt layup from 1 ft",
+      "+2",
+      "72-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "72-61",
+      "",
+      "I. Okoro misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "5:54.0",
+      "Defensive rebound by I. Quickley",
+      "",
+      "72-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "5:50.0",
+      "I. Quickley misses 3-pt jump shot from 26 ft",
+      "",
+      "72-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "72-61",
+      "",
+      "Defensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "72-64",
+      "+3",
+      "T. Jones makes 3-pt jump shot from 24 ft (assist by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "5:19.0",
+      "B. Ingram makes 2-pt layup from 1 ft",
+      "+2",
+      "74-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "74-64",
+      "",
+      "A. Simons misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "5:09.0",
+      "Defensive rebound by Team",
+      "",
+      "74-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "74-64",
+      "",
+      "Loose ball foul by N. Richards (drawn by B. Ingram)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "5:09.0",
+      "B. Ingram misses free throw 1 of 2",
+      "",
+      "74-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "5:09.0",
+      "Offensive rebound by Team",
+      "",
+      "74-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "5:09.0",
+      "C. Murray-Boyles enters the game for J. Poeltl",
+      "",
+      "74-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "5:09.0",
+      "J. Shead enters the game for I. Quickley",
+      "",
+      "74-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "74-64",
+      "",
+      "C. Sexton enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "74-64",
+      "",
+      "P. Williams enters the game for A. Simons"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "5:09.0",
+      "B. Ingram makes free throw 2 of 2",
+      "+1",
+      "75-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "75-64",
+      "",
+      "P. Williams misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "4:54.0",
+      "Defensive rebound by J. Walter",
+      "",
+      "75-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "4:44.0",
+      "J. Walter makes 3-pt jump shot from 25 ft (assist by J. Shead)",
+      "+3",
+      "78-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "78-66",
+      "+2",
+      "C. Sexton makes 2-pt layup from 2 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "4:12.0",
+      "B. Ingram makes 2-pt layup from 1 ft (assist by C. Murray-Boyles)",
+      "+2",
+      "80-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "4:02.0",
+      "",
+      "",
+      "80-68",
+      "+2",
+      "N. Richards makes 2-pt layup from 1 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "3:53.0",
+      "S. Mamukelashvili misses 3-pt jump shot from 24 ft",
+      "",
+      "80-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "80-68",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "80-70",
+      "+2",
+      "I. Okoro makes 2-pt layup from 2 ft (assist by T. Jones)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "80-70",
+      "",
+      "Shooting foul by B. Ingram (drawn by I. Okoro)"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "3:47.0",
+      "S. Barnes enters the game for S. Mamukelashvili",
+      "",
+      "80-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "80-71",
+      "+1",
+      "I. Okoro makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "3:32.0",
+      "Turnover by J. Walter (bad pass)",
+      "",
+      "80-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "3:32.0",
+      "",
+      "",
+      "80-71",
+      "",
+      "G. Yabusele enters the game for I. Okoro"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "80-73",
+      "+2",
+      "T. Jones makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "3:21.0",
+      "Toronto full timeout",
+      "",
+      "80-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "3:00.0",
+      "B. Ingram makes 3-pt jump shot from 24 ft (assist by J. Shead)",
+      "+3",
+      "83-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "2:38.0",
+      "",
+      "",
+      "83-75",
+      "+2",
+      "C. Sexton makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "2:38.0",
+      "Violation by Team (def goaltending)",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "2:27.0",
+      "S. Barnes misses 2-pt jump shot from 16 ft",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "2:25.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "Defensive rebound by N. Richards"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "P. Williams misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "2:03.0",
+      "Defensive rebound by C. Murray-Boyles",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:56.0",
+      "S. Barnes misses 2-pt jump shot from 2 ft",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "Defensive rebound by G. Yabusele"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "T. Jones misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "Offensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "G. Yabusele misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "1:41.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "1:31.0",
+      "J. Shead misses 3-pt jump shot from 24 ft",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "1:28.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "1:09.0",
+      "",
+      "",
+      "83-75",
+      "",
+      "C. Sexton misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "1:06.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:59.0",
+      "C. Murray-Boyles makes 2-pt layup from 1 ft (assist by B. Ingram)",
+      "+2",
+      "85-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "85-75",
+      "",
+      "P. Williams misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:47.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "85-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:36.0",
+      "B. Ingram makes 2-pt jump shot from 12 ft (assist by J. Shead)",
+      "+2",
+      "87-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "87-75",
+      "",
+      "Personal foul by J. Shead (drawn by T. Jones)"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "87-76",
+      "+1",
+      "T. Jones makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "87-76",
+      "",
+      "I. Okoro enters the game for G. Yabusele"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "87-76",
+      "",
+      "T. Jones misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "0:24.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "87-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "0:03.0",
+      "B. Ingram misses 2-pt layup from 3 ft (block by N. Richards)",
+      "",
+      "87-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "87-76",
+      "",
+      "Defensive rebound by N. Richards"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "87-78",
+      "+2",
+      "T. Jones makes 2-pt layup from 1 ft (assist by C. Sexton)"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "87-78",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "Time",
+      "Toronto",
+      "",
+      "Score",
+      "",
+      "Chicago"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "87-78",
+      "",
+      "Turnover by R. Dillingham (bad pass; steal by I. Quickley)"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "11:41.0",
+      "Turnover by S. Barnes (out of bounds lost ball)",
+      "",
+      "87-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "87-78",
+      "",
+      "Shooting foul by J. Poeltl (drawn by G. Yabusele)"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "87-79",
+      "+1",
+      "G. Yabusele makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "87-80",
+      "+1",
+      "G. Yabusele makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "11:09.0",
+      "R. Barrett misses 2-pt layup from 2 ft",
+      "",
+      "87-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "87-80",
+      "",
+      "Defensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "87-80",
+      "",
+      "Shooting foul by G. Dick (drawn by G. Yabusele)"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "87-80",
+      "",
+      "G. Yabusele misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "87-80",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "87-81",
+      "+1",
+      "G. Yabusele makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "10:54.0",
+      "I. Quickley misses 2-pt jump shot from 11 ft",
+      "",
+      "87-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "87-81",
+      "",
+      "Defensive rebound by C. Sexton"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "87-81",
+      "",
+      "C. Sexton misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "10:48.0",
+      "Defensive rebound by G. Dick",
+      "",
+      "87-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "10:45.0",
+      "Offensive foul by G. Dick (drawn by I. Okoro)",
+      "",
+      "87-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "10:45.0",
+      "Turnover by G. Dick (offensive foul)",
+      "",
+      "87-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "10:45.0",
+      "S. Mamukelashvili enters the game for J. Poeltl",
+      "",
+      "87-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "87-81",
+      "",
+      "R. Dillingham misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "10:31.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "87-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "10:27.0",
+      "S. Mamukelashvili makes 2-pt layup from 1 ft (assist by I. Quickley)",
+      "+2",
+      "89-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "89-81",
+      "",
+      "G. Yabusele misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "10:12.0",
+      "Defensive rebound by G. Dick",
+      "",
+      "89-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "10:08.0",
+      "Shooting foul by R. Dillingham (drawn by S. Barnes)",
+      "",
+      "89-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "10:08.0",
+      "S. Barnes makes free throw 1 of 2",
+      "+1",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "10:08.0",
+      "S. Barnes makes free throw 2 of 2",
+      "+1",
+      "91-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "91-83",
+      "+2",
+      "R. Dillingham makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "9:50.0",
+      "R. Barrett misses 2-pt layup from 3 ft (block by C. Sexton)",
+      "",
+      "91-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "9:47.0",
+      "Offensive rebound by Team",
+      "",
+      "91-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "9:45.0",
+      "Shooting foul by R. Dillingham (drawn by I. Quickley)",
+      "",
+      "91-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "9:45.0",
+      "I. Quickley makes free throw 1 of 2",
+      "+1",
+      "92-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "9:45.0",
+      "",
+      "",
+      "92-83",
+      "",
+      "J. Giddey enters the game for C. Sexton"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "9:45.0",
+      "I. Quickley makes free throw 2 of 2",
+      "+1",
+      "93-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "93-83",
+      "",
+      "I. Okoro misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "93-83",
+      "",
+      "Offensive rebound by I. Okoro"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "93-83",
+      "",
+      "I. Okoro misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "93-83",
+      "",
+      "Offensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "93-85",
+      "+2",
+      "I. Okoro makes 2-pt layup from 1 ft (assist by P. Williams)"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "9:08.0",
+      "Offensive foul by S. Barnes (drawn by J. Giddey)",
+      "",
+      "93-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "9:08.0",
+      "Turnover by S. Barnes (offensive foul)",
+      "",
+      "93-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "8:53.0",
+      "",
+      "",
+      "93-88",
+      "+3",
+      "G. Yabusele makes 3-pt jump shot from 23 ft (assist by J. Giddey)"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "8:29.0",
+      "I. Quickley makes 2-pt jump shot from 12 ft",
+      "+2",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "8:06.0",
+      "",
+      "",
+      "95-88",
+      "",
+      "J. Giddey misses 2-pt jump shot from 4 ft (block by S. Mamukelashvili)"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "8:03.0",
+      "Defensive rebound by R. Barrett",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "8:03.0",
+      "Shooting foul by P. Williams (drawn by R. Barrett)",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "8:03.0",
+      "R. Barrett misses free throw 1 of 2",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "8:03.0",
+      "Offensive rebound by Team",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "8:03.0",
+      "J. Walter enters the game for G. Dick",
+      "",
+      "95-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "8:03.0",
+      "R. Barrett makes free throw 2 of 2",
+      "+1",
+      "96-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "96-90",
+      "+2",
+      "R. Dillingham makes 2-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "7:31.0",
+      "S. Barnes misses 2-pt jump shot from 8 ft",
+      "",
+      "96-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "96-90",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "96-92",
+      "+2",
+      "J. Giddey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "7:21.0",
+      "Toronto full timeout",
+      "",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "7:21.0",
+      "B. Ingram enters the game for S. Barnes",
+      "",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "7:21.0",
+      "C. Murray-Boyles enters the game for R. Barrett",
+      "",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "7:21.0",
+      "J. Shead enters the game for S. Mamukelashvili",
+      "",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "7:21.0",
+      "",
+      "",
+      "96-92",
+      "",
+      "A. Simons enters the game for I. Okoro"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "7:01.0",
+      "B. Ingram misses 2-pt jump shot from 13 ft",
+      "",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "96-92",
+      "",
+      "Defensive rebound by G. Yabusele"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "96-92",
+      "",
+      "Turnover by R. Dillingham (lost ball; steal by J. Shead)"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "6:42.0",
+      "J. Walter makes 3-pt jump shot from 23 ft (assist by B. Ingram)",
+      "+3",
+      "99-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "99-92",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "99-92",
+      "",
+      "M. Buzelis enters the game for R. Dillingham"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "99-94",
+      "+2",
+      "P. Williams makes 2-pt layup from 2 ft (assist by G. Yabusele)"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "6:00.0",
+      "B. Ingram misses 2-pt jump shot from 6 ft",
+      "",
+      "99-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "99-94",
+      "",
+      "Defensive rebound by J. Giddey"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "99-94",
+      "",
+      "J. Giddey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "99-94",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "99-94",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "5:35.0",
+      "S. Barnes enters the game for I. Quickley",
+      "",
+      "99-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "99-94",
+      "",
+      "T. Jones enters the game for J. Giddey"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "5:27.0",
+      "Shooting foul by P. Williams (drawn by C. Murray-Boyles)",
+      "",
+      "99-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "5:27.0",
+      "C. Murray-Boyles makes free throw 1 of 2",
+      "+1",
+      "100-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "5:27.0",
+      "",
+      "",
+      "100-94",
+      "",
+      "J. Smith enters the game for G. Yabusele"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "5:27.0",
+      "C. Murray-Boyles makes free throw 2 of 2",
+      "+1",
+      "101-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "101-94",
+      "",
+      "Turnover by A. Simons (bad pass; steal by J. Walter)"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "5:03.0",
+      "S. Barnes misses 2-pt layup from 4 ft",
+      "",
+      "101-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "101-94",
+      "",
+      "Defensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "101-94",
+      "",
+      "A. Simons misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "4:54.0",
+      "Defensive rebound by J. Walter",
+      "",
+      "101-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "4:36.0",
+      "J. Walter misses 2-pt layup from 2 ft (block by J. Smith)",
+      "",
+      "101-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "4:34.0",
+      "Offensive rebound by J. Shead",
+      "",
+      "101-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "4:32.0",
+      "J. Shead makes 2-pt jump shot from 6 ft",
+      "+2",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "Personal foul by J. Shead (drawn by A. Simons)"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "4:19.0",
+      "Toronto full timeout",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "4:19.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "T. Jones misses 2-pt layup from 2 ft (block by S. Barnes)"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "4:01.0",
+      "Defensive rebound by C. Murray-Boyles",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "3:58.0",
+      "J. Walter misses 3-pt jump shot from 23 ft",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "3:53.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "Defensive rebound by M. Buzelis"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "Turnover by A. Simons (lost ball; steal by B. Ingram)"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "3:14.0",
+      "J. Walter misses 2-pt layup from 1 ft",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "3:10.0",
+      "Offensive rebound by C. Murray-Boyles",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "3:10.0",
+      "C. Murray-Boyles misses 2-pt layup at rim",
+      "",
+      "103-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "Defensive rebound by P. Williams"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "103-94",
+      "",
+      "Shooting foul by B. Ingram (drawn by J. Smith)"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "103-95",
+      "+1",
+      "J. Smith makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "3:09.0",
+      "I. Quickley enters the game for J. Walter",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "103-96",
+      "+1",
+      "J. Smith makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "2:56.0",
+      "Turnover by S. Barnes (bad pass; steal by J. Smith)",
+      "",
+      "103-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "2:51.0",
+      "",
+      "",
+      "103-98",
+      "+2",
+      "T. Jones makes 2-pt layup from 2 ft (assist by A. Simons)"
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "2:29.0",
+      "J. Shead misses 2-pt layup from 2 ft (block by T. Jones)",
+      "",
+      "103-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "103-98",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "103-98",
+      "",
+      "M. Buzelis misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "103-98",
+      "",
+      "Offensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "103-101",
+      "+3",
+      "A. Simons makes 3-pt jump shot from 27 ft (assist by J. Smith)"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "1:46.0",
+      "J. Shead misses 3-pt jump shot from 23 ft",
+      "",
+      "103-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "1:42.0",
+      "",
+      "",
+      "103-101",
+      "",
+      "Defensive rebound by A. Simons"
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "103-101",
+      "",
+      "Turnover by J. Smith (step out of bounds)"
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "1:38.0",
+      "R. Barrett enters the game for J. Shead",
+      "",
+      "103-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "103-101",
+      "",
+      "J. Giddey enters the game for M. Buzelis"
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "1:18.0",
+      "C. Murray-Boyles makes 2-pt layup from 2 ft (assist by B. Ingram)",
+      "+2",
+      "105-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "1:18.0",
+      "Shooting foul by A. Simons (drawn by C. Murray-Boyles)",
+      "",
+      "105-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "1:18.0",
+      "C. Murray-Boyles makes free throw 1 of 1",
+      "+1",
+      "106-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "106-101",
+      "",
+      "A. Simons misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "0:53.0",
+      "",
+      "",
+      "106-101",
+      "",
+      "Offensive rebound by J. Smith"
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "0:53.0",
+      "",
+      "",
+      "106-101",
+      "",
+      "J. Smith misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "0:53.0",
+      "Defensive rebound by S. Barnes",
+      "",
+      "106-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "0:36.0",
+      "B. Ingram makes 2-pt jump shot from 18 ft",
+      "+2",
+      "108-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "108-101",
+      "",
+      "Chicago full timeout"
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "108-101",
+      "",
+      "M. Buzelis enters the game for P. Williams"
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "108-101",
+      "",
+      "A. Simons misses 3-pt jump shot from 24 ft (block by C. Murray-Boyles)"
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "0:26.0",
+      "Defensive rebound by B. Ingram",
+      "",
+      "108-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "0:24.0",
+      "Personal foul by J. Giddey (drawn by R. Barrett)",
+      "",
+      "108-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "0:24.0",
+      "R. Barrett makes free throw 1 of 2",
+      "+1",
+      "109-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "0:24.0",
+      "R. Barrett makes free throw 2 of 2",
+      "+1",
+      "110-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 495,
+    "cells": [
+      "0:18.0",
+      "",
+      "",
+      "110-101",
+      "",
+      "Turnover by J. Giddey (lost ball; steal by C. Murray-Boyles)"
+    ]
+  }
+]

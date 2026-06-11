@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>球员个人详情</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background: #000000; 
+            min-height: 100vh; 
+            color: #C4CED4;
+        }
+
+        :root {
+            --primary-color: #0b3d91;
+            --accent-color: #C4CED4;
+        }
+
+        .navbar {
+            background: rgba(0, 0, 0, 0.9);
+            padding: 0.75rem 1.5rem;
+            box-shadow: 0 2px 12px rgba(196, 206, 212, 0.12);
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            z-index: 100;
+            border-radius: 12px;
+            border: 1px solid rgba(196, 206, 212, 0.2);
+        }
+        .navbar h1 { color: #C4CED4; font-size: 1rem; display: flex; align-items: center; gap: 10px; }
+        .navbar nav { margin-top: 0.5rem; }
+        .navbar nav a {
+            color: rgba(196, 206, 212, 0.8);
+            text-decoration: none;
+            margin-right: 2rem;
+            padding: 0.3rem 0.8rem;
+            border-radius: 15px;
+            transition: all 0.3s;
+            display: inline-block;
+        }
+        .navbar nav a:hover { background: rgba(196, 206, 212, 0.2); color: #fff; }
+        .navbar nav a.back-btn { background: rgba(196, 206, 212, 0.2); }
+
+        .navbar .team-logo {
+            width: 35px;
+            height: 35px;
+            background-image: url('/nbalogo/NBA.svg');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .navbar .team-info {
+            font-size: 0.65rem;
+            color: rgba(196, 206, 212, 0.6);
+            margin-left: 45px;
+            display: flex;
+            gap: 10px;
+            transition: all 0.3s ease;
+        }
+
+        .navbar .team-info a {
+            font-size: 0.9rem;
+        }
+
+        .container { max-width: 1400px; margin: 0 auto; padding: 80px 30px 30px; }
+
+        .player-header {
+            background: linear-gradient(135deg, #0b3d91, #1e4daf);
+            color: #fff;
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            display: flex;
+            gap: 30px;
+            align-items: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .player-avatar {
+            width: 180px;
+            height: 230px;
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            flex-shrink: 0;
+            overflow: hidden;
+            background: transparent;
+        }
+
+        .player-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            border-radius: 15px;
+        }
+        .player-info { flex: 1; }
+        .player-name {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .player-meta {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .meta-item {
+            background: rgba(255,255,255,0.2);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+        .player-bio {
+            font-size: 1rem;
+            line-height: 1.6;
+            opacity: 0.95;
+        }
+
+        .draft-info {
+            background: #1a1a2e;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            border: 1px solid rgba(196, 206, 212, 0.1);
+        }
+        .draft-info h2 {
+            color: #C4CED4;
+            margin-bottom: 20px;
+            font-size: 1.3rem;
+        }
+        .draft-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #FFD700, #FFA500);
+            color: #333;
+            padding: 15px 25px;
+            border-radius: 10px;
+            font-weight: 700;
+            font-size: 1.1rem;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            background: #1a1a2e;
+            border-radius: 15px;
+            padding: 25px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            border: 1px solid rgba(196, 206, 212, 0.1);
+            transition: transform 0.3s;
+        }
+        .stat-card:hover { transform: translateY(-5px); }
+        .stat-value {
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: #4cc9f0;
+            margin-bottom: 8px;
+        }
+        .stat-label {
+            font-size: 0.85rem;
+            color: #C4CED4;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .career-timeline {
+            background: #1a1a2e;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            border: 1px solid rgba(196, 206, 212, 0.1);
+        }
+        .career-timeline h2 {
+            color: #C4CED4;
+            margin-bottom: 25px;
+            font-size: 1.3rem;
+        }
+        .timeline-item {
+            display: flex;
+            gap: 20px;
+            padding: 20px 0;
+            border-left: 3px solid #4cc9f0;
+            margin-left: 15px;
+            position: relative;
+        }
+        .timeline-item::before {
+            content: '';
+            width: 15px;
+            height: 15px;
+            background: #4cc9f0;
+            border-radius: 50%;
+            position: absolute;
+            left: -9px;
+            top: 25px;
+        }
+        .timeline-year {
+            min-width: 100px;
+            font-weight: 700;
+            color: #4cc9f0;
+        }
+        .timeline-content {
+            flex: 1;
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .timeline-team {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #C4CED4;
+        }
+        .timeline-stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            font-size: 0.9rem;
+            color: #aaa;
+        }
+
+        .awards-section {
+            background: #1a1a2e;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            border: 1px solid rgba(196, 206, 212, 0.1);
+        }
+        .awards-section h2 {
+            color: #C4CED4;
+            margin-bottom: 20px;
+            font-size: 1.3rem;
+        }
+        .awards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        .award-item {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #FFD700;
+        }
+        .award-name {
+            font-weight: 600;
+            color: #C4CED4;
+            margin-bottom: 5px;
+        }
+        .award-year {
+            color: #aaa;
+            font-size: 0.9rem;
+        }
+        .award-note {
+            color: #888;
+            font-size: 0.85rem;
+            font-style: italic;
+            margin-top: 5px;
+        }
+
+        .radar-section {
+            background: #1a1a2e;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            border: 1px solid rgba(196, 206, 212, 0.1);
+        }
+        .radar-section h2 {
+            color: #C4CED4;
+            margin-bottom: 20px;
+            font-size: 1.3rem;
+        }
+        .radar-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+        .radar-chart-box {
+            background: rgba(0,0,0,0.3);
+            border-radius: 12px;
+            padding: 20px;
+        }
+        .radar-chart-wrapper {
+            position: relative;
+            height: 350px;
+        }
+        .radar-stats {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+        }
+        .radar-stat-item {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        }
+        .radar-stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #C4CED4;
+        }
+        .radar-stat-label {
+            font-size: 0.85rem;
+            color: #aaa;
+            margin-top: 5px;
+        }
+
+        .section {
+            background: #1a1a2e;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            border: 1px solid rgba(196, 206, 212, 0.1);
+        }
+        .section h2 {
+            color: #C4CED4;
+            margin-bottom: 20px;
+            font-size: 1.3rem;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px;
+            text-align: center;
+            border-bottom: 1px solid rgba(196, 206, 212, 0.1);
+        }
+        th {
+            background: rgba(0,0,0,0.3);
+            color: #4cc9f0;
+            font-weight: 600;
+        }
+        tr:hover { background: rgba(76, 201, 240, 0.1); }
+
+        .special-game {
+            background: rgba(255, 193, 7, 0.15);
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+        }
+        .special-game .date {
+            font-weight: 600;
+            color: #C4CED4;
+        }
+        .special-game .notes {
+            color: #aaa;
+            font-style: italic;
+            margin-top: 5px;
+        }
+
+        .inactive-game {
+            background: rgba(0,0,0,0.3);
+            border-left: 4px solid #6c757d;
+            padding: 10px 15px;
+            margin-bottom: 8px;
+            border-radius: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .inactive-game .date {
+            font-weight: 500;
+            color: #C4CED4;
+        }
+        .inactive-game .info {
+            color: #aaa;
+            font-size: 0.9rem;
+        }
+        .inactive-badge {
+            background: #6c757d;
+            color: #fff;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+        }
+        .inactive-summary {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .inactive-count {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #4cc9f0;
+        }
+
+        .averages-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .averages-grid .avg-card {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .averages-grid .avg-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #4cc9f0;
+        }
+        .averages-grid .avg-label {
+            font-size: 0.85rem;
+            color: #aaa;
+            margin-top: 5px;
+        }
+
+        .season-selector {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .season-btn {
+            background: rgba(0,0,0,0.3);
+            border: 1px solid rgba(196, 206, 212, 0.2);
+            color: #C4CED4;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .season-btn:hover {
+            background: rgba(76, 201, 240, 0.2);
+            border-color: #4cc9f0;
+        }
+        .season-btn.active {
+            background: #4cc9f0;
+            color: #000;
+            font-weight: 600;
+        }
+
+        .team-stats {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+        .team-stats h4 {
+            color: #4cc9f0;
+            margin-bottom: 10px;
+        }
+
+        .career-summary {
+            background: linear-gradient(135deg, rgba(11, 61, 145, 0.3), rgba(30, 77, 175, 0.3));
+            border: 1px solid rgba(76, 201, 240, 0.3);
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+        }
+
+        .no-data {
+            text-align: center;
+            color: #888;
+            padding: 40px;
+            font-style: italic;
+        }
+
+        @media (max-width: 768px) {
+            .navbar {
+                position: relative;
+                top: 0;
+                left: 0;
+                right: 0;
+                border-radius: 0;
+            }
+            .container {
+                padding: 20px 15px;
+            }
+            .player-header {
+                flex-direction: column;
+                text-align: center;
+            }
+            .player-avatar {
+                width: 150px;
+                height: 190px;
+                font-size: 3rem;
+            }
+            .player-name {
+                font-size: 2rem;
+            }
+            .player-meta {
+                justify-content: center;
+            }
+            .timeline-stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .radar-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <h1>
+            <span class="team-logo"></span>
+            <span>NBA球员详情</span>
+        </h1>
+        <div class="team-info">
+            <a href="/" class="back-btn"><i class="fas fa-arrow-left"></i> 返回首页</a>
+            <a href="/player-career">球员生涯</a>
+            <a href="/player-compare">球员对比</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="player-header" id="playerHeader">
+            <div class="player-avatar" id="playerAvatar">-</div>
+            <div class="player-info">
+                <div class="player-name" id="playerName">加载中...</div>
+                <div class="player-meta" id="playerMeta"></div>
+                <div class="player-bio" id="playerBio"></div>
+            </div>
+        </div>
+
+        <div class="draft-info" id="draftInfo">
+            <h2><i class="fas fa-trophy"></i> 选秀信息</h2>
+            <div class="draft-badge" id="draftBadge"></div>
+        </div>
+
+        <div class="stats-grid" id="careerStats"></div>
+
+        <div class="career-timeline" id="careerTimeline">
+            <h2><i class="fas fa-calendar-alt"></i> 职业生涯履历</h2>
+            <div id="timelineContent"></div>
+        </div>
+
+        <div class="awards-section" id="awardsSection">
+            <h2><i class="fas fa-award"></i> 个人荣誉</h2>
+            <div class="awards-grid" id="awardsContent"></div>
+        </div>
+
+        <div class="radar-section">
+            <h2><i class="fas fa-bullseye"></i> 能力雷达图</h2>
+            <div class="radar-container">
+                <div class="radar-chart-box">
+                    <div class="radar-chart-wrapper">
+                        <canvas id="radarChart"></canvas>
+                    </div>
+                </div>
+                <div class="radar-stats" id="radarStats">
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2><i class="fas fa-chart-bar"></i> 赛季统计</h2>
+            <table id="seasonTable">
+                <thead>
+                    <tr>
+                        <th>赛季</th>
+                        <th>类型</th>
+                        <th>场次</th>
+                        <th>总时间</th>
+                        <th>总得分</th>
+                        <th>总篮板</th>
+                        <th>总助攻</th>
+                        <th>场均得分</th>
+                        <th>场均时间</th>
+                        <th>投篮%</th>
+                        <th>三分%</th>
+                        <th>罚球%</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+
+        <div class="section" id="specialSection">
+            <h2><i class="fas fa-exclamation-triangle"></i> 特殊场次</h2>
+            <div id="specialContent">
+                <p style="color:#999; text-align:center;">暂无特殊场次记录</p>
+            </div>
+        </div>
+
+        <div class="section" id="inactiveSection">
+            <h2><i class="fas fa-times-circle"></i> 生涯缺席场次</h2>
+            <div id="inactiveContent">
+                <p style="color:#999; text-align:center;">暂无缺席记录</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const playerId = urlParams.get('id') || 'wembanyama';
+
+        async function loadPlayerProfile() {
+            try {
+                console.log(`正在加载球员数据: ${playerId}`);
+                const response = await fetch(`/api/player/${playerId}/profile`);
+                
+                console.log(`响应状态码: ${response.status}`);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP错误: ${response.status}`);
+                }
+                
+                const result = await response.json();
+                console.log('API响应:', result);
+                
+                if (result.success) {
+                    renderPlayerProfile(result.data);
+                } else {
+                    alert('球员数据加载失败');
+                }
+            } catch (error) {
+                console.error('加载球员数据时出错:', error);
+                alert(`加载球员数据时出错: ${error.message}`);
+            }
+        }
+
+        function renderPlayerProfile(data) {
+            const { profile, career_summary, career_averages, seasons, special_games, inactive_games, team_stats, radar_data } = data;
+            
+            // 加载球员头像
+            const avatarElement = document.getElementById('playerAvatar');
+            const avatarPath = `/images/${profile.player_name}.jpg`;
+            
+            // 尝试加载头像图片，如果失败则显示名字首字母
+            const img = new Image();
+            img.onload = function() {
+                avatarElement.innerHTML = `<img src="${avatarPath}" alt="${profile.player_name}" style="width:100%;height:100%;object-fit:contain;border-radius:15px;">`;
+            };
+            img.onerror = function() {
+                const initials = profile.player_name.split(' ').map(n => n[0]).join('').toUpperCase();
+                avatarElement.textContent = initials;
+            };
+            img.src = avatarPath;
+            document.getElementById('playerName').textContent = profile.player_name;
+            
+            const metaHTML = `
+                <div class="meta-item">📍 位置: ${profile.physical_info.position || '未知'}</div>
+                <div class="meta-item">📏 身高: ${profile.physical_info.height || '未知'}</div>
+                <div class="meta-item">⚖️ 体重: ${profile.physical_info.weight || '未知'}</div>
+                ${profile.physical_info.college ? `<div class="meta-item">🎓 大学: ${profile.physical_info.college}</div>` : ''}
+            `;
+            document.getElementById('playerMeta').innerHTML = metaHTML;
+            document.getElementById('playerBio').textContent = profile.bio;
+
+            const draft = profile.draft_info;
+            document.getElementById('draftBadge').textContent = 
+                `${draft.year}年NBA选秀 - 第${draft.round}轮第${draft.pick}顺位 - ${draft.team}`;
+
+            const statsHTML = `
+                <div class="stat-card">
+                    <div class="stat-value">${career_summary.played_games}</div>
+                    <div class="stat-label">出场次数</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_summary.total_games}</div>
+                    <div class="stat-label">总场次</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_summary.inactive_games}</div>
+                    <div class="stat-label">缺席场次</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_averages.avg_minutes}</div>
+                    <div class="stat-label">场均时间(分钟)</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_averages.avg_points}</div>
+                    <div class="stat-label">场均得分</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_averages.avg_rebounds}</div>
+                    <div class="stat-label">场均篮板</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_averages.avg_assists}</div>
+                    <div class="stat-label">场均助攻</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_averages.avg_steals}</div>
+                    <div class="stat-label">场均抢断</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_averages.avg_blocks}</div>
+                    <div class="stat-label">场均盖帽</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_summary.total_points}</div>
+                    <div class="stat-label">生涯总得分</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_summary.total_rebounds}</div>
+                    <div class="stat-label">生涯总篮板</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_summary.total_assists}</div>
+                    <div class="stat-label">生涯总助攻</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${career_averages.fg_pct}%</div>
+                    <div class="stat-label">投篮命中率</div>
+                </div>
+            `;
+            document.getElementById('careerStats').innerHTML = statsHTML;
+
+            const timelineHTML = profile.career_teams.map(team => `
+                <div class="timeline-item">
+                    <div class="timeline-year">${team.start_year}${team.end_year ? ' - ' + team.end_year : ' - 至今'}</div>
+                    <div class="timeline-content">
+                        <div class="timeline-team">🏀 ${team.team}</div>
+                        <div class="timeline-stats">
+                            <div>出场: ${team.stats.games}场</div>
+                            <div>场均: ${team.stats.avg_points}分</div>
+                            <div>场均篮板: ${team.stats.avg_rebounds}</div>
+                            <div>场均助攻: ${team.stats.avg_assists}</div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+            document.getElementById('timelineContent').innerHTML = timelineHTML;
+
+            const awardsHTML = profile.awards.map(award => `
+                <div class="award-item">
+                    <div class="award-name">🏅 ${award.award}</div>
+                    <div class="award-year">${award.year}年</div>
+                    ${award.note ? `<div class="award-note">${award.note}</div>` : ''}
+                </div>
+            `).join('');
+            document.getElementById('awardsContent').innerHTML = awardsHTML;
+
+            const tbody = document.querySelector('#seasonTable tbody');
+            tbody.innerHTML = seasons.map(season => `
+                <tr>
+                    <td>${season.season_id}</td>
+                    <td>${season.game_type === 'playoff' ? '季后赛' : '常规赛'}</td>
+                    <td>${season.games}</td>
+                    <td>${season.minutes}min</td>
+                    <td>${season.points}</td>
+                    <td>${season.rebounds}</td>
+                    <td>${season.assists}</td>
+                    <td>${season.avg_points}</td>
+                    <td>${season.avg_minutes}min</td>
+                    <td>${season.fg_pct}%</td>
+                    <td>${season.three_pct}%</td>
+                    <td>${season.ft_pct}%</td>
+                </tr>
+            `).join('');
+
+            if (special_games && special_games.length > 0) {
+                const specialHTML = special_games.map(game => `
+                    <div class="special-game">
+                        <div class="date">📅 ${game.game_date} (${game.game_type === 'playoff' ? '季后赛' : '常规赛'})</div>
+                        <div>上场时间: ${game.minutes_played}分钟 | 得分: ${game.points} | 结果: ${game.result}</div>
+                        <div class="notes">⚠️ ${game.notes}</div>
+                    </div>
+                `).join('');
+                document.getElementById('specialContent').innerHTML = specialHTML;
+            }
+
+            if (inactive_games && inactive_games.length > 0) {
+                const summaryHTML = `
+                    <div class="inactive-summary">
+                        <span class="inactive-count">生涯共缺席 ${inactive_games.length} 场</span>
+                        <span class="inactive-badge">未出场</span>
+                    </div>
+                `;
+                const gamesHTML = inactive_games.map(game => `
+                    <div class="inactive-game">
+                        <div>
+                            <span class="date">📅 ${game.game_date}</span>
+                            <span class="info"> | ${game.season_id} | ${game.game_type === 'playoff' ? '季后赛' : '常规赛'}</span>
+                        </div>
+                        <div class="info">vs ${game.opponent || '未知'} | ${game.result || ''}</div>
+                    </div>
+                `).join('');
+                document.getElementById('inactiveContent').innerHTML = summaryHTML + gamesHTML;
+            }
+
+            if (radar_data) {
+                renderRadarChart(radar_data);
+                renderRadarStats(radar_data);
+            }
+        }
+
+        let radarChart = null;
+
+        function renderRadarChart(data) {
+            if (radarChart) radarChart.destroy();
+            
+            const normalizedValues = data.datasets[0].data;
+            const sortedValues = [...normalizedValues].sort((a, b) => b - a);
+            const threshold = sortedValues[2];
+            
+            const pointColors = normalizedValues.map((value, index) => {
+                const isTop = value >= threshold && value > 0;
+                return isTop ? '#FFD700' : '#4cc9f0';
+            });
+            
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            radarChart = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: data.labels,
+                    datasets: [{
+                        label: data.datasets[0].label,
+                        data: normalizedValues,
+                        backgroundColor: 'rgba(11, 61, 145, 0.2)',
+                        borderColor: '#0b3d91',
+                        borderWidth: 2,
+                        pointBackgroundColor: pointColors,
+                        pointBorderColor: '#fff',
+                        pointRadius: 6,
+                        pointHoverRadius: 8,
+                        pointHoverBackgroundColor: '#fff',
+                        pointHoverBorderColor: pointColors
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            beginAtZero: true,
+                            max: 1,
+                            ticks: {
+                                stepSize: 0.2,
+                                color: '#aaa',
+                                backdropColor: 'transparent'
+                            },
+                            grid: {
+                                color: 'rgba(196, 206, 212, 0.2)'
+                            },
+                            angleLines: {
+                                color: 'rgba(196, 206, 212, 0.2)'
+                            },
+                            pointLabels: {
+                                color: function(context) {
+                                    const index = context.index;
+                                    const value = normalizedValues[index];
+                                    const isTop = value >= threshold && value > 0;
+                                    return isTop ? '#FFD700' : '#C4CED4';
+                                },
+                                font: {
+                                    size: 12,
+                                    weight: '600'
+                                }
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                            titleColor: '#fff',
+                            bodyColor: '#fff',
+                            callbacks: {
+                                label: function(context) {
+                                    const index = context.dataIndex;
+                                    const actualValue = data.datasets[0].actualValues[index];
+                                    const label = data.labels[index];
+                                    return `${label}: ${actualValue}`;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderRadarStats(data) {
+            const labels = ['场均得分', '场均篮板', '场均助攻', '防守能力', '投篮命中率', '三分命中率', '罚球命中率'];
+            const values = data.datasets[0].actualValues;
+            const normalizedValues = data.datasets[0].data;
+            
+            const sortedValues = [...normalizedValues].sort((a, b) => b - a);
+            const threshold = sortedValues[2];
+            
+            let html = '';
+            labels.forEach((label, index) => {
+                let value = values[index];
+                if (label.includes('命中率')) {
+                    value = `${value}%`;
+                }
+                const isTop = normalizedValues[index] >= threshold && normalizedValues[index] > 0;
+                const valueColor = isTop ? '#FFD700' : '#C4CED4';
+                html += `
+                    <div class="radar-stat-item">
+                        <div class="radar-stat-value" style="color: ${valueColor};">${value}</div>
+                        <div class="radar-stat-label">${label}</div>
+                    </div>
+                `;
+            });
+            
+            document.getElementById('radarStats').innerHTML = html;
+        }
+
+        loadPlayerProfile();
+    </script>
+</body>
+</html>

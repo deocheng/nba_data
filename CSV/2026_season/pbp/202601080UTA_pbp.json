@@ -1,0 +1,4699 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Dallas",
+      "",
+      "Score",
+      "",
+      "Utah"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:35.0",
+      "M. Christie makes 2-pt jump shot from 4 ft (assist by A. Davis)",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:19.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "K. Love misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:16.0",
+      "Defensive rebound by A. Davis",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:07.0",
+      "A. Davis makes 2-pt jump shot from 9 ft (assist by M. Christie)",
+      "+2",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "10:49.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "K. George misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:47.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "Offensive rebound by C. Williams"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "4-3",
+      "+3",
+      "L. Markkanen makes 3-pt jump shot from 27 ft (assist by C. Williams)"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:27.0",
+      "C. Flagg misses 2-pt jump shot from 11 ft",
+      "",
+      "4-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:24.0",
+      "Offensive rebound by C. Flagg",
+      "",
+      "4-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:24.0",
+      "C. Flagg makes 2-pt layup at rim",
+      "+2",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "6-3",
+      "",
+      "C. Williams misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:13.0",
+      "Defensive rebound by A. Davis",
+      "",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:04.0",
+      "M. Christie misses 3-pt jump shot from 26 ft",
+      "",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:01.0",
+      "",
+      "",
+      "6-3",
+      "",
+      "Defensive rebound by K. George"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "6-3",
+      "",
+      "K. Love misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:53.0",
+      "Defensive rebound by M. Christie",
+      "",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:32.0",
+      "A. Davis makes 2-pt layup from 5 ft",
+      "+2",
+      "8-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "8-3",
+      "",
+      "Utah full timeout"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "8-5",
+      "+2",
+      "K. Love makes 2-pt hook shot from 11 ft (assist by C. Williams)"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:47.0",
+      "C. Flagg makes 3-pt jump shot from 23 ft (assist by N. Marshall)",
+      "+3",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:38.0",
+      "",
+      "",
+      "11-7",
+      "+2",
+      "L. Markkanen makes 2-pt dunk from 5 ft (assist by K. George)"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:24.0",
+      "A. Davis misses 2-pt jump shot from 8 ft",
+      "",
+      "11-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "11-7",
+      "",
+      "Defensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "11-10",
+      "+3",
+      "B. Sensabaugh makes 3-pt jump shot from 23 ft (assist by K. George)"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "7:55.0",
+      "C. Flagg makes 2-pt jump shot from 14 ft",
+      "+2",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "7:40.0",
+      "",
+      "",
+      "13-12",
+      "+2",
+      "B. Sensabaugh makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "7:30.0",
+      "A. Davis misses 3-pt jump shot from 23 ft",
+      "",
+      "13-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "13-12",
+      "",
+      "Defensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "13-14",
+      "+2",
+      "C. Williams makes 2-pt dunk from 4 ft (assist by K. Love)"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "6:58.0",
+      "A. Davis misses 2-pt jump shot from 10 ft",
+      "",
+      "13-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "13-14",
+      "",
+      "Defensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "13-16",
+      "+2",
+      "C. Williams makes 2-pt dunk from 4 ft (assist by K. George)"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "6:51.0",
+      "Dallas full timeout",
+      "",
+      "13-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "6:51.0",
+      "K. Thompson enters the game for C. Flagg",
+      "",
+      "13-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:51.0",
+      "B. Williams enters the game for D. Gafford",
+      "",
+      "13-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "13-16",
+      "",
+      "I. Collier enters the game for K. Love"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "13-16",
+      "",
+      "K. Filipowski enters the game for B. Sensabaugh"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:38.0",
+      "A. Davis makes 2-pt jump shot from 11 ft",
+      "+2",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "K. George misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:14.0",
+      "Defensive rebound by B. Williams",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:13.0",
+      "Turnover by B. Williams (bad pass; steal by K. George)",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:06.0",
+      "",
+      "",
+      "15-18",
+      "+2",
+      "C. Williams makes 2-pt dunk from 3 ft (assist by I. Collier)"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "5:42.0",
+      "A. Davis misses 2-pt layup from 4 ft",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Defensive rebound by K. Filipowski"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "L. Markkanen misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:33.0",
+      "Defensive rebound by M. Christie",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:25.0",
+      "B. Williams misses 2-pt layup from 6 ft",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Defensive rebound by L. Markkanen"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "L. Markkanen misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "Offensive rebound by L. Markkanen"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "15-20",
+      "+2",
+      "L. Markkanen makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "4:56.0",
+      "Turnover by M. Christie (lost ball; steal by K. George)",
+      "",
+      "15-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "4:51.0",
+      "",
+      "",
+      "15-20",
+      "",
+      "K. George misses 2-pt dunk from 4 ft"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "15-20",
+      "",
+      "Offensive rebound by I. Collier"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "15-22",
+      "+2",
+      "I. Collier makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:40.0",
+      "N. Marshall makes 2-pt layup from 3 ft (assist by K. Thompson)",
+      "+2",
+      "17-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "17-24",
+      "+2",
+      "K. George makes 2-pt jump shot from 9 ft (assist by I. Collier)"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "17-24",
+      "",
+      "Shooting foul by K. Thompson (drawn by K. George)"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "17-24",
+      "",
+      "K. Anderson enters the game for L. Markkanen"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "17-25",
+      "+1",
+      "K. George makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:18.0",
+      "Turnover by K. Thompson (bad pass; steal by K. Filipowski)",
+      "",
+      "17-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "17-27",
+      "+2",
+      "K. Filipowski makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "3:58.0",
+      "B. Williams misses 3-pt jump shot from 26 ft",
+      "",
+      "17-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:55.0",
+      "",
+      "",
+      "17-27",
+      "",
+      "Defensive rebound by C. Williams"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:44.0",
+      "",
+      "",
+      "17-27",
+      "",
+      "Turnover by I. Collier (bad pass)"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:44.0",
+      "C. Flagg enters the game for M. Christie",
+      "",
+      "17-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:44.0",
+      "C. Martin enters the game for N. Marshall",
+      "",
+      "17-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:38.0",
+      "B. Williams misses 3-pt jump shot from 25 ft",
+      "",
+      "17-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "17-27",
+      "",
+      "Defensive rebound by K. Filipowski"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "17-27",
+      "",
+      "Turnover by I. Collier (bad pass)"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:22.0",
+      "K. Thompson makes 2-pt jump shot from 18 ft (assist by B. Williams)",
+      "+2",
+      "19-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "19-29",
+      "+2",
+      "K. George makes 2-pt jump shot from 10 ft (assist by I. Collier)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:56.0",
+      "K. Thompson makes 3-pt jump shot from 26 ft (assist by C. Flagg)",
+      "+3",
+      "22-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "22-31",
+      "+2",
+      "I. Collier makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:24.0",
+      "Turnover by K. Thompson (out of bounds lost ball)",
+      "",
+      "22-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:24.0",
+      "D. Gafford enters the game for A. Davis",
+      "",
+      "22-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "22-31",
+      "",
+      "T. Hendricks enters the game for K. George"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:24.0",
+      "",
+      "",
+      "22-31",
+      "",
+      "L. Markkanen enters the game for C. Williams"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "22-31",
+      "",
+      "Offensive foul by L. Markkanen (drawn by B. Williams)"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "22-31",
+      "",
+      "Turnover by L. Markkanen (offensive foul)"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:09.0",
+      "K. Thompson misses 3-pt jump shot from 26 ft",
+      "",
+      "22-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:06.0",
+      "Offensive rebound by C. Martin",
+      "",
+      "22-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "2:03.0",
+      "K. Thompson misses 2-pt jump shot from 21 ft",
+      "",
+      "22-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:59.0",
+      "Offensive rebound by B. Williams",
+      "",
+      "22-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:50.0",
+      "C. Flagg makes 3-pt jump shot from 25 ft (assist by K. Thompson)",
+      "+3",
+      "25-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "25-31",
+      "",
+      "I. Collier misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:30.0",
+      "Defensive rebound by C. Martin",
+      "",
+      "25-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:18.0",
+      "Turnover by C. Flagg (lost ball; steal by K. Anderson)",
+      "",
+      "25-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:10.0",
+      "",
+      "",
+      "25-34",
+      "+3",
+      "T. Hendricks makes 3-pt jump shot from 23 ft (assist by I. Collier)"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "0:56.0",
+      "C. Martin makes 2-pt layup from 3 ft (assist by K. Thompson)",
+      "+2",
+      "27-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:36.0",
+      "",
+      "",
+      "27-34",
+      "",
+      "L. Markkanen misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:33.0",
+      "Defensive rebound by K. Thompson",
+      "",
+      "27-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:26.0",
+      "B. Williams makes 2-pt layup from 7 ft (assist by K. Thompson)",
+      "+2",
+      "29-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "29-34",
+      "",
+      "T. Hendricks misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:00.0",
+      "Defensive rebound by C. Martin",
+      "",
+      "29-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "Time",
+      "Dallas",
+      "",
+      "Score",
+      "",
+      "Utah"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "29-34",
+      "",
+      "L. Markkanen misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "11:31.0",
+      "",
+      "",
+      "29-34",
+      "",
+      "Offensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "11:31.0",
+      "",
+      "",
+      "29-34",
+      "",
+      "K. Love misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "11:31.0",
+      "Defensive rebound by D. Gafford",
+      "",
+      "29-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "11:13.0",
+      "K. Thompson makes 3-pt jump shot from 25 ft (assist by R. Nembhard)",
+      "+3",
+      "32-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "32-34",
+      "",
+      "Shooting foul by C. Martin (drawn by L. Markkanen)"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "32-35",
+      "+1",
+      "L. Markkanen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "10:53.0",
+      "",
+      "",
+      "32-36",
+      "+1",
+      "L. Markkanen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "10:39.0",
+      "K. Thompson misses 3-pt jump shot from 25 ft",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Defensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "10:24.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "K. Anderson misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "10:20.0",
+      "Defensive rebound by C. Flagg",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "10:16.0",
+      "R. Nembhard misses 3-pt jump shot from 25 ft",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Defensive rebound by K. Anderson"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "B. Sensabaugh misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "10:04.0",
+      "Defensive rebound by Team",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Loose ball foul by B. Sensabaugh (drawn by D. Gafford)"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "9:46.0",
+      "Offensive foul by D. Gafford (drawn by B. Sensabaugh)",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "9:46.0",
+      "Turnover by D. Gafford (offensive foul)",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "W. Clayton enters the game for I. Collier"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "9:35.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "L. Markkanen misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "9:32.0",
+      "Defensive rebound by C. Flagg",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "9:28.0",
+      "C. Flagg misses 3-pt jump shot from 26 ft",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Defensive rebound by L. Markkanen"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "K. Love misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "9:18.0",
+      "Defensive rebound by Team",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "T. Hendricks enters the game for L. Markkanen"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "9:04.0",
+      "C. Martin misses 2-pt jump shot from 21 ft",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "9:03.0",
+      "Offensive rebound by Team",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "9:03.0",
+      "M. Christie enters the game for C. Martin",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "9:03.0",
+      "N. Marshall enters the game for K. Thompson",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "9:01.0",
+      "M. Christie misses 3-pt jump shot from 23 ft",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "8:58.0",
+      "Offensive rebound by C. Flagg",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "8:49.0",
+      "R. Nembhard misses 3-pt jump shot from 25 ft",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Defensive rebound by T. Hendricks"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "B. Sensabaugh misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "8:37.0",
+      "Defensive rebound by D. Gafford",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "8:32.0",
+      "M. Christie misses 2-pt layup from 4 ft",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Defensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "W. Clayton misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Offensive rebound by B. Sensabaugh"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "T. Hendricks misses 3-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Offensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Shooting foul by D. Gafford (drawn by K. Love)"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "32-37",
+      "+1",
+      "K. Love makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:15.0",
+      "A. Davis enters the game for D. Gafford",
+      "",
+      "32-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "32-37",
+      "",
+      "K. George enters the game for B. Sensabaugh"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "32-38",
+      "+1",
+      "K. Love makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:07.0",
+      "Turnover by R. Nembhard (dbl dribble)",
+      "",
+      "32-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "7:57.0",
+      "",
+      "",
+      "32-38",
+      "",
+      "W. Clayton misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "32-38",
+      "",
+      "Offensive rebound by T. Hendricks"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "32-38",
+      "",
+      "T. Hendricks misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "7:46.0",
+      "Defensive rebound by A. Davis",
+      "",
+      "32-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "7:41.0",
+      "Shooting foul by K. Love (drawn by M. Christie)",
+      "",
+      "32-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "7:41.0",
+      "M. Christie makes free throw 1 of 2",
+      "+1",
+      "33-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "7:41.0",
+      "B. Williams enters the game for R. Nembhard",
+      "",
+      "33-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "33-38",
+      "",
+      "K. Filipowski enters the game for T. Hendricks"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "7:41.0",
+      "M. Christie makes free throw 2 of 2",
+      "+1",
+      "34-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "34-41",
+      "+3",
+      "W. Clayton makes 3-pt jump shot from 25 ft (assist by K. George)"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:15.0",
+      "C. Flagg misses 3-pt jump shot from 26 ft",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "34-41",
+      "",
+      "Defensive rebound by K. Anderson"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "34-41",
+      "",
+      "K. Anderson misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "6:59.0",
+      "Defensive rebound by B. Williams",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "6:59.0",
+      "Personal foul by K. Anderson (drawn by B. Williams)",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "34-41",
+      "",
+      "Utah full timeout"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "6:59.0",
+      "K. Thompson enters the game for C. Flagg",
+      "",
+      "34-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "34-41",
+      "",
+      "L. Markkanen enters the game for K. Anderson"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:59.0",
+      "M. Christie makes free throw 1 of 1",
+      "+1",
+      "35-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:48.0",
+      "Turnover by B. Williams (bad pass; steal by K. George)",
+      "",
+      "35-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "35-41",
+      "",
+      "W. Clayton misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "35-41",
+      "",
+      "Offensive rebound by L. Markkanen"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "35-43",
+      "+2",
+      "L. Markkanen makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:23.0",
+      "A. Davis misses 2-pt jump shot from 13 ft",
+      "",
+      "35-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:21.0",
+      "",
+      "",
+      "35-43",
+      "",
+      "Defensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:12.0",
+      "",
+      "",
+      "35-45",
+      "+2",
+      "L. Markkanen makes 2-pt dunk from 2 ft (assist by K. Filipowski)"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "5:58.0",
+      "Turnover by B. Williams (out of bounds lost ball)",
+      "",
+      "35-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "35-45",
+      "",
+      "Utah full timeout"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "35-45",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "5:58.0",
+      "R. Nembhard enters the game for B. Williams",
+      "",
+      "35-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "5:43.0",
+      "",
+      "",
+      "35-45",
+      "",
+      "K. Love misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "5:40.0",
+      "Defensive rebound by K. Thompson",
+      "",
+      "35-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:26.0",
+      "K. Thompson misses 3-pt jump shot from 25 ft",
+      "",
+      "35-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "35-45",
+      "",
+      "Defensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "35-45",
+      "",
+      "Shooting foul by K. Thompson (drawn by K. Filipowski)"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "35-45",
+      "",
+      "K. Filipowski misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "35-45",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "35-45",
+      "",
+      "C. Williams enters the game for K. Love"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "35-46",
+      "+1",
+      "K. Filipowski makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:05.0",
+      "A. Davis misses 2-pt layup from 5 ft",
+      "",
+      "35-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:03.0",
+      "",
+      "",
+      "35-46",
+      "",
+      "Defensive rebound by L. Markkanen"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "4:59.0",
+      "",
+      "",
+      "35-49",
+      "+3",
+      "W. Clayton makes 3-pt jump shot from 24 ft (assist by L. Markkanen)"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "4:43.0",
+      "R. Nembhard makes 3-pt jump shot from 25 ft (assist by K. Thompson)",
+      "+3",
+      "38-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "38-51",
+      "+2",
+      "K. Filipowski makes 2-pt jump shot from 8 ft (assist by L. Markkanen)"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:11.0",
+      "Def 3 sec tech foul by Team",
+      "",
+      "38-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:11.0",
+      "K. Thompson makes technical free throw",
+      "+1",
+      "39-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "4:11.0",
+      "C. Flagg enters the game for M. Christie",
+      "",
+      "39-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:55.0",
+      "C. Flagg misses 2-pt jump shot from 10 ft",
+      "",
+      "39-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:52.0",
+      "Offensive rebound by A. Davis",
+      "",
+      "39-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:50.0",
+      "Turnover by A. Davis (lost ball; steal by C. Williams)",
+      "",
+      "39-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "39-53",
+      "+2",
+      "L. Markkanen makes 2-pt dunk from 4 ft (assist by W. Clayton)"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:38.0",
+      "Dallas full timeout",
+      "",
+      "39-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:25.0",
+      "A. Davis misses 2-pt layup from 4 ft (block by L. Markkanen)",
+      "",
+      "39-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "3:23.0",
+      "",
+      "",
+      "39-53",
+      "",
+      "Defensive rebound by K. Filipowski"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "3:11.0",
+      "",
+      "",
+      "39-53",
+      "",
+      "Turnover by K. Filipowski (lost ball; steal by C. Flagg)"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "3:06.0",
+      "A. Davis makes 2-pt dunk from 2 ft (assist by N. Marshall)",
+      "+2",
+      "41-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:53.0",
+      "",
+      "",
+      "41-53",
+      "",
+      "L. Markkanen misses 3-pt jump shot from 24 ft (block by C. Flagg)"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:50.0",
+      "Defensive rebound by N. Marshall",
+      "",
+      "41-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:46.0",
+      "K. Thompson makes 3-pt jump shot from 23 ft (assist by A. Davis)",
+      "+3",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:26.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "Turnover by L. Markkanen (lost ball; steal by C. Flagg)"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:21.0",
+      "A. Davis makes 2-pt dunk from 4 ft (assist by N. Marshall)",
+      "+2",
+      "46-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "46-56",
+      "+3",
+      "W. Clayton makes 3-pt jump shot from 25 ft (assist by K. George)"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "2:02.0",
+      "R. Nembhard makes 2-pt layup from 6 ft",
+      "+2",
+      "48-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "48-58",
+      "+2",
+      "K. George makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:21.0",
+      "Shooting foul by C. Williams (drawn by C. Flagg)",
+      "",
+      "48-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:21.0",
+      "C. Flagg makes free throw 1 of 2",
+      "+1",
+      "49-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "1:21.0",
+      "M. Christie enters the game for K. Thompson",
+      "",
+      "49-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "49-58",
+      "",
+      "I. Collier enters the game for W. Clayton"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "49-58",
+      "",
+      "B. Sensabaugh enters the game for K. Filipowski"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "1:21.0",
+      "C. Flagg makes free throw 2 of 2",
+      "+1",
+      "50-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "50-58",
+      "",
+      "B. Sensabaugh misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "0:59.0",
+      "Defensive rebound by N. Marshall",
+      "",
+      "50-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "0:52.0",
+      "A. Davis misses 2-pt layup from 3 ft (block by L. Markkanen)",
+      "",
+      "50-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "0:50.0",
+      "Offensive rebound by C. Flagg",
+      "",
+      "50-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "0:50.0",
+      "C. Flagg makes 2-pt dunk from 4 ft",
+      "+2",
+      "52-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:38.0",
+      "",
+      "",
+      "52-58",
+      "",
+      "K. George misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:35.0",
+      "Defensive rebound by M. Christie",
+      "",
+      "52-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "0:14.0",
+      "R. Nembhard misses 2-pt jump shot from 16 ft",
+      "",
+      "52-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "0:12.0",
+      "Offensive rebound by A. Davis",
+      "",
+      "52-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "0:12.0",
+      "A. Davis makes 2-pt layup at rim",
+      "+2",
+      "54-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "0:12.0",
+      "Shooting foul by L. Markkanen (drawn by A. Davis)",
+      "",
+      "54-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "0:12.0",
+      "C. Martin enters the game for R. Nembhard",
+      "",
+      "54-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "0:12.0",
+      "A. Davis makes free throw 1 of 1",
+      "+1",
+      "55-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "55-58",
+      "",
+      "Personal take foul by N. Marshall (drawn by K. George)"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "55-58",
+      "",
+      "Turnover by I. Collier (back court)"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "0:04.0",
+      "K. Thompson enters the game for C. Martin",
+      "",
+      "55-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "0:01.0",
+      "Turnover by A. Davis (lost ball; steal by C. Williams)",
+      "",
+      "55-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "55-58",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "55-58",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "Time",
+      "Dallas",
+      "",
+      "Score",
+      "",
+      "Utah"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "11:44.0",
+      "",
+      "",
+      "55-60",
+      "+2",
+      "C. Williams makes 2-pt layup from 4 ft (assist by K. George)"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "11:22.0",
+      "N. Marshall makes 3-pt jump shot from 23 ft (assist by A. Davis)",
+      "+3",
+      "58-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "10:58.0",
+      "",
+      "",
+      "58-60",
+      "",
+      "L. Markkanen misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "10:56.0",
+      "Defensive rebound by C. Flagg",
+      "",
+      "58-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "10:49.0",
+      "M. Christie makes 3-pt jump shot from 23 ft (assist by C. Flagg)",
+      "+3",
+      "61-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "10:26.0",
+      "",
+      "",
+      "61-62",
+      "+2",
+      "K. George makes 2-pt layup from 4 ft (assist by L. Markkanen)"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "10:13.0",
+      "C. Flagg misses 2-pt jump shot from 19 ft",
+      "",
+      "61-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "61-62",
+      "",
+      "Defensive rebound by L. Markkanen"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "61-65",
+      "+3",
+      "K. Love makes 3-pt jump shot from 24 ft (assist by L. Markkanen)"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "9:46.0",
+      "A. Davis makes 2-pt layup from 2 ft (assist by M. Christie)",
+      "+2",
+      "63-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "63-65",
+      "",
+      "Utah full timeout"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "9:33.0",
+      "",
+      "",
+      "63-65",
+      "",
+      "Turnover by L. Markkanen (lost ball; steal by A. Davis)"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "9:29.0",
+      "Turnover by D. Gafford (bad pass)",
+      "",
+      "63-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "9:17.0",
+      "",
+      "",
+      "63-65",
+      "",
+      "B. Sensabaugh misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "9:14.0",
+      "Defensive rebound by M. Christie",
+      "",
+      "63-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "9:06.0",
+      "N. Marshall makes 2-pt jump shot from 11 ft (assist by C. Flagg)",
+      "+2",
+      "65-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "65-65",
+      "",
+      "Shooting foul by C. Flagg (drawn by L. Markkanen)"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "65-66",
+      "+1",
+      "L. Markkanen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "65-66",
+      "",
+      "L. Markkanen misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "8:55.0",
+      "Defensive rebound by D. Gafford",
+      "",
+      "65-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "8:36.0",
+      "C. Flagg makes 2-pt jump shot from 20 ft",
+      "+2",
+      "67-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "67-66",
+      "",
+      "Shooting foul by D. Gafford (drawn by K. George)"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "67-66",
+      "",
+      "K. George misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "67-66",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "67-67",
+      "+1",
+      "K. George makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "7:54.0",
+      "A. Davis makes 2-pt jump shot from 7 ft (assist by C. Flagg)",
+      "+2",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "K. Love misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "Offensive rebound by L. Markkanen"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "7:38.0",
+      "",
+      "",
+      "69-69",
+      "+2",
+      "L. Markkanen makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "7:23.0",
+      "A. Davis makes 2-pt jump shot from 14 ft (assist by C. Flagg)",
+      "+2",
+      "71-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "71-71",
+      "+2",
+      "L. Markkanen makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "6:45.0",
+      "A. Davis misses 3-pt jump shot from 24 ft",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "71-71",
+      "",
+      "Defensive rebound by K. Love"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "6:32.0",
+      "",
+      "",
+      "71-71",
+      "",
+      "K. Love misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "6:28.0",
+      "Defensive rebound by C. Flagg",
+      "",
+      "71-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "6:24.0",
+      "M. Christie makes 3-pt jump shot from 26 ft (assist by C. Flagg)",
+      "+3",
+      "74-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "74-73",
+      "+2",
+      "K. George makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "5:46.0",
+      "N. Marshall misses 3-pt jump shot from 25 ft",
+      "",
+      "74-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "74-73",
+      "",
+      "Defensive rebound by K. George"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "5:32.0",
+      "",
+      "",
+      "74-75",
+      "+2",
+      "K. George makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "5:18.0",
+      "C. Flagg makes 2-pt jump shot from 11 ft",
+      "+2",
+      "76-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "5:03.0",
+      "",
+      "",
+      "76-78",
+      "+3",
+      "L. Markkanen makes 3-pt jump shot from 24 ft (assist by C. Williams)"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "4:42.0",
+      "A. Davis misses 2-pt jump shot from 9 ft",
+      "",
+      "76-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "4:39.0",
+      "",
+      "",
+      "76-78",
+      "",
+      "Defensive rebound by C. Williams"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "76-80",
+      "+2",
+      "B. Sensabaugh makes 2-pt layup from 3 ft (assist by C. Williams)"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "4:36.0",
+      "Dallas full timeout",
+      "",
+      "76-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "4:36.0",
+      "R. Nembhard enters the game for C. Flagg",
+      "",
+      "76-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "4:36.0",
+      "K. Thompson enters the game for D. Gafford",
+      "",
+      "76-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "76-80",
+      "",
+      "K. Anderson enters the game for K. Love"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "76-80",
+      "",
+      "I. Collier enters the game for L. Markkanen"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "76-80",
+      "",
+      "K. Filipowski enters the game for C. Williams"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "4:21.0",
+      "R. Nembhard misses 2-pt jump shot from 9 ft",
+      "",
+      "76-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "4:19.0",
+      "Offensive rebound by Team",
+      "",
+      "76-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "76-80",
+      "",
+      "Loose ball foul by K. Filipowski (drawn by A. Davis)"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "4:07.0",
+      "R. Nembhard misses 3-pt jump shot from 27 ft",
+      "",
+      "76-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "4:04.0",
+      "",
+      "",
+      "76-80",
+      "",
+      "Defensive rebound by K. George"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "76-80",
+      "",
+      "B. Sensabaugh misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "3:54.0",
+      "Defensive rebound by A. Davis",
+      "",
+      "76-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "3:42.0",
+      "M. Christie makes 2-pt layup from 3 ft (assist by R. Nembhard)",
+      "+2",
+      "78-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "3:24.0",
+      "",
+      "",
+      "78-80",
+      "",
+      "B. Sensabaugh misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "3:22.0",
+      "Defensive rebound by A. Davis",
+      "",
+      "78-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "3:18.0",
+      "N. Marshall makes 2-pt layup from 3 ft (assist by A. Davis)",
+      "+2",
+      "80-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "2:56.0",
+      "",
+      "",
+      "80-80",
+      "",
+      "K. Filipowski misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "80-80",
+      "",
+      "Offensive rebound by K. Anderson"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "2:50.0",
+      "",
+      "",
+      "80-80",
+      "",
+      "K. Anderson misses 2-pt layup at rim (block by A. Davis)"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "2:50.0",
+      "Defensive rebound by R. Nembhard",
+      "",
+      "80-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "2:44.0",
+      "A. Davis makes 2-pt dunk from 1 ft (assist by N. Marshall)",
+      "+2",
+      "82-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "82-80",
+      "",
+      "K. Filipowski misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "2:29.0",
+      "Defensive rebound by R. Nembhard",
+      "",
+      "82-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "2:25.0",
+      "N. Marshall misses 2-pt layup from 8 ft (block by I. Collier)",
+      "",
+      "82-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "82-80",
+      "",
+      "Defensive rebound by B. Sensabaugh"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "82-82",
+      "+2",
+      "K. Anderson makes 2-pt layup from 2 ft (assist by B. Sensabaugh)"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "2:15.0",
+      "Turnover by R. Nembhard (inbound)",
+      "",
+      "82-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "2:15.0",
+      "C. Flagg enters the game for M. Christie",
+      "",
+      "82-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "2:15.0",
+      "D. Gafford enters the game for A. Davis",
+      "",
+      "82-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "2:15.0",
+      "C. Martin enters the game for N. Marshall",
+      "",
+      "82-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "82-85",
+      "+3",
+      "K. Filipowski makes 3-pt jump shot from 24 ft (assist by K. George)"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "1:43.0",
+      "K. Thompson makes 3-pt jump shot from 26 ft (assist by C. Flagg)",
+      "+3",
+      "85-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "85-85",
+      "",
+      "I. Collier misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "1:29.0",
+      "Defensive rebound by C. Flagg",
+      "",
+      "85-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "1:26.0",
+      "C. Flagg makes 2-pt dunk from 5 ft (assist by R. Nembhard)",
+      "+2",
+      "87-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "87-85",
+      "",
+      "K. Anderson misses 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "1:06.0",
+      "Defensive rebound by D. Gafford",
+      "",
+      "87-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "1:03.0",
+      "K. Thompson misses 3-pt jump shot from 31 ft",
+      "",
+      "87-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "87-85",
+      "",
+      "Defensive rebound by K. Filipowski"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "87-85",
+      "",
+      "Turnover by K. Filipowski (bad pass; steal by C. Flagg)"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "0:43.0",
+      "Shooting foul by B. Sensabaugh (drawn by K. Thompson)",
+      "",
+      "87-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "0:43.0",
+      "K. Thompson makes free throw 1 of 2",
+      "+1",
+      "88-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "88-85",
+      "",
+      "W. Clayton enters the game for K. George"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "88-85",
+      "",
+      "L. Markkanen enters the game for B. Sensabaugh"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "0:43.0",
+      "K. Thompson makes free throw 2 of 2",
+      "+1",
+      "89-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "89-88",
+      "+3",
+      "W. Clayton makes 3-pt jump shot from 25 ft (assist by I. Collier)"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "0:16.0",
+      "Turnover by K. Thompson (lost ball; steal by K. Anderson)",
+      "",
+      "89-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "89-88",
+      "",
+      "Personal foul by C. Flagg (drawn by K. Anderson)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "0:13.0",
+      "M. Christie enters the game for R. Nembhard",
+      "",
+      "89-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "89-88",
+      "",
+      "L. Markkanen misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "0:01.0",
+      "Defensive rebound by C. Flagg",
+      "",
+      "89-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "Time",
+      "Dallas",
+      "",
+      "Score",
+      "",
+      "Utah"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "11:48.0",
+      "Turnover by R. Nembhard (bad pass)",
+      "",
+      "89-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "89-88",
+      "",
+      "Turnover by I. Collier (traveling)"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "11:26.0",
+      "K. Thompson makes 3-pt jump shot from 26 ft (assist by R. Nembhard)",
+      "+3",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "92-88",
+      "",
+      "W. Clayton misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "11:02.0",
+      "Defensive rebound by C. Martin",
+      "",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "10:59.0",
+      "Turnover by C. Martin (bad pass)",
+      "",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "10:42.0",
+      "",
+      "",
+      "92-91",
+      "+3",
+      "I. Collier makes 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "10:24.0",
+      "C. Flagg misses 2-pt jump shot from 10 ft",
+      "",
+      "92-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "92-91",
+      "",
+      "Defensive rebound by K. Anderson"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "92-91",
+      "",
+      "K. Love misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "10:10.0",
+      "Defensive rebound by D. Gafford",
+      "",
+      "92-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "10:04.0",
+      "C. Flagg makes 3-pt jump shot from 25 ft",
+      "+3",
+      "95-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "95-93",
+      "+2",
+      "K. Love makes 2-pt jump shot from 7 ft (assist by I. Collier)"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "95-93",
+      "",
+      "Shooting foul by K. Thompson (drawn by K. Love)"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "9:43.0",
+      "A. Davis enters the game for D. Gafford",
+      "",
+      "95-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "9:43.0",
+      "N. Marshall enters the game for R. Nembhard",
+      "",
+      "95-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "9:43.0",
+      "",
+      "",
+      "95-94",
+      "+1",
+      "K. Love makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "9:30.0",
+      "C. Flagg misses 3-pt jump shot from 25 ft",
+      "",
+      "95-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "9:25.0",
+      "Offensive rebound by C. Martin",
+      "",
+      "95-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "9:24.0",
+      "Turnover by C. Martin (bad pass; steal by W. Clayton)",
+      "",
+      "95-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "95-96",
+      "+2",
+      "L. Markkanen makes 2-pt dunk from 2 ft (assist by W. Clayton)"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "9:12.0",
+      "N. Marshall makes 2-pt jump shot from 11 ft",
+      "+2",
+      "97-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "97-96",
+      "",
+      "W. Clayton misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "8:56.0",
+      "Defensive rebound by A. Davis",
+      "",
+      "97-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "8:42.0",
+      "Shooting foul by W. Clayton (drawn by C. Flagg)",
+      "",
+      "97-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "8:42.0",
+      "C. Flagg makes free throw 1 of 2",
+      "+1",
+      "98-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "98-96",
+      "",
+      "B. Sensabaugh enters the game for I. Collier"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "8:42.0",
+      "C. Flagg misses free throw 2 of 2",
+      "",
+      "98-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "98-96",
+      "",
+      "Defensive rebound by K. Anderson"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "8:18.0",
+      "",
+      "",
+      "98-98",
+      "+2",
+      "L. Markkanen makes 2-pt jump shot from 16 ft (assist by K. Love)"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "8:04.0",
+      "K. Thompson misses 3-pt jump shot from 26 ft",
+      "",
+      "98-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "8:02.0",
+      "",
+      "",
+      "98-98",
+      "",
+      "Defensive rebound by B. Sensabaugh"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "98-100",
+      "+2",
+      "B. Sensabaugh makes 2-pt jump shot from 18 ft (assist by K. Anderson)"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "7:23.0",
+      "Offensive foul by C. Flagg (drawn by B. Sensabaugh)",
+      "",
+      "98-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "7:23.0",
+      "Turnover by C. Flagg (offensive foul)",
+      "",
+      "98-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "7:23.0",
+      "Dallas full timeout",
+      "",
+      "98-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "7:23.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "98-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "7:23.0",
+      "M. Christie enters the game for C. Flagg",
+      "",
+      "98-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "7:23.0",
+      "R. Nembhard enters the game for C. Martin",
+      "",
+      "98-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "7:23.0",
+      "",
+      "",
+      "98-100",
+      "",
+      "K. George enters the game for K. Love"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "7:07.0",
+      "",
+      "",
+      "98-100",
+      "",
+      "L. Markkanen misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "7:02.0",
+      "Defensive rebound by A. Davis",
+      "",
+      "98-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "6:44.0",
+      "R. Nembhard makes 2-pt jump shot from 17 ft",
+      "+2",
+      "100-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "100-100",
+      "",
+      "L. Markkanen misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "6:24.0",
+      "Defensive rebound by K. Thompson",
+      "",
+      "100-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "6:03.0",
+      "N. Marshall makes 2-pt jump shot from 5 ft",
+      "+2",
+      "102-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "102-100",
+      "",
+      "L. Markkanen misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "5:39.0",
+      "Defensive rebound by A. Davis",
+      "",
+      "102-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "5:28.0",
+      "Personal foul by K. George (drawn by A. Davis)",
+      "",
+      "102-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "5:28.0",
+      "C. Flagg enters the game for K. Thompson",
+      "",
+      "102-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "5:19.0",
+      "C. Flagg makes 2-pt jump shot from 20 ft",
+      "+2",
+      "104-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "5:04.0",
+      "",
+      "",
+      "104-100",
+      "",
+      "W. Clayton misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "5:02.0",
+      "Defensive rebound by A. Davis",
+      "",
+      "104-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "4:39.0",
+      "M. Christie makes 3-pt jump shot from 24 ft (assist by C. Flagg)",
+      "+3",
+      "107-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "4:21.0",
+      "",
+      "",
+      "107-103",
+      "+3",
+      "K. George makes 3-pt jump shot from 25 ft (assist by B. Sensabaugh)"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "3:53.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "107-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "3:31.0",
+      "",
+      "",
+      "107-105",
+      "+2",
+      "L. Markkanen makes 2-pt hook shot from 4 ft"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "3:16.0",
+      "Dallas full timeout",
+      "",
+      "107-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "3:16.0",
+      "Instant Replay",
+      "",
+      "107-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "3:02.0",
+      "C. Flagg misses 2-pt jump shot from 18 ft",
+      "",
+      "107-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "107-105",
+      "",
+      "Defensive rebound by K. Anderson"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "2:52.0",
+      "",
+      "",
+      "107-107",
+      "+2",
+      "L. Markkanen makes 2-pt layup from 2 ft (assist by B. Sensabaugh)"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "2:22.0",
+      "N. Marshall misses 3-pt jump shot from 25 ft",
+      "",
+      "107-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "107-107",
+      "",
+      "Defensive rebound by K. Anderson"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "107-109",
+      "+2",
+      "L. Markkanen makes 2-pt layup from 3 ft (assist by K. Anderson)"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "2:08.0",
+      "Dallas full timeout",
+      "",
+      "107-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "2:08.0",
+      "D. Gafford enters the game for A. Davis",
+      "",
+      "107-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "2:08.0",
+      "K. Thompson enters the game for R. Nembhard",
+      "",
+      "107-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "1:51.0",
+      "N. Marshall misses 3-pt jump shot from 23 ft",
+      "",
+      "107-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "107-109",
+      "",
+      "Defensive rebound by B. Sensabaugh"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "107-112",
+      "+3",
+      "B. Sensabaugh makes 3-pt jump shot from 27 ft (assist by W. Clayton)"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "1:26.0",
+      "Shooting foul by W. Clayton (drawn by N. Marshall)",
+      "",
+      "107-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "1:26.0",
+      "N. Marshall makes free throw 1 of 2",
+      "+1",
+      "108-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "1:26.0",
+      "N. Marshall misses free throw 2 of 2",
+      "",
+      "108-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "108-112",
+      "",
+      "Defensive rebound by B. Sensabaugh"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "108-112",
+      "",
+      "L. Markkanen misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "1:05.0",
+      "Defensive rebound by D. Gafford",
+      "",
+      "108-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "0:55.0",
+      "Turnover by N. Marshall (bad pass; steal by B. Sensabaugh)",
+      "",
+      "108-112",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "108-114",
+      "+2",
+      "B. Sensabaugh makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "0:47.0",
+      "K. Thompson makes 3-pt jump shot from 28 ft (assist by M. Christie)",
+      "+3",
+      "111-114",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "111-116",
+      "+2",
+      "K. George makes 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "0:28.0",
+      "Dallas full timeout",
+      "",
+      "111-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "0:20.0",
+      "M. Christie misses 3-pt jump shot from 23 ft",
+      "",
+      "111-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "0:16.0",
+      "Offensive rebound by C. Flagg",
+      "",
+      "111-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "0:12.0",
+      "Turnover by C. Flagg (bad pass; steal by W. Clayton)",
+      "",
+      "111-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "111-116",
+      "",
+      "Personal take foul by C. Flagg (drawn by W. Clayton)"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "111-116",
+      "",
+      "Personal foul by D. Gafford (drawn by L. Markkanen)"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "111-116",
+      "",
+      "L. Markkanen misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "111-116",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "111-116",
+      "",
+      "L. Markkanen misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "0:07.0",
+      "Defensive rebound by D. Gafford",
+      "",
+      "111-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "0:00.0",
+      "N. Marshall makes 3-pt jump shot from 31 ft (assist by M. Christie)",
+      "+3",
+      "114-116",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "0:00.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "114-116",
+      "",
+      ""
+    ]
+  }
+]

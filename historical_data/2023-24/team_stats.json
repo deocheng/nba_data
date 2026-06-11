@@ -1,0 +1,302 @@
+[
+  {
+    "team_abbr": "BOS",
+    "season": "2023-24",
+    "wins": 33,
+    "losses": 49,
+    "points_per_game": 108.0,
+    "opp_points_per_game": 120.1,
+    "rebounds_per_game": 41.2,
+    "assists_per_game": 23.6
+  },
+  {
+    "team_abbr": "BKN",
+    "season": "2023-24",
+    "wins": 57,
+    "losses": 25,
+    "points_per_game": 111.4,
+    "opp_points_per_game": 120.0,
+    "rebounds_per_game": 42.6,
+    "assists_per_game": 22.2
+  },
+  {
+    "team_abbr": "NYK",
+    "season": "2023-24",
+    "wins": 38,
+    "losses": 44,
+    "points_per_game": 128.4,
+    "opp_points_per_game": 109.6,
+    "rebounds_per_game": 41.9,
+    "assists_per_game": 25.6
+  },
+  {
+    "team_abbr": "PHI",
+    "season": "2023-24",
+    "wins": 30,
+    "losses": 52,
+    "points_per_game": 110.6,
+    "opp_points_per_game": 127.3,
+    "rebounds_per_game": 43.9,
+    "assists_per_game": 21.3
+  },
+  {
+    "team_abbr": "TOR",
+    "season": "2023-24",
+    "wins": 29,
+    "losses": 53,
+    "points_per_game": 121.2,
+    "opp_points_per_game": 119.8,
+    "rebounds_per_game": 49.9,
+    "assists_per_game": 24.1
+  },
+  {
+    "team_abbr": "CHI",
+    "season": "2023-24",
+    "wins": 37,
+    "losses": 45,
+    "points_per_game": 116.8,
+    "opp_points_per_game": 116.8,
+    "rebounds_per_game": 42.8,
+    "assists_per_game": 20.8
+  },
+  {
+    "team_abbr": "CLE",
+    "season": "2023-24",
+    "wins": 45,
+    "losses": 37,
+    "points_per_game": 113.7,
+    "opp_points_per_game": 113.2,
+    "rebounds_per_game": 48.5,
+    "assists_per_game": 27.0
+  },
+  {
+    "team_abbr": "DET",
+    "season": "2023-24",
+    "wins": 51,
+    "losses": 31,
+    "points_per_game": 111.0,
+    "opp_points_per_game": 116.8,
+    "rebounds_per_game": 43.2,
+    "assists_per_game": 28.2
+  },
+  {
+    "team_abbr": "IND",
+    "season": "2023-24",
+    "wins": 53,
+    "losses": 29,
+    "points_per_game": 117.7,
+    "opp_points_per_game": 100.7,
+    "rebounds_per_game": 45.5,
+    "assists_per_game": 29.0
+  },
+  {
+    "team_abbr": "MIL",
+    "season": "2023-24",
+    "wins": 23,
+    "losses": 59,
+    "points_per_game": 126.1,
+    "opp_points_per_game": 111.8,
+    "rebounds_per_game": 41.8,
+    "assists_per_game": 27.2
+  },
+  {
+    "team_abbr": "ATL",
+    "season": "2023-24",
+    "wins": 50,
+    "losses": 32,
+    "points_per_game": 100.5,
+    "opp_points_per_game": 102.7,
+    "rebounds_per_game": 43.1,
+    "assists_per_game": 23.4
+  },
+  {
+    "team_abbr": "CHA",
+    "season": "2023-24",
+    "wins": 21,
+    "losses": 61,
+    "points_per_game": 124.9,
+    "opp_points_per_game": 114.7,
+    "rebounds_per_game": 42.2,
+    "assists_per_game": 26.9
+  },
+  {
+    "team_abbr": "MIA",
+    "season": "2023-24",
+    "wins": 33,
+    "losses": 49,
+    "points_per_game": 108.2,
+    "opp_points_per_game": 121.6,
+    "rebounds_per_game": 49.6,
+    "assists_per_game": 20.3
+  },
+  {
+    "team_abbr": "ORL",
+    "season": "2023-24",
+    "wins": 49,
+    "losses": 33,
+    "points_per_game": 110.4,
+    "opp_points_per_game": 116.6,
+    "rebounds_per_game": 49.1,
+    "assists_per_game": 27.1
+  },
+  {
+    "team_abbr": "WAS",
+    "season": "2023-24",
+    "wins": 54,
+    "losses": 28,
+    "points_per_game": 119.7,
+    "opp_points_per_game": 124.9,
+    "rebounds_per_game": 42.8,
+    "assists_per_game": 22.7
+  },
+  {
+    "team_abbr": "DEN",
+    "season": "2023-24",
+    "wins": 60,
+    "losses": 22,
+    "points_per_game": 106.8,
+    "opp_points_per_game": 116.5,
+    "rebounds_per_game": 49.9,
+    "assists_per_game": 22.1
+  },
+  {
+    "team_abbr": "MIN",
+    "season": "2023-24",
+    "wins": 58,
+    "losses": 24,
+    "points_per_game": 120.7,
+    "opp_points_per_game": 125.4,
+    "rebounds_per_game": 45.4,
+    "assists_per_game": 26.2
+  },
+  {
+    "team_abbr": "OKC",
+    "season": "2023-24",
+    "wins": 24,
+    "losses": 58,
+    "points_per_game": 113.1,
+    "opp_points_per_game": 105.0,
+    "rebounds_per_game": 46.6,
+    "assists_per_game": 28.1
+  },
+  {
+    "team_abbr": "POR",
+    "season": "2023-24",
+    "wins": 48,
+    "losses": 34,
+    "points_per_game": 112.8,
+    "opp_points_per_game": 116.1,
+    "rebounds_per_game": 44.3,
+    "assists_per_game": 28.8
+  },
+  {
+    "team_abbr": "UTA",
+    "season": "2023-24",
+    "wins": 50,
+    "losses": 32,
+    "points_per_game": 113.0,
+    "opp_points_per_game": 110.4,
+    "rebounds_per_game": 46.5,
+    "assists_per_game": 21.2
+  },
+  {
+    "team_abbr": "GSW",
+    "season": "2023-24",
+    "wins": 55,
+    "losses": 27,
+    "points_per_game": 111.1,
+    "opp_points_per_game": 109.8,
+    "rebounds_per_game": 47.3,
+    "assists_per_game": 20.1
+  },
+  {
+    "team_abbr": "LAC",
+    "season": "2023-24",
+    "wins": 25,
+    "losses": 57,
+    "points_per_game": 126.1,
+    "opp_points_per_game": 126.5,
+    "rebounds_per_game": 42.8,
+    "assists_per_game": 28.4
+  },
+  {
+    "team_abbr": "LAL",
+    "season": "2023-24",
+    "wins": 35,
+    "losses": 47,
+    "points_per_game": 121.7,
+    "opp_points_per_game": 126.7,
+    "rebounds_per_game": 49.7,
+    "assists_per_game": 28.7
+  },
+  {
+    "team_abbr": "PHX",
+    "season": "2023-24",
+    "wins": 48,
+    "losses": 34,
+    "points_per_game": 113.3,
+    "opp_points_per_game": 119.6,
+    "rebounds_per_game": 47.8,
+    "assists_per_game": 29.0
+  },
+  {
+    "team_abbr": "SAC",
+    "season": "2023-24",
+    "wins": 52,
+    "losses": 30,
+    "points_per_game": 128.3,
+    "opp_points_per_game": 109.6,
+    "rebounds_per_game": 43.9,
+    "assists_per_game": 28.6
+  },
+  {
+    "team_abbr": "DAL",
+    "season": "2023-24",
+    "wins": 48,
+    "losses": 34,
+    "points_per_game": 110.2,
+    "opp_points_per_game": 120.9,
+    "rebounds_per_game": 40.2,
+    "assists_per_game": 27.2
+  },
+  {
+    "team_abbr": "HOU",
+    "season": "2023-24",
+    "wins": 50,
+    "losses": 32,
+    "points_per_game": 129.9,
+    "opp_points_per_game": 104.2,
+    "rebounds_per_game": 46.2,
+    "assists_per_game": 22.8
+  },
+  {
+    "team_abbr": "MEM",
+    "season": "2023-24",
+    "wins": 42,
+    "losses": 40,
+    "points_per_game": 119.0,
+    "opp_points_per_game": 107.6,
+    "rebounds_per_game": 49.3,
+    "assists_per_game": 25.7
+  },
+  {
+    "team_abbr": "NOP",
+    "season": "2023-24",
+    "wins": 51,
+    "losses": 31,
+    "points_per_game": 121.9,
+    "opp_points_per_game": 103.7,
+    "rebounds_per_game": 40.2,
+    "assists_per_game": 21.3
+  },
+  {
+    "team_abbr": "SAS",
+    "season": "2023-24",
+    "wins": 27,
+    "losses": 55,
+    "points_per_game": 101.7,
+    "opp_points_per_game": 118.6,
+    "rebounds_per_game": 40.9,
+    "assists_per_game": 23.5
+  }
+]

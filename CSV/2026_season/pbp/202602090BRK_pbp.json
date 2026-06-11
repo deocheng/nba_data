@@ -1,0 +1,5524 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Chicago",
+      "",
+      "Score",
+      "",
+      "Brooklyn"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:39.0",
+      "M. Buzelis makes 2-pt dunk from 1 ft (assist by I. Okoro)",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:11.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "N. Traoré misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:07.0",
+      "Defensive rebound by J. Ivey",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "10:53.0",
+      "A. Simons makes 3-pt jump shot from 24 ft (assist by G. Yabusele)",
+      "+3",
+      "5-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "10:42.0",
+      "",
+      "",
+      "5-2",
+      "+2",
+      "T. Mann makes 2-pt layup from 1 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:26.0",
+      "M. Buzelis misses 3-pt jump shot from 24 ft",
+      "",
+      "5-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "5-2",
+      "",
+      "Defensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "5-2",
+      "",
+      "N. Traoré misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "5-2",
+      "",
+      "Offensive rebound by N. Traoré"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "5-4",
+      "+2",
+      "N. Traoré makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "9:56.0",
+      "I. Okoro misses 2-pt hook shot from 6 ft",
+      "",
+      "5-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "5-4",
+      "",
+      "Defensive rebound by D. Wolf"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:40.0",
+      "",
+      "",
+      "5-6",
+      "+2",
+      "N. Claxton makes 2-pt hook shot from 8 ft"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:30.0",
+      "A. Simons makes 3-pt jump shot from 28 ft (assist by M. Buzelis)",
+      "+3",
+      "8-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "8-9",
+      "+3",
+      "N. Clowney makes 3-pt jump shot from 23 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "8:59.0",
+      "J. Ivey makes 3-pt jump shot from 25 ft (assist by A. Simons)",
+      "+3",
+      "11-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "11-9",
+      "",
+      "D. Wolf misses 2-pt hook shot from 6 ft"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "8:40.0",
+      "Defensive rebound by M. Buzelis",
+      "",
+      "11-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "8:35.0",
+      "Turnover by M. Buzelis (lost ball; steal by D. Wolf)",
+      "",
+      "11-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "11-9",
+      "",
+      "Turnover by T. Mann (bad pass; steal by G. Yabusele)"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:24.0",
+      "Shooting foul by N. Traoré (drawn by I. Okoro)",
+      "",
+      "11-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:24.0",
+      "I. Okoro makes free throw 1 of 2",
+      "+1",
+      "12-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:24.0",
+      "I. Okoro makes free throw 2 of 2",
+      "+1",
+      "13-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "13-9",
+      "",
+      "Shooting foul by G. Yabusele (drawn by N. Claxton)"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "13-10",
+      "+1",
+      "N. Claxton makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "13-10",
+      "",
+      "N. Claxton misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:09.0",
+      "Defensive rebound by G. Yabusele",
+      "",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:48.0",
+      "A. Simons misses 3-pt jump shot from 23 ft",
+      "",
+      "13-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "13-10",
+      "",
+      "Defensive rebound by N. Clowney"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "13-10",
+      "",
+      "Shooting foul by G. Yabusele (drawn by N. Clowney)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "13-11",
+      "+1",
+      "N. Clowney makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:41.0",
+      "N. Richards enters the game for G. Yabusele",
+      "",
+      "13-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "13-11",
+      "",
+      "N. Clowney misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:38.0",
+      "Defensive rebound by I. Okoro",
+      "",
+      "13-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:16.0",
+      "M. Buzelis misses 2-pt jump shot from 6 ft",
+      "",
+      "13-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "13-11",
+      "",
+      "Defensive rebound by D. Wolf"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:11.0",
+      "",
+      "",
+      "13-11",
+      "",
+      "Turnover by D. Wolf (bad pass; steal by J. Ivey)"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:09.0",
+      "J. Ivey misses 2-pt layup from 2 ft (block by N. Traoré)",
+      "",
+      "13-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:09.0",
+      "Offensive rebound by Team",
+      "",
+      "13-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:09.0",
+      "C. Sexton enters the game for J. Ivey",
+      "",
+      "13-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:58.0",
+      "M. Buzelis misses 3-pt jump shot from 26 ft",
+      "",
+      "13-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "13-11",
+      "",
+      "Defensive rebound by N. Traoré"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "13-14",
+      "+3",
+      "N. Clowney makes 3-pt jump shot from 25 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:37.0",
+      "Turnover by N. Richards (lost ball; steal by T. Mann)",
+      "",
+      "13-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:32.0",
+      "",
+      "",
+      "13-14",
+      "",
+      "T. Mann misses 2-pt layup from 4 ft (block by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "13-14",
+      "",
+      "Offensive rebound by N. Clowney"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "13-16",
+      "+2",
+      "N. Clowney makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:31.0",
+      "Chicago full timeout",
+      "",
+      "13-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:17.0",
+      "N. Richards makes 2-pt layup from 3 ft (assist by A. Simons)",
+      "+2",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "Turnover by N. Traoré (bad pass; steal by C. Sexton)"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:55.0",
+      "M. Buzelis misses 2-pt layup from 6 ft (block by D. Wolf)",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:52.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "Defensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:48.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "Turnover by T. Mann (bad pass; steal by I. Okoro)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:40.0",
+      "C. Sexton misses 2-pt layup from 2 ft",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:37.0",
+      "Offensive rebound by C. Sexton",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:36.0",
+      "C. Sexton makes 2-pt layup from 5 ft",
+      "+2",
+      "17-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "17-18",
+      "+2",
+      "N. Traoré makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:18.0",
+      "Shooting foul by D. Wolf (drawn by C. Sexton)",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:18.0",
+      "C. Sexton makes free throw 1 of 2",
+      "+1",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:18.0",
+      "R. Dillingham enters the game for A. Simons",
+      "",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "D. Powell enters the game for T. Mann"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "Z. Williams enters the game for D. Wolf"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:18.0",
+      "C. Sexton misses free throw 2 of 2",
+      "",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "Defensive rebound by N. Clowney"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "Personal foul by N. Richards (drawn by N. Claxton)"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:03.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "N. Clowney misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:59.0",
+      "Defensive rebound by R. Dillingham",
+      "",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:41.0",
+      "N. Richards misses 2-pt jump shot from 7 ft",
+      "",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "Defensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:30.0",
+      "",
+      "",
+      "18-21",
+      "+3",
+      "N. Clowney makes 3-pt jump shot from 23 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:24.0",
+      "Offensive foul by C. Sexton (drawn by N. Clowney)",
+      "",
+      "18-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:24.0",
+      "Turnover by C. Sexton (offensive foul)",
+      "",
+      "18-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:24.0",
+      "J. Ivey enters the game for M. Buzelis",
+      "",
+      "18-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "4:24.0",
+      "P. Williams enters the game for I. Okoro",
+      "",
+      "18-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "18-21",
+      "",
+      "B. Saraf enters the game for N. Claxton"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "18-21",
+      "",
+      "D. Sharpe enters the game for N. Clowney"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "18-21",
+      "",
+      "J. Wilson enters the game for N. Traoré"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "4:10.0",
+      "",
+      "",
+      "18-21",
+      "",
+      "Turnover by B. Saraf (bad pass; steal by N. Richards)"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "4:04.0",
+      "C. Sexton makes 2-pt layup from 4 ft",
+      "+2",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:53.0",
+      "",
+      "",
+      "20-21",
+      "",
+      "Z. Williams misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:50.0",
+      "Defensive rebound by J. Ivey",
+      "",
+      "20-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:46.0",
+      "J. Ivey makes 2-pt layup from 3 ft",
+      "+2",
+      "22-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "22-21",
+      "",
+      "Brooklyn full timeout"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:26.0",
+      "",
+      "",
+      "22-21",
+      "",
+      "B. Saraf misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:23.0",
+      "Defensive rebound by R. Dillingham",
+      "",
+      "22-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:20.0",
+      "R. Dillingham misses 2-pt layup from 4 ft",
+      "",
+      "22-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:17.0",
+      "",
+      "",
+      "22-21",
+      "",
+      "Defensive rebound by Z. Williams"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "22-23",
+      "+2",
+      "D. Powell makes 2-pt dunk from 2 ft (assist by B. Saraf)"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "3:06.0",
+      "R. Dillingham makes 2-pt layup from 2 ft (assist by J. Ivey)",
+      "+2",
+      "24-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "24-23",
+      "",
+      "Shooting foul by R. Dillingham (drawn by B. Saraf)"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "24-23",
+      "",
+      "B. Saraf misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "24-23",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "24-24",
+      "+1",
+      "B. Saraf makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:29.0",
+      "C. Sexton misses 3-pt jump shot from 24 ft",
+      "",
+      "24-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:26.0",
+      "",
+      "",
+      "24-24",
+      "",
+      "Defensive rebound by J. Wilson"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "2:18.0",
+      "",
+      "",
+      "24-24",
+      "",
+      "B. Saraf misses 2-pt dunk from 3 ft (block by N. Richards)"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "2:15.0",
+      "Defensive rebound by J. Ivey",
+      "",
+      "24-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "2:01.0",
+      "C. Sexton makes 3-pt jump shot from 23 ft (assist by N. Richards)",
+      "+3",
+      "27-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "27-24",
+      "",
+      "D. Powell misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "1:41.0",
+      "Defensive rebound by R. Dillingham",
+      "",
+      "27-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "1:38.0",
+      "Turnover by C. Sexton (lost ball)",
+      "",
+      "27-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "1:38.0",
+      "Loose ball foul by C. Sexton (drawn by D. Sharpe)",
+      "",
+      "27-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "27-24",
+      "",
+      "D. Sharpe misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "27-24",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:38.0",
+      "A. Simons enters the game for R. Dillingham",
+      "",
+      "27-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "27-25",
+      "+1",
+      "D. Sharpe makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:23.0",
+      "Turnover by J. Ivey (bad pass; steal by Z. Williams)",
+      "",
+      "27-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "27-27",
+      "+2",
+      "Z. Williams makes 2-pt dunk from 2 ft (assist by J. Wilson)"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "1:13.0",
+      "J. Ivey misses 3-pt jump shot from 25 ft",
+      "",
+      "27-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "1:09.0",
+      "Offensive rebound by A. Simons",
+      "",
+      "27-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:58.0",
+      "C. Sexton makes 2-pt layup from 1 ft",
+      "+2",
+      "29-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:38.0",
+      "",
+      "",
+      "29-27",
+      "",
+      "D. Sharpe misses 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:36.0",
+      "",
+      "",
+      "29-27",
+      "",
+      "Offensive rebound by D. Sharpe"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:34.0",
+      "",
+      "",
+      "29-27",
+      "",
+      "J. Wilson misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:30.0",
+      "Defensive rebound by N. Richards",
+      "",
+      "29-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:22.0",
+      "Personal foul by D. Sharpe (drawn by P. Williams)",
+      "",
+      "29-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:13.0",
+      "N. Richards misses 2-pt jump shot from 11 ft",
+      "",
+      "29-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:11.0",
+      "Offensive rebound by Team",
+      "",
+      "29-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "0:10.0",
+      "C. Sexton makes 2-pt layup from 2 ft (assist by J. Ivey)",
+      "+2",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "D. Sharpe misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "Time",
+      "Chicago",
+      "",
+      "Score",
+      "",
+      "Brooklyn"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "Turnover by D. Powell (bad pass; steal by J. Ivey)"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "11:32.0",
+      "P. Williams makes 2-pt jump shot from 12 ft (assist by A. Simons)",
+      "+2",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "11:20.0",
+      "",
+      "",
+      "33-30",
+      "+3",
+      "Z. Williams makes 3-pt jump shot from 25 ft (assist by B. Saraf)"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "11:05.0",
+      "A. Simons makes 2-pt jump shot from 21 ft",
+      "+2",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:43.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "J. Wilson misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:39.0",
+      "Defensive rebound by J. Ivey",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:31.0",
+      "A. Simons misses 3-pt jump shot from 25 ft",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "Defensive rebound by J. Wilson"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:12.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "B. Saraf misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:10.0",
+      "Defensive rebound by Team",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "10:10.0",
+      "R. Dillingham enters the game for J. Ivey",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:10.0",
+      "I. Okoro enters the game for C. Sexton",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:56.0",
+      "Turnover by G. Yabusele (bad pass)",
+      "",
+      "35-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "Shooting foul by I. Okoro (drawn by D. Powell)"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "Brooklyn full timeout"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "35-30",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "35-31",
+      "+1",
+      "D. Powell makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "35-32",
+      "+1",
+      "D. Powell makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:29.0",
+      "P. Williams misses 3-pt jump shot from 23 ft",
+      "",
+      "35-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:24.0",
+      "Offensive rebound by R. Dillingham",
+      "",
+      "35-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:21.0",
+      "R. Dillingham misses 3-pt jump shot from 29 ft",
+      "",
+      "35-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:18.0",
+      "Offensive rebound by P. Williams",
+      "",
+      "35-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "9:16.0",
+      "P. Williams misses 2-pt layup from 2 ft",
+      "",
+      "35-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "35-32",
+      "",
+      "Defensive rebound by D. Sharpe"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "9:07.0",
+      "",
+      "",
+      "35-32",
+      "",
+      "B. Saraf misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "9:03.0",
+      "Defensive rebound by G. Yabusele",
+      "",
+      "35-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:59.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "35-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:55.0",
+      "",
+      "",
+      "35-32",
+      "",
+      "Defensive rebound by D. Sharpe"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "35-34",
+      "+2",
+      "D. Powell makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:24.0",
+      "I. Okoro makes 2-pt hook shot from 5 ft",
+      "+2",
+      "37-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "37-34",
+      "",
+      "J. Wilson misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "37-34",
+      "",
+      "Offensive rebound by D. Sharpe"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "37-34",
+      "",
+      "D. Sharpe misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "37-34",
+      "",
+      "Offensive rebound by D. Sharpe"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "37-36",
+      "+2",
+      "D. Sharpe makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:53.0",
+      "G. Yabusele makes 3-pt jump shot from 24 ft (assist by P. Williams)",
+      "+3",
+      "40-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "40-39",
+      "+3",
+      "D. Powell makes 3-pt jump shot from 24 ft (assist by B. Saraf)"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:16.0",
+      "R. Dillingham misses 2-pt jump shot from 5 ft",
+      "",
+      "40-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:14.0",
+      "",
+      "",
+      "40-39",
+      "",
+      "Defensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "40-39",
+      "",
+      "Shooting foul by I. Okoro (drawn by D. Powell)"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "40-40",
+      "+1",
+      "D. Powell makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:13.0",
+      "Chicago full timeout",
+      "",
+      "40-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:13.0",
+      "M. Buzelis enters the game for A. Simons",
+      "",
+      "40-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:13.0",
+      "J. Ivey enters the game for P. Williams",
+      "",
+      "40-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:13.0",
+      "N. Richards enters the game for G. Yabusele",
+      "",
+      "40-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "40-40",
+      "",
+      "N. Claxton enters the game for B. Saraf"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "40-40",
+      "",
+      "N. Traoré enters the game for D. Sharpe"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "40-41",
+      "+1",
+      "D. Powell makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:50.0",
+      "Turnover by I. Okoro (bad pass; steal by J. Wilson)",
+      "",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "40-41",
+      "",
+      "Turnover by J. Wilson (bad pass; steal by I. Okoro)"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:46.0",
+      "Shooting foul by N. Claxton (drawn by N. Richards)",
+      "",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:46.0",
+      "N. Richards misses free throw 1 of 2",
+      "",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:46.0",
+      "Offensive rebound by Team",
+      "",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:46.0",
+      "C. Sexton enters the game for R. Dillingham",
+      "",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:46.0",
+      "N. Richards makes free throw 2 of 2",
+      "+1",
+      "41-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "6:22.0",
+      "",
+      "",
+      "41-41",
+      "",
+      "N. Traoré misses 2-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "6:17.0",
+      "Defensive rebound by M. Buzelis",
+      "",
+      "41-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "6:09.0",
+      "Turnover by M. Buzelis (lost ball; steal by J. Wilson)",
+      "",
+      "41-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "6:04.0",
+      "",
+      "",
+      "41-41",
+      "",
+      "J. Wilson misses 2-pt layup from 1 ft (block by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "41-41",
+      "",
+      "Offensive rebound by J. Wilson"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:59.0",
+      "",
+      "",
+      "41-41",
+      "",
+      "N. Traoré misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:57.0",
+      "Defensive rebound by I. Okoro",
+      "",
+      "41-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:38.0",
+      "C. Sexton misses 3-pt jump shot from 26 ft",
+      "",
+      "41-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "41-41",
+      "",
+      "Defensive rebound by Z. Williams"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:27.0",
+      "",
+      "",
+      "41-41",
+      "",
+      "Z. Williams misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "41-41",
+      "",
+      "Offensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "41-43",
+      "+2",
+      "N. Claxton makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "5:18.0",
+      "M. Buzelis misses 2-pt layup from 2 ft",
+      "",
+      "41-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "41-43",
+      "",
+      "Defensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:12.0",
+      "",
+      "",
+      "41-43",
+      "",
+      "D. Powell misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "5:09.0",
+      "Defensive rebound by C. Sexton",
+      "",
+      "41-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "5:07.0",
+      "Offensive foul by N. Richards (drawn by J. Wilson)",
+      "",
+      "41-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "5:07.0",
+      "Turnover by N. Richards (offensive foul)",
+      "",
+      "41-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "41-43",
+      "",
+      "N. Clowney enters the game for D. Powell"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "41-43",
+      "",
+      "T. Mann enters the game for Z. Williams"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "41-43",
+      "",
+      "D. Wolf enters the game for J. Wilson"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "41-45",
+      "+2",
+      "N. Claxton makes 2-pt layup from 2 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "41-45",
+      "",
+      "Shooting foul by N. Richards (drawn by N. Claxton)"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "41-45",
+      "",
+      "N. Claxton misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "4:57.0",
+      "Defensive rebound by N. Richards",
+      "",
+      "41-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "4:52.0",
+      "Shooting foul by N. Traoré (drawn by J. Ivey)",
+      "",
+      "41-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "4:52.0",
+      "J. Ivey makes free throw 1 of 2",
+      "+1",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "4:52.0",
+      "G. Yabusele enters the game for N. Richards",
+      "",
+      "42-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "4:52.0",
+      "J. Ivey makes free throw 2 of 2",
+      "+1",
+      "43-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "43-47",
+      "+2",
+      "N. Claxton makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "4:23.0",
+      "M. Buzelis misses 2-pt layup from 4 ft",
+      "",
+      "43-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "43-47",
+      "",
+      "Defensive rebound by N. Traoré"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "43-47",
+      "",
+      "N. Clowney misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "4:11.0",
+      "",
+      "",
+      "43-47",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "4:11.0",
+      "A. Simons enters the game for J. Ivey",
+      "",
+      "43-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "43-49",
+      "+2",
+      "N. Claxton makes 2-pt dunk at rim (assist by T. Mann)"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "3:54.0",
+      "Turnover by M. Buzelis (bad pass; steal by N. Claxton)",
+      "",
+      "43-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "43-51",
+      "+2",
+      "N. Claxton makes 2-pt dunk from 1 ft (assist by T. Mann)"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "3:50.0",
+      "Chicago full timeout",
+      "",
+      "43-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "3:50.0",
+      "R. Dillingham enters the game for M. Buzelis",
+      "",
+      "43-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "3:30.0",
+      "R. Dillingham makes 2-pt layup from 1 ft",
+      "+2",
+      "45-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "45-51",
+      "",
+      "Turnover by N. Claxton (traveling)"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "3:02.0",
+      "Personal foul by T. Mann (drawn by R. Dillingham)",
+      "",
+      "45-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "2:54.0",
+      "R. Dillingham misses 2-pt jump shot from 8 ft (block by N. Clowney)",
+      "",
+      "45-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "2:51.0",
+      "Offensive rebound by R. Dillingham",
+      "",
+      "45-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "2:49.0",
+      "R. Dillingham makes 2-pt layup from 1 ft",
+      "+2",
+      "47-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "47-51",
+      "",
+      "N. Claxton misses 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "2:36.0",
+      "Defensive rebound by Team",
+      "",
+      "47-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "2:17.0",
+      "A. Simons misses 3-pt jump shot from 25 ft",
+      "",
+      "47-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "2:14.0",
+      "",
+      "",
+      "47-51",
+      "",
+      "Defensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "47-53",
+      "+2",
+      "N. Traoré makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "1:45.0",
+      "R. Dillingham misses 2-pt hook shot from 4 ft",
+      "",
+      "47-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "47-53",
+      "",
+      "Defensive rebound by D. Wolf"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "47-53",
+      "",
+      "Shooting foul by A. Simons (drawn by N. Claxton)"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "47-53",
+      "",
+      "N. Claxton misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "47-53",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "47-53",
+      "",
+      "Violation by D. Wolf (double lane)"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "1:38.0",
+      "Violation by I. Okoro (double lane)",
+      "",
+      "47-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "47-56",
+      "+3",
+      "D. Wolf makes 3-pt jump shot from 23 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "1:05.0",
+      "A. Simons makes 2-pt jump shot from 16 ft",
+      "+2",
+      "49-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "1:05.0",
+      "Shooting foul by T. Mann (drawn by A. Simons)",
+      "",
+      "49-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "1:05.0",
+      "A. Simons makes free throw 1 of 1",
+      "+1",
+      "50-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "50-56",
+      "",
+      "T. Mann misses 2-pt layup from 2 ft (block by A. Simons)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "0:49.0",
+      "Defensive rebound by I. Okoro",
+      "",
+      "50-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "0:45.0",
+      "C. Sexton misses 2-pt layup from 3 ft",
+      "",
+      "50-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "0:42.0",
+      "",
+      "",
+      "50-56",
+      "",
+      "Defensive rebound by N. Clowney"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "0:37.0",
+      "",
+      "",
+      "50-58",
+      "+2",
+      "N. Claxton makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "0:31.0",
+      "Shooting foul by N. Traoré (drawn by C. Sexton)",
+      "",
+      "50-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "0:31.0",
+      "C. Sexton makes free throw 1 of 2",
+      "+1",
+      "51-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "51-58",
+      "",
+      "D. Powell enters the game for N. Traoré"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "0:31.0",
+      "C. Sexton makes free throw 2 of 2",
+      "+1",
+      "52-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "52-60",
+      "+2",
+      "N. Clowney makes 2-pt jump shot from 4 ft (assist by D. Wolf)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "0:00.0",
+      "A. Simons makes 2-pt layup from 4 ft",
+      "+2",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "Time",
+      "Chicago",
+      "",
+      "Score",
+      "",
+      "Brooklyn"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "11:43.0",
+      "",
+      "",
+      "54-62",
+      "+2",
+      "N. Claxton makes 2-pt dunk from 1 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "11:25.0",
+      "J. Ivey makes 3-pt jump shot from 25 ft (assist by I. Okoro)",
+      "+3",
+      "57-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "57-65",
+      "+3",
+      "T. Mann makes 3-pt jump shot from 23 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "10:59.0",
+      "A. Simons makes 2-pt layup from 1 ft",
+      "+2",
+      "59-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "59-67",
+      "+2",
+      "N. Clowney makes 2-pt hook shot from 5 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "59-67",
+      "",
+      "Shooting foul by J. Ivey (drawn by N. Clowney)"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "59-68",
+      "+1",
+      "N. Clowney makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "10:25.0",
+      "I. Okoro misses 3-pt jump shot from 25 ft",
+      "",
+      "59-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "59-68",
+      "",
+      "Defensive rebound by D. Wolf"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "59-71",
+      "+3",
+      "N. Claxton makes 3-pt jump shot from 25 ft (assist by T. Mann)"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "10:14.0",
+      "Chicago full timeout",
+      "",
+      "59-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "9:55.0",
+      "Turnover by A. Simons (out of bounds lost ball)",
+      "",
+      "59-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "9:46.0",
+      "",
+      "",
+      "59-73",
+      "+2",
+      "N. Traoré makes 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "9:28.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "59-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "59-73",
+      "",
+      "Defensive rebound by D. Wolf"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "59-73",
+      "",
+      "Shooting foul by G. Yabusele (drawn by D. Wolf)"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "59-73",
+      "",
+      "D. Wolf misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "59-73",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "59-74",
+      "+1",
+      "D. Wolf makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "9:08.0",
+      "M. Buzelis makes 3-pt jump shot from 25 ft (assist by A. Simons)",
+      "+3",
+      "62-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "62-74",
+      "",
+      "N. Claxton misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "8:46.0",
+      "Defensive rebound by J. Ivey",
+      "",
+      "62-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:42.0",
+      "J. Ivey misses 3-pt jump shot from 25 ft",
+      "",
+      "62-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:39.0",
+      "Offensive rebound by A. Simons",
+      "",
+      "62-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "8:35.0",
+      "J. Ivey misses 3-pt jump shot from 26 ft",
+      "",
+      "62-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "8:33.0",
+      "",
+      "",
+      "62-74",
+      "",
+      "Defensive rebound by T. Mann"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "62-76",
+      "+2",
+      "D. Wolf makes 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "8:08.0",
+      "I. Okoro misses 3-pt jump shot from 23 ft",
+      "",
+      "62-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "8:07.0",
+      "Offensive rebound by J. Ivey",
+      "",
+      "62-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "8:07.0",
+      "Shooting foul by D. Wolf (drawn by J. Ivey)",
+      "",
+      "62-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "8:07.0",
+      "J. Ivey makes free throw 1 of 2",
+      "+1",
+      "63-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "8:07.0",
+      "N. Richards enters the game for G. Yabusele",
+      "",
+      "63-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "8:07.0",
+      "J. Ivey makes free throw 2 of 2",
+      "+1",
+      "64-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "64-76",
+      "",
+      "Shooting foul by A. Simons (drawn by N. Traoré)"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "64-77",
+      "+1",
+      "N. Traoré makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "7:52.0",
+      "C. Sexton enters the game for J. Ivey",
+      "",
+      "64-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "64-77",
+      "",
+      "N. Traoré misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "7:49.0",
+      "Defensive rebound by M. Buzelis",
+      "",
+      "64-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "7:38.0",
+      "Shooting foul by N. Claxton (drawn by N. Richards)",
+      "",
+      "64-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "7:38.0",
+      "N. Richards makes free throw 1 of 2",
+      "+1",
+      "65-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "7:38.0",
+      "N. Richards misses free throw 2 of 2",
+      "",
+      "65-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "7:35.0",
+      "",
+      "",
+      "65-77",
+      "",
+      "Defensive rebound by N. Clowney"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "7:19.0",
+      "",
+      "",
+      "65-77",
+      "",
+      "N. Clowney misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "7:14.0",
+      "Defensive rebound by N. Richards",
+      "",
+      "65-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "7:07.0",
+      "Shooting foul by N. Clowney (drawn by M. Buzelis)",
+      "",
+      "65-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "7:07.0",
+      "M. Buzelis makes free throw 1 of 2",
+      "+1",
+      "66-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "7:07.0",
+      "M. Buzelis makes free throw 2 of 2",
+      "+1",
+      "67-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "67-80",
+      "+3",
+      "N. Clowney makes 3-pt jump shot from 23 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "6:38.0",
+      "Shooting foul by N. Claxton (drawn by M. Buzelis)",
+      "",
+      "67-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "6:38.0",
+      "M. Buzelis makes free throw 1 of 2",
+      "+1",
+      "68-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "6:38.0",
+      "M. Buzelis makes free throw 2 of 2",
+      "+1",
+      "69-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "69-80",
+      "",
+      "Personal foul by C. Sexton (drawn by T. Mann)"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "69-80",
+      "",
+      "N. Traoré misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "6:18.0",
+      "Defensive rebound by M. Buzelis",
+      "",
+      "69-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "6:03.0",
+      "Turnover by A. Simons (bad pass; steal by N. Traoré)",
+      "",
+      "69-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "69-80",
+      "",
+      "Shooting foul by C. Sexton (drawn by T. Mann)"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "69-80",
+      "",
+      "T. Mann misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "69-80",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "6:01.0",
+      "R. Dillingham enters the game for A. Simons",
+      "",
+      "69-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "69-81",
+      "+1",
+      "T. Mann makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "5:45.0",
+      "N. Richards makes 2-pt layup from 1 ft (assist by I. Okoro)",
+      "+2",
+      "71-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "5:31.0",
+      "",
+      "",
+      "71-84",
+      "+3",
+      "D. Wolf makes 3-pt jump shot from 26 ft (assist by N. Claxton)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "5:22.0",
+      "M. Buzelis misses 3-pt jump shot from 26 ft",
+      "",
+      "71-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "71-84",
+      "",
+      "Defensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "71-84",
+      "",
+      "D. Wolf misses 2-pt layup from 2 ft (block by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "71-84",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "71-84",
+      "",
+      "D. Powell enters the game for T. Mann"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "71-84",
+      "",
+      "Z. Williams enters the game for D. Wolf"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "71-84",
+      "",
+      "Z. Williams misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "5:07.0",
+      "Defensive rebound by R. Dillingham",
+      "",
+      "71-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "5:02.0",
+      "R. Dillingham misses 2-pt layup from 2 ft",
+      "",
+      "71-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "5:00.0",
+      "Offensive rebound by N. Richards",
+      "",
+      "71-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "5:00.0",
+      "N. Richards makes 2-pt dunk at rim",
+      "+2",
+      "73-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "73-84",
+      "",
+      "Turnover by N. Clowney (lost ball; steal by N. Richards)"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "4:43.0",
+      "I. Okoro misses 2-pt layup from 2 ft",
+      "",
+      "73-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "73-84",
+      "",
+      "Defensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "73-87",
+      "+3",
+      "D. Powell makes 3-pt jump shot from 26 ft (assist by N. Claxton)"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "4:15.0",
+      "M. Buzelis makes 3-pt jump shot from 25 ft (assist by R. Dillingham)",
+      "+3",
+      "76-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "76-87",
+      "",
+      "Turnover by N. Traoré (bad pass; steal by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "3:55.0",
+      "C. Sexton misses 2-pt layup from 1 ft",
+      "",
+      "76-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "3:51.0",
+      "Offensive rebound by N. Richards",
+      "",
+      "76-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "3:51.0",
+      "N. Richards makes 2-pt layup at rim",
+      "+2",
+      "78-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "78-87",
+      "",
+      "Brooklyn full timeout"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "3:51.0",
+      "J. Ivey enters the game for M. Buzelis",
+      "",
+      "78-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "3:51.0",
+      "P. Williams enters the game for I. Okoro",
+      "",
+      "78-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "78-87",
+      "",
+      "B. Saraf enters the game for N. Claxton"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "78-87",
+      "",
+      "D. Sharpe enters the game for N. Clowney"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "78-87",
+      "",
+      "J. Wilson enters the game for N. Traoré"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "78-87",
+      "",
+      "Offensive foul by D. Sharpe (drawn by C. Sexton)"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "3:36.0",
+      "",
+      "",
+      "78-87",
+      "",
+      "Turnover by D. Sharpe (offensive foul)"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "3:24.0",
+      "P. Williams misses 3-pt jump shot from 25 ft",
+      "",
+      "78-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "3:22.0",
+      "Offensive rebound by C. Sexton",
+      "",
+      "78-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "3:20.0",
+      "P. Williams makes 3-pt jump shot from 25 ft (assist by C. Sexton)",
+      "+3",
+      "81-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "81-87",
+      "",
+      "Turnover by J. Wilson (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "2:50.0",
+      "Personal foul by D. Powell (drawn by J. Ivey)",
+      "",
+      "81-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "2:50.0",
+      "J. Ivey makes free throw 1 of 2",
+      "+1",
+      "82-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "2:50.0",
+      "J. Ivey misses free throw 2 of 2",
+      "",
+      "82-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "2:47.0",
+      "",
+      "",
+      "82-87",
+      "",
+      "Defensive rebound by D. Sharpe"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "82-87",
+      "",
+      "Turnover by B. Saraf (lost ball; steal by J. Ivey)"
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "2:31.0",
+      "Turnover by N. Richards (bad pass; steal by B. Saraf)",
+      "",
+      "82-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "2:26.0",
+      "",
+      "",
+      "82-89",
+      "+2",
+      "B. Saraf makes 2-pt layup from 2 ft (assist by Z. Williams)"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "2:22.0",
+      "C. Sexton makes 2-pt layup from 1 ft (assist by J. Ivey)",
+      "+2",
+      "84-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "2:02.0",
+      "",
+      "",
+      "84-89",
+      "",
+      "Turnover by D. Sharpe (off goaltending)"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "1:54.0",
+      "Turnover by R. Dillingham (step out of bounds)",
+      "",
+      "84-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "1:40.0",
+      "",
+      "",
+      "84-89",
+      "",
+      "Turnover by J. Wilson (lost ball; steal by R. Dillingham)"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "1:33.0",
+      "C. Sexton misses 2-pt layup at rim",
+      "",
+      "84-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "84-89",
+      "",
+      "Defensive rebound by Z. Williams"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "84-89",
+      "",
+      "Turnover by Z. Williams (lost ball)"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "84-89",
+      "",
+      "Loose ball foul by D. Sharpe (drawn by C. Sexton)"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "1:31.0",
+      "C. Sexton misses free throw 1 of 2",
+      "",
+      "84-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "1:31.0",
+      "Offensive rebound by Team",
+      "",
+      "84-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "1:31.0",
+      "C. Sexton makes free throw 2 of 2",
+      "+1",
+      "85-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "85-89",
+      "",
+      "B. Saraf misses 2-pt layup from 2 ft (block by J. Ivey)"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "85-89",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "1:18.0",
+      "",
+      "",
+      "85-89",
+      "",
+      "Brooklyn full timeout"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "85-89",
+      "",
+      "D. Powell misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "1:08.0",
+      "",
+      "",
+      "85-89",
+      "",
+      "Offensive rebound by D. Sharpe"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "85-89",
+      "",
+      "D. Sharpe misses 2-pt layup from 2 ft (block by N. Richards)"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "1:04.0",
+      "Defensive rebound by C. Sexton",
+      "",
+      "85-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "1:00.0",
+      "J. Ivey misses 3-pt jump shot from 25 ft",
+      "",
+      "85-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "0:59.0",
+      "Offensive rebound by Team",
+      "",
+      "85-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "85-89",
+      "",
+      "Loose ball foul by D. Sharpe (drawn by N. Richards)"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "0:59.0",
+      "N. Richards makes free throw 1 of 2",
+      "+1",
+      "86-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "0:59.0",
+      "N. Richards makes free throw 2 of 2",
+      "+1",
+      "87-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "87-89",
+      "",
+      "D. Powell misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "0:40.0",
+      "Defensive rebound by R. Dillingham",
+      "",
+      "87-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "0:35.0",
+      "R. Dillingham makes 2-pt jump shot from 6 ft",
+      "+2",
+      "89-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "89-89",
+      "",
+      "D. Sharpe misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "89-89",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "89-89",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "0:00.0",
+      "N. Richards misses 3-pt jump shot from 25 ft",
+      "",
+      "89-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "89-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "Time",
+      "Chicago",
+      "",
+      "Score",
+      "",
+      "Brooklyn"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "11:45.0",
+      "C. Sexton misses 3-pt jump shot from 26 ft",
+      "",
+      "89-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "89-89",
+      "",
+      "Defensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "89-89",
+      "",
+      "Z. Williams misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "11:20.0",
+      "Defensive rebound by P. Williams",
+      "",
+      "89-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "11:12.0",
+      "Personal foul by J. Wilson (drawn by R. Dillingham)",
+      "",
+      "89-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "10:55.0",
+      "C. Sexton misses 2-pt layup from 2 ft",
+      "",
+      "89-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "89-89",
+      "",
+      "Defensive rebound by J. Wilson"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "89-91",
+      "+2",
+      "N. Claxton makes 2-pt layup from 1 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "10:34.0",
+      "P. Williams makes 2-pt layup from 2 ft",
+      "+2",
+      "91-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "10:34.0",
+      "Shooting foul by N. Claxton (drawn by P. Williams)",
+      "",
+      "91-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "10:34.0",
+      "I. Okoro enters the game for J. Ivey",
+      "",
+      "91-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "10:34.0",
+      "A. Simons enters the game for N. Richards",
+      "",
+      "91-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "10:34.0",
+      "G. Yabusele enters the game for C. Sexton",
+      "",
+      "91-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "10:34.0",
+      "P. Williams misses free throw 1 of 1",
+      "",
+      "91-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "10:30.0",
+      "",
+      "",
+      "91-91",
+      "",
+      "Defensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "91-91",
+      "",
+      "Z. Williams misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "91-91",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "10:16.0",
+      "Loose ball foul by G. Yabusele (drawn by N. Claxton)",
+      "",
+      "91-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "10:03.0",
+      "",
+      "",
+      "91-91",
+      "",
+      "Turnover by D. Powell (lost ball; steal by I. Okoro)"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "10:01.0",
+      "Shooting foul by J. Wilson (drawn by I. Okoro)",
+      "",
+      "91-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "10:01.0",
+      "I. Okoro makes free throw 1 of 2",
+      "+1",
+      "92-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "10:01.0",
+      "I. Okoro makes free throw 2 of 2",
+      "+1",
+      "93-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "93-91",
+      "",
+      "Shooting foul by I. Okoro (drawn by J. Wilson)"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "93-92",
+      "+1",
+      "J. Wilson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "9:42.0",
+      "",
+      "",
+      "93-93",
+      "+1",
+      "J. Wilson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "9:23.0",
+      "G. Yabusele misses 3-pt jump shot from 25 ft",
+      "",
+      "93-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "9:20.0",
+      "",
+      "",
+      "93-93",
+      "",
+      "Defensive rebound by Z. Williams"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "9:12.0",
+      "",
+      "",
+      "93-95",
+      "+2",
+      "J. Wilson makes 2-pt layup from 3 ft (assist by Z. Williams)"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "9:05.0",
+      "A. Simons makes 2-pt jump shot from 12 ft",
+      "+2",
+      "95-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "95-95",
+      "",
+      "Shooting foul by A. Simons (drawn by N. Traoré)"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "95-96",
+      "+1",
+      "N. Traoré makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "95-97",
+      "+1",
+      "N. Traoré makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "8:38.0",
+      "A. Simons makes 2-pt hook shot from 6 ft",
+      "+2",
+      "97-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "97-97",
+      "",
+      "Turnover by N. Traoré (bad pass; steal by I. Okoro)"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "8:20.0",
+      "G. Yabusele misses 3-pt jump shot from 25 ft",
+      "",
+      "97-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "97-97",
+      "",
+      "Defensive rebound by Z. Williams"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "97-99",
+      "+2",
+      "Z. Williams makes 2-pt layup from 3 ft (assist by N. Claxton)"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "7:53.0",
+      "A. Simons makes 2-pt jump shot from 14 ft",
+      "+2",
+      "99-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "7:35.0",
+      "",
+      "",
+      "99-101",
+      "+2",
+      "Z. Williams makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "7:18.0",
+      "A. Simons misses 3-pt jump shot from 25 ft",
+      "",
+      "99-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "99-101",
+      "",
+      "Defensive rebound by D. Powell"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "99-101",
+      "",
+      "Z. Williams misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "7:04.0",
+      "",
+      "",
+      "99-101",
+      "",
+      "Offensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "99-103",
+      "+2",
+      "Z. Williams makes 2-pt layup from 1 ft (assist by N. Claxton)"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "7:03.0",
+      "Chicago full timeout",
+      "",
+      "99-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "7:03.0",
+      "M. Buzelis enters the game for R. Dillingham",
+      "",
+      "99-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "7:03.0",
+      "C. Sexton enters the game for P. Williams",
+      "",
+      "99-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "99-103",
+      "",
+      "N. Clowney enters the game for D. Powell"
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "99-103",
+      "",
+      "D. Wolf enters the game for J. Wilson"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "6:55.0",
+      "Personal foul by N. Clowney (drawn by C. Sexton)",
+      "",
+      "99-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "99-103",
+      "",
+      "T. Mann enters the game for N. Claxton"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "99-103",
+      "",
+      "D. Sharpe enters the game for N. Traoré"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "6:49.0",
+      "Turnover by A. Simons (bad pass; steal by Z. Williams)",
+      "",
+      "99-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "6:44.0",
+      "",
+      "",
+      "99-103",
+      "",
+      "Shooting foul by M. Buzelis (drawn by D. Sharpe)"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "6:44.0",
+      "",
+      "",
+      "99-103",
+      "",
+      "D. Sharpe misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "6:44.0",
+      "",
+      "",
+      "99-103",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "6:44.0",
+      "",
+      "",
+      "99-104",
+      "+1",
+      "D. Sharpe makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "6:25.0",
+      "M. Buzelis makes 3-pt jump shot from 24 ft (assist by I. Okoro)",
+      "+3",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "6:11.0",
+      "",
+      "",
+      "102-106",
+      "+2",
+      "D. Wolf makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "5:57.0",
+      "Turnover by C. Sexton (bad pass)",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "5:57.0",
+      "N. Richards enters the game for G. Yabusele",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "102-106",
+      "",
+      "D. Sharpe misses 2-pt jump shot from 4 ft (block by M. Buzelis)"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "5:28.0",
+      "Defensive rebound by N. Richards",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "5:23.0",
+      "Turnover by A. Simons (bad pass; steal by D. Wolf)",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "102-109",
+      "+3",
+      "T. Mann makes 3-pt jump shot from 24 ft (assist by D. Wolf)"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "5:07.0",
+      "Personal foul by D. Wolf (drawn by M. Buzelis)",
+      "",
+      "102-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "5:07.0",
+      "M. Buzelis misses free throw 1 of 2",
+      "",
+      "102-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "5:07.0",
+      "Offensive rebound by Team",
+      "",
+      "102-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "5:07.0",
+      "M. Buzelis makes free throw 2 of 2",
+      "+1",
+      "103-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "4:51.0",
+      "",
+      "",
+      "103-109",
+      "",
+      "T. Mann misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "4:51.0",
+      "Defensive rebound by Team",
+      "",
+      "103-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "4:32.0",
+      "I. Okoro makes 2-pt layup from 2 ft (assist by A. Simons)",
+      "+2",
+      "105-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "4:16.0",
+      "",
+      "",
+      "105-111",
+      "+2",
+      "D. Sharpe makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "4:00.0",
+      "C. Sexton misses 2-pt layup from 2 ft (block by T. Mann)",
+      "",
+      "105-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "4:00.0",
+      "Offensive rebound by Team",
+      "",
+      "105-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "105-111",
+      "",
+      "N. Claxton enters the game for D. Sharpe"
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "105-111",
+      "",
+      "N. Traoré enters the game for Z. Williams"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "3:52.0",
+      "A. Simons makes 2-pt jump shot from 21 ft",
+      "+2",
+      "107-111",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "107-113",
+      "+2",
+      "D. Wolf makes 2-pt layup from 1 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "3:20.0",
+      "M. Buzelis misses 2-pt layup from 2 ft (block by D. Wolf)",
+      "",
+      "107-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "3:20.0",
+      "Offensive rebound by Team",
+      "",
+      "107-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "3:06.0",
+      "C. Sexton misses 2-pt hook shot from 4 ft (block by D. Wolf)",
+      "",
+      "107-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "107-113",
+      "",
+      "Defensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "107-113",
+      "",
+      "Shooting foul by N. Richards (drawn by N. Claxton)"
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "107-113",
+      "",
+      "Brooklyn full timeout"
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "107-113",
+      "",
+      "Instant Replay"
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "107-114",
+      "+1",
+      "N. Claxton makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "107-115",
+      "+1",
+      "N. Claxton makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "2:42.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "107-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "107-115",
+      "",
+      "Defensive rebound by N. Clowney"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "2:23.0",
+      "",
+      "",
+      "107-115",
+      "",
+      "N. Claxton misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "2:19.0",
+      "Defensive rebound by A. Simons",
+      "",
+      "107-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "2:15.0",
+      "Turnover by A. Simons (bad pass)",
+      "",
+      "107-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "107-115",
+      "",
+      "N. Clowney misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "107-115",
+      "",
+      "Offensive rebound by N. Claxton"
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "107-117",
+      "+2",
+      "N. Claxton makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "1:45.0",
+      "M. Buzelis makes 2-pt layup from 3 ft (assist by A. Simons)",
+      "+2",
+      "109-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "109-117",
+      "",
+      "N. Traoré misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "109-117",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "109-117",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "1:14.0",
+      "C. Sexton makes 2-pt layup from 1 ft",
+      "+2",
+      "111-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "0:52.0",
+      "",
+      "",
+      "111-119",
+      "+2",
+      "N. Traoré makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "0:52.0",
+      "Chicago full timeout",
+      "",
+      "111-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "0:47.0",
+      "M. Buzelis misses 3-pt jump shot from 24 ft",
+      "",
+      "111-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "0:43.0",
+      "Offensive rebound by I. Okoro",
+      "",
+      "111-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 490,
+    "cells": [
+      "0:39.0",
+      "C. Sexton misses 2-pt layup from 2 ft",
+      "",
+      "111-119",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 491,
+    "cells": [
+      "0:36.0",
+      "",
+      "",
+      "111-119",
+      "",
+      "Defensive rebound by D. Wolf"
+    ]
+  },
+  {
+    "row": 492,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "111-119",
+      "",
+      "Personal foul by C. Sexton (drawn by N. Clowney)"
+    ]
+  },
+  {
+    "row": 493,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "111-120",
+      "+1",
+      "N. Clowney makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 494,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "111-121",
+      "+1",
+      "N. Clowney makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 495,
+    "cells": [
+      "0:25.0",
+      "M. Buzelis misses 2-pt layup from 1 ft",
+      "",
+      "111-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 496,
+    "cells": [
+      "0:25.0",
+      "Offensive rebound by C. Sexton",
+      "",
+      "111-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 497,
+    "cells": [
+      "0:25.0",
+      "Personal foul by N. Traoré (drawn by C. Sexton)",
+      "",
+      "111-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 498,
+    "cells": [
+      "0:25.0",
+      "C. Sexton makes free throw 1 of 2",
+      "+1",
+      "112-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 499,
+    "cells": [
+      "0:25.0",
+      "C. Sexton makes free throw 2 of 2",
+      "+1",
+      "113-121",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 500,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "113-123",
+      "+2",
+      "N. Claxton makes 2-pt dunk from 1 ft (assist by N. Traoré)"
+    ]
+  },
+  {
+    "row": 501,
+    "cells": [
+      "0:08.0",
+      "I. Okoro makes 2-pt jump shot from 8 ft (assist by A. Simons)",
+      "+2",
+      "115-123",
+      "",
+      ""
+    ]
+  }
+]

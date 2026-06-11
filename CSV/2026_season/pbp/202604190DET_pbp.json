@@ -1,0 +1,5095 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Orlando",
+      "",
+      "Score",
+      "",
+      "Detroit"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "C. Cunningham misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:40.0",
+      "Defensive rebound by P. Banchero",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:32.0",
+      "P. Banchero misses 2-pt layup from 4 ft (block by T. Harris)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:31.0",
+      "Offensive rebound by Team",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:19.0",
+      "J. Suggs makes 3-pt jump shot from 25 ft (assist by D. Bane)",
+      "+3",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "3-0",
+      "",
+      "Turnover by A. Thompson (bad pass; steal by D. Bane)"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:00.0",
+      "Turnover by D. Bane (step out of bounds)",
+      "",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "3-3",
+      "+3",
+      "D. Robinson makes 3-pt jump shot from 26 ft (assist by T. Harris)"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:34.0",
+      "J. Suggs makes 3-pt jump shot from 26 ft (assist by W. Carter)",
+      "+3",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:24.0",
+      "",
+      "",
+      "6-3",
+      "",
+      "Personal foul by D. Bane (drawn by D. Robinson)"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "6-3",
+      "",
+      "T. Harris misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:13.0",
+      "Defensive rebound by J. Suggs",
+      "",
+      "6-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:03.0",
+      "P. Banchero makes 2-pt jump shot from 12 ft",
+      "+2",
+      "8-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:39.0",
+      "",
+      "",
+      "8-3",
+      "",
+      "D. Robinson misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:38.0",
+      "",
+      "",
+      "8-3",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "8-3",
+      "",
+      "D. Robinson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:24.0",
+      "Defensive rebound by F. Wagner",
+      "",
+      "8-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:18.0",
+      "Turnover by F. Wagner (lost ball; steal by A. Thompson)",
+      "",
+      "8-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:13.0",
+      "",
+      "",
+      "8-3",
+      "",
+      "Turnover by D. Robinson (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:58.0",
+      "J. Suggs misses 3-pt jump shot from 23 ft",
+      "",
+      "8-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:55.0",
+      "Offensive rebound by W. Carter",
+      "",
+      "8-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:52.0",
+      "F. Wagner misses 2-pt jump shot from 8 ft",
+      "",
+      "8-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "8-3",
+      "",
+      "Defensive rebound by C. Cunningham"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "8-3",
+      "",
+      "Shooting foul by D. Bane (drawn by T. Harris)"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "8-4",
+      "+1",
+      "T. Harris makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "8-5",
+      "+1",
+      "T. Harris makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:40.0",
+      "P. Banchero makes 3-pt jump shot from 28 ft (assist by J. Suggs)",
+      "+3",
+      "11-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "11-5",
+      "",
+      "Turnover by T. Harris (bad pass; steal by J. Suggs)"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:27.0",
+      "J. Suggs makes 2-pt dunk at rim",
+      "+2",
+      "13-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "13-5",
+      "",
+      "Detroit full timeout"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "13-5",
+      "",
+      "T. Harris misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:11.0",
+      "Defensive rebound by J. Suggs",
+      "",
+      "13-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:49.0",
+      "D. Bane makes 2-pt jump shot from 10 ft",
+      "+2",
+      "15-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:37.0",
+      "",
+      "",
+      "15-5",
+      "",
+      "Turnover by C. Cunningham (bad pass; steal by J. Suggs)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:33.0",
+      "F. Wagner makes 2-pt layup from 2 ft (assist by J. Suggs)",
+      "+2",
+      "17-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:33.0",
+      "Shooting foul by D. Robinson (drawn by F. Wagner)",
+      "",
+      "17-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:33.0",
+      "A. Black enters the game for D. Bane",
+      "",
+      "17-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:33.0",
+      "F. Wagner makes free throw 1 of 1",
+      "+1",
+      "18-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "18-8",
+      "+3",
+      "C. Cunningham makes 3-pt jump shot from 26 ft (assist by D. Robinson)"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:07.0",
+      "J. Suggs misses 3-pt jump shot from 26 ft",
+      "",
+      "18-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:05.0",
+      "",
+      "",
+      "18-8",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "18-8",
+      "",
+      "A. Thompson misses 2-pt hook shot from 6 ft"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:54.0",
+      "Defensive rebound by F. Wagner",
+      "",
+      "18-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:51.0",
+      "Personal foul by D. Robinson (drawn by F. Wagner)",
+      "",
+      "18-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:51.0",
+      "T. Da Silva enters the game for F. Wagner",
+      "",
+      "18-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "18-8",
+      "",
+      "K. Huerter enters the game for D. Robinson"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:45.0",
+      "J. Suggs misses 3-pt jump shot from 28 ft",
+      "",
+      "18-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "18-8",
+      "",
+      "Defensive rebound by C. Cunningham"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "18-10",
+      "+2",
+      "A. Thompson makes 2-pt dunk from 1 ft (assist by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:13.0",
+      "P. Banchero makes 2-pt jump shot from 10 ft",
+      "+2",
+      "20-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "20-10",
+      "",
+      "C. Cunningham misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:56.0",
+      "Defensive rebound by P. Banchero",
+      "",
+      "20-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:50.0",
+      "Shooting foul by T. Harris (drawn by P. Banchero)",
+      "",
+      "20-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:50.0",
+      "P. Banchero makes free throw 1 of 2",
+      "+1",
+      "21-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:50.0",
+      "",
+      "",
+      "21-10",
+      "",
+      "I. Stewart enters the game for T. Harris"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:50.0",
+      "P. Banchero makes free throw 2 of 2",
+      "+1",
+      "22-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "22-10",
+      "",
+      "J. Duren misses 2-pt layup from 2 ft (block by J. Suggs)"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "5:35.0",
+      "Defensive rebound by T. Da Silva",
+      "",
+      "22-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "5:25.0",
+      "J. Suggs misses 3-pt jump shot from 31 ft",
+      "",
+      "22-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "22-10",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "22-13",
+      "+3",
+      "K. Huerter makes 3-pt jump shot from 26 ft (assist by A. Thompson)"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:54.0",
+      "J. Suggs misses 3-pt jump shot from 23 ft",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:51.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Defensive rebound by J. Duren"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Turnover by J. Duren (lost ball; steal by W. Carter)"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:30.0",
+      "A. Black misses 3-pt jump shot from 23 ft",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Defensive rebound by J. Duren"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:25.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "Personal foul by J. Suggs (drawn by I. Stewart)"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:25.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "C. LeVert enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "22-13",
+      "",
+      "I. Stewart misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:16.0",
+      "Defensive rebound by P. Banchero",
+      "",
+      "22-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:59.0",
+      "W. Carter makes 2-pt dunk from 1 ft (assist by A. Black)",
+      "+2",
+      "24-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "24-15",
+      "+2",
+      "C. Cunningham makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "3:40.0",
+      "J. Suggs makes 2-pt layup from 5 ft",
+      "+2",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:40.0",
+      "Shooting foul by C. LeVert (drawn by J. Suggs)",
+      "",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:40.0",
+      "G. Bitadze enters the game for W. Carter",
+      "",
+      "26-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:40.0",
+      "",
+      "",
+      "26-15",
+      "",
+      "T. Harris enters the game for J. Duren"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:40.0",
+      "J. Suggs makes free throw 1 of 1",
+      "+1",
+      "27-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "27-18",
+      "+3",
+      "C. LeVert makes 3-pt jump shot from 23 ft (assist by K. Huerter)"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:13.0",
+      "P. Banchero misses 2-pt dunk from 4 ft (block by C. LeVert)",
+      "",
+      "27-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "27-18",
+      "",
+      "Defensive rebound by C. LeVert"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:06.0",
+      "",
+      "",
+      "27-20",
+      "+2",
+      "C. Cunningham makes 2-pt dunk from 1 ft (assist by T. Harris)"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:06.0",
+      "Orlando full timeout",
+      "",
+      "27-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:06.0",
+      "D. Bane enters the game for P. Banchero",
+      "",
+      "27-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:06.0",
+      "F. Wagner enters the game for J. Suggs",
+      "",
+      "27-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "2:47.0",
+      "D. Bane misses 2-pt layup from 7 ft",
+      "",
+      "27-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:45.0",
+      "Offensive rebound by T. Da Silva",
+      "",
+      "27-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:41.0",
+      "T. Da Silva misses 3-pt jump shot from 23 ft",
+      "",
+      "27-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "2:39.0",
+      "",
+      "",
+      "27-20",
+      "",
+      "Defensive rebound by I. Stewart"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "27-20",
+      "",
+      "Shooting foul by A. Black (drawn by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "27-21",
+      "+1",
+      "C. Cunningham makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "2:32.0",
+      "",
+      "",
+      "27-22",
+      "+1",
+      "C. Cunningham makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:12.0",
+      "F. Wagner misses 2-pt jump shot from 12 ft",
+      "",
+      "27-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "2:08.0",
+      "",
+      "",
+      "27-22",
+      "",
+      "Defensive rebound by C. LeVert"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "27-22",
+      "",
+      "Turnover by C. Cunningham (lost ball; steal by A. Black)"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "1:57.0",
+      "D. Bane makes 2-pt layup from 2 ft",
+      "+2",
+      "29-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "1:49.0",
+      "",
+      "",
+      "29-24",
+      "+2",
+      "T. Harris makes 2-pt layup from 1 ft (assist by C. LeVert)"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "1:37.0",
+      "F. Wagner misses 3-pt jump shot from 23 ft",
+      "",
+      "29-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "1:34.0",
+      "Offensive rebound by G. Bitadze",
+      "",
+      "29-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "1:33.0",
+      "A. Black misses 3-pt jump shot from 24 ft",
+      "",
+      "29-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "29-24",
+      "",
+      "Defensive rebound by C. LeVert"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "29-24",
+      "",
+      "I. Stewart misses 2-pt layup from 3 ft (block by G. Bitadze)"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "29-24",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "29-24",
+      "",
+      "R. Holland enters the game for C. Cunningham"
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "29-24",
+      "",
+      "D. Jenkins enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "29-27",
+      "+3",
+      "D. Jenkins makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:03.0",
+      "Personal foul by I. Stewart (drawn by G. Bitadze)",
+      "",
+      "29-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:03.0",
+      "G. Bitadze makes free throw 1 of 2",
+      "+1",
+      "30-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:03.0",
+      "G. Bitadze makes free throw 2 of 2",
+      "+1",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "31-27",
+      "",
+      "T. Harris misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:44.0",
+      "Defensive rebound by G. Bitadze",
+      "",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:40.0",
+      "D. Bane misses 3-pt jump shot from 25 ft",
+      "",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:37.0",
+      "Offensive rebound by T. Da Silva",
+      "",
+      "31-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:37.0",
+      "T. Da Silva makes 2-pt layup from 3 ft",
+      "+2",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:32.0",
+      "",
+      "",
+      "33-27",
+      "",
+      "D. Jenkins misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:29.0",
+      "Defensive rebound by D. Bane",
+      "",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:10.0",
+      "F. Wagner misses 2-pt layup from 3 ft",
+      "",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:09.0",
+      "Offensive rebound by G. Bitadze",
+      "",
+      "33-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:08.0",
+      "G. Bitadze makes 2-pt dunk at rim",
+      "+2",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "35-27",
+      "",
+      "D. Jenkins misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "0:01.0",
+      "Defensive rebound by A. Black",
+      "",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "Time",
+      "Orlando",
+      "",
+      "Score",
+      "",
+      "Detroit"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "11:46.0",
+      "Shooting foul by J. Duren (drawn by A. Black)",
+      "",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "11:46.0",
+      "A. Black misses free throw 1 of 2",
+      "",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "11:46.0",
+      "Offensive rebound by Team",
+      "",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "11:46.0",
+      "A. Black misses free throw 2 of 2",
+      "",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "11:44.0",
+      "",
+      "",
+      "35-27",
+      "",
+      "Defensive rebound by J. Duren"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "35-27",
+      "",
+      "D. Robinson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "11:26.0",
+      "Defensive rebound by D. Bane",
+      "",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "11:20.0",
+      "D. Bane misses 2-pt layup from 2 ft (block by J. Duren)",
+      "",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "11:18.0",
+      "",
+      "",
+      "35-27",
+      "",
+      "Defensive rebound by T. Harris"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "35-27",
+      "",
+      "Shooting foul by W. Carter (drawn by T. Harris)"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "35-28",
+      "+1",
+      "T. Harris makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "11:16.0",
+      "",
+      "",
+      "35-29",
+      "+1",
+      "T. Harris makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "10:56.0",
+      "D. Bane misses 2-pt jump shot from 18 ft",
+      "",
+      "35-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "35-29",
+      "",
+      "Defensive rebound by R. Holland"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "10:50.0",
+      "",
+      "",
+      "35-31",
+      "+2",
+      "T. Harris makes 2-pt dunk from 2 ft (assist by R. Holland)"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "10:29.0",
+      "Shooting foul by T. Harris (drawn by F. Wagner)",
+      "",
+      "35-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "10:29.0",
+      "F. Wagner makes free throw 1 of 2",
+      "+1",
+      "36-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "10:29.0",
+      "F. Wagner makes free throw 2 of 2",
+      "+1",
+      "37-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "10:05.0",
+      "",
+      "",
+      "37-31",
+      "",
+      "D. Jenkins misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "10:02.0",
+      "Defensive rebound by W. Carter",
+      "",
+      "37-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:54.0",
+      "F. Wagner misses 2-pt hook shot from 3 ft",
+      "",
+      "37-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:53.0",
+      "",
+      "",
+      "37-31",
+      "",
+      "Defensive rebound by D. Jenkins"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "37-33",
+      "+2",
+      "R. Holland makes 2-pt dunk from 2 ft (assist by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "9:33.0",
+      "W. Carter makes 3-pt jump shot from 26 ft (assist by D. Bane)",
+      "+3",
+      "40-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "40-33",
+      "",
+      "Personal foul by J. Cain (drawn by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "9:15.0",
+      "P. Banchero enters the game for D. Bane",
+      "",
+      "40-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "9:15.0",
+      "J. Suggs enters the game for F. Wagner",
+      "",
+      "40-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "9:11.0",
+      "",
+      "",
+      "40-33",
+      "",
+      "D. Robinson misses 2-pt layup from 5 ft (block by A. Black)"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "40-33",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "40-33",
+      "",
+      "Away from play foul by A. Black (drawn by D. Robinson)"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "40-34",
+      "+1",
+      "T. Harris makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "9:02.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "Shooting foul by J. Cain (drawn by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "9:02.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "D. Jenkins misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "9:02.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "9:02.0",
+      "",
+      "",
+      "40-34",
+      "",
+      "D. Jenkins misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "9:00.0",
+      "Defensive rebound by J. Suggs",
+      "",
+      "40-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "8:38.0",
+      "J. Cain makes 2-pt layup from 2 ft (assist by P. Banchero)",
+      "+2",
+      "42-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "42-36",
+      "+2",
+      "J. Duren makes 2-pt layup from 2 ft (assist by D. Robinson)"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "8:20.0",
+      "Personal foul by D. Robinson (drawn by J. Cain)",
+      "",
+      "42-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "C. Cunningham enters the game for T. Harris"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "J. Green enters the game for R. Holland"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "8:20.0",
+      "",
+      "",
+      "42-36",
+      "",
+      "A. Thompson enters the game for D. Robinson"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "8:15.0",
+      "A. Black makes 2-pt dunk from 1 ft (assist by P. Banchero)",
+      "+2",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "44-36",
+      "",
+      "C. Cunningham misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:54.0",
+      "Defensive rebound by J. Cain",
+      "",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:39.0",
+      "J. Suggs misses 3-pt jump shot from 27 ft",
+      "",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:39.0",
+      "Offensive rebound by Team",
+      "",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "44-36",
+      "",
+      "Loose ball foul by J. Duren (drawn by J. Cain)"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "7:35.0",
+      "Shooting foul by J. Green (drawn by P. Banchero)",
+      "",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "7:35.0",
+      "P. Banchero misses free throw 1 of 2",
+      "",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "7:35.0",
+      "Offensive rebound by Team",
+      "",
+      "44-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "7:35.0",
+      "P. Banchero makes free throw 2 of 2",
+      "+1",
+      "45-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "45-36",
+      "",
+      "C. Cunningham misses 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "45-36",
+      "",
+      "Offensive rebound by D. Jenkins"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "45-36",
+      "",
+      "Shooting foul by P. Banchero (drawn by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "45-37",
+      "+1",
+      "D. Jenkins makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "45-38",
+      "+1",
+      "D. Jenkins makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "6:57.0",
+      "Turnover by J. Cain (bad pass; steal by J. Green)",
+      "",
+      "45-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "45-38",
+      "",
+      "A. Thompson misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "45-38",
+      "",
+      "Offensive rebound by J. Duren"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "45-40",
+      "+2",
+      "J. Duren makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "6:31.0",
+      "P. Banchero makes 2-pt jump shot from 12 ft (assist by J. Suggs)",
+      "+2",
+      "47-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "47-40",
+      "",
+      "C. Cunningham misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "47-40",
+      "",
+      "Offensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "47-40",
+      "",
+      "Detroit full timeout"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "6:16.0",
+      "G. Bitadze enters the game for W. Carter",
+      "",
+      "47-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "47-40",
+      "",
+      "K. Huerter enters the game for J. Duren"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "6:16.0",
+      "",
+      "",
+      "47-40",
+      "",
+      "I. Stewart enters the game for D. Jenkins"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "47-42",
+      "+2",
+      "C. Cunningham makes 2-pt jump shot from 9 ft (assist by J. Green)"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "5:42.0",
+      "P. Banchero misses 2-pt jump shot from 8 ft",
+      "",
+      "47-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:40.0",
+      "",
+      "",
+      "47-42",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "47-42",
+      "",
+      "Shooting foul by J. Suggs (drawn by J. Green)"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "47-43",
+      "+1",
+      "J. Green makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "5:35.0",
+      "D. Bane enters the game for A. Black",
+      "",
+      "47-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "47-43",
+      "",
+      "J. Green misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "5:33.0",
+      "Defensive rebound by P. Banchero",
+      "",
+      "47-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "5:17.0",
+      "J. Cain misses 3-pt jump shot from 24 ft",
+      "",
+      "47-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "47-43",
+      "",
+      "Defensive rebound by J. Green"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "47-43",
+      "",
+      "C. Cunningham misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "4:59.0",
+      "Defensive rebound by P. Banchero",
+      "",
+      "47-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "4:56.0",
+      "Turnover by D. Bane (bad pass)",
+      "",
+      "47-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "47-43",
+      "",
+      "Shooting foul by G. Bitadze (drawn by J. Green)"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "47-44",
+      "+1",
+      "J. Green makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "4:42.0",
+      "F. Wagner enters the game for J. Cain",
+      "",
+      "47-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "47-45",
+      "+1",
+      "J. Green makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "4:33.0",
+      "Turnover by P. Banchero (bad pass; steal by J. Green)",
+      "",
+      "47-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "4:29.0",
+      "",
+      "",
+      "47-45",
+      "",
+      "Turnover by C. Cunningham (lost ball; steal by J. Suggs)"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "4:23.0",
+      "D. Bane misses 3-pt jump shot from 25 ft",
+      "",
+      "47-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "4:20.0",
+      "Offensive rebound by P. Banchero",
+      "",
+      "47-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "4:18.0",
+      "Shooting foul by I. Stewart (drawn by P. Banchero)",
+      "",
+      "47-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "4:18.0",
+      "P. Banchero makes free throw 1 of 2",
+      "+1",
+      "48-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "4:18.0",
+      "P. Banchero makes free throw 2 of 2",
+      "+1",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "49-45",
+      "",
+      "J. Green misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "49-45",
+      "",
+      "Offensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "49-45",
+      "",
+      "A. Thompson misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "3:52.0",
+      "Defensive rebound by G. Bitadze",
+      "",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "3:41.0",
+      "Turnover by F. Wagner (lost ball; steal by A. Thompson)",
+      "",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "49-45",
+      "",
+      "K. Huerter misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "49-45",
+      "",
+      "Offensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "49-47",
+      "+2",
+      "A. Thompson makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "3:34.0",
+      "Orlando full timeout",
+      "",
+      "49-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "49-47",
+      "",
+      "T. Harris enters the game for J. Green"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "3:18.0",
+      "Turnover by J. Suggs (bad pass; steal by A. Thompson)",
+      "",
+      "49-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "3:13.0",
+      "",
+      "",
+      "49-47",
+      "",
+      "A. Thompson misses 2-pt layup from 2 ft (block by G. Bitadze)"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "3:10.0",
+      "Defensive rebound by G. Bitadze",
+      "",
+      "49-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "3:02.0",
+      "P. Banchero makes 3-pt jump shot from 26 ft (assist by G. Bitadze)",
+      "+3",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "52-47",
+      "",
+      "Personal foul by F. Wagner (drawn by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "52-47",
+      "",
+      "C. Cunningham misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "52-47",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "2:36.0",
+      "W. Carter enters the game for G. Bitadze",
+      "",
+      "52-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "52-48",
+      "+1",
+      "C. Cunningham makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "2:19.0",
+      "J. Suggs misses 3-pt jump shot from 27 ft",
+      "",
+      "52-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "52-48",
+      "",
+      "Defensive rebound by C. Cunningham"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "52-48",
+      "",
+      "Shooting foul by J. Suggs (drawn by I. Stewart)"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "52-48",
+      "",
+      "I. Stewart misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "52-48",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "2:09.0",
+      "",
+      "",
+      "52-49",
+      "+1",
+      "I. Stewart makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "1:48.0",
+      "P. Banchero misses 2-pt jump shot from 14 ft",
+      "",
+      "52-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "52-49",
+      "",
+      "Defensive rebound by T. Harris"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "52-49",
+      "",
+      "T. Harris misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "1:37.0",
+      "Defensive rebound by W. Carter",
+      "",
+      "52-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "1:28.0",
+      "Turnover by P. Banchero (lost ball; steal by K. Huerter)",
+      "",
+      "52-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "52-51",
+      "+2",
+      "C. Cunningham makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "1:01.0",
+      "D. Bane misses 2-pt jump shot from 22 ft",
+      "",
+      "52-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "0:59.0",
+      "",
+      "",
+      "52-51",
+      "",
+      "Defensive rebound by C. Cunningham"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "52-51",
+      "",
+      "C. Cunningham misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "0:50.0",
+      "Defensive rebound by W. Carter",
+      "",
+      "52-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "0:45.0",
+      "F. Wagner makes 3-pt jump shot from 23 ft (assist by D. Bane)",
+      "+3",
+      "55-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "55-51",
+      "",
+      "K. Huerter misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "0:33.0",
+      "Defensive rebound by P. Banchero",
+      "",
+      "55-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "0:14.0",
+      "W. Carter misses 3-pt jump shot from 23 ft",
+      "",
+      "55-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "55-51",
+      "",
+      "Defensive rebound by I. Stewart"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "55-51",
+      "",
+      "T. Harris misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "55-51",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "Time",
+      "Orlando",
+      "",
+      "Score",
+      "",
+      "Detroit"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "11:46.0",
+      "W. Carter makes 2-pt jump shot from 9 ft (assist by D. Bane)",
+      "+2",
+      "57-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "57-51",
+      "",
+      "Turnover by J. Duren (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "11:05.0",
+      "D. Bane misses 3-pt jump shot from 26 ft",
+      "",
+      "57-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "57-51",
+      "",
+      "Defensive rebound by T. Harris"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "57-51",
+      "",
+      "Shooting foul by D. Bane (drawn by J. Duren)"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "57-52",
+      "+1",
+      "J. Duren makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "10:59.0",
+      "",
+      "",
+      "57-52",
+      "",
+      "J. Duren misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "10:57.0",
+      "Defensive rebound by P. Banchero",
+      "",
+      "57-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "10:40.0",
+      "D. Bane makes 2-pt jump shot from 16 ft (assist by P. Banchero)",
+      "+2",
+      "59-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "10:19.0",
+      "",
+      "",
+      "59-52",
+      "",
+      "T. Harris misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "10:15.0",
+      "Defensive rebound by F. Wagner",
+      "",
+      "59-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "10:08.0",
+      "P. Banchero makes 2-pt jump shot from 10 ft",
+      "+2",
+      "61-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "9:50.0",
+      "",
+      "",
+      "61-52",
+      "",
+      "T. Harris misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "9:46.0",
+      "Defensive rebound by F. Wagner",
+      "",
+      "61-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "9:35.0",
+      "W. Carter makes 2-pt dunk from 2 ft (assist by P. Banchero)",
+      "+2",
+      "63-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "9:35.0",
+      "",
+      "",
+      "63-52",
+      "",
+      "Detroit full timeout"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "63-54",
+      "+2",
+      "A. Thompson makes 2-pt jump shot from 13 ft (assist by J. Duren)"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:59.0",
+      "D. Bane misses 3-pt jump shot from 24 ft",
+      "",
+      "63-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "63-54",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "8:46.0",
+      "",
+      "",
+      "63-57",
+      "+3",
+      "D. Robinson makes 3-pt jump shot from 23 ft (assist by T. Harris)"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "8:27.0",
+      "J. Suggs misses 2-pt jump shot from 10 ft",
+      "",
+      "63-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "63-57",
+      "",
+      "Defensive rebound by J. Duren"
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "63-60",
+      "+3",
+      "T. Harris makes 3-pt jump shot from 23 ft (assist by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "8:05.0",
+      "Personal foul by T. Harris (drawn by J. Suggs)",
+      "",
+      "63-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "8:00.0",
+      "F. Wagner misses 2-pt jump shot from 11 ft",
+      "",
+      "63-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:55.0",
+      "Offensive rebound by J. Suggs",
+      "",
+      "63-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "7:55.0",
+      "J. Suggs misses 2-pt layup at rim",
+      "",
+      "63-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "7:54.0",
+      "",
+      "",
+      "63-60",
+      "",
+      "Defensive rebound by A. Thompson"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "63-62",
+      "+2",
+      "C. Cunningham makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "7:45.0",
+      "Orlando full timeout",
+      "",
+      "63-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "7:45.0",
+      "A. Black enters the game for F. Wagner",
+      "",
+      "63-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "7:27.0",
+      "D. Bane misses 3-pt jump shot from 23 ft",
+      "",
+      "63-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "7:25.0",
+      "Offensive rebound by D. Bane",
+      "",
+      "63-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "7:23.0",
+      "D. Bane makes 2-pt jump shot from 3 ft",
+      "+2",
+      "65-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "7:04.0",
+      "",
+      "",
+      "65-65",
+      "+3",
+      "C. Cunningham makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "6:42.0",
+      "P. Banchero makes 2-pt jump shot from 20 ft",
+      "+2",
+      "67-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "67-65",
+      "",
+      "C. Cunningham misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "6:28.0",
+      "Defensive rebound by D. Bane",
+      "",
+      "67-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "6:21.0",
+      "D. Bane makes 3-pt jump shot from 26 ft (assist by A. Black)",
+      "+3",
+      "70-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "70-67",
+      "+2",
+      "J. Duren makes 2-pt hook shot from 8 ft (assist by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "5:43.0",
+      "D. Bane misses 3-pt jump shot from 26 ft",
+      "",
+      "70-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "70-67",
+      "",
+      "Defensive rebound by T. Harris"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "70-67",
+      "",
+      "Shooting foul by J. Suggs (drawn by T. Harris)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "70-67",
+      "",
+      "T. Harris misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "70-67",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "5:37.0",
+      "T. Da Silva enters the game for D. Bane",
+      "",
+      "70-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "70-67",
+      "",
+      "R. Holland enters the game for C. Cunningham"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "70-67",
+      "",
+      "D. Jenkins enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "70-68",
+      "+1",
+      "T. Harris makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "5:19.0",
+      "P. Banchero makes 2-pt layup from 4 ft",
+      "+2",
+      "72-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "72-68",
+      "",
+      "Offensive foul by J. Duren (drawn by W. Carter)"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "72-68",
+      "",
+      "Turnover by J. Duren (offensive foul)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:54.0",
+      "W. Carter makes 2-pt dunk from 2 ft (assist by A. Black)",
+      "+2",
+      "74-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:28.0",
+      "",
+      "",
+      "74-68",
+      "",
+      "T. Harris misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:24.0",
+      "Defensive rebound by T. Da Silva",
+      "",
+      "74-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "4:09.0",
+      "A. Black makes 3-pt jump shot from 25 ft (assist by J. Suggs)",
+      "+3",
+      "77-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "4:09.0",
+      "G. Bitadze enters the game for W. Carter",
+      "",
+      "77-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "4:09.0",
+      "J. Cain enters the game for J. Suggs",
+      "",
+      "77-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "77-68",
+      "",
+      "K. Huerter enters the game for J. Duren"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "4:09.0",
+      "",
+      "",
+      "77-68",
+      "",
+      "I. Stewart enters the game for D. Robinson"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "77-68",
+      "",
+      "T. Harris misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "3:48.0",
+      "Defensive rebound by A. Black",
+      "",
+      "77-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "3:44.0",
+      "A. Black makes 2-pt layup from 2 ft",
+      "+2",
+      "79-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "3:43.0",
+      "",
+      "",
+      "79-68",
+      "",
+      "Detroit full timeout"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "3:43.0",
+      "",
+      "",
+      "79-68",
+      "",
+      "C. Cunningham enters the game for T. Harris"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "3:18.0",
+      "",
+      "",
+      "79-68",
+      "",
+      "Turnover by R. Holland (lost ball; steal by P. Banchero)"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "3:09.0",
+      "Def 3 sec tech foul by Team",
+      "",
+      "79-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "3:09.0",
+      "P. Banchero misses technical free throw",
+      "",
+      "79-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "3:09.0",
+      "Offensive rebound by Team",
+      "",
+      "79-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "2:55.0",
+      "Turnover by J. Cain (lost ball; steal by R. Holland)",
+      "",
+      "79-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "79-68",
+      "",
+      "R. Holland misses 2-pt layup from 3 ft (block by A. Black)"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "79-68",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "2:52.0",
+      "Orlando full timeout",
+      "",
+      "79-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "2:52.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "79-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "79-70",
+      "+2",
+      "C. Cunningham makes 2-pt layup from 1 ft (assist by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "2:36.0",
+      "F. Wagner enters the game for J. Cain",
+      "",
+      "79-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "2:09.0",
+      "P. Banchero misses 3-pt jump shot from 26 ft",
+      "",
+      "79-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "2:05.0",
+      "",
+      "",
+      "79-70",
+      "",
+      "Defensive rebound by I. Stewart"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "79-70",
+      "",
+      "C. Cunningham misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "79-70",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "1:52.0",
+      "Loose ball foul by A. Black (drawn by K. Huerter)",
+      "",
+      "79-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "1:40.0",
+      "",
+      "",
+      "79-70",
+      "",
+      "D. Jenkins misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "1:40.0",
+      "Defensive rebound by Team",
+      "",
+      "79-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "1:40.0",
+      "",
+      "",
+      "79-70",
+      "",
+      "Loose ball foul by I. Stewart (drawn by G. Bitadze)"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:26.0",
+      "Turnover by T. Da Silva (lost ball)",
+      "",
+      "79-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:26.0",
+      "Loose ball foul by T. Da Silva (drawn by I. Stewart)",
+      "",
+      "79-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "79-71",
+      "+1",
+      "I. Stewart makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:26.0",
+      "D. Bane enters the game for P. Banchero",
+      "",
+      "79-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "1:26.0",
+      "",
+      "",
+      "79-72",
+      "+1",
+      "I. Stewart makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "1:12.0",
+      "Shooting foul by R. Holland (drawn by D. Bane)",
+      "",
+      "79-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "1:12.0",
+      "D. Bane makes free throw 1 of 2",
+      "+1",
+      "80-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "1:12.0",
+      "D. Bane makes free throw 2 of 2",
+      "+1",
+      "81-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "81-74",
+      "+2",
+      "C. Cunningham makes 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:33.0",
+      "D. Bane misses 2-pt jump shot from 17 ft",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "81-74",
+      "",
+      "Defensive rebound by R. Holland"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:24.0",
+      "",
+      "",
+      "81-74",
+      "",
+      "Turnover by R. Holland (lost ball; steal by F. Wagner)"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:04.0",
+      "A. Black misses 3-pt jump shot from 26 ft (block by D. Jenkins)",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:03.0",
+      "Offensive rebound by A. Black",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:02.0",
+      "A. Black misses 2-pt jump shot from 6 ft",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:01.0",
+      "Offensive rebound by G. Bitadze",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:01.0",
+      "G. Bitadze misses 2-pt layup at rim",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "0:01.0",
+      "Offensive rebound by Team",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "Time",
+      "Orlando",
+      "",
+      "Score",
+      "",
+      "Detroit"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "11:44.0",
+      "",
+      "",
+      "81-74",
+      "",
+      "C. Cunningham misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "11:42.0",
+      "Defensive rebound by F. Wagner",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "11:39.0",
+      "D. Bane makes 2-pt layup from 5 ft (assist by F. Wagner)",
+      "+2",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "Shooting foul by A. Black (drawn by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "83-75",
+      "+1",
+      "C. Cunningham makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "11:26.0",
+      "J. Suggs enters the game for A. Black",
+      "",
+      "83-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "83-76",
+      "+1",
+      "C. Cunningham makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "11:13.0",
+      "F. Wagner makes 2-pt layup from 3 ft (assist by W. Carter)",
+      "+2",
+      "85-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "85-78",
+      "+2",
+      "T. Harris makes 2-pt jump shot from 7 ft (assist by D. Robinson)"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "10:32.0",
+      "Turnover by F. Wagner (lost ball; steal by T. Harris)",
+      "",
+      "85-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "85-81",
+      "+3",
+      "D. Robinson makes 3-pt jump shot from 27 ft (assist by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:51.0",
+      "J. Suggs makes 3-pt jump shot from 27 ft",
+      "+3",
+      "88-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:31.0",
+      "",
+      "",
+      "88-83",
+      "+2",
+      "T. Harris makes 2-pt jump shot from 3 ft (assist by D. Robinson)"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "9:12.0",
+      "F. Wagner makes 2-pt layup from 2 ft",
+      "+2",
+      "90-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "8:54.0",
+      "",
+      "",
+      "90-86",
+      "+3",
+      "C. Cunningham makes 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "8:37.0",
+      "T. Da Silva makes 2-pt layup from 4 ft (assist by W. Carter)",
+      "+2",
+      "92-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "92-86",
+      "",
+      "Turnover by T. Harris (lost ball; steal by F. Wagner)"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "8:16.0",
+      "F. Wagner makes 2-pt jump shot from 15 ft",
+      "+2",
+      "94-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "94-86",
+      "",
+      "Detroit full timeout"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "8:15.0",
+      "P. Banchero enters the game for D. Bane",
+      "",
+      "94-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "8:15.0",
+      "",
+      "",
+      "94-86",
+      "",
+      "A. Thompson enters the game for D. Jenkins"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "94-86",
+      "",
+      "D. Robinson misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "94-86",
+      "",
+      "Offensive rebound by T. Harris"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "7:53.0",
+      "",
+      "",
+      "94-86",
+      "",
+      "Personal foul by J. Suggs (drawn by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "7:45.0",
+      "",
+      "",
+      "94-88",
+      "+2",
+      "C. Cunningham makes 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "7:25.0",
+      "F. Wagner makes 2-pt dunk from 2 ft",
+      "+2",
+      "96-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "96-88",
+      "",
+      "Shooting foul by F. Wagner (drawn by A. Thompson)"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "96-89",
+      "+1",
+      "A. Thompson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "7:09.0",
+      "D. Bane enters the game for F. Wagner",
+      "",
+      "96-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "96-90",
+      "+1",
+      "A. Thompson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "6:54.0",
+      "T. Da Silva misses 3-pt jump shot from 25 ft",
+      "",
+      "96-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "6:51.0",
+      "",
+      "",
+      "96-90",
+      "",
+      "Defensive rebound by C. Cunningham"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "96-90",
+      "",
+      "Shooting foul by D. Bane (drawn by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "96-91",
+      "+1",
+      "C. Cunningham makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "6:48.0",
+      "",
+      "",
+      "96-92",
+      "+1",
+      "C. Cunningham makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "6:39.0",
+      "T. Da Silva makes 3-pt jump shot from 23 ft (assist by W. Carter)",
+      "+3",
+      "99-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "99-92",
+      "",
+      "C. Cunningham misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "6:22.0",
+      "Defensive rebound by Team",
+      "",
+      "99-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "6:08.0",
+      "W. Carter makes 2-pt layup from 2 ft (assist by D. Bane)",
+      "+2",
+      "101-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "Personal foul by T. Da Silva (drawn by J. Duren)"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "J. Duren misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "101-92",
+      "",
+      "D. Jenkins enters the game for C. Cunningham"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "5:47.0",
+      "",
+      "",
+      "101-93",
+      "+1",
+      "J. Duren makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "5:25.0",
+      "T. Da Silva misses 2-pt jump shot from 16 ft",
+      "",
+      "101-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "5:22.0",
+      "",
+      "",
+      "101-93",
+      "",
+      "Defensive rebound by J. Duren"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "5:15.0",
+      "",
+      "",
+      "101-93",
+      "",
+      "Turnover by A. Thompson (bad pass; steal by D. Bane)"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "5:05.0",
+      "Personal foul by A. Thompson (drawn by P. Banchero)",
+      "",
+      "101-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "5:05.0",
+      "F. Wagner enters the game for T. Da Silva",
+      "",
+      "101-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "101-93",
+      "",
+      "C. Cunningham enters the game for J. Duren"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "101-93",
+      "",
+      "K. Huerter enters the game for D. Robinson"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "5:05.0",
+      "",
+      "",
+      "101-93",
+      "",
+      "I. Stewart enters the game for A. Thompson"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "4:59.0",
+      "D. Bane makes 2-pt jump shot from 15 ft (assist by W. Carter)",
+      "+2",
+      "103-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "103-95",
+      "+2",
+      "C. Cunningham makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "4:25.0",
+      "D. Bane misses 2-pt jump shot from 11 ft (block by T. Harris)",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "4:23.0",
+      "Offensive rebound by D. Bane",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "4:22.0",
+      "P. Banchero misses 3-pt jump shot from 27 ft",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "Defensive rebound by K. Huerter"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "4:07.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "C. Cunningham misses 2-pt jump shot from 5 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "4:04.0",
+      "Defensive rebound by Team",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "3:49.0",
+      "J. Suggs misses 2-pt layup from 4 ft (block by I. Stewart)",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "Defensive rebound by I. Stewart"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "Shooting foul by D. Bane (drawn by D. Jenkins)"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "3:45.0",
+      "Orlando full timeout",
+      "",
+      "103-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "J. Duren enters the game for T. Harris"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "D. Jenkins misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "103-95",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "103-96",
+      "+1",
+      "D. Jenkins makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "3:27.0",
+      "F. Wagner makes 2-pt layup from 3 ft",
+      "+2",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "3:14.0",
+      "",
+      "",
+      "105-96",
+      "",
+      "C. Cunningham misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "3:12.0",
+      "Defensive rebound by P. Banchero",
+      "",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "3:02.0",
+      "Shooting foul by K. Huerter (drawn by F. Wagner)",
+      "",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "3:02.0",
+      "F. Wagner misses free throw 1 of 2",
+      "",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "3:02.0",
+      "Offensive rebound by Team",
+      "",
+      "105-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "3:02.0",
+      "F. Wagner makes free throw 2 of 2",
+      "+1",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "106-96",
+      "",
+      "C. Cunningham misses 2-pt layup from 5 ft (block by W. Carter)"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "2:42.0",
+      "Defensive rebound by W. Carter",
+      "",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "2:27.0",
+      "Turnover by P. Banchero (bad pass; steal by I. Stewart)",
+      "",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "106-96",
+      "",
+      "D. Jenkins misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "2:19.0",
+      "Defensive rebound by D. Bane",
+      "",
+      "106-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "2:13.0",
+      "J. Suggs makes 2-pt layup from 2 ft (assist by F. Wagner)",
+      "+2",
+      "108-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "2:13.0",
+      "Technical foul by F. Wagner",
+      "",
+      "108-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "2:13.0",
+      "",
+      "",
+      "108-97",
+      "+1",
+      "C. Cunningham makes technical free throw"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "2:13.0",
+      "",
+      "",
+      "108-97",
+      "",
+      "T. Harris enters the game for K. Huerter"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "2:13.0",
+      "",
+      "",
+      "108-97",
+      "",
+      "D. Robinson enters the game for I. Stewart"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "2:02.0",
+      "",
+      "",
+      "108-97",
+      "",
+      "T. Harris misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "1:58.0",
+      "Defensive rebound by W. Carter",
+      "",
+      "108-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "1:41.0",
+      "D. Bane misses 3-pt jump shot from 25 ft",
+      "",
+      "108-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "1:38.0",
+      "",
+      "",
+      "108-97",
+      "",
+      "Defensive rebound by J. Duren"
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "108-97",
+      "",
+      "Shooting foul by J. Suggs (drawn by C. Cunningham)"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "108-97",
+      "",
+      "Detroit full timeout"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "108-97",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "1:33.0",
+      "T. Da Silva enters the game for J. Suggs",
+      "",
+      "108-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "108-98",
+      "+1",
+      "C. Cunningham makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "1:33.0",
+      "",
+      "",
+      "108-99",
+      "+1",
+      "C. Cunningham makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "1:12.0",
+      "P. Banchero misses 2-pt jump shot from 10 ft",
+      "",
+      "108-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "1:12.0",
+      "",
+      "",
+      "108-99",
+      "",
+      "Defensive rebound by T. Harris"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "108-101",
+      "+2",
+      "C. Cunningham makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:39.0",
+      "W. Carter makes 2-pt layup from 3 ft (assist by F. Wagner)",
+      "+2",
+      "110-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "0:23.0",
+      "",
+      "",
+      "110-101",
+      "",
+      "Turnover by T. Harris (lost ball; steal by W. Carter)"
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "0:20.0",
+      "W. Carter makes 2-pt dunk from 1 ft (assist by F. Wagner)",
+      "+2",
+      "112-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "112-101",
+      "",
+      "D. Jenkins misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "0:12.0",
+      "Defensive rebound by W. Carter",
+      "",
+      "112-101",
+      "",
+      ""
+    ]
+  }
+]

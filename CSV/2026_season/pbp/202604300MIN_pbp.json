@@ -1,0 +1,5128 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Denver",
+      "",
+      "Score",
+      "",
+      "Minnesota"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:35.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "T. Shannon misses 3-pt jump shot from 23 ft (block by C. Braun)"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Offensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Turnover by Team (shot clock)"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:17.0",
+      "N. Jokić makes 2-pt jump shot from 6 ft (assist by J. Murray)",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "J. Randle misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:07.0",
+      "Defensive rebound by Team",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:45.0",
+      "N. Jokić makes 2-pt hook shot from 5 ft",
+      "+2",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:19.0",
+      "Defensive rebound by N. Jokić",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:00.0",
+      "J. Murray misses 2-pt jump shot from 21 ft",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "Defensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "M. Conley misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:38.0",
+      "Defensive rebound by C. Johnson",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:23.0",
+      "C. Braun misses 3-pt jump shot from 25 ft",
+      "",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "Defensive rebound by T. Shannon"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "4-0",
+      "",
+      "Shooting foul by C. Johnson (drawn by T. Shannon)"
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "4-1",
+      "+1",
+      "T. Shannon makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "4-2",
+      "+1",
+      "T. Shannon makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:00.0",
+      "C. Braun makes 3-pt jump shot from 23 ft (assist by J. Murray)",
+      "+3",
+      "7-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "7-4",
+      "+2",
+      "J. Randle makes 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:32.0",
+      "J. Murray misses 2-pt jump shot from 6 ft",
+      "",
+      "7-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "7-4",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:21.0",
+      "",
+      "",
+      "7-4",
+      "",
+      "J. Randle misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "7-4",
+      "",
+      "Offensive rebound by J. Randle"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "7-6",
+      "+2",
+      "J. Randle makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:09.0",
+      "Turnover by C. Johnson (lost ball; steal by M. Conley)",
+      "",
+      "7-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "7-8",
+      "+2",
+      "T. Shannon makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:53.0",
+      "Turnover by N. Jokić (lost ball; steal by R. Gobert)",
+      "",
+      "7-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:48.0",
+      "",
+      "",
+      "7-10",
+      "+2",
+      "T. Shannon makes 2-pt jump shot from 5 ft (assist by M. Conley)"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:36.0",
+      "C. Braun misses 3-pt jump shot from 25 ft",
+      "",
+      "7-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "7:33.0",
+      "",
+      "",
+      "7-10",
+      "",
+      "Defensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:20.0",
+      "",
+      "",
+      "7-13",
+      "+3",
+      "J. Randle makes 3-pt jump shot from 25 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:19.0",
+      "Denver full timeout",
+      "",
+      "7-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "6:58.0",
+      "C. Johnson makes 2-pt layup from 2 ft (assist by J. Murray)",
+      "+2",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "T. Shannon misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:41.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "Offensive rebound by T. Shannon"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "T. Shannon misses 2-pt layup from 5 ft (block by J. Murray)"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:40.0",
+      "Defensive rebound by C. Johnson",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:33.0",
+      "Personal foul by M. Conley (drawn by C. Johnson)",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:29.0",
+      "C. Braun misses 3-pt jump shot from 25 ft",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "J. Randle misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:15.0",
+      "Defensive rebound by C. Braun",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:01.0",
+      "Turnover by N. Jokić (bad pass; steal by T. Shannon)",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "T. Shannon misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:42.0",
+      "Defensive rebound by C. Johnson",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:35.0",
+      "J. Murray makes 2-pt layup from 3 ft (assist by N. Jokić)",
+      "+2",
+      "11-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "11-15",
+      "+2",
+      "M. Conley makes 2-pt jump shot from 7 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "4:57.0",
+      "C. Johnson makes 2-pt jump shot from 7 ft (assist by N. Jokić)",
+      "+2",
+      "13-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "13-15",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "4:48.0",
+      "Defensive rebound by Team",
+      "",
+      "13-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "13-15",
+      "",
+      "Loose ball foul by R. Gobert (drawn by N. Jokić)"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "4:47.0",
+      "T. Hardaway enters the game for C. Johnson",
+      "",
+      "13-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "13-15",
+      "",
+      "B. Hyland enters the game for M. Conley"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "13-15",
+      "",
+      "N. Reid enters the game for T. Shannon"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:35.0",
+      "N. Jokić misses 3-pt jump shot from 24 ft",
+      "",
+      "13-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "13-15",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "13-17",
+      "+2",
+      "R. Gobert makes 2-pt dunk from 1 ft (assist by N. Reid)"
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:07.0",
+      "Turnover by N. Jokić (lost ball; steal by N. Reid)",
+      "",
+      "13-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:01.0",
+      "",
+      "",
+      "13-19",
+      "+2",
+      "N. Reid makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "3:59.0",
+      "Denver full timeout",
+      "",
+      "13-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "3:59.0",
+      "B. Brown enters the game for C. Braun",
+      "",
+      "13-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "3:45.0",
+      "T. Hardaway makes 3-pt jump shot from 26 ft (assist by N. Jokić)",
+      "+3",
+      "16-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "16-19",
+      "",
+      "Personal foul by S. Jones (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:25.0",
+      "",
+      "",
+      "16-21",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 19 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:09.0",
+      "Turnover by B. Brown (out of bounds lost ball)",
+      "",
+      "16-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "16-21",
+      "",
+      "Shooting foul by N. Jokić (drawn by B. Hyland)"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "16-21",
+      "",
+      "B. Hyland misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "16-21",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:01.0",
+      "C. Johnson enters the game for S. Jones",
+      "",
+      "16-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "16-21",
+      "",
+      "J. Clark enters the game for J. Randle"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "16-22",
+      "+1",
+      "B. Hyland makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:46.0",
+      "J. Murray makes 2-pt jump shot from 10 ft",
+      "+2",
+      "18-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "18-24",
+      "+2",
+      "N. Reid makes 2-pt jump shot from 6 ft (assist by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "18-24",
+      "",
+      "Shooting foul by T. Hardaway (drawn by N. Reid)"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:34.0",
+      "",
+      "",
+      "18-24",
+      "",
+      "N. Reid misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:33.0",
+      "Defensive rebound by N. Jokić",
+      "",
+      "18-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:17.0",
+      "C. Johnson makes 3-pt jump shot from 26 ft (assist by N. Jokić)",
+      "+3",
+      "21-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "21-27",
+      "+3",
+      "J. McDaniels makes 3-pt jump shot from 26 ft (assist by N. Reid)"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "1:43.0",
+      "Shooting foul by J. McDaniels (drawn by T. Hardaway)",
+      "",
+      "21-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "1:43.0",
+      "T. Hardaway makes free throw 1 of 3",
+      "+1",
+      "22-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "1:43.0",
+      "T. Hardaway makes free throw 2 of 3",
+      "+1",
+      "23-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:43.0",
+      "T. Jones enters the game for J. Murray",
+      "",
+      "23-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "23-27",
+      "",
+      "T. Shannon enters the game for J. McDaniels"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:43.0",
+      "T. Hardaway makes free throw 3 of 3",
+      "+1",
+      "24-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "24-27",
+      "",
+      "Turnover by N. Reid (lost ball; steal by B. Brown)"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:19.0",
+      "T. Hardaway makes 2-pt layup from 2 ft (assist by B. Brown)",
+      "+2",
+      "26-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "26-27",
+      "",
+      "Personal foul by N. Jokić (drawn by T. Shannon)"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "26-28",
+      "+1",
+      "T. Shannon makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "26-29",
+      "+1",
+      "T. Shannon makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:52.0",
+      "B. Brown misses 3-pt jump shot from 23 ft",
+      "",
+      "26-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "26-29",
+      "",
+      "Defensive rebound by B. Hyland"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:39.0",
+      "",
+      "",
+      "26-29",
+      "",
+      "Turnover by N. Reid (bad pass; steal by T. Hardaway)"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:35.0",
+      "C. Johnson makes 2-pt layup from 1 ft (assist by N. Jokić)",
+      "+2",
+      "28-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:35.0",
+      "Shooting foul by T. Shannon (drawn by C. Johnson)",
+      "",
+      "28-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:35.0",
+      "Z. Nnaji enters the game for N. Jokić",
+      "",
+      "28-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:35.0",
+      "C. Johnson makes free throw 1 of 1",
+      "+1",
+      "29-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "29-29",
+      "",
+      "B. Hyland misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:23.0",
+      "Defensive rebound by C. Johnson",
+      "",
+      "29-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:17.0",
+      "Personal foul by J. Clark (drawn by C. Johnson)",
+      "",
+      "29-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:17.0",
+      "C. Johnson misses free throw 1 of 2",
+      "",
+      "29-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:17.0",
+      "Offensive rebound by Team",
+      "",
+      "29-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:17.0",
+      "C. Braun enters the game for T. Jones",
+      "",
+      "29-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:17.0",
+      "",
+      "",
+      "29-29",
+      "",
+      "M. Conley enters the game for J. Clark"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:17.0",
+      "C. Johnson makes free throw 2 of 2",
+      "+1",
+      "30-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "30-29",
+      "",
+      "T. Shannon misses 2-pt layup from 6 ft (block by C. Braun)"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:01.0",
+      "Defensive rebound by C. Johnson",
+      "",
+      "30-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "Time",
+      "Denver",
+      "",
+      "Score",
+      "",
+      "Minnesota"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "11:47.0",
+      "J. Valančiūnas makes 2-pt jump shot from 12 ft (assist by T. Jones)",
+      "+2",
+      "32-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "32-32",
+      "+3",
+      "J. Clark makes 3-pt jump shot from 23 ft (assist by N. Reid)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "11:11.0",
+      "T. Jones makes 2-pt jump shot from 9 ft",
+      "+2",
+      "34-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "34-32",
+      "",
+      "J. Clark misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "34-32",
+      "",
+      "Offensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "34-34",
+      "+2",
+      "J. McDaniels makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "11:00.0",
+      "",
+      "",
+      "34-34",
+      "",
+      "M. Conley enters the game for B. Hyland"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "10:33.0",
+      "J. Valančiūnas misses 2-pt jump shot from 7 ft",
+      "",
+      "34-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "10:32.0",
+      "",
+      "",
+      "34-34",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "10:32.0",
+      "Loose ball foul by B. Brown (drawn by N. Reid)",
+      "",
+      "34-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "34-34",
+      "",
+      "N. Reid misses 2-pt layup from 1 ft (block by S. Jones)"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "34-34",
+      "",
+      "Offensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "10:21.0",
+      "",
+      "",
+      "34-36",
+      "+2",
+      "N. Reid makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "10:07.0",
+      "S. Jones makes 3-pt jump shot from 23 ft (assist by T. Jones)",
+      "+3",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "10:00.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Personal foul by T. Jones (drawn by M. Conley)"
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "N. Reid misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "9:55.0",
+      "Defensive rebound by J. Valančiūnas",
+      "",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "9:34.0",
+      "T. Jones misses 2-pt jump shot from 6 ft",
+      "",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "9:33.0",
+      "Offensive rebound by J. Valančiūnas",
+      "",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "9:32.0",
+      "J. Valančiūnas misses 2-pt layup from 3 ft",
+      "",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "9:28.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Personal foul by J. Valančiūnas (drawn by N. Reid)"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:14.0",
+      "",
+      "",
+      "37-38",
+      "+2",
+      "M. Conley makes 2-pt jump shot from 12 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "8:59.0",
+      "Turnover by J. Valančiūnas (lost ball; steal by J. Randle)",
+      "",
+      "37-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "37-38",
+      "",
+      "Turnover by J. Randle (bad pass; steal by B. Brown)"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "8:44.0",
+      "Personal foul by M. Conley (drawn by T. Jones)",
+      "",
+      "37-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "37-38",
+      "",
+      "T. Shannon enters the game for J. Clark"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "8:40.0",
+      "Offensive foul by S. Jones (drawn by J. McDaniels)",
+      "",
+      "37-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "8:40.0",
+      "Turnover by S. Jones (offensive foul)",
+      "",
+      "37-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "8:32.0",
+      "",
+      "",
+      "37-38",
+      "",
+      "J. Randle misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:29.0",
+      "",
+      "",
+      "37-38",
+      "",
+      "Offensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "8:18.0",
+      "",
+      "",
+      "37-38",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:17.0",
+      "Defensive rebound by Team",
+      "",
+      "37-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "37-38",
+      "",
+      "Loose ball foul by J. Randle (drawn by J. Valančiūnas)"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:17.0",
+      "N. Jokić enters the game for J. Valančiūnas",
+      "",
+      "37-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "37-38",
+      "",
+      "R. Gobert enters the game for N. Reid"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:06.0",
+      "J. Murray makes 2-pt jump shot from 12 ft",
+      "+2",
+      "39-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "39-40",
+      "+2",
+      "R. Gobert makes 2-pt layup from 1 ft (assist by M. Conley)"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "7:46.0",
+      "Turnover by B. Brown (out of bounds lost ball)",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "7:31.0",
+      "",
+      "",
+      "39-40",
+      "",
+      "J. Randle misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "7:28.0",
+      "Defensive rebound by S. Jones",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "7:17.0",
+      "J. Murray misses 2-pt layup from 5 ft",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "39-40",
+      "",
+      "Defensive rebound by J. Randle"
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "7:06.0",
+      "",
+      "",
+      "39-40",
+      "",
+      "J. McDaniels misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "7:03.0",
+      "Defensive rebound by J. Murray",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "6:59.0",
+      "N. Jokić misses 2-pt layup from 5 ft",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "6:57.0",
+      "Offensive rebound by B. Brown",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "6:56.0",
+      "B. Brown misses 2-pt layup from 3 ft",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "39-40",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "39-40",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "6:50.0",
+      "C. Braun enters the game for B. Brown",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "6:50.0",
+      "C. Johnson enters the game for T. Jones",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "39-40",
+      "",
+      "M. Conley misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "6:36.0",
+      "Defensive rebound by J. Murray",
+      "",
+      "39-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "6:12.0",
+      "N. Jokić makes 3-pt jump shot from 25 ft (assist by S. Jones)",
+      "+3",
+      "42-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "6:04.0",
+      "",
+      "",
+      "42-40",
+      "",
+      "Shooting foul by S. Jones (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "6:04.0",
+      "",
+      "",
+      "42-41",
+      "+1",
+      "J. Randle makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "6:04.0",
+      "Z. Nnaji enters the game for S. Jones",
+      "",
+      "42-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "6:04.0",
+      "",
+      "",
+      "42-41",
+      "",
+      "N. Reid enters the game for M. Conley"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "6:04.0",
+      "",
+      "",
+      "42-42",
+      "+1",
+      "J. Randle makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "5:44.0",
+      "J. Murray misses 3-pt jump shot from 25 ft",
+      "",
+      "42-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "5:41.0",
+      "",
+      "",
+      "42-42",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "42-44",
+      "+2",
+      "N. Reid makes 2-pt jump shot from 10 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "5:11.0",
+      "N. Jokić misses 3-pt jump shot from 25 ft",
+      "",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "5:09.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "4:57.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Turnover by J. Randle (bad pass)"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "4:42.0",
+      "J. Murray misses 2-pt jump shot from 9 ft (block by J. McDaniels)",
+      "",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "4:38.0",
+      "Offensive rebound by J. Murray",
+      "",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "4:33.0",
+      "J. Murray misses 2-pt jump shot from 18 ft",
+      "",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "4:25.0",
+      "",
+      "",
+      "42-46",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "4:06.0",
+      "J. Murray misses 2-pt jump shot from 3 ft",
+      "",
+      "42-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "42-46",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "42-48",
+      "+2",
+      "T. Shannon makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "3:57.0",
+      "Denver full timeout",
+      "",
+      "42-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "3:57.0",
+      "T. Hardaway enters the game for Z. Nnaji",
+      "",
+      "42-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "3:44.0",
+      "N. Jokić misses 2-pt jump shot from 14 ft",
+      "",
+      "42-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "42-48",
+      "",
+      "Defensive rebound by J. Randle"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "42-48",
+      "",
+      "J. Randle misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "3:30.0",
+      "Defensive rebound by C. Johnson",
+      "",
+      "42-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "3:25.0",
+      "Turnover by T. Hardaway (lost ball; steal by T. Shannon)",
+      "",
+      "42-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "42-48",
+      "",
+      "N. Reid misses 2-pt layup from 2 ft (block by C. Johnson)"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "3:21.0",
+      "",
+      "",
+      "42-48",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "42-50",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 13 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:05.0",
+      "N. Jokić makes 2-pt layup from 2 ft",
+      "+2",
+      "44-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "2:42.0",
+      "",
+      "",
+      "44-53",
+      "+3",
+      "J. Randle makes 3-pt jump shot from 24 ft (assist by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "2:28.0",
+      "Personal foul by J. McDaniels (drawn by J. Murray)",
+      "",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "2:24.0",
+      "Personal foul by R. Gobert (drawn by N. Jokić)",
+      "",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "2:16.0",
+      "T. Hardaway makes 2-pt jump shot from 21 ft (assist by N. Jokić)",
+      "+2",
+      "46-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "2:03.0",
+      "",
+      "",
+      "46-53",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "1:59.0",
+      "",
+      "",
+      "46-53",
+      "",
+      "Offensive rebound by T. Shannon"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "46-53",
+      "",
+      "J. Randle misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "46-53",
+      "",
+      "Offensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "46-53",
+      "",
+      "T. Shannon misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "1:42.0",
+      "Defensive rebound by N. Jokić",
+      "",
+      "46-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "1:34.0",
+      "C. Johnson makes 3-pt jump shot from 23 ft (assist by T. Hardaway)",
+      "+3",
+      "49-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "49-53",
+      "",
+      "Personal foul by C. Braun (drawn by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "49-54",
+      "+1",
+      "J. McDaniels makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "49-55",
+      "+1",
+      "J. McDaniels makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "1:05.0",
+      "Shooting foul by N. Reid (drawn by C. Johnson)",
+      "",
+      "49-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "1:05.0",
+      "C. Johnson misses free throw 1 of 2",
+      "",
+      "49-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:05.0",
+      "Offensive rebound by Team",
+      "",
+      "49-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:05.0",
+      "C. Johnson makes free throw 2 of 2",
+      "+1",
+      "50-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "50-57",
+      "+2",
+      "T. Shannon makes 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "0:45.0",
+      "J. Murray misses 2-pt layup from 1 ft",
+      "",
+      "50-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "50-57",
+      "",
+      "Defensive rebound by T. Shannon"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "0:40.0",
+      "",
+      "",
+      "50-57",
+      "",
+      "J. Randle misses 2-pt jump shot from 5 ft (block by T. Hardaway)"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "0:38.0",
+      "Defensive rebound by C. Johnson",
+      "",
+      "50-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "0:25.0",
+      "N. Jokić misses 2-pt layup from 1 ft (block by R. Gobert)",
+      "",
+      "50-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "0:22.0",
+      "",
+      "",
+      "50-57",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "50-57",
+      "",
+      "T. Shannon misses 2-pt layup from 4 ft (block by C. Braun)"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "0:04.0",
+      "Defensive rebound by Team",
+      "",
+      "50-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "0:00.0",
+      "T. Hardaway misses 3-pt jump shot from 24 ft",
+      "",
+      "50-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "50-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "Time",
+      "Denver",
+      "",
+      "Score",
+      "",
+      "Minnesota"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "11:44.0",
+      "N. Jokić makes 2-pt jump shot from 8 ft",
+      "+2",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "52-57",
+      "",
+      "Personal foul by N. Jokić (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "52-57",
+      "",
+      "Offensive foul by J. Randle (drawn by S. Jones)"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "52-57",
+      "",
+      "Turnover by J. Randle (offensive foul)"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "11:10.0",
+      "J. Murray misses 2-pt jump shot from 11 ft",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "52-57",
+      "",
+      "Defensive rebound by T. Shannon"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "11:01.0",
+      "",
+      "",
+      "52-57",
+      "",
+      "J. McDaniels misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "10:58.0",
+      "Defensive rebound by S. Jones",
+      "",
+      "52-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "10:41.0",
+      "N. Jokić makes 2-pt jump shot from 11 ft (assist by C. Johnson)",
+      "+2",
+      "54-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "54-57",
+      "",
+      "Shooting foul by C. Johnson (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "54-57",
+      "",
+      "J. Randle misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "54-57",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "10:20.0",
+      "",
+      "",
+      "54-58",
+      "+1",
+      "J. Randle makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "9:58.0",
+      "J. Murray makes 2-pt jump shot from 8 ft (assist by N. Jokić)",
+      "+2",
+      "56-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "56-58",
+      "",
+      "R. Gobert misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "9:45.0",
+      "",
+      "",
+      "56-58",
+      "",
+      "Offensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "56-60",
+      "+2",
+      "R. Gobert makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "9:31.0",
+      "C. Johnson misses 3-pt jump shot from 25 ft",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "M. Conley misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "9:20.0",
+      "Defensive rebound by N. Jokić",
+      "",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "9:15.0",
+      "S. Jones makes 2-pt layup at rim (assist by N. Jokić)",
+      "+2",
+      "58-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "58-63",
+      "+3",
+      "M. Conley makes 3-pt jump shot from 26 ft (assist by T. Shannon)"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "8:38.0",
+      "Shooting foul by T. Shannon (drawn by N. Jokić)",
+      "",
+      "58-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "8:38.0",
+      "N. Jokić makes free throw 1 of 2",
+      "+1",
+      "59-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "8:38.0",
+      "N. Jokić makes free throw 2 of 2",
+      "+1",
+      "60-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "60-65",
+      "+2",
+      "T. Shannon makes 2-pt layup from 2 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "8:16.0",
+      "Offensive foul by C. Johnson (drawn by M. Conley)",
+      "",
+      "60-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "8:16.0",
+      "Turnover by C. Johnson (offensive foul)",
+      "",
+      "60-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "8:16.0",
+      "",
+      "",
+      "60-65",
+      "",
+      "N. Reid enters the game for M. Conley"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "8:07.0",
+      "",
+      "",
+      "60-67",
+      "+2",
+      "T. Shannon makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "7:43.0",
+      "N. Jokić makes 2-pt jump shot from 5 ft (assist by J. Murray)",
+      "+2",
+      "62-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "62-67",
+      "",
+      "J. McDaniels misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "7:20.0",
+      "Defensive rebound by N. Jokić",
+      "",
+      "62-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "7:11.0",
+      "C. Johnson makes 3-pt jump shot from 23 ft (assist by N. Jokić)",
+      "+3",
+      "65-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "6:50.0",
+      "",
+      "",
+      "65-67",
+      "",
+      "T. Shannon misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "6:49.0",
+      "Defensive rebound by N. Jokić",
+      "",
+      "65-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "6:38.0",
+      "J. Murray misses 2-pt jump shot from 7 ft",
+      "",
+      "65-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "65-67",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "65-67",
+      "",
+      "J. Randle misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "6:28.0",
+      "Defensive rebound by Team",
+      "",
+      "65-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "65-67",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "6:12.0",
+      "C. Johnson misses 3-pt jump shot from 26 ft",
+      "",
+      "65-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "65-67",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "65-67",
+      "",
+      "N. Reid misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "5:50.0",
+      "Defensive rebound by C. Johnson",
+      "",
+      "65-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "5:36.0",
+      "N. Jokić makes 2-pt hook shot from 7 ft (assist by C. Johnson)",
+      "+2",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "5:19.0",
+      "",
+      "",
+      "67-67",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "67-67",
+      "",
+      "Offensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "67-67",
+      "",
+      "R. Gobert misses 2-pt layup from 3 ft (block by N. Jokić)"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "5:17.0",
+      "Defensive rebound by J. Murray",
+      "",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "5:11.0",
+      "Turnover by C. Braun (lost ball; steal by J. McDaniels)",
+      "",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "67-69",
+      "+2",
+      "J. Randle makes 2-pt layup from 1 ft (assist by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "4:55.0",
+      "Shooting foul by J. McDaniels (drawn by N. Jokić)",
+      "",
+      "67-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "4:55.0",
+      "N. Jokić makes free throw 1 of 2",
+      "+1",
+      "68-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "4:55.0",
+      "B. Brown enters the game for C. Braun",
+      "",
+      "68-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "4:55.0",
+      "T. Hardaway enters the game for C. Johnson",
+      "",
+      "68-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "68-69",
+      "",
+      "B. Hyland enters the game for T. Shannon"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "4:55.0",
+      "N. Jokić makes free throw 2 of 2",
+      "+1",
+      "69-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "4:38.0",
+      "",
+      "",
+      "69-69",
+      "",
+      "J. Randle misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "69-69",
+      "",
+      "Offensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "69-69",
+      "",
+      "B. Hyland misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "4:33.0",
+      "Defensive rebound by J. Murray",
+      "",
+      "69-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "4:16.0",
+      "N. Jokić misses 3-pt jump shot from 25 ft",
+      "",
+      "69-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "4:14.0",
+      "",
+      "",
+      "69-69",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "69-71",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 4 ft (assist by N. Reid)"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "69-71",
+      "",
+      "Shooting foul by J. Murray (drawn by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "69-71",
+      "",
+      "J. Clark enters the game for J. Randle"
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "69-72",
+      "+1",
+      "J. McDaniels makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "4:00.0",
+      "C. Johnson enters the game for S. Jones",
+      "",
+      "69-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "3:37.0",
+      "Shooting foul by B. Hyland (drawn by B. Brown)",
+      "",
+      "69-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "3:37.0",
+      "B. Brown makes free throw 1 of 2",
+      "+1",
+      "70-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "3:37.0",
+      "B. Brown misses free throw 2 of 2",
+      "",
+      "70-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "3:35.0",
+      "",
+      "",
+      "70-72",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "3:22.0",
+      "",
+      "",
+      "70-74",
+      "+2",
+      "N. Reid makes 2-pt jump shot from 6 ft (assist by B. Hyland)"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "3:12.0",
+      "N. Jokić makes 2-pt layup from 3 ft",
+      "+2",
+      "72-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "72-76",
+      "+2",
+      "N. Reid makes 2-pt jump shot from 2 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "2:36.0",
+      "N. Jokić misses 2-pt jump shot from 10 ft",
+      "",
+      "72-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "2:33.0",
+      "",
+      "",
+      "72-76",
+      "",
+      "Defensive rebound by N. Reid"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "72-76",
+      "",
+      "B. Hyland misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "72-76",
+      "",
+      "Offensive rebound by B. Hyland"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "2:13.0",
+      "",
+      "",
+      "72-78",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 11 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "2:13.0",
+      "Denver full timeout",
+      "",
+      "72-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "2:13.0",
+      "S. Jones enters the game for J. Murray",
+      "",
+      "72-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "2:13.0",
+      "",
+      "",
+      "72-78",
+      "",
+      "M. Conley enters the game for B. Hyland"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "2:13.0",
+      "",
+      "",
+      "72-78",
+      "",
+      "T. Shannon enters the game for J. McDaniels"
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "1:52.0",
+      "T. Hardaway misses 2-pt jump shot from 6 ft",
+      "",
+      "72-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "1:50.0",
+      "Offensive rebound by T. Hardaway",
+      "",
+      "72-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "1:49.0",
+      "T. Hardaway misses 2-pt jump shot from 6 ft",
+      "",
+      "72-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "1:47.0",
+      "Offensive rebound by T. Hardaway",
+      "",
+      "72-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "1:46.0",
+      "T. Hardaway makes 2-pt jump shot from 6 ft",
+      "+2",
+      "74-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "Personal foul by C. Johnson (drawn by R. Gobert)"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "1:29.0",
+      "",
+      "",
+      "74-78",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "1:24.0",
+      "",
+      "",
+      "74-80",
+      "+2",
+      "T. Shannon makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "1:05.0",
+      "C. Johnson misses 2-pt layup from 2 ft",
+      "",
+      "74-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "Defensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "J. Clark misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "0:50.0",
+      "Defensive rebound by Team",
+      "",
+      "74-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "0:50.0",
+      "J. Murray enters the game for C. Johnson",
+      "",
+      "74-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "J. McDaniels enters the game for M. Conley"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "0:32.0",
+      "J. Murray misses 2-pt jump shot from 18 ft",
+      "",
+      "74-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "Defensive rebound by J. Clark"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "Shooting foul by N. Jokić (drawn by R. Gobert)"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "R. Gobert misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "0:10.0",
+      "C. Johnson enters the game for S. Jones",
+      "",
+      "74-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "M. Conley enters the game for N. Reid"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "0:10.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "R. Gobert misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "74-80",
+      "",
+      "Offensive rebound by J. Clark"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "74-82",
+      "+2",
+      "J. McDaniels makes 2-pt layup from 2 ft (assist by J. Clark)"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "0:02.0",
+      "Offensive foul by B. Brown (drawn by J. McDaniels)",
+      "",
+      "74-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "0:02.0",
+      "Turnover by B. Brown (offensive foul)",
+      "",
+      "74-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "0:02.0",
+      "S. Jones enters the game for J. Murray",
+      "",
+      "74-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "74-82",
+      "",
+      "N. Reid enters the game for J. Clark"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "74-82",
+      "",
+      "T. Shannon misses 3-pt jump shot from 36 ft"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "74-82",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "Time",
+      "Denver",
+      "",
+      "Score",
+      "",
+      "Minnesota"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "74-82",
+      "",
+      "Turnover by M. Conley (bad pass; steal by T. Jones)"
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "11:30.0",
+      "S. Jones makes 3-pt jump shot from 23 ft (assist by T. Hardaway)",
+      "+3",
+      "77-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "11:05.0",
+      "",
+      "",
+      "77-82",
+      "",
+      "N. Reid misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "11:03.0",
+      "",
+      "",
+      "77-82",
+      "",
+      "Offensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "77-84",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 6 ft (assist by J. Randle)"
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "10:26.0",
+      "C. Johnson makes 3-pt jump shot from 25 ft (assist by T. Jones)",
+      "+3",
+      "80-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "10:02.0",
+      "",
+      "",
+      "80-86",
+      "+2",
+      "J. McDaniels makes 2-pt layup from 3 ft (assist by M. Conley)"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "9:47.0",
+      "Personal foul by J. Clark (drawn by N. Jokić)",
+      "",
+      "80-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "9:47.0",
+      "Instant Replay",
+      "",
+      "80-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "9:47.0",
+      "Technical foul by N. Jokić",
+      "",
+      "80-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "80-86",
+      "",
+      "Technical foul by J. Clark"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "80-86",
+      "",
+      "Technical foul by N. Reid"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "9:47.0",
+      "",
+      "",
+      "80-86",
+      "",
+      "R. Gobert enters the game for J. Clark"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "9:47.0",
+      "T. Hardaway makes technical free throw",
+      "+1",
+      "81-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "9:38.0",
+      "C. Johnson misses 3-pt jump shot from 25 ft",
+      "",
+      "81-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "9:33.0",
+      "Offensive rebound by Team",
+      "",
+      "81-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "9:27.0",
+      "T. Jones makes 2-pt jump shot from 12 ft",
+      "+2",
+      "83-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "83-86",
+      "",
+      "J. McDaniels misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "83-86",
+      "",
+      "Offensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "83-86",
+      "",
+      "M. Conley misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "8:53.0",
+      "Defensive rebound by T. Hardaway",
+      "",
+      "83-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "8:45.0",
+      "N. Jokić makes 2-pt layup from 2 ft (assist by C. Johnson)",
+      "+2",
+      "85-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "85-88",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "8:05.0",
+      "N. Jokić makes 2-pt hook shot from 7 ft",
+      "+2",
+      "87-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "87-91",
+      "+3",
+      "N. Reid makes 3-pt jump shot from 22 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "7:44.0",
+      "Denver full timeout",
+      "",
+      "87-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "7:44.0",
+      "J. Murray enters the game for T. Hardaway",
+      "",
+      "87-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "87-91",
+      "",
+      "T. Shannon enters the game for J. Randle"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "7:28.0",
+      "Shooting foul by R. Gobert (drawn by N. Jokić)",
+      "",
+      "87-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "7:28.0",
+      "N. Jokić misses free throw 1 of 2",
+      "",
+      "87-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "7:28.0",
+      "Offensive rebound by Team",
+      "",
+      "87-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "7:28.0",
+      "N. Jokić makes free throw 2 of 2",
+      "+1",
+      "88-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "7:16.0",
+      "",
+      "",
+      "88-91",
+      "",
+      "Personal foul by S. Jones (drawn by R. Gobert)"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "88-91",
+      "",
+      "T. Shannon misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "7:07.0",
+      "Defensive rebound by N. Jokić",
+      "",
+      "88-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "6:56.0",
+      "T. Jones misses 2-pt jump shot from 10 ft",
+      "",
+      "88-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "88-91",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "88-91",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "88-91",
+      "",
+      "Offensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "6:38.0",
+      "",
+      "",
+      "88-93",
+      "+2",
+      "R. Gobert makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "6:19.0",
+      "C. Johnson misses 3-pt jump shot from 27 ft",
+      "",
+      "88-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "88-93",
+      "",
+      "Defensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "6:10.0",
+      "",
+      "",
+      "88-93",
+      "",
+      "Personal foul by T. Jones (drawn by N. Reid)"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "6:10.0",
+      "C. Braun enters the game for S. Jones",
+      "",
+      "88-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "6:10.0",
+      "T. Hardaway enters the game for T. Jones",
+      "",
+      "88-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "88-96",
+      "+3",
+      "T. Shannon makes 3-pt jump shot from 23 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "5:42.0",
+      "Shooting foul by M. Conley (drawn by C. Johnson)",
+      "",
+      "88-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "5:42.0",
+      "C. Johnson makes free throw 1 of 2",
+      "+1",
+      "89-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "5:42.0",
+      "C. Johnson makes free throw 2 of 2",
+      "+1",
+      "90-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "90-98",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 8 ft (assist by R. Gobert)"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "90-98",
+      "",
+      "Shooting foul by C. Johnson (drawn by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "90-98",
+      "",
+      "J. McDaniels misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "5:25.0",
+      "Defensive rebound by T. Hardaway",
+      "",
+      "90-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "5:12.0",
+      "Personal foul by J. McDaniels (drawn by J. Murray)",
+      "",
+      "90-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "5:05.0",
+      "C. Johnson makes 3-pt jump shot from 23 ft (assist by N. Jokić)",
+      "+3",
+      "93-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "4:51.0",
+      "",
+      "",
+      "93-98",
+      "",
+      "N. Reid misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "4:50.0",
+      "Defensive rebound by Team",
+      "",
+      "93-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "93-98",
+      "",
+      "Loose ball foul by R. Gobert (drawn by J. Murray)"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "93-98",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "4:50.0",
+      "J. Murray makes free throw 1 of 2",
+      "+1",
+      "94-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "4:50.0",
+      "J. Murray makes free throw 2 of 2",
+      "+1",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "J. McDaniels misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Offensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "4:26.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "J. McDaniels misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "4:24.0",
+      "Defensive rebound by N. Jokić",
+      "",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "4:15.0",
+      "J. Murray misses 3-pt jump shot from 26 ft",
+      "",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Defensive rebound by M. Conley"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "4:12.0",
+      "S. Jones enters the game for T. Hardaway",
+      "",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "4:12.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "J. Randle enters the game for N. Reid"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Turnover by J. Randle (bad pass)"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "3:42.0",
+      "J. Murray misses 2-pt hook shot from 4 ft (block by R. Gobert)",
+      "",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "3:40.0",
+      "Offensive rebound by N. Jokić",
+      "",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "3:37.0",
+      "S. Jones misses 3-pt jump shot from 25 ft",
+      "",
+      "95-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Defensive rebound by J. McDaniels"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "95-98",
+      "",
+      "N. Reid enters the game for M. Conley"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "3:20.0",
+      "",
+      "",
+      "95-100",
+      "+2",
+      "J. Randle makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "3:01.0",
+      "C. Johnson misses 2-pt layup from 3 ft",
+      "",
+      "95-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "2:59.0",
+      "",
+      "",
+      "95-100",
+      "",
+      "Defensive rebound by T. Shannon"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "95-100",
+      "",
+      "T. Shannon misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "2:40.0",
+      "",
+      "",
+      "95-100",
+      "",
+      "Offensive rebound by J. Randle"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "95-100",
+      "",
+      "Personal foul by C. Braun (drawn by R. Gobert)"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "95-100",
+      "",
+      "J. Randle misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "2:15.0",
+      "Defensive rebound by J. Murray",
+      "",
+      "95-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "2:03.0",
+      "Personal foul by R. Gobert (drawn by J. Murray)",
+      "",
+      "95-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "2:03.0",
+      "J. Murray makes free throw 1 of 2",
+      "+1",
+      "96-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "2:03.0",
+      "J. Murray makes free throw 2 of 2",
+      "+1",
+      "97-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "97-102",
+      "+2",
+      "T. Shannon makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "97-102",
+      "",
+      "Shooting foul by J. Murray (drawn by T. Shannon)"
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "1:43.0",
+      "",
+      "",
+      "97-103",
+      "+1",
+      "T. Shannon makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "1:27.0",
+      "Shooting foul by N. Reid (drawn by C. Johnson)",
+      "",
+      "97-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "1:27.0",
+      "C. Johnson misses free throw 1 of 2",
+      "",
+      "97-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "1:27.0",
+      "Offensive rebound by Team",
+      "",
+      "97-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "1:27.0",
+      "C. Johnson makes free throw 2 of 2",
+      "+1",
+      "98-103",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "1:07.0",
+      "",
+      "",
+      "98-105",
+      "+2",
+      "J. McDaniels makes 2-pt jump shot from 19 ft"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "1:06.0",
+      "Denver full timeout",
+      "",
+      "98-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "1:06.0",
+      "T. Hardaway enters the game for C. Braun",
+      "",
+      "98-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "1:01.0",
+      "Turnover by N. Jokić (bad pass; steal by J. McDaniels)",
+      "",
+      "98-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "98-105",
+      "",
+      "Shooting foul by S. Jones (drawn by J. Randle)"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "98-106",
+      "+1",
+      "J. Randle makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "98-106",
+      "",
+      "J. Randle misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "0:56.0",
+      "",
+      "",
+      "98-106",
+      "",
+      "Offensive rebound by R. Gobert"
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "98-106",
+      "",
+      "Personal foul by N. Jokić (drawn by R. Gobert)"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "98-107",
+      "+1",
+      "R. Gobert makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "98-107",
+      "",
+      "M. Conley enters the game for N. Reid"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "98-108",
+      "+1",
+      "R. Gobert makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "0:46.0",
+      "N. Jokić misses 3-pt jump shot from 25 ft",
+      "",
+      "98-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "98-108",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "98-108",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "98-108",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "98-108",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "0:43.0",
+      "C. Braun enters the game for N. Jokić",
+      "",
+      "98-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "0:43.0",
+      "B. Brown enters the game for J. Murray",
+      "",
+      "98-108",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "98-108",
+      "",
+      "N. Reid enters the game for R. Gobert"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "0:37.0",
+      "",
+      "",
+      "98-108",
+      "",
+      "Minnesota full timeout"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "98-108",
+      "",
+      "Personal take foul by B. Brown (drawn by J. McDaniels)"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "98-109",
+      "+1",
+      "J. McDaniels makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "0:25.0",
+      "N. Jokić enters the game for C. Braun",
+      "",
+      "98-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "0:25.0",
+      "J. Murray enters the game for B. Brown",
+      "",
+      "98-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "98-109",
+      "",
+      "R. Gobert enters the game for M. Conley"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "98-110",
+      "+1",
+      "J. McDaniels makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "0:25.0",
+      "Denver full timeout",
+      "",
+      "98-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "0:24.0",
+      "C. Johnson misses 3-pt jump shot from 27 ft",
+      "",
+      "98-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "0:22.0",
+      "",
+      "",
+      "98-110",
+      "",
+      "Defensive rebound by R. Gobert"
+    ]
+  }
+]

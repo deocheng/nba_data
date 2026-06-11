@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>圣安东尼奥马刺队</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #000000;
+            min-height: 100vh;
+            color: #C4CED4;
+        }
+
+        :root {
+            --spurs-primary: #C4CED4;
+            --spurs-secondary: #000000;
+            --spurs-accent: #1a1a2e;
+        }
+
+        .navbar {
+            background: rgba(0, 0, 0, 0.9);
+            padding: 0.75rem 1.5rem;
+            box-shadow: 0 2px 12px rgba(196, 206, 212, 0.12);
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            z-index: 100;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(196, 206, 212, 0.2);
+        }
+
+        .navbar.minimized {
+            width: 50px;
+            height: 50px;
+            padding: 0;
+            right: 10px;
+            left: auto;
+            border-radius: 50%;
+            box-shadow: 0 2px 10px rgba(196, 206, 212, 0.15);
+            background: #000000;
+            background-image: url('/nbalogo/SAS.svg');
+            background-size: 32px;
+            background-repeat: no-repeat;
+            background-position: center;
+            border: 2px solid rgba(196, 206, 212, 0.5);
+            cursor: pointer;
+        }
+
+        .navbar.minimized:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 15px rgba(196, 206, 212, 0.2);
+        }
+
+        .navbar h1 {
+            font-size: 1rem;
+            color: #C4CED4;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 0;
+            transition: all 0.3s ease;
+        }
+
+        .navbar.minimized h1 {
+            opacity: 0;
+            height: 0;
+            overflow: hidden;
+            margin: 0;
+        }
+
+        .navbar .team-logo {
+            width: 35px;
+            height: 35px;
+            background-image: url('/nbalogo/SAS.svg');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .navbar.minimized .team-logo {
+            display: none;
+        }
+
+        .navbar .team-info {
+            font-size: 0.65rem;
+            color: rgba(196, 206, 212, 0.6);
+            margin-left: 45px;
+            display: flex;
+            gap: 10px;
+            transition: all 0.3s ease;
+            opacity: 1;
+            margin-top: 2px;
+        }
+
+        .navbar.minimized .team-info {
+            opacity: 0;
+            height: 0;
+            overflow: hidden;
+        }
+
+        .navbar nav {
+            margin-top: 0.5rem;
+            transition: all 0.3s ease;
+            opacity: 1;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .navbar.minimized nav {
+            opacity: 0;
+            height: 0;
+            overflow: hidden;
+        }
+
+        .content {
+            margin-top: 0;
+        }
+
+        .navbar nav a {
+            color: rgba(196, 206, 212, 0.8);
+            text-decoration: none;
+            padding: 0.3rem 0.6rem;
+            border-radius: 12px;
+            transition: all 0.2s ease;
+            font-size: 0.75rem;
+        }
+
+        .navbar nav a:hover,
+        .navbar nav a.active {
+            background: rgba(196, 206, 212, 0.2);
+            color: var(--spurs-primary);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1a1a1a, #000000);
+            padding: 30px;
+            text-align: center;
+            border-bottom: 3px solid #C4CED4;
+        }
+
+        .header .logo {
+            font-size: 4rem;
+            margin-bottom: 10px;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            color: var(--spurs-primary);
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 30px;
+        }
+
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            padding: 12px 30px;
+            font-size: 14px;
+            font-weight: 600;
+            border: 2px solid transparent;
+            border-radius: 30px;
+            background: rgba(196, 206, 212, 0.1);
+            color: var(--spurs-primary);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .tab-btn:hover {
+            background: rgba(196, 206, 212, 0.2);
+            border-color: var(--spurs-primary);
+        }
+
+        .tab-btn.active {
+            background: linear-gradient(135deg, var(--spurs-primary), #8a9499);
+            color: #000;
+            border-color: var(--spurs-primary);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .season-selector {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .season-btn {
+            padding: 8px 20px;
+            font-size: 12px;
+            border-radius: 20px;
+            background: rgba(196, 206, 212, 0.1);
+            color: var(--spurs-primary);
+            border: 1px solid transparent;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .season-btn:hover {
+            border-color: var(--spurs-primary);
+        }
+
+        .season-btn.active {
+            background: var(--spurs-primary);
+            color: #000;
+        }
+
+        .card {
+            background: #000000;
+            border-radius: 15px;
+            padding: 25px;
+            border: 1px solid rgba(196, 206, 212, 0.2);
+            margin-bottom: 30px;
+            color: #ffffff;
+        }
+
+        .card-title {
+            font-size: 1.3rem;
+            color: #ffffff;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #000000;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 15px;
+            background: #000000;
+            border-radius: 10px;
+            border: 1px solid rgba(196, 206, 212, 0.1);
+        }
+
+        .stat-item .value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        .stat-item .label {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.7);
+            text-transform: uppercase;
+            margin-top: 5px;
+        }
+
+        .roster-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .player-card {
+            background: linear-gradient(135deg, #1a1a1a, #2a2a2a);
+            border-radius: 16px;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid rgba(196, 206, 212, 0.2);
+            transition: all 0.3s ease;
+            color: #c4ced4;
+            cursor: pointer;
+        }
+
+        .player-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--spurs-primary);
+            box-shadow: 0 8px 25px rgba(196, 206, 212, 0.3);
+        }
+
+        .player-avatar {
+            width: 75px;
+            height: 95px;
+            border-radius: 8px;
+            margin: 0 auto 15px;
+            object-fit: contain;
+        }
+
+        .player-number {
+            width: 40px;
+            height: 40px;
+            margin: 0 auto 10px;
+            border-radius: 50%;
+            background: var(--spurs-primary);
+            color: #000000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+
+        .player-name {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 5px;
+            color: #ffffff;
+        }
+
+        .player-nickname {
+            font-size: 0.9rem;
+            color: #FFD700;
+            font-style: italic;
+            margin-bottom: 10px;
+            min-height: 20px;
+        }
+
+        .player-position {
+            font-size: 12px;
+            color: rgba(196, 206, 212, 0.8);
+            margin-bottom: 10px;
+        }
+
+        .player-body-info {
+            font-size: 13px;
+            color: rgba(196, 206, 212, 0.7);
+            margin-bottom: 8px;
+            padding: 8px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+        }
+
+        .player-info {
+            font-size: 11px;
+            color: rgba(255, 255, 255, 0.5);
+            line-height: 1.5;
+        }
+
+        .game-list {
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .game-item {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 15px 20px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+            margin-bottom: 8px;
+            font-size: 14px;
+            gap: 20px;
+        }
+
+        .game-item.win {
+            border-left: 3px solid #FFD700;
+        }
+
+        .game-item.loss {
+            border-left: 3px solid #f44336;
+        }
+
+        .game-info {
+            flex: 1;
+            text-align: left;
+        }
+
+        .game-opponent {
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .game-date {
+            color: rgba(255, 255, 255, 0.6);
+            font-size: 12px;
+        }
+
+        .game-score {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 8px;
+            padding: 10px 25px;
+            min-width: 160px;
+        }
+
+        .game-score .team-score {
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: #C4CED4;
+            text-shadow: 0 0 10px rgba(196, 206, 212, 0.5);
+        }
+
+        .game-score .score-separator {
+            font-size: 1.2rem;
+            color: rgba(255, 255, 255, 0.3);
+        }
+
+        .game-score .opp-score {
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: #666;
+        }
+
+        .game-score.win .team-score {
+            color: var(--spurs-primary);
+            text-shadow: 0 0 15px rgba(196, 206, 212, 0.7);
+        }
+
+        .game-score.win .opp-score {
+            color: #888888;
+        }
+
+        .game-score.loss .team-score {
+            color: #888888;
+        }
+
+        .game-score.loss .opp-score {
+            color: var(--spurs-primary);
+            text-shadow: 0 0 15px rgba(196, 206, 212, 0.5);
+        }
+
+        .chart-wrapper {
+            position: relative;
+            height: 300px;
+            margin-bottom: 20px;
+            background: #000000;
+            border-radius: 10px;
+            padding: 15px;
+        }
+
+        @media (max-width: 1000px) {
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 1.5rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .wembanyama-header {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar minimized" id="navbar">
+        <h1><div class="team-logo"></div>圣安东尼奥马刺</h1>
+        <div class="team-info">
+            <span>San Antonio Spurs</span>
+            <span>|</span>
+            <span>银色军团</span>
+            <span>|</span>
+            <span>5次总冠军</span>
+        </div>
+        <nav>
+            <a href="/">球队</a>
+            <a href="/team-history" target="_blank">球队历史</a>
+            <a href="/matchup" target="_blank">球队对阵</a>
+            <a href="/player-compare" target="_blank">球员对比</a>
+            <a href="/legendary-players" target="_blank">传奇球员</a>
+            <a href="/player-radar" target="_blank">能力雷达图</a>
+            <a href="/rankings" target="_blank">高阶数据</a>
+            <a href="/spurs" class="active">马刺专区</a>
+            <a href="/lakers" target="_blank">湖人专区</a>
+            <a href="/rockets" target="_blank">火箭专区</a>
+        </nav>
+    </nav>
+
+    <div class="content">
+        <div class="header">
+            <h1>圣安东尼奥马刺队</h1>
+            <p>San Antonio Spurs - 传承与未来</p>
+        </div>
+
+        <div class="container">
+        <div class="tabs">
+            <button class="tab-btn active" onclick="showTab('roster')">球队阵容</button>
+            <button class="tab-btn" onclick="showTab('schedule')">赛季赛程</button>
+            <button class="tab-btn" onclick="showTab('stats')">赛季统计</button>
+        </div>
+
+        <div id="roster" class="tab-content active">
+            <div class="card">
+                <div class="card-title">2025-26赛季阵容</div>
+                <div class="roster-grid" id="rosterGrid">
+                </div>
+            </div>
+        </div>
+
+        <div id="schedule" class="tab-content">
+            <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 20px;">
+                <button class="season-btn" id="prevSeasonBtn" onclick="changeScheduleSeason(-1)">◀ 上赛季</button>
+                <select id="scheduleSeasonSelect" class="season-select" onchange="loadSchedule(this.value)" style="padding: 8px 15px; border-radius: 20px; border: 1px solid rgba(196, 206, 212, 0.3); background: rgba(196, 206, 212, 0.1); color: #ffffff; font-size: 14px; cursor: pointer;">
+                    <option value="2023-2024">2023-24</option>
+                    <option value="2024-2025">2024-25</option>
+                    <option value="2025-2026">2025-26</option>
+                </select>
+                <button class="season-btn" id="nextSeasonBtn" onclick="changeScheduleSeason(1)">下赛季 ▶</button>
+            </div>
+            <div class="card">
+                <div class="card-title">📅 赛季赛程</div>
+                <div class="game-list" id="scheduleList">
+                </div>
+            </div>
+        </div>
+
+        <div id="stats" class="tab-content">
+            <div class="season-selector" id="statsSeasonSelector">
+                <button class="season-btn active" data-season="2023-2024">2023-24</button>
+                <button class="season-btn" data-season="2024-2025">2024-25</button>
+                <button class="season-btn" data-season="2025-2026">2025-26</button>
+            </div>
+            <div class="card">
+                <div class="card-title">赛季统计</div>
+                <div class="stats-grid" id="seasonStats">
+                    <div class="stat-item"><div class="value">0</div><div class="label">胜场</div></div>
+                    <div class="stat-item"><div class="value">0</div><div class="label">负场</div></div>
+                    <div class="stat-item"><div class="value">0%</div><div class="label">胜率</div></div>
+                    <div class="stat-item"><div class="value">0</div><div class="label">场均得分</div></div>
+                    <div class="stat-item"><div class="value">0</div><div class="label">场均失分</div></div>
+                    <div class="stat-item"><div class="value">0%</div><div class="label">投篮命中率</div></div>
+                    <div class="stat-item"><div class="value">0%</div><div class="label">三分命中率</div></div>
+                    <div class="stat-item"><div class="value">0</div><div class="label">场均助攻</div></div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-title">赛季趋势图</div>
+                <div class="chart-wrapper">
+                    <canvas id="pointsChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        // 确保 Chart.js 加载完成
+        if (typeof Chart === 'undefined') {
+            console.error('Chart.js not loaded!');
+        }
+
+        let pointsChart = null;
+        let isInitialized = false;
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const navbar = document.getElementById('navbar');
+            navbar.addEventListener('click', function() {
+                navbar.classList.toggle('minimized');
+            });
+        });
+
+        function showTab(tabId) {
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+            document.querySelector(`[onclick="showTab('${tabId}')"]`).classList.add('active');
+            document.getElementById(tabId).classList.add('active');
+
+            if (tabId === 'roster') loadRoster();
+            else if (tabId === 'schedule') loadSchedule('2023-2024');
+            else if (tabId === 'stats') loadSeasonStats('2023-2024');
+        }
+
+        async function loadRoster() {
+            try {
+                const response = await fetch('/api/spurs/roster');
+                const result = await response.json();
+
+                if (result.success) {
+                    const grid = document.getElementById('rosterGrid');
+                    grid.innerHTML = result.data.map(player => `
+                        <div class="player-card" onclick="window.location.href='/player-profile?id=${player.player_id}'">
+                            ${player.avatar_url ?
+                                `<img src="${player.avatar_url}" alt="${player.name}" class="player-avatar">` :
+                                `<div class="player-number">${player.number || '?'}</div>`
+                            }
+                            <div class="player-name">${player.name}</div>
+                            ${player.nickname ? `<div class="player-nickname">"${player.nickname}"</div>` : '<div class="player-nickname"></div>'}
+                            <div class="player-position">${player.position}</div>
+                            ${player.body_info ? `<div class="player-body-info">${player.body_info}</div>` : ''}
+                            <div class="player-info">
+                                ${player.height ? `<div>身高: ${player.height}</div>` : ''}
+                                ${player.weight ? `<div>体重: ${player.weight}</div>` : ''}
+                                ${player.experience ? `<div>经验: ${player.experience}年</div>` : ''}
+                                ${player.college ? `<div>大学: ${player.college}</div>` : ''}
+                            </div>
+                        </div>
+                    `).join('');
+                }
+            } catch (error) {
+                console.error('Error loading roster:', error);
+            }
+        }
+
+        async function loadSchedule(season) {
+            console.log('Loading schedule for season:', season);
+            try {
+                const response = await fetch('/api/spurs/season/' + season);
+                const result = await response.json();
+                console.log('Schedule loaded, success:', result.success, 'games:', result.data?.games?.length);
+
+                if (result.success && result.data.games && result.data.games.length > 0) {
+                    const list = document.getElementById('scheduleList');
+                    list.innerHTML = result.data.games.map(game => {
+                        const isWin = game.result && game.result.startsWith('W');
+                        return `
+                            <div class="game-item ${isWin ? 'win' : 'loss'}">
+                                <div class="game-score ${isWin ? 'win' : 'loss'}">
+                                    <span class="team-score">${game.team_score}</span>
+                                    <span class="opp-score">${game.opp_score}</span>
+                                </div>
+                                <div class="game-info">
+                                    <div class="game-opponent">${game.opponent}</div>
+                                    <div class="game-date">${game.game_date}</div>
+                                </div>
+                            </div>
+                        `;
+                    }).join('');
+                } else {
+                    console.log('No schedule data found');
+                    document.getElementById('scheduleList').innerHTML = '<p style="text-align:center;color:#888;padding:20px;">暂无数据</p>';
+                }
+            } catch (error) {
+                console.error('Error loading schedule:', error);
+            }
+        }
+
+        async function loadSeasonStats(season) {
+            console.log('Loading stats for season:', season);
+            try {
+                const response = await fetch('/api/spurs/season_summary/' + season);
+                const result = await response.json();
+                console.log('Stats loaded, success:', result.success);
+
+                if (result.success) {
+                    const stats = result.data;
+                    const grid = document.getElementById('seasonStats');
+                    grid.innerHTML = `
+                        <div class="stat-item"><div class="value">${stats.wins}</div><div class="label">胜场</div></div>
+                        <div class="stat-item"><div class="value">${stats.losses}</div><div class="label">负场</div></div>
+                        <div class="stat-item"><div class="value">${stats.win_rate}%</div><div class="label">胜率</div></div>
+                        <div class="stat-item"><div class="value">${stats.avg_points}</div><div class="label">场均得分</div></div>
+                        <div class="stat-item"><div class="value">${stats.avg_opp_points}</div><div class="label">场均失分</div></div>
+                        <div class="stat-item"><div class="value">${stats.fg_pct}%</div><div class="label">投篮命中率</div></div>
+                        <div class="stat-item"><div class="value">${stats.three_pct}%</div><div class="label">三分命中率</div></div>
+                        <div class="stat-item"><div class="value">${stats.avg_assists}</div><div class="label">场均助攻</div></div>
+                    `;
+
+                    loadPointsChart(season);
+                }
+            } catch (error) {
+                console.error('Error loading stats:', error);
+            }
+        }
+
+        async function loadPointsChart(season) {
+            // 检查 Chart 是否定义
+            if (typeof Chart === 'undefined') {
+                console.warn('Chart.js not loaded yet, skipping chart');
+                return;
+            }
+
+            const canvas = document.getElementById('pointsChart');
+            if (!canvas) {
+                console.warn('Chart canvas not found');
+                return;
+            }
+
+            console.log('Loading chart for season:', season);
+            try {
+                const response = await fetch('/api/spurs/season/' + season);
+                const result = await response.json();
+
+                if (result.success) {
+                    if (pointsChart) pointsChart.destroy();
+
+                    const games = result.data.games;
+                    const labels = games.map(g => g.game_date);
+
+                    // 准备图表数据：正轴显示赢球比分，负轴显示输球比分（长度为真实比分的2/5）
+                    const displayScores = games.map(g => {
+                        const teamScore = parseInt(g.team_score) || 0;
+                        const isWin = teamScore > (parseInt(g.opp_score) || 0);
+                        return (isWin ? teamScore : -teamScore) * 0.2;
+                    });
+
+                    // 设置颜色：常规赛蓝/红，季后赛金/灰
+                    const backgroundColors = games.map(g => {
+                        const teamScore = parseInt(g.team_score) || 0;
+                        const oppScore = parseInt(g.opp_score) || 0;
+                        const isWin = teamScore > oppScore;
+                        const isSpecial = g.is_special || false;
+
+                        if (isSpecial) {
+                            // 季后赛/附加赛：金色(胜) / 灰色(负)
+                            return isWin ? 'rgba(255, 215, 0, 0.8)' : 'rgba(75, 85, 99, 0.8)';
+                        }
+                        // 常规赛：蓝色(胜) / 红色(负)
+                        return isWin ? 'rgba(59, 130, 246, 0.8)' : 'rgba(239, 68, 68, 0.8)';
+                    });
+
+                    const borderColors = games.map(g => {
+                        const teamScore = parseInt(g.team_score) || 0;
+                        const oppScore = parseInt(g.opp_score) || 0;
+                        const isWin = teamScore > oppScore;
+                        const isSpecial = g.is_special || false;
+
+                        if (isSpecial) {
+                            return isWin ? '#FFD700' : '#4B5563';
+                        }
+                        return isWin ? '#3B82F6' : '#EF4444';
+                    });
+
+                    const ctx = canvas.getContext('2d');
+                    pointsChart = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: labels,
+                            datasets: [{
+                                label: '比分',
+                                data: displayScores,
+                                backgroundColor: backgroundColors,
+                                borderColor: borderColors,
+                                borderWidth: 2,
+                                borderRadius: 4,
+                                barPercentage: 0.7,
+                                categoryPercentage: 0.8
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            scales: {
+                                y: {
+                                    display: false,
+                                    min: -30,
+                                    max: 30,
+                                    grid: { display: false }
+                                },
+                                x: {
+                                    display: false,
+                                    grid: { display: false }
+                                }
+                            },
+                            plugins: {
+                                legend: { display: false },
+                                tooltip: {
+                                    backgroundColor: 'rgba(0, 0, 0, 0.9)',
+                                    titleColor: '#fff',
+                                    bodyColor: '#fff',
+                                    padding: 12,
+                                    callbacks: {
+                                        label: function(context) {
+                                            const index = context.dataIndex;
+                                            const game = games[index];
+                                            const teamScore = parseInt(game.team_score) || 0;
+                                            const oppScore = parseInt(game.opp_score) || 0;
+                                            const isWin = teamScore > oppScore;
+                                            const result = isWin ? '胜' : '负';
+                                            const opponent = game.opponent || '未知';
+                                            const gameTypeText = game.is_special ?
+                                                (game.game_type === 'playoff' ? '季后赛' : '附加赛') : '常规赛';
+                                            return [
+                                                `${result}: ${teamScore} - ${oppScore}`,
+                                                `vs ${opponent}`,
+                                                `类型: ${gameTypeText}`
+                                            ];
+                                        }
+                                    }
+                                }
+                            },
+                            animation: {
+                                onComplete: function() {
+                                    const chart = this;
+                                    const ctx = chart.ctx;
+                                    const yCenter = chart.scales.y.getPixelForValue(0);
+                                    ctx.save();
+                                    ctx.strokeStyle = '#fff';
+                                    ctx.lineWidth = 2;
+                                    ctx.setLineDash([5, 5]);
+                                    ctx.beginPath();
+                                    ctx.moveTo(0, yCenter);
+                                    ctx.lineTo(chart.width, yCenter);
+                                    ctx.stroke();
+                                    ctx.restore();
+                                }
+                            }
+                        }
+                    });
+                }
+            } catch (error) {
+                console.error('Error loading chart:', error);
+            }
+        }
+
+        // 初始化函数
+        async function initializeApp() {
+            if (isInitialized) return;
+            isInitialized = true;
+
+            console.log('Initializing app...');
+
+            // 先加载赛季列表
+            await loadSeasonList();
+
+            // 绑定赛程赛季选择器
+            const scheduleSelector = document.getElementById('scheduleSeasonSelector');
+            if (scheduleSelector) {
+                scheduleSelector.addEventListener('click', function(e) {
+                    const btn = e.target.closest('.season-btn');
+                    if (btn) {
+                        document.querySelectorAll('#scheduleSeasonSelector .season-btn').forEach(b => b.classList.remove('active'));
+                        btn.classList.add('active');
+                        loadSchedule(btn.dataset.season);
+                    }
+                });
+            }
+
+            // 绑定统计赛季选择器
+            const statsSelector = document.getElementById('statsSeasonSelector');
+            if (statsSelector) {
+                statsSelector.addEventListener('click', function(e) {
+                    const btn = e.target.closest('.season-btn');
+                    if (btn) {
+                        document.querySelectorAll('#statsSeasonSelector .season-btn').forEach(b => b.classList.remove('active'));
+                        btn.classList.add('active');
+                        loadSeasonStats(btn.dataset.season);
+                    }
+                });
+            }
+        }
+
+        function changeScheduleSeason(direction) {
+            const select = document.getElementById('scheduleSeasonSelect');
+            if (!select) return;
+
+            const options = select.options;
+            const currentIndex = select.selectedIndex;
+            const newIndex = currentIndex + direction;
+
+            if (newIndex >= 0 && newIndex < options.length) {
+                select.selectedIndex = newIndex;
+                loadSchedule(options[newIndex].value);
+            }
+        }
+
+        async function loadSeasonList() {
+            try {
+                const response = await fetch('/api/spurs/seasons');
+                const result = await response.json();
+
+                if (result.success && result.data.length > 0) {
+                    // 只更新存在的元素
+                    const statsSelector = document.getElementById('statsSeasonSelector');
+
+                    const buttons = result.data.map((s, index) => {
+                        const label = s.label.replace('赛季', '');
+                        return `<button class="season-btn ${index === 0 ? 'active' : ''}" data-season="${s.season}">${label}</button>`;
+                    }).join('');
+
+                    // 添加空值检查
+                    if (statsSelector) {
+                        statsSelector.innerHTML = buttons;
+                    }
+
+                    // 获取第一个赛季
+                    const firstSeason = result.data[0].season;
+
+                    // 加载初始数据
+                    loadRoster();
+                    loadSchedule(firstSeason);
+                    loadSeasonStats(firstSeason);
+                }
+            } catch (error) {
+                console.error('Error loading seasons:', error);
+                // 使用默认赛季
+                loadRoster();
+                loadSchedule('2023-2024');
+                loadSeasonStats('2023-2024');
+            }
+        }
+
+        // 使用多种方式确保初始化
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initializeApp);
+        } else {
+            initializeApp();
+        }
+    </script>
+</body>
+</html>

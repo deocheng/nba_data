@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏀 球员列表</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #fff; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 30px; }
+        header h1 { color: #feca57; font-size: 2rem; }
+        
+        .nav-links { display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; }
+        .nav-links a { color: #fff; text-decoration: none; padding: 10px 20px; background: rgba(255,255,255,0.1); border-radius: 20px; }
+        .nav-links a:hover { background: #feca57; color: #1a1a2e; }
+        
+        .player-list { list-style: none; padding: 0; }
+        .player-item { display: flex; justify-content: space-between; align-items: center; padding: 15px 20px; background: rgba(255,255,255,0.05); border-radius: 10px; margin-bottom: 10px; transition: all 0.3s; }
+        .player-item:hover { background: rgba(255,255,255,0.1); }
+        .player-name { font-size: 1.1rem; color: #feca57; }
+        .player-shots { color: #aaa; font-size: 0.9rem; }
+        .player-link { text-decoration: none; color: inherit; display: block; width: 100%; }
+        
+        .search-box { width: 100%; padding: 15px; font-size: 1rem; border: none; border-radius: 10px; background: rgba(255,255,255,0.1); color: #fff; margin-bottom: 20px; }
+        .search-box::placeholder { color: #666; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏀 球员列表</h1>
+            <p>点击球员名字查看投篮热区</p>
+        </header>
+        
+        <div class="nav-links">
+            <a href="/">📊 仪表盘</a>
+            <a href="/players">🎯 球员列表</a>
+            <a href="/games">⚽ 比赛列表</a>
+        </div>
+        
+        <input type="text" class="search-box" id="searchInput" placeholder="搜索球员名字...">
+        
+        <ul class="player-list" id="playerList">
+            {% for player in players %}
+            <li class="player-item">
+                <a href="/player/{{ player.name }}" class="player-link">
+                    <span class="player-name">{{ player.name }}</span>
+                    <span class="player-shots">{{ player.shots.toLocaleString() }}次投篮</span>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    
+    <script>
+        const searchInput = document.getElementById('searchInput');
+        const playerList = document.getElementById('playerList');
+        const items = playerList.getElementsByClassName('player-item');
+        
+        searchInput.addEventListener('input', (e) => {
+            const searchText = e.target.value.toLowerCase();
+            for (let item of items) {
+                const name = item.querySelector('.player-name').textContent.toLowerCase();
+                item.style.display = name.includes(searchText) ? 'flex' : 'none';
+            }
+        });
+    </script>
+</body>
+</html>

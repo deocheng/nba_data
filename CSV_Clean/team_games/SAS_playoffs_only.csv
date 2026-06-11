@@ -1,0 +1,11 @@
+game_id,team_id,season_id,game_date,game_number,is_home,opp_team_abbr,opp_team_name,result,team_score,opp_score,game_type,is_win
+SAS_2026-04-19_POR,SAS,2025-2026,2026-04-19,1,True,POR,Portland Trail Blazers,W,111,98,playin,True
+SAS_2026-04-21_POR,SAS,2025-2026,2026-04-21,2,True,POR,Portland Trail Blazers,L,103,106,playin,False
+SAS_2026-04-24_POR,SAS,2025-2026,2026-04-24,3,False,POR,Portland Trail Blazers,W,120,108,playin,True
+SAS_2026-04-26_POR,SAS,2025-2026,2026-04-26,4,False,POR,Portland Trail Blazers,W,114,93,playin,True
+SAS_2026-04-28_POR,SAS,2025-2026,2026-04-28,5,True,POR,Portland Trail Blazers,W,114,95,playin,True
+SAS_2026-05-04_MIN,SAS,2025-2026,2026-05-04,6,True,MIN,Minnesota Timberwolves,L,102,104,playin,False
+SAS_2026-05-06_MIN,SAS,2025-2026,2026-05-06,7,True,MIN,Minnesota Timberwolves,W,133,95,playoff,True
+SAS_2026-05-08_MIN,SAS,2025-2026,2026-05-08,8,False,MIN,Minnesota Timberwolves,W,115,108,playoff,True
+SAS_2026-05-10_MIN,SAS,2025-2026,2026-05-10,9,False,MIN,Minnesota Timberwolves,L,109,114,playoff,False
+SAS_2026-05-12_MIN,SAS,2025-2026,2026-05-12,10,True,MIN,Minnesota Timberwolves,W,126,97,playoff,True

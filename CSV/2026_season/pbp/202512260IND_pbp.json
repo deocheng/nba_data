@@ -1,0 +1,5304 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Indiana"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:46.0",
+      "",
+      "",
+      "0-3",
+      "+3",
+      "A. Nembhard makes 3-pt jump shot from 23 ft (assist by B. Mathurin)"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:24.0",
+      "J. Brown misses 2-pt jump shot from 16 ft",
+      "",
+      "0-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:21.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "Defensive rebound by B. Mathurin"
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "Shooting foul by J. Walsh (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "P. Siakam misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "P. Siakam misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "11:15.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "0-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "11:08.0",
+      "Shooting foul by J. Huff (drawn by N. Queta)",
+      "",
+      "0-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "11:08.0",
+      "N. Queta misses free throw 1 of 2",
+      "",
+      "0-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "11:08.0",
+      "Offensive rebound by Team",
+      "",
+      "0-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "11:08.0",
+      "N. Queta misses free throw 2 of 2",
+      "",
+      "0-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "Defensive rebound by B. Mathurin"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:54.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "Personal foul by P. Pritchard (drawn by A. Nembhard)"
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "0-3",
+      "",
+      "A. Nembhard misses 2-pt layup from 4 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "10:44.0",
+      "Defensive rebound by D. White",
+      "",
+      "0-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "10:34.0",
+      "N. Queta makes 2-pt dunk at rim (assist by D. White)",
+      "+2",
+      "2-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "10:23.0",
+      "",
+      "",
+      "2-3",
+      "",
+      "Q. Jackson misses 2-pt jump shot from 6 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "10:22.0",
+      "",
+      "",
+      "2-3",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "10:14.0",
+      "",
+      "",
+      "2-5",
+      "+2",
+      "P. Siakam makes 2-pt layup from 4 ft (assist by A. Nembhard)"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "10:04.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "2-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "10:01.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "2-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "10:00.0",
+      "J. Walsh makes 3-pt jump shot from 25 ft (assist by N. Queta)",
+      "+3",
+      "5-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:52.0",
+      "",
+      "",
+      "5-8",
+      "+3",
+      "J. Huff makes 3-pt jump shot from 28 ft (assist by A. Nembhard)"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:36.0",
+      "J. Brown misses 2-pt layup from 3 ft",
+      "",
+      "5-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:34.0",
+      "",
+      "",
+      "5-8",
+      "",
+      "Defensive rebound by J. Huff"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "5-11",
+      "+3",
+      "B. Mathurin makes 3-pt jump shot from 25 ft (assist by P. Siakam)"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "9:17.0",
+      "D. White misses 2-pt jump shot from 8 ft",
+      "",
+      "5-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "9:14.0",
+      "",
+      "",
+      "5-11",
+      "",
+      "Defensive rebound by J. Huff"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "5-11",
+      "",
+      "Turnover by B. Mathurin (lost ball; steal by D. White)"
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "9:04.0",
+      "J. Brown makes 2-pt layup from 3 ft (assist by J. Walsh)",
+      "+2",
+      "7-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:55.0",
+      "",
+      "",
+      "7-11",
+      "",
+      "Personal foul by J. Walsh (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:55.0",
+      "H. González Peña enters the game for J. Walsh",
+      "",
+      "7-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:51.0",
+      "",
+      "",
+      "7-14",
+      "+3",
+      "A. Nembhard makes 3-pt jump shot from 26 ft (assist by J. Huff)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:36.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "7-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:34.0",
+      "",
+      "",
+      "7-14",
+      "",
+      "Defensive rebound by B. Mathurin"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:19.0",
+      "",
+      "",
+      "7-14",
+      "",
+      "Q. Jackson misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "8:15.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "7-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "8:06.0",
+      "N. Queta makes 2-pt dunk from 2 ft (assist by P. Pritchard)",
+      "+2",
+      "9-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:56.0",
+      "",
+      "",
+      "9-17",
+      "+3",
+      "A. Nembhard makes 3-pt jump shot from 26 ft (assist by Q. Jackson)"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:47.0",
+      "Turnover by J. Brown (lost ball; steal by A. Nembhard)",
+      "",
+      "9-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "9-19",
+      "+2",
+      "Q. Jackson makes 2-pt layup from 2 ft (assist by A. Nembhard)"
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:44.0",
+      "Boston full timeout",
+      "",
+      "9-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "9-19",
+      "",
+      "E. Thompson enters the game for Q. Jackson"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:30.0",
+      "J. Brown makes 2-pt jump shot from 15 ft (assist by N. Queta)",
+      "+2",
+      "11-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "11-21",
+      "+2",
+      "J. Huff makes 2-pt hook shot from 4 ft (assist by A. Nembhard)"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "7:03.0",
+      "Turnover by J. Brown (lost ball; steal by P. Siakam)",
+      "",
+      "11-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:59.0",
+      "",
+      "",
+      "11-21",
+      "",
+      "B. Mathurin misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "11-21",
+      "",
+      "Offensive rebound by E. Thompson"
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "11-21",
+      "",
+      "Turnover by E. Thompson (bad pass; steal by P. Pritchard)"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "6:51.0",
+      "P. Pritchard misses 2-pt layup from 4 ft (block by J. Huff)",
+      "",
+      "11-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "11-21",
+      "",
+      "Defensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:46.0",
+      "",
+      "",
+      "11-24",
+      "+3",
+      "E. Thompson makes 3-pt jump shot from 28 ft (assist by A. Nembhard)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "6:23.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "11-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "11-24",
+      "",
+      "Defensive rebound by A. Nembhard"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "11-24",
+      "",
+      "Turnover by A. Nembhard (lost ball; steal by N. Queta)"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "6:07.0",
+      "Shooting foul by J. Huff (drawn by N. Queta)",
+      "",
+      "11-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "6:07.0",
+      "N. Queta makes free throw 1 of 2",
+      "+1",
+      "12-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "6:07.0",
+      "A. Simons enters the game for D. White",
+      "",
+      "12-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "6:07.0",
+      "",
+      "",
+      "12-24",
+      "",
+      "T. Bradley enters the game for J. Huff"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "6:07.0",
+      "",
+      "",
+      "12-24",
+      "",
+      "J. Walker enters the game for P. Siakam"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "6:07.0",
+      "N. Queta makes free throw 2 of 2",
+      "+1",
+      "13-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:54.0",
+      "",
+      "",
+      "13-26",
+      "+2",
+      "B. Mathurin makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:43.0",
+      "A. Simons misses 2-pt jump shot from 13 ft",
+      "",
+      "13-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:40.0",
+      "Offensive rebound by P. Pritchard",
+      "",
+      "13-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:39.0",
+      "N. Queta misses 2-pt jump shot from 9 ft",
+      "",
+      "13-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "13-26",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "13-26",
+      "",
+      "Personal foul by A. Simons (drawn by T. Bradley)"
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "5:34.0",
+      "L. Garza enters the game for H. González Peña",
+      "",
+      "13-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "5:34.0",
+      "S. Hauser enters the game for N. Queta",
+      "",
+      "13-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "5:26.0",
+      "",
+      "",
+      "13-26",
+      "",
+      "Turnover by A. Nembhard (lost ball; steal by J. Brown)"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "5:22.0",
+      "J. Brown misses 2-pt layup from 2 ft",
+      "",
+      "13-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "5:20.0",
+      "",
+      "",
+      "13-26",
+      "",
+      "Defensive rebound by E. Thompson"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "5:16.0",
+      "",
+      "",
+      "13-26",
+      "",
+      "B. Mathurin misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "13-26",
+      "",
+      "Offensive rebound by E. Thompson"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "13-28",
+      "+2",
+      "E. Thompson makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "4:52.0",
+      "S. Hauser makes 3-pt jump shot from 24 ft (assist by A. Simons)",
+      "+3",
+      "16-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "4:41.0",
+      "",
+      "",
+      "16-28",
+      "",
+      "A. Nembhard misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "4:38.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "16-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "4:27.0",
+      "S. Hauser makes 3-pt jump shot from 25 ft (assist by L. Garza)",
+      "+3",
+      "19-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "4:25.0",
+      "",
+      "",
+      "19-28",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "4:25.0",
+      "B. Scheierman enters the game for J. Brown",
+      "",
+      "19-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "4:25.0",
+      "",
+      "",
+      "19-28",
+      "",
+      "T. McConnell enters the game for A. Nembhard"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "19-30",
+      "+2",
+      "T. McConnell makes 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "4:05.0",
+      "Personal foul by T. McConnell (drawn by B. Scheierman)",
+      "",
+      "19-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "3:59.0",
+      "Turnover by S. Hauser (out of bounds lost ball)",
+      "",
+      "19-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "3:45.0",
+      "",
+      "",
+      "19-30",
+      "",
+      "E. Thompson misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "19-30",
+      "",
+      "Offensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "19-32",
+      "+2",
+      "T. Bradley makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "3:26.0",
+      "P. Pritchard makes 3-pt jump shot from 25 ft",
+      "+3",
+      "22-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "22-32",
+      "",
+      "Offensive foul by T. Bradley (drawn by B. Scheierman)"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "22-32",
+      "",
+      "Turnover by T. Bradley (offensive foul)"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "22-32",
+      "",
+      "P. Siakam enters the game for B. Mathurin"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "2:56.0",
+      "Offensive foul by P. Pritchard (drawn by E. Thompson)",
+      "",
+      "22-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "2:56.0",
+      "Turnover by P. Pritchard (offensive foul)",
+      "",
+      "22-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "2:56.0",
+      "H. González Peña enters the game for P. Pritchard",
+      "",
+      "22-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "2:56.0",
+      "D. White enters the game for B. Scheierman",
+      "",
+      "22-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "22-32",
+      "",
+      "P. Siakam misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "2:34.0",
+      "Defensive rebound by A. Simons",
+      "",
+      "22-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "2:27.0",
+      "Turnover by A. Simons (lost ball; steal by T. McConnell)",
+      "",
+      "22-32",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "22-34",
+      "+2",
+      "T. McConnell makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "2:10.0",
+      "D. White misses 3-pt jump shot from 26 ft",
+      "",
+      "22-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "2:06.0",
+      "Offensive rebound by L. Garza",
+      "",
+      "22-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "2:06.0",
+      "L. Garza makes 2-pt layup at rim",
+      "+2",
+      "24-34",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "24-34",
+      "",
+      "P. Siakam misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "24-34",
+      "",
+      "Offensive rebound by T. Bradley"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "24-37",
+      "+3",
+      "T. McConnell makes 3-pt jump shot from 27 ft (assist by J. Walker)"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "1:34.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "24-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "1:30.0",
+      "Offensive rebound by S. Hauser",
+      "",
+      "24-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "1:20.0",
+      "L. Garza makes 2-pt dunk at rim (assist by D. White)",
+      "+2",
+      "26-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "1:02.0",
+      "",
+      "",
+      "26-37",
+      "",
+      "E. Thompson misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "1:01.0",
+      "Defensive rebound by Team",
+      "",
+      "26-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "1:01.0",
+      "",
+      "",
+      "26-37",
+      "",
+      "M. Potter enters the game for T. Bradley"
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "0:52.0",
+      "Personal foul by E. Thompson (drawn by D. White)",
+      "",
+      "26-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "0:46.0",
+      "Shooting foul by E. Thompson (drawn by D. White)",
+      "",
+      "26-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "0:46.0",
+      "D. White makes free throw 1 of 2",
+      "+1",
+      "27-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "0:46.0",
+      "",
+      "",
+      "27-37",
+      "",
+      "J. Furphy enters the game for E. Thompson"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "0:46.0",
+      "D. White makes free throw 2 of 2",
+      "+1",
+      "28-37",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "28-39",
+      "+2",
+      "P. Siakam makes 2-pt layup from 3 ft (assist by T. McConnell)"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "0:17.0",
+      "D. White misses 2-pt layup from 4 ft (block by M. Potter)",
+      "",
+      "28-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "0:15.0",
+      "",
+      "",
+      "28-39",
+      "",
+      "Defensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "28-39",
+      "",
+      "J. Walker misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "0:03.0",
+      "Defensive rebound by D. White",
+      "",
+      "28-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "0:00.0",
+      "Team misses heave shot",
+      "",
+      "28-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "28-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Indiana"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "11:49.0",
+      "S. Hauser makes 3-pt jump shot from 27 ft (assist by D. White)",
+      "+3",
+      "31-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "31-39",
+      "",
+      "P. Siakam misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "31-39",
+      "",
+      "Offensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "11:23.0",
+      "",
+      "",
+      "31-39",
+      "",
+      "Turnover by P. Siakam (lost ball; steal by D. White)"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "11:19.0",
+      "D. White misses 3-pt jump shot from 24 ft",
+      "",
+      "31-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "11:16.0",
+      "Offensive rebound by B. Scheierman",
+      "",
+      "31-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "11:08.0",
+      "D. White makes 3-pt jump shot from 29 ft",
+      "+3",
+      "34-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "34-39",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "34-39",
+      "",
+      "J. Furphy misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "10:48.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "34-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "10:31.0",
+      "A. Simons makes 3-pt jump shot from 26 ft (assist by B. Scheierman)",
+      "+3",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "10:12.0",
+      "",
+      "",
+      "37-42",
+      "+3",
+      "J. Walker makes 3-pt jump shot from 26 ft (assist by T. McConnell)"
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "10:00.0",
+      "D. White misses 3-pt jump shot from 25 ft",
+      "",
+      "37-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "37-42",
+      "",
+      "Defensive rebound by T. McConnell"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "37-42",
+      "",
+      "Offensive foul by P. Siakam (drawn by D. White)"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "37-42",
+      "",
+      "Turnover by P. Siakam (offensive foul)"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "9:54.0",
+      "J. Brown enters the game for S. Hauser",
+      "",
+      "37-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "37-42",
+      "",
+      "A. Nembhard enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "9:34.0",
+      "J. Brown makes 2-pt jump shot from 16 ft (assist by D. White)",
+      "+2",
+      "39-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "39-42",
+      "",
+      "Shooting foul by A. Simons (drawn by T. McConnell)"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "39-43",
+      "+1",
+      "T. McConnell makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "9:21.0",
+      "",
+      "",
+      "39-44",
+      "+1",
+      "T. McConnell makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "9:07.0",
+      "B. Scheierman makes 3-pt jump shot from 24 ft (assist by J. Brown)",
+      "+3",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Personal foul by A. Simons (drawn by J. Furphy)"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:56.0",
+      "P. Pritchard enters the game for A. Simons",
+      "",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "B. Mathurin enters the game for T. McConnell"
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "J. Walker enters the game for P. Siakam"
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Offensive foul by A. Nembhard (drawn by D. White)"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Turnover by A. Nembhard (offensive foul)"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "8:47.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "J. Huff enters the game for M. Potter"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "8:36.0",
+      "J. Brown misses 2-pt jump shot from 8 ft",
+      "",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "8:32.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "42-44",
+      "",
+      "Shooting foul by D. White (drawn by J. Huff)"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "42-45",
+      "+1",
+      "J. Huff makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "42-45",
+      "",
+      "Q. Jackson enters the game for J. Furphy"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "42-46",
+      "+1",
+      "J. Huff makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "8:08.0",
+      "Shooting foul by J. Walker (drawn by D. White)",
+      "",
+      "42-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "8:08.0",
+      "D. White makes free throw 1 of 3",
+      "+1",
+      "43-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "8:08.0",
+      "D. White misses free throw 2 of 3",
+      "",
+      "43-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "8:08.0",
+      "Offensive rebound by Team",
+      "",
+      "43-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "8:08.0",
+      "D. White makes free throw 3 of 3",
+      "+1",
+      "44-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "8:08.0",
+      "L. Garza enters the game for N. Queta",
+      "",
+      "44-46",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "7:56.0",
+      "",
+      "",
+      "44-48",
+      "+2",
+      "B. Mathurin makes 2-pt jump shot from 21 ft (assist by J. Walker)"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "7:45.0",
+      "P. Pritchard makes 3-pt jump shot from 25 ft",
+      "+3",
+      "47-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "7:32.0",
+      "",
+      "",
+      "47-48",
+      "",
+      "B. Mathurin misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "7:30.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "47-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "7:24.0",
+      "Shooting foul by B. Mathurin (drawn by J. Brown)",
+      "",
+      "47-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "7:24.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "48-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "48-48",
+      "",
+      "T. McConnell enters the game for Q. Jackson"
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "7:24.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "49-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "49-48",
+      "",
+      "B. Mathurin misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "7:00.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "49-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "6:51.0",
+      "D. White makes 2-pt jump shot from 13 ft",
+      "+2",
+      "51-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "6:43.0",
+      "",
+      "",
+      "51-48",
+      "",
+      "Turnover by T. McConnell (bad pass; steal by J. Brown)"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "6:35.0",
+      "J. Brown makes 2-pt layup from 2 ft (assist by P. Pritchard)",
+      "+2",
+      "53-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "53-48",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "53-48",
+      "",
+      "P. Siakam enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "6:12.0",
+      "",
+      "",
+      "53-48",
+      "",
+      "J. Huff misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "6:11.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "53-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "6:04.0",
+      "P. Pritchard makes 2-pt jump shot from 13 ft",
+      "+2",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "5:54.0",
+      "",
+      "",
+      "55-48",
+      "",
+      "P. Siakam misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "5:52.0",
+      "Defensive rebound by D. White",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "5:48.0",
+      "Shooting foul by T. McConnell (drawn by L. Garza)",
+      "",
+      "55-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "5:48.0",
+      "L. Garza makes free throw 1 of 2",
+      "+1",
+      "56-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "5:48.0",
+      "",
+      "",
+      "56-48",
+      "",
+      "Q. Jackson enters the game for T. McConnell"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "5:48.0",
+      "L. Garza makes free throw 2 of 2",
+      "+1",
+      "57-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "5:35.0",
+      "",
+      "",
+      "57-50",
+      "+2",
+      "J. Huff makes 2-pt jump shot from 6 ft (assist by B. Mathurin)"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "5:15.0",
+      "P. Pritchard makes 2-pt jump shot from 8 ft",
+      "+2",
+      "59-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "59-50",
+      "",
+      "Q. Jackson misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "4:55.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "59-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "4:46.0",
+      "Shooting foul by P. Siakam (drawn by P. Pritchard)",
+      "",
+      "59-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "4:46.0",
+      "P. Pritchard makes free throw 1 of 2",
+      "+1",
+      "60-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "4:46.0",
+      "P. Pritchard misses free throw 2 of 2",
+      "",
+      "60-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "4:43.0",
+      "Offensive rebound by B. Scheierman",
+      "",
+      "60-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "4:39.0",
+      "D. White makes 3-pt jump shot from 29 ft (assist by J. Brown)",
+      "+3",
+      "63-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "4:20.0",
+      "",
+      "",
+      "63-50",
+      "",
+      "A. Nembhard misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "63-50",
+      "",
+      "Offensive rebound by B. Mathurin"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "63-52",
+      "+2",
+      "B. Mathurin makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "4:08.0",
+      "D. White misses 2-pt jump shot from 8 ft",
+      "",
+      "63-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "4:05.0",
+      "",
+      "",
+      "63-52",
+      "",
+      "Defensive rebound by J. Huff"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "63-52",
+      "",
+      "J. Huff misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "3:56.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "63-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "3:53.0",
+      "Boston full timeout",
+      "",
+      "63-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "3:53.0",
+      "",
+      "",
+      "63-52",
+      "",
+      "E. Thompson enters the game for Q. Jackson"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "3:39.0",
+      "J. Brown misses 2-pt jump shot from 14 ft",
+      "",
+      "63-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "63-52",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "3:37.0",
+      "Loose ball foul by L. Garza (drawn by J. Huff)",
+      "",
+      "63-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "3:23.0",
+      "",
+      "",
+      "63-52",
+      "",
+      "Turnover by J. Huff (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "3:12.0",
+      "P. Pritchard makes 2-pt jump shot from 8 ft",
+      "+2",
+      "65-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "2:58.0",
+      "",
+      "",
+      "65-52",
+      "",
+      "B. Mathurin misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "2:57.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "65-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "2:50.0",
+      "B. Scheierman misses 3-pt jump shot from 23 ft",
+      "",
+      "65-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "65-52",
+      "",
+      "Defensive rebound by A. Nembhard"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "65-52",
+      "",
+      "E. Thompson misses 3-pt jump shot from 24 ft (block by D. White)"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "65-52",
+      "",
+      "Offensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "65-52",
+      "",
+      "J. Huff misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "2:34.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "65-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "2:18.0",
+      "P. Pritchard misses 3-pt jump shot from 27 ft",
+      "",
+      "65-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "2:14.0",
+      "Offensive rebound by J. Brown",
+      "",
+      "65-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "2:13.0",
+      "B. Scheierman misses 3-pt jump shot from 24 ft",
+      "",
+      "65-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "65-52",
+      "",
+      "Defensive rebound by A. Nembhard"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "65-52",
+      "",
+      "Shooting foul by L. Garza (drawn by B. Mathurin)"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "65-53",
+      "+1",
+      "B. Mathurin makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "2:04.0",
+      "N. Queta enters the game for L. Garza",
+      "",
+      "65-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "65-53",
+      "",
+      "J. Furphy enters the game for J. Huff"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "65-54",
+      "+1",
+      "B. Mathurin makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "1:48.0",
+      "J. Brown makes 2-pt jump shot from 12 ft",
+      "+2",
+      "67-54",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "1:34.0",
+      "",
+      "",
+      "67-57",
+      "+3",
+      "E. Thompson makes 3-pt jump shot from 24 ft (assist by B. Mathurin)"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "1:13.0",
+      "P. Pritchard makes 2-pt jump shot from 15 ft (assist by N. Queta)",
+      "+2",
+      "69-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "69-57",
+      "",
+      "Personal foul by B. Scheierman (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "69-58",
+      "+1",
+      "P. Siakam makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "69-59",
+      "+1",
+      "P. Siakam makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "0:59.0",
+      "P. Pritchard makes 2-pt jump shot from 9 ft",
+      "+2",
+      "71-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "0:50.0",
+      "",
+      "",
+      "71-59",
+      "",
+      "E. Thompson misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "0:47.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "71-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "0:33.0",
+      "P. Pritchard misses 3-pt jump shot from 33 ft",
+      "",
+      "71-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "0:30.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "71-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "0:29.0",
+      "Shooting foul by P. Siakam (drawn by N. Queta)",
+      "",
+      "71-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "71-59",
+      "",
+      "Violation by Team (delay of game)"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "0:29.0",
+      "N. Queta makes free throw 1 of 2",
+      "+1",
+      "72-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "72-59",
+      "",
+      "J. Walker enters the game for P. Siakam"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "0:29.0",
+      "N. Queta makes free throw 2 of 2",
+      "+1",
+      "73-59",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "0:20.0",
+      "",
+      "",
+      "73-61",
+      "+2",
+      "A. Nembhard makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "0:03.0",
+      "J. Brown makes 2-pt jump shot from 12 ft",
+      "+2",
+      "75-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "75-61",
+      "",
+      "Team misses heave shot"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "75-61",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Indiana"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "11:44.0",
+      "P. Pritchard misses 2-pt jump shot from 18 ft",
+      "",
+      "75-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "75-61",
+      "",
+      "Defensive rebound by J. Huff"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "11:34.0",
+      "",
+      "",
+      "75-61",
+      "",
+      "A. Nembhard misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "11:31.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "75-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "11:21.0",
+      "Offensive foul by D. White (drawn by Q. Jackson)",
+      "",
+      "75-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "11:21.0",
+      "Turnover by D. White (offensive foul)",
+      "",
+      "75-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "11:07.0",
+      "",
+      "",
+      "75-61",
+      "",
+      "P. Siakam misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "11:04.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "75-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "11:00.0",
+      "Turnover by J. Brown (lost ball; steal by P. Siakam)",
+      "",
+      "75-61",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "75-63",
+      "+2",
+      "P. Siakam makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "10:29.0",
+      "J. Brown makes 2-pt jump shot from 12 ft",
+      "+2",
+      "77-63",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "77-65",
+      "+2",
+      "A. Nembhard makes 2-pt jump shot from 12 ft (assist by J. Huff)"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "9:57.0",
+      "J. Brown makes 2-pt jump shot from 17 ft (assist by J. Walsh)",
+      "+2",
+      "79-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "79-68",
+      "+3",
+      "A. Nembhard makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "9:26.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "79-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "79-68",
+      "",
+      "Defensive rebound by A. Nembhard"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "9:15.0",
+      "",
+      "",
+      "79-68",
+      "",
+      "Turnover by A. Nembhard (bad pass; steal by J. Brown)"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "9:06.0",
+      "D. White makes 3-pt jump shot from 26 ft (assist by J. Walsh)",
+      "+3",
+      "82-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "82-68",
+      "",
+      "Personal foul by J. Walsh (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:49.0",
+      "",
+      "",
+      "82-70",
+      "+2",
+      "B. Mathurin makes 2-pt jump shot from 21 ft"
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:35.0",
+      "Turnover by J. Brown (lost ball; steal by B. Mathurin)",
+      "",
+      "82-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "8:31.0",
+      "",
+      "",
+      "82-72",
+      "+2",
+      "Q. Jackson makes 2-pt layup from 2 ft (assist by B. Mathurin)"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "8:16.0",
+      "Personal foul by A. Nembhard (drawn by J. Brown)",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "8:04.0",
+      "Personal foul by Q. Jackson (drawn by P. Pritchard)",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "8:04.0",
+      "Instant Replay",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "8:04.0",
+      "Turnover by (5 sec)",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "7:49.0",
+      "",
+      "",
+      "82-72",
+      "",
+      "B. Mathurin misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:47.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "7:35.0",
+      "Personal foul by B. Mathurin (drawn by J. Brown)",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "7:29.0",
+      "Personal foul by J. Huff (drawn by N. Queta)",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "7:20.0",
+      "N. Queta misses 2-pt layup from 3 ft (block by J. Huff)",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "82-72",
+      "",
+      "Defensive rebound by Q. Jackson"
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "82-72",
+      "",
+      "P. Siakam misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "82-72",
+      "",
+      "Offensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "82-72",
+      "",
+      "P. Siakam misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "7:08.0",
+      "Defensive rebound by D. White",
+      "",
+      "82-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "6:46.0",
+      "J. Brown makes 2-pt jump shot from 18 ft (assist by D. White)",
+      "+2",
+      "84-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "84-72",
+      "",
+      "Personal foul by J. Brown (drawn by B. Mathurin)"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "84-72",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "6:42.0",
+      "L. Garza enters the game for N. Queta",
+      "",
+      "84-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "6:42.0",
+      "S. Hauser enters the game for D. White",
+      "",
+      "84-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "84-72",
+      "",
+      "T. Bradley enters the game for J. Huff"
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "84-72",
+      "",
+      "E. Thompson enters the game for Q. Jackson"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "6:26.0",
+      "",
+      "",
+      "84-72",
+      "",
+      "A. Nembhard misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "6:22.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "84-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "6:10.0",
+      "J. Brown makes 2-pt jump shot from 15 ft",
+      "+2",
+      "86-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "86-74",
+      "+2",
+      "T. Bradley makes 2-pt layup from 3 ft (assist by A. Nembhard)"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "5:35.0",
+      "S. Hauser makes 3-pt jump shot from 25 ft (assist by P. Pritchard)",
+      "+3",
+      "89-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "5:21.0",
+      "",
+      "",
+      "89-76",
+      "+2",
+      "A. Nembhard makes 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "5:06.0",
+      "L. Garza makes 3-pt jump shot from 26 ft (assist by P. Pritchard)",
+      "+3",
+      "92-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "92-76",
+      "",
+      "J. Walker enters the game for P. Siakam"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "4:50.0",
+      "",
+      "",
+      "92-76",
+      "",
+      "A. Nembhard misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "4:49.0",
+      "Defensive rebound by Team",
+      "",
+      "92-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "92-76",
+      "",
+      "Loose ball foul by T. Bradley (drawn by L. Garza)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "4:49.0",
+      "L. Garza makes free throw 1 of 2",
+      "+1",
+      "93-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "4:49.0",
+      "",
+      "",
+      "93-76",
+      "",
+      "M. Potter enters the game for T. Bradley"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "4:49.0",
+      "L. Garza makes free throw 2 of 2",
+      "+1",
+      "94-76",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "4:37.0",
+      "",
+      "",
+      "94-79",
+      "+3",
+      "J. Walker makes 3-pt jump shot from 25 ft (assist by A. Nembhard)"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "4:24.0",
+      "Offensive foul by P. Pritchard (drawn by E. Thompson)",
+      "",
+      "94-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "4:24.0",
+      "Turnover by P. Pritchard (offensive foul)",
+      "",
+      "94-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "4:18.0",
+      "",
+      "",
+      "94-79",
+      "",
+      "J. Walker misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "4:14.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "94-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "4:10.0",
+      "S. Hauser makes 3-pt jump shot from 25 ft (assist by J. Brown)",
+      "+3",
+      "97-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "97-82",
+      "+3",
+      "J. Walker makes 3-pt jump shot from 24 ft (assist by A. Nembhard)"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "3:29.0",
+      "J. Brown makes 2-pt jump shot from 12 ft",
+      "+2",
+      "99-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "99-82",
+      "",
+      "Turnover by A. Nembhard (lost ball; steal by J. Brown)"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "3:12.0",
+      "L. Garza makes 2-pt layup from 2 ft (assist by J. Brown)",
+      "+2",
+      "101-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "3:11.0",
+      "",
+      "",
+      "101-82",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "3:11.0",
+      "",
+      "",
+      "101-82",
+      "",
+      "J. Furphy enters the game for B. Mathurin"
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "3:11.0",
+      "",
+      "",
+      "101-82",
+      "",
+      "T. McConnell enters the game for A. Nembhard"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "101-82",
+      "",
+      "Shooting foul by J. Brown (drawn by M. Potter)"
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "101-83",
+      "+1",
+      "M. Potter makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "101-84",
+      "+1",
+      "M. Potter makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "2:46.0",
+      "S. Hauser makes 3-pt jump shot from 28 ft (assist by L. Garza)",
+      "+3",
+      "104-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "104-87",
+      "+3",
+      "E. Thompson makes 3-pt jump shot from 24 ft (assist by T. McConnell)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "2:15.0",
+      "Personal foul by J. Furphy (drawn by S. Hauser)",
+      "",
+      "104-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "2:15.0",
+      "S. Hauser makes free throw 1 of 2",
+      "+1",
+      "105-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "2:15.0",
+      "S. Hauser makes free throw 2 of 2",
+      "+1",
+      "106-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "106-87",
+      "",
+      "J. Walker misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "1:56.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "106-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "1:49.0",
+      "S. Hauser makes 3-pt jump shot from 25 ft (assist by P. Pritchard)",
+      "+3",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "109-87",
+      "",
+      "T. McConnell misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "1:37.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "1:29.0",
+      "S. Hauser misses 3-pt jump shot from 27 ft",
+      "",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "1:25.0",
+      "Offensive rebound by P. Pritchard",
+      "",
+      "109-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "1:24.0",
+      "P. Pritchard makes 2-pt layup from 3 ft",
+      "+2",
+      "111-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:24.0",
+      "Instant Replay",
+      "",
+      "111-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:24.0",
+      "",
+      "",
+      "111-87",
+      "",
+      "Technical foul by T. McConnell"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "1:24.0",
+      "Technical foul by J. Walsh",
+      "",
+      "111-87",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "111-89",
+      "+2",
+      "T. McConnell makes 2-pt layup from 3 ft (assist by E. Thompson)"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "0:50.0",
+      "J. Brown misses 2-pt jump shot from 17 ft",
+      "",
+      "111-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "111-89",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "0:47.0",
+      "Loose ball foul by J. Walsh (drawn by M. Potter)",
+      "",
+      "111-89",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "111-91",
+      "+2",
+      "T. McConnell makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:13.0",
+      "Shooting foul by J. Furphy (drawn by L. Garza)",
+      "",
+      "111-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:13.0",
+      "L. Garza misses free throw 1 of 2",
+      "",
+      "111-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:13.0",
+      "Offensive rebound by Team",
+      "",
+      "111-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:13.0",
+      "L. Garza misses free throw 2 of 2",
+      "",
+      "111-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "111-91",
+      "",
+      "Defensive rebound by J. Furphy"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "111-91",
+      "",
+      "J. Walker misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:01.0",
+      "",
+      "",
+      "111-91",
+      "",
+      "Offensive rebound by J. Furphy"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Indiana"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "11:51.0",
+      "",
+      "",
+      "111-94",
+      "+3",
+      "J. Walker makes 3-pt jump shot from 26 ft (assist by E. Thompson)"
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "11:24.0",
+      "D. White misses 2-pt jump shot from 3 ft",
+      "",
+      "111-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "111-94",
+      "",
+      "Defensive rebound by E. Thompson"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "11:17.0",
+      "",
+      "",
+      "111-94",
+      "",
+      "Turnover by E. Thompson (bad pass)"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "10:57.0",
+      "D. White makes 2-pt layup from 10 ft",
+      "+2",
+      "113-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "113-94",
+      "",
+      "J. Walker misses 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "10:37.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "113-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "10:27.0",
+      "D. White misses 2-pt jump shot from 11 ft",
+      "",
+      "113-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "10:24.0",
+      "",
+      "",
+      "113-94",
+      "",
+      "Defensive rebound by J. Walker"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "113-94",
+      "",
+      "J. Furphy misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "10:16.0",
+      "Defensive rebound by A. Simons",
+      "",
+      "113-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "10:12.0",
+      "Personal foul by E. Thompson (drawn by A. Simons)",
+      "",
+      "113-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "10:06.0",
+      "A. Simons makes 3-pt jump shot from 26 ft (assist by D. White)",
+      "+3",
+      "116-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "116-94",
+      "",
+      "Offensive foul by J. Furphy (drawn by B. Scheierman)"
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "116-94",
+      "",
+      "Turnover by J. Furphy (offensive foul)"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "116-94",
+      "",
+      "J. Huff enters the game for J. Furphy"
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "116-94",
+      "",
+      "Q. Jackson enters the game for T. McConnell"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "116-94",
+      "",
+      "B. Mathurin enters the game for M. Potter"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "116-94",
+      "",
+      "A. Nembhard enters the game for E. Thompson"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "116-94",
+      "",
+      "P. Siakam enters the game for J. Walker"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "9:39.0",
+      "Shooting foul by Q. Jackson (drawn by D. White)",
+      "",
+      "116-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "9:39.0",
+      "D. White makes free throw 1 of 2",
+      "+1",
+      "117-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "9:39.0",
+      "D. White makes free throw 2 of 2",
+      "+1",
+      "118-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "9:26.0",
+      "",
+      "",
+      "118-94",
+      "",
+      "P. Siakam misses 2-pt hook shot from 5 ft"
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "118-94",
+      "",
+      "Offensive rebound by P. Siakam"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "118-96",
+      "+2",
+      "P. Siakam makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "9:11.0",
+      "Turnover by A. Simons (lost ball; steal by A. Nembhard)",
+      "",
+      "118-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "118-96",
+      "",
+      "Shooting foul by N. Queta (drawn by Q. Jackson)"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "118-97",
+      "+1",
+      "Q. Jackson makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:57.0",
+      "L. Garza enters the game for N. Queta",
+      "",
+      "118-97",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "8:57.0",
+      "",
+      "",
+      "118-98",
+      "+1",
+      "Q. Jackson makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "8:35.0",
+      "D. White makes 2-pt jump shot from 9 ft (assist by H. González Peña)",
+      "+2",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "120-98",
+      "",
+      "B. Mathurin misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:21.0",
+      "Defensive rebound by H. González Peña",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "8:18.0",
+      "Personal foul by Q. Jackson (drawn by L. Garza)",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "8:18.0",
+      "",
+      "",
+      "120-98",
+      "",
+      "Rescinded technical foul by L. Garza"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "8:18.0",
+      "Rescinded technical foul by Q. Jackson",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "8:12.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "120-98",
+      "",
+      "Defensive rebound by Q. Jackson"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "8:03.0",
+      "",
+      "",
+      "120-98",
+      "",
+      "J. Huff misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "7:59.0",
+      "Defensive rebound by A. Simons",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "7:54.0",
+      "H. González Peña misses 3-pt jump shot from 25 ft",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:51.0",
+      "",
+      "",
+      "120-98",
+      "",
+      "Defensive rebound by Q. Jackson"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "7:44.0",
+      "",
+      "",
+      "120-98",
+      "",
+      "P. Siakam misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "7:43.0",
+      "Defensive rebound by D. White",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "7:42.0",
+      "Boston full timeout",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "7:42.0",
+      "J. Brown enters the game for H. González Peña",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:42.0",
+      "P. Pritchard enters the game for B. Scheierman",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "7:26.0",
+      "Turnover by D. White (bad pass)",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "7:17.0",
+      "",
+      "",
+      "120-98",
+      "",
+      "J. Huff misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "120-98",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "7:15.0",
+      "Loose ball foul by J. Brown (drawn by P. Siakam)",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "120-98",
+      "",
+      "B. Mathurin misses 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "7:09.0",
+      "Defensive rebound by L. Garza",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "7:02.0",
+      "Shooting foul by B. Mathurin (drawn by P. Pritchard)",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "7:02.0",
+      "P. Pritchard misses free throw 1 of 2",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "7:02.0",
+      "Offensive rebound by Team",
+      "",
+      "120-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "7:02.0",
+      "P. Pritchard makes free throw 2 of 2",
+      "+1",
+      "121-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "121-98",
+      "",
+      "Shooting foul by J. Brown (drawn by P. Siakam)"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "121-98",
+      "",
+      "P. Siakam misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "121-98",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "6:56.0",
+      "",
+      "",
+      "121-99",
+      "+1",
+      "P. Siakam makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "6:42.0",
+      "Shooting foul by Q. Jackson (drawn by A. Simons)",
+      "",
+      "121-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "121-99",
+      "",
+      "Indiana full timeout"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "121-99",
+      "",
+      "Instant Replay (Challenge: Stands)"
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "121-99",
+      "",
+      "J. Furphy enters the game for J. Huff"
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "121-99",
+      "",
+      "K. Jones enters the game for Q. Jackson"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "121-99",
+      "",
+      "T. Peter enters the game for B. Mathurin"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "121-99",
+      "",
+      "M. Potter enters the game for A. Nembhard"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "6:42.0",
+      "",
+      "",
+      "121-99",
+      "",
+      "E. Thompson enters the game for P. Siakam"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "6:42.0",
+      "A. Simons makes free throw 1 of 3",
+      "+1",
+      "122-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "6:42.0",
+      "A. Simons misses free throw 2 of 3",
+      "",
+      "122-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "6:42.0",
+      "Offensive rebound by Team",
+      "",
+      "122-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "6:42.0",
+      "A. Simons makes free throw 3 of 3",
+      "+1",
+      "123-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "123-101",
+      "+2",
+      "K. Jones makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "6:15.0",
+      "J. Brown makes 3-pt jump shot from 27 ft",
+      "+3",
+      "126-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "5:58.0",
+      "",
+      "",
+      "126-101",
+      "",
+      "T. Peter misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "5:53.0",
+      "Defensive rebound by L. Garza",
+      "",
+      "126-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "5:43.0",
+      "J. Brown makes 3-pt jump shot from 31 ft",
+      "+3",
+      "129-101",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "129-101",
+      "",
+      "E. Thompson misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "5:28.0",
+      "",
+      "",
+      "129-101",
+      "",
+      "Offensive rebound by T. Peter"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "129-104",
+      "+3",
+      "J. Furphy makes 3-pt jump shot from 23 ft (assist by E. Thompson)"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "5:03.0",
+      "J. Brown misses 3-pt jump shot from 28 ft",
+      "",
+      "129-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "5:01.0",
+      "",
+      "",
+      "129-104",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "5:01.0",
+      "H. González Peña enters the game for J. Brown",
+      "",
+      "129-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "5:01.0",
+      "B. Scheierman enters the game for L. Garza",
+      "",
+      "129-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "5:01.0",
+      "J. Walsh enters the game for D. White",
+      "",
+      "129-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "4:47.0",
+      "",
+      "",
+      "129-107",
+      "+3",
+      "T. Peter makes 3-pt jump shot from 26 ft (assist by K. Jones)"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "4:34.0",
+      "B. Scheierman misses 3-pt jump shot from 24 ft",
+      "",
+      "129-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "129-107",
+      "",
+      "Defensive rebound by M. Potter"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "4:23.0",
+      "",
+      "",
+      "129-109",
+      "+2",
+      "M. Potter makes 2-pt layup from 3 ft (assist by E. Thompson)"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "4:22.0",
+      "Boston full timeout",
+      "",
+      "129-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "4:22.0",
+      "L. Garza enters the game for H. González Peña",
+      "",
+      "129-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "4:22.0",
+      "S. Hauser enters the game for B. Scheierman",
+      "",
+      "129-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "3:59.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "129-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "3:53.0",
+      "Offensive rebound by S. Hauser",
+      "",
+      "129-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "3:43.0",
+      "P. Pritchard makes 2-pt jump shot from 10 ft",
+      "+2",
+      "131-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "131-109",
+      "",
+      "Shooting foul by L. Garza (drawn by J. Furphy)"
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "131-109",
+      "",
+      "J. Furphy misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "131-109",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "3:29.0",
+      "",
+      "",
+      "131-110",
+      "+1",
+      "J. Furphy makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "3:14.0",
+      "J. Walsh misses 2-pt layup from 4 ft",
+      "",
+      "131-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "3:11.0",
+      "Offensive rebound by L. Garza",
+      "",
+      "131-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "3:11.0",
+      "L. Garza makes 2-pt layup at rim",
+      "+2",
+      "133-110",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "3:04.0",
+      "",
+      "",
+      "133-113",
+      "+3",
+      "M. Potter makes 3-pt jump shot from 26 ft (assist by K. Jones)"
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "2:43.0",
+      "Turnover by P. Pritchard (traveling)",
+      "",
+      "133-113",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "133-115",
+      "+2",
+      "K. Jones makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "2:22.0",
+      "A. Simons misses 3-pt jump shot from 26 ft",
+      "",
+      "133-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "2:19.0",
+      "Offensive rebound by S. Hauser",
+      "",
+      "133-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "2:07.0",
+      "P. Pritchard makes 3-pt jump shot from 26 ft",
+      "+3",
+      "136-115",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "1:56.0",
+      "",
+      "",
+      "136-117",
+      "+2",
+      "J. Furphy makes 2-pt dunk from 2 ft (assist by E. Thompson)"
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "1:41.0",
+      "Shooting foul by E. Thompson (drawn by P. Pritchard)",
+      "",
+      "136-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "1:41.0",
+      "P. Pritchard makes free throw 1 of 2",
+      "+1",
+      "137-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "1:41.0",
+      "B. Scheierman enters the game for S. Hauser",
+      "",
+      "137-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "1:41.0",
+      "P. Pritchard makes free throw 2 of 2",
+      "+1",
+      "138-117",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "138-120",
+      "+3",
+      "J. Furphy makes 3-pt jump shot from 25 ft (assist by E. Thompson)"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "1:09.0",
+      "Boston full timeout",
+      "",
+      "138-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "1:09.0",
+      "H. González Peña enters the game for J. Walsh",
+      "",
+      "138-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "1:01.0",
+      "Shooting foul by K. Jones (drawn by P. Pritchard)",
+      "",
+      "138-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "1:01.0",
+      "P. Pritchard makes free throw 1 of 2",
+      "+1",
+      "139-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "1:01.0",
+      "P. Pritchard makes free throw 2 of 2",
+      "+1",
+      "140-120",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "140-120",
+      "",
+      "Shooting foul by L. Garza (drawn by M. Potter)"
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "140-121",
+      "+1",
+      "M. Potter makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "140-122",
+      "+1",
+      "M. Potter makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "0:20.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "140-122",
+      "",
+      ""
+    ]
+  }
+]

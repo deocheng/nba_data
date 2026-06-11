@@ -1,0 +1,1542 @@
+{
+  "top_5_players": [
+    {
+      "player": "Luka Dončić",
+      "team": "LAL",
+      "total_score": 334.0,
+      "categories": [
+        {
+          "category": "Points",
+          "rank": 1,
+          "value": 2143.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Points Per Game",
+          "rank": 1,
+          "value": 33.5,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Free Throw Attempts",
+          "rank": 1,
+          "value": 645.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Free Throw Attempts Per Game",
+          "rank": 1,
+          "value": 10.1,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Usage Pct",
+          "rank": 1,
+          "value": 38.1,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Field Goal Attempts Per 36 Minutes",
+          "rank": 1,
+          "value": 22.9,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Free Throw Attempts Per 36 Minutes",
+          "rank": 1,
+          "value": 10.1,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Points Per 100 Possessions",
+          "rank": 1,
+          "value": 45.7,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Free Throw Attempts Per 100 Possessions",
+          "rank": 1,
+          "value": 13.8,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Field Goals Per Game",
+          "rank": 1,
+          "value": 10.8,
+          "base_score": 10,
+          "bonus": 0.0,
+          "total": 10.0
+        },
+        {
+          "category": "Field Goal Attempts Per Game",
+          "rank": 1,
+          "value": 22.8,
+          "base_score": 10,
+          "bonus": 0.0,
+          "total": 10.0
+        },
+        {
+          "category": "Payton Pritchard • BOS212",
+          "rank": 1,
+          "value": 4.0,
+          "base_score": 10,
+          "bonus": 0.0,
+          "total": 10.0
+        },
+        {
+          "category": "VJ Edgecombe • PHI107",
+          "rank": 2,
+          "value": 105.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Jaylen Brown • BOS807",
+          "rank": 2,
+          "value": 764.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Free Throws",
+          "rank": 2,
+          "value": 503.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Free Throws Per Game",
+          "rank": 2,
+          "value": 7.9,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Turnovers",
+          "rank": 2,
+          "value": 255.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Points Per 36 Minutes",
+          "rank": 2,
+          "value": 33.7,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Field Goal Attempts Per 100 Possessions",
+          "rank": 2,
+          "value": 31.1,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Free Throws Per 100 Possessions",
+          "rank": 2,
+          "value": 10.7,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Assists Per Game",
+          "rank": 3,
+          "value": 8.3,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Payton Pritchard • BOS212",
+          "rank": 3,
+          "value": 10.8,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Offensive Box Plus/Minus",
+          "rank": 3,
+          "value": 8.0,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Value Over Replacement Player",
+          "rank": 3,
+          "value": 6.6,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Free Throws Per 36 Minutes",
+          "rank": 3,
+          "value": 7.9,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Turnovers Per 36 Minutes",
+          "rank": 3,
+          "value": 4.0,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Turnovers Per 100 Possessions",
+          "rank": 3,
+          "value": 5.4,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Field Goal Attempts",
+          "rank": 4,
+          "value": 1457.0,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Payton Pritchard • BOS212",
+          "rank": 4,
+          "value": 694.0,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Minutes Per Game",
+          "rank": 4,
+          "value": 35.8,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Player Efficiency Rating",
+          "rank": 4,
+          "value": 27.9,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Box Plus/Minus",
+          "rank": 4,
+          "value": 9.3,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Field Goals",
+          "rank": 5,
+          "value": 693.0,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Assist Pct",
+          "rank": 5,
+          "value": 40.5,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Assists",
+          "rank": 6,
+          "value": 530.0,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Steals Per Game",
+          "rank": 6,
+          "value": 1.6,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Zion Williamson • NOP803",
+          "rank": 6,
+          "value": 254.0,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Offensive Win Shares",
+          "rank": 6,
+          "value": 6.6,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Defensive Rebounds Per Game",
+          "rank": 8,
+          "value": 7.1,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Win Shares",
+          "rank": 9,
+          "value": 9.5,
+          "base_score": 2,
+          "bonus": 0.0,
+          "total": 2.0
+        },
+        {
+          "category": "Win Shares Per 48 Minutes",
+          "rank": 9,
+          "value": 0.199,
+          "base_score": 2,
+          "bonus": 0.0,
+          "total": 2.0
+        },
+        {
+          "category": "Assists Per 100 Possessions",
+          "rank": 9,
+          "value": 11.3,
+          "base_score": 2,
+          "bonus": 0.0,
+          "total": 2.0
+        },
+        {
+          "category": "Assists Per 36 Minutes",
+          "rank": 10,
+          "value": 8.3,
+          "base_score": 1,
+          "bonus": 0.0,
+          "total": 1.0
+        }
+      ],
+      "details": []
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "team": "OKC",
+      "total_score": 325.0,
+      "categories": [
+        {
+          "category": "Field Goals Per 36 Minutes",
+          "rank": 1,
+          "value": 11.6,
+          "base_score": 10,
+          "bonus": 1.5,
+          "total": 11.5
+        },
+        {
+          "category": "Field Goals Per 100 Possessions",
+          "rank": 1,
+          "value": 15.6,
+          "base_score": 10,
+          "bonus": 1.5,
+          "total": 11.5
+        },
+        {
+          "category": "Free Throws",
+          "rank": 1,
+          "value": 540.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Win Shares",
+          "rank": 1,
+          "value": 15.2,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Win Shares Per 48 Minutes",
+          "rank": 1,
+          "value": 0.323,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Free Throws Per 36 Minutes",
+          "rank": 1,
+          "value": 8.6,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Free Throws Per 100 Possessions",
+          "rank": 1,
+          "value": 11.6,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Free Throws Per Game",
+          "rank": 1,
+          "value": 7.9,
+          "base_score": 10,
+          "bonus": 0.0,
+          "total": 10.0
+        },
+        {
+          "category": "Points Per 36 Minutes",
+          "rank": 1,
+          "value": 33.7,
+          "base_score": 10,
+          "bonus": 0.0,
+          "total": 10.0
+        },
+        {
+          "category": "Points",
+          "rank": 2,
+          "value": 2117.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Points Per Game",
+          "rank": 2,
+          "value": 31.1,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Field Goals",
+          "rank": 2,
+          "value": 731.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Field Goals Per Game",
+          "rank": 2,
+          "value": 10.8,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Field Goal Attempts Per Game",
+          "rank": 2,
+          "value": 616.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Free Throw Attempts",
+          "rank": 2,
+          "value": 614.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Player Efficiency Rating",
+          "rank": 2,
+          "value": 30.8,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Offensive Win Shares",
+          "rank": 2,
+          "value": 11.1,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Box Plus/Minus",
+          "rank": 2,
+          "value": 11.7,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Offensive Box Plus/Minus",
+          "rank": 2,
+          "value": 8.7,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Value Over Replacement Player",
+          "rank": 2,
+          "value": 7.8,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Field Goals Per 36 Minutes",
+          "rank": 2,
+          "value": 9.8,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Points Per 100 Possessions",
+          "rank": 2,
+          "value": 45.3,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Field Goals Per 100 Possessions",
+          "rank": 2,
+          "value": 13.2,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Pascal Siakam • IND454",
+          "rank": 3,
+          "value": 1023.0,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Free Throw Attempts Per Game",
+          "rank": 3,
+          "value": 9.0,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Free Throw Attempts Per 36 Minutes",
+          "rank": 3,
+          "value": 9.8,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Free Throw Attempts Per 100 Possessions",
+          "rank": 3,
+          "value": 13.1,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Pascal Siakam • IND454",
+          "rank": 4,
+          "value": 9.1,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Zion Williamson • NOP803",
+          "rank": 4,
+          "value": 15.0,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Usage Pct",
+          "rank": 4,
+          "value": 33.4,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Defensive Box Plus/Minus",
+          "rank": 5,
+          "value": 3.0,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Defensive Win Shares",
+          "rank": 6,
+          "value": 4.1,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Field Goals Per 36 Minutes",
+          "rank": 6,
+          "value": 16.3,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Field Goal Attempts Per 36 Minutes",
+          "rank": 6,
+          "value": 21.1,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Field Goals Per 100 Possessions",
+          "rank": 6,
+          "value": 21.9,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Field Goal Attempts Per 100 Possessions",
+          "rank": 6,
+          "value": 28.3,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "True Shooting Pct",
+          "rank": 7,
+          "value": 0.665,
+          "base_score": 4,
+          "bonus": 0.0,
+          "total": 4.0
+        },
+        {
+          "category": "Offensive Rating",
+          "rank": 7,
+          "value": 133.3,
+          "base_score": 4,
+          "bonus": 0.0,
+          "total": 4.0
+        },
+        {
+          "category": "Field Goal Attempts",
+          "rank": 8,
+          "value": 1321.0,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Defensive Rating",
+          "rank": 8,
+          "value": 108.8,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Assist Pct",
+          "rank": 8,
+          "value": 35.0,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        }
+      ],
+      "details": []
+    },
+    {
+      "player": "Nikola Jokić",
+      "team": "DEN",
+      "total_score": 272.0,
+      "categories": [
+        {
+          "category": "Box Plus/Minus",
+          "rank": 1,
+          "value": 14.2,
+          "base_score": 10,
+          "bonus": 1.5,
+          "total": 11.5
+        },
+        {
+          "category": "Value Over Replacement Player",
+          "rank": 1,
+          "value": 9.2,
+          "base_score": 10,
+          "bonus": 1.5,
+          "total": 11.5
+        },
+        {
+          "category": "Rebounds Per Game",
+          "rank": 1,
+          "value": 12.9,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Defensive Rebounds Per Game",
+          "rank": 1,
+          "value": 9.9,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Assists",
+          "rank": 1,
+          "value": 697.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Assists Per Game",
+          "rank": 1,
+          "value": 10.7,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Player Efficiency Rating",
+          "rank": 1,
+          "value": 32.3,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Offensive Win Shares",
+          "rank": 1,
+          "value": 11.5,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Offensive Box Plus/Minus",
+          "rank": 1,
+          "value": 10.1,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Assist Pct",
+          "rank": 1,
+          "value": 50.3,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Assists Per 36 Minutes",
+          "rank": 1,
+          "value": 11.1,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Assists Per 100 Possessions",
+          "rank": 1,
+          "value": 15.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Defensive Rebounds",
+          "rank": 2,
+          "value": 644.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Win Shares",
+          "rank": 2,
+          "value": 14.9,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Win Shares Per 48 Minutes",
+          "rank": 2,
+          "value": 0.316,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Defensive Box Plus/Minus",
+          "rank": 2,
+          "value": 4.1,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Defensive Rebounds Per 36 Minutes",
+          "rank": 2,
+          "value": 10.2,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Defensive Rebound Pct",
+          "rank": 3,
+          "value": 30.4,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Defensive Rebounds Per 100 Possessions",
+          "rank": 3,
+          "value": 13.9,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Total Rebounds",
+          "rank": 4,
+          "value": 836.0,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "True Shooting Pct",
+          "rank": 5,
+          "value": 0.67,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Field Goals Per Game",
+          "rank": 5,
+          "value": 9.9,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Turnovers Per 36 Minutes",
+          "rank": 5,
+          "value": 3.9,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Offensive Rating",
+          "rank": 6,
+          "value": 133.6,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Total Rebound Pct",
+          "rank": 6,
+          "value": 20.7,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Turnovers Per 100 Possessions",
+          "rank": 6,
+          "value": 5.2,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Field Goal Attempts Per Game",
+          "rank": 7,
+          "value": 532.0,
+          "base_score": 4,
+          "bonus": 0.0,
+          "total": 4.0
+        },
+        {
+          "category": "Free Throws Per Game",
+          "rank": 7,
+          "value": 6.1,
+          "base_score": 4,
+          "bonus": 0.0,
+          "total": 4.0
+        },
+        {
+          "category": "Turnovers",
+          "rank": 7,
+          "value": 243.0,
+          "base_score": 4,
+          "bonus": 0.0,
+          "total": 4.0
+        },
+        {
+          "category": "Points Per Game",
+          "rank": 8,
+          "value": 27.7,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Effective Field Goal Pct",
+          "rank": 8,
+          "value": 0.618,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Pascal Siakam • IND454",
+          "rank": 8,
+          "value": 8.2,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Points Per 36 Minutes",
+          "rank": 8,
+          "value": 28.6,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Points Per 100 Possessions",
+          "rank": 8,
+          "value": 38.8,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Field Goals",
+          "rank": 9,
+          "value": 644.0,
+          "base_score": 2,
+          "bonus": 0.0,
+          "total": 2.0
+        },
+        {
+          "category": "Free Throws",
+          "rank": 9,
+          "value": 399.0,
+          "base_score": 2,
+          "bonus": 0.0,
+          "total": 2.0
+        },
+        {
+          "category": "Free Throw Attempts",
+          "rank": 9,
+          "value": 480.0,
+          "base_score": 2,
+          "bonus": 0.0,
+          "total": 2.0
+        },
+        {
+          "category": "Free Throw Attempts Per Game",
+          "rank": 9,
+          "value": 7.4,
+          "base_score": 2,
+          "bonus": 0.0,
+          "total": 2.0
+        },
+        {
+          "category": "Points",
+          "rank": 10,
+          "value": 1799.0,
+          "base_score": 1,
+          "bonus": 0.0,
+          "total": 1.0
+        },
+        {
+          "category": "Field Goal Pct",
+          "rank": 10,
+          "value": 0.569,
+          "base_score": 1,
+          "bonus": 0.0,
+          "total": 1.0
+        },
+        {
+          "category": "Free Throws Per 36 Minutes",
+          "rank": 10,
+          "value": 6.3,
+          "base_score": 1,
+          "bonus": 0.0,
+          "total": 1.0
+        }
+      ],
+      "details": []
+    },
+    {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "total_score": 258.5,
+      "categories": [
+        {
+          "category": "Blocks",
+          "rank": 1,
+          "value": 197.0,
+          "base_score": 10,
+          "bonus": 1.5,
+          "total": 11.5
+        },
+        {
+          "category": "Blocks Per Game",
+          "rank": 1,
+          "value": 3.1,
+          "base_score": 10,
+          "bonus": 1.5,
+          "total": 11.5
+        },
+        {
+          "category": "Block Pct",
+          "rank": 1,
+          "value": 9.4,
+          "base_score": 10,
+          "bonus": 1.5,
+          "total": 11.5
+        },
+        {
+          "category": "Blocks Per 36 Minutes",
+          "rank": 1,
+          "value": 3.8,
+          "base_score": 10,
+          "bonus": 1.5,
+          "total": 11.5
+        },
+        {
+          "category": "Blocks Per 100 Possessions",
+          "rank": 1,
+          "value": 5.1,
+          "base_score": 10,
+          "bonus": 1.5,
+          "total": 11.5
+        },
+        {
+          "category": "Defensive Win Shares",
+          "rank": 1,
+          "value": 5.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Defensive Box Plus/Minus",
+          "rank": 1,
+          "value": 4.2,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Defensive Rebound Pct",
+          "rank": 1,
+          "value": 33.9,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Defensive Rebounds Per 36 Minutes",
+          "rank": 1,
+          "value": 11.7,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Defensive Rebounds Per 100 Possessions",
+          "rank": 1,
+          "value": 15.6,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Defensive Rating",
+          "rank": 1,
+          "value": 101.0,
+          "base_score": 10,
+          "bonus": 0.0,
+          "total": 10.0
+        },
+        {
+          "category": "Defensive Rebounds Per Game",
+          "rank": 2,
+          "value": 9.5,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Player Efficiency Rating",
+          "rank": 3,
+          "value": 29.9,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Box Plus/Minus",
+          "rank": 3,
+          "value": 10.7,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Total Rebound Pct",
+          "rank": 3,
+          "value": 21.2,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Rebounds Per Game",
+          "rank": 4,
+          "value": 11.5,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Defensive Rebounds",
+          "rank": 4,
+          "value": 606.0,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Win Shares Per 48 Minutes",
+          "rank": 4,
+          "value": 0.257,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Value Over Replacement Player",
+          "rank": 4,
+          "value": 6.0,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Points Per 36 Minutes",
+          "rank": 4,
+          "value": 30.9,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Offensive Box Plus/Minus",
+          "rank": 5,
+          "value": 6.5,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Usage Pct",
+          "rank": 5,
+          "value": 32.4,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Free Throws Per 36 Minutes",
+          "rank": 5,
+          "value": 7.2,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Points Per 100 Possessions",
+          "rank": 5,
+          "value": 41.2,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Free Throws Per 100 Possessions",
+          "rank": 5,
+          "value": 9.6,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Win Shares",
+          "rank": 6,
+          "value": 10.0,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Free Throw Attempts Per 36 Minutes",
+          "rank": 6,
+          "value": 8.7,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Total Rebounds Per 36 Minutes",
+          "rank": 6,
+          "value": 14.2,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Free Throw Attempts Per 100 Possessions",
+          "rank": 6,
+          "value": 11.6,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Total Rebounds Per 100 Possessions",
+          "rank": 6,
+          "value": 18.9,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Total Rebounds",
+          "rank": 7,
+          "value": 736.0,
+          "base_score": 4,
+          "bonus": 0.0,
+          "total": 4.0
+        },
+        {
+          "category": "Field Goal Attempts Per 36 Minutes",
+          "rank": 7,
+          "value": 20.8,
+          "base_score": 4,
+          "bonus": 0.0,
+          "total": 4.0
+        },
+        {
+          "category": "Field Goal Attempts Per 100 Possessions",
+          "rank": 8,
+          "value": 27.8,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Free Throws Per Game",
+          "rank": 9,
+          "value": 5.8,
+          "base_score": 2,
+          "bonus": 0.0,
+          "total": 2.0
+        }
+      ],
+      "details": []
+    },
+    {
+      "player": "Jaylen Brown",
+      "team": "BOS",
+      "total_score": 191.0,
+      "categories": [
+        {
+          "category": "Field Goals",
+          "rank": 1,
+          "value": 736.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Field Goal Attempts",
+          "rank": 1,
+          "value": 1543.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Turnovers",
+          "rank": 1,
+          "value": 259.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Field Goal Attempts Per 100 Possessions",
+          "rank": 1,
+          "value": 32.0,
+          "base_score": 10,
+          "bonus": 1.0,
+          "total": 11.0
+        },
+        {
+          "category": "Zion Williamson • NOP803",
+          "rank": 1,
+          "value": 16.0,
+          "base_score": 10,
+          "bonus": 0.0,
+          "total": 10.0
+        },
+        {
+          "category": "Pascal Siakam • IND454",
+          "rank": 2,
+          "value": 1139.0,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Usage Pct",
+          "rank": 2,
+          "value": 36.2,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Field Goal Attempts Per 36 Minutes",
+          "rank": 2,
+          "value": 22.7,
+          "base_score": 9,
+          "bonus": 0.0,
+          "total": 9.0
+        },
+        {
+          "category": "Points",
+          "rank": 3,
+          "value": 2038.0,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Field Goals Per Game",
+          "rank": 3,
+          "value": 10.4,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Field Goal Attempts Per Game",
+          "rank": 3,
+          "value": 596.0,
+          "base_score": 8,
+          "bonus": 0.0,
+          "total": 8.0
+        },
+        {
+          "category": "Points Per Game",
+          "rank": 4,
+          "value": 28.7,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Field Goal Attempts Per Game",
+          "rank": 4,
+          "value": 21.7,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Field Goals Per 36 Minutes",
+          "rank": 4,
+          "value": 16.8,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Points Per 100 Possessions",
+          "rank": 4,
+          "value": 42.2,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Field Goals Per 100 Possessions",
+          "rank": 4,
+          "value": 23.6,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Turnovers Per 100 Possessions",
+          "rank": 4,
+          "value": 5.4,
+          "base_score": 7,
+          "bonus": 0.0,
+          "total": 7.0
+        },
+        {
+          "category": "Pascal Siakam • IND454",
+          "rank": 5,
+          "value": 8.4,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Free Throw Attempts",
+          "rank": 5,
+          "value": 536.0,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Points Per 36 Minutes",
+          "rank": 5,
+          "value": 30.0,
+          "base_score": 6,
+          "bonus": 0.0,
+          "total": 6.0
+        },
+        {
+          "category": "Free Throw Attempts Per Game",
+          "rank": 6,
+          "value": 7.5,
+          "base_score": 5,
+          "bonus": 0.0,
+          "total": 5.0
+        },
+        {
+          "category": "Free Throws",
+          "rank": 7,
+          "value": 426.0,
+          "base_score": 4,
+          "bonus": 0.0,
+          "total": 4.0
+        },
+        {
+          "category": "Turnovers Per 36 Minutes",
+          "rank": 7,
+          "value": 3.8,
+          "base_score": 4,
+          "bonus": 0.0,
+          "total": 4.0
+        },
+        {
+          "category": "Free Throws Per Game",
+          "rank": 8,
+          "value": 6.0,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Free Throw Attempts Per 36 Minutes",
+          "rank": 8,
+          "value": 7.9,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Free Throws Per 100 Possessions",
+          "rank": 8,
+          "value": 8.8,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Free Throw Attempts Per 100 Possessions",
+          "rank": 8,
+          "value": 11.1,
+          "base_score": 3,
+          "bonus": 0.0,
+          "total": 3.0
+        },
+        {
+          "category": "Field Goals Per 100 Possessions",
+          "rank": 10,
+          "value": 15.2,
+          "base_score": 1,
+          "bonus": 0.0,
+          "total": 1.0
+        }
+      ],
+      "details": []
+    }
+  ],
+  "all_players_count": 130,
+  "categories_analyzed": 105
+}

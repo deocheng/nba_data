@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试球员加载</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #1a1a2e; color: white; padding: 20px; }
+        .loading { text-align: center; padding: 50px; }
+        .error { color: #ff6b6b; padding: 20px; background: rgba(255,0,0,0.1); border-radius: 5px; }
+        .success { color: #4ecdc4; padding: 20px; background: rgba(0,255,0,0.1); border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>测试球员数据加载</h1>
+    <div id="status"></div>
+    <div id="data"></div>
+
+    <script>
+        const statusDiv = document.getElementById('status');
+        const dataDiv = document.getElementById('data');
+        
+        statusDiv.innerHTML = '<div class="loading">正在加载...</div>';
+        
+        fetch('/api/player-cards?limit=5')
+            .then(response => {
+                statusDiv.innerHTML = `<div>HTTP状态: ${response.status}</div>`;
+                return response.json();
+            })
+            .then(data => {
+                statusDiv.innerHTML = `<div class="success">加载成功！</div>`;
+                dataDiv.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+            })
+            .catch(error => {
+                statusDiv.innerHTML = `<div class="error">加载失败: ${error.message}</div>`;
+                console.error('Error:', error);
+            });
+    </script>
+</body>
+</html>

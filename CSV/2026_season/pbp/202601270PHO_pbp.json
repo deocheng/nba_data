@@ -1,0 +1,4754 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Brooklyn",
+      "",
+      "Score",
+      "",
+      "Phoenix"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "M. Williams misses 2-pt hook shot from 8 ft"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:42.0",
+      "Defensive rebound by N. Claxton",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:25.0",
+      "M. Porter misses 3-pt jump shot from 25 ft",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Defensive rebound by G. Allen"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "R. O'Neale misses 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:06.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "Offensive rebound by G. Allen"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:58.0",
+      "",
+      "",
+      "0-2",
+      "+2",
+      "M. Williams makes 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:30.0",
+      "Turnover by D. Powell (bad pass; steal by M. Williams)",
+      "",
+      "0-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "0-4",
+      "+2",
+      "R. O'Neale makes 2-pt layup from 4 ft (assist by M. Williams)"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:13.0",
+      "M. Porter makes 2-pt dunk from 1 ft (assist by N. Claxton)",
+      "+2",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "9:58.0",
+      "",
+      "",
+      "2-4",
+      "",
+      "J. Goodwin misses 2-pt layup from 8 ft (block by N. Claxton)"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "2-4",
+      "",
+      "Offensive rebound by R. O'Neale"
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "2-4",
+      "",
+      "J. Goodwin misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:50.0",
+      "Defensive rebound by T. Mann",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:43.0",
+      "N. Claxton misses 2-pt layup from 7 ft",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:43.0",
+      "Offensive rebound by N. Claxton",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:42.0",
+      "N. Claxton misses 2-pt layup at rim",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:41.0",
+      "Offensive rebound by N. Claxton",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:40.0",
+      "Turnover by N. Claxton (lost ball; steal by D. Brooks)",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "2-4",
+      "",
+      "D. Brooks misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:28.0",
+      "Defensive rebound by E. Dёmin",
+      "",
+      "2-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:21.0",
+      "M. Porter makes 2-pt layup from 2 ft (assist by E. Dёmin)",
+      "+2",
+      "4-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "4-4",
+      "",
+      "M. Williams misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:09.0",
+      "",
+      "",
+      "4-4",
+      "",
+      "Offensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:08.0",
+      "",
+      "",
+      "4-6",
+      "+2",
+      "J. Goodwin makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "8:45.0",
+      "M. Porter makes 2-pt layup from 4 ft (assist by N. Claxton)",
+      "+2",
+      "6-6",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:30.0",
+      "",
+      "",
+      "6-8",
+      "+2",
+      "D. Brooks makes 2-pt jump shot from 12 ft (assist by G. Allen)"
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:08.0",
+      "Shooting foul by M. Williams (drawn by N. Claxton)",
+      "",
+      "6-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:08.0",
+      "N. Claxton makes free throw 1 of 2",
+      "+1",
+      "7-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:08.0",
+      "N. Claxton misses free throw 2 of 2",
+      "",
+      "7-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "7-8",
+      "",
+      "Defensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "7-10",
+      "+2",
+      "D. Brooks makes 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "7:34.0",
+      "M. Porter makes 2-pt layup from 9 ft (assist by N. Claxton)",
+      "+2",
+      "9-10",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "9-13",
+      "+3",
+      "D. Brooks makes 3-pt jump shot from 29 ft"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "7:11.0",
+      "T. Mann misses 3-pt jump shot from 25 ft",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "7:08.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "Defensive rebound by D. Brooks"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "9-13",
+      "",
+      "Turnover by D. Brooks (lost ball)"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "7:01.0",
+      "Flagrant foul type 1 by D. Brooks (drawn by N. Claxton)",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "7:01.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "9-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:01.0",
+      "N. Claxton makes flagrant free throw 1 of 2",
+      "+1",
+      "10-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:01.0",
+      "N. Claxton misses flagrant free throw 2 of 2",
+      "",
+      "10-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:01.0",
+      "Offensive rebound by Team",
+      "",
+      "10-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "6:46.0",
+      "M. Porter makes 2-pt layup from 7 ft",
+      "+2",
+      "12-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "12-15",
+      "+2",
+      "M. Williams makes 2-pt layup from 4 ft (assist by D. Brooks)"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "6:20.0",
+      "N. Claxton misses 2-pt layup from 2 ft",
+      "",
+      "12-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "6:18.0",
+      "Offensive rebound by N. Claxton",
+      "",
+      "12-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "6:14.0",
+      "T. Mann makes 2-pt dunk from 1 ft (assist by E. Dёmin)",
+      "+2",
+      "14-15",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "14-17",
+      "+2",
+      "M. Williams makes 2-pt layup from 2 ft (assist by J. Goodwin)"
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:46.0",
+      "Turnover by M. Porter (out of bounds lost ball)",
+      "",
+      "14-17",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "14-17",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "14-17",
+      "",
+      "J. Bouyea enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "14-17",
+      "",
+      "R. Dunn enters the game for R. O'Neale"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:36.0",
+      "",
+      "",
+      "14-19",
+      "+2",
+      "M. Williams makes 2-pt dunk from 2 ft (assist by G. Allen)"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "5:22.0",
+      "Offensive foul by N. Claxton (drawn by D. Brooks)",
+      "",
+      "14-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "5:22.0",
+      "Turnover by N. Claxton (offensive foul)",
+      "",
+      "14-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "5:22.0",
+      "C. Thomas enters the game for D. Powell",
+      "",
+      "14-19",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "5:08.0",
+      "",
+      "",
+      "14-21",
+      "+2",
+      "M. Williams makes 2-pt dunk from 2 ft (assist by D. Brooks)"
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:48.0",
+      "Turnover by E. Dёmin (bad pass; steal by R. Dunn)",
+      "",
+      "14-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "14-23",
+      "+2",
+      "R. Dunn makes 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:44.0",
+      "Brooklyn full timeout",
+      "",
+      "14-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:44.0",
+      "D. Sharpe enters the game for N. Claxton",
+      "",
+      "14-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "4:44.0",
+      "Z. Williams enters the game for T. Mann",
+      "",
+      "14-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "4:23.0",
+      "C. Thomas misses 2-pt jump shot from 8 ft",
+      "",
+      "14-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "4:21.0",
+      "Offensive rebound by M. Porter",
+      "",
+      "14-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "4:20.0",
+      "M. Porter makes 2-pt layup from 1 ft",
+      "+2",
+      "16-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "16-23",
+      "",
+      "R. Dunn misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "3:53.0",
+      "Defensive rebound by E. Dёmin",
+      "",
+      "16-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "3:44.0",
+      "C. Thomas makes 2-pt jump shot from 16 ft (assist by M. Porter)",
+      "+2",
+      "18-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "3:34.0",
+      "",
+      "",
+      "18-23",
+      "",
+      "J. Bouyea misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "3:30.0",
+      "Defensive rebound by C. Thomas",
+      "",
+      "18-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "3:21.0",
+      "D. Sharpe makes 2-pt layup from 2 ft (assist by C. Thomas)",
+      "+2",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "Personal foul by D. Sharpe (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "3:07.0",
+      "B. Saraf enters the game for E. Dёmin",
+      "",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:07.0",
+      "D. Wolf enters the game for M. Porter",
+      "",
+      "20-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "J. Goodwin enters the game for G. Allen"
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "O. Ighodaro enters the game for D. Brooks"
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:07.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "R. O'Neale enters the game for M. Williams"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:02.0",
+      "",
+      "",
+      "20-23",
+      "",
+      "Turnover by J. Bouyea (bad pass; steal by D. Sharpe)"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:46.0",
+      "D. Sharpe makes 2-pt layup from 5 ft (assist by B. Saraf)",
+      "+2",
+      "22-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "22-23",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "2:27.0",
+      "",
+      "",
+      "22-25",
+      "+2",
+      "R. Dunn makes 2-pt jump shot from 10 ft (assist by R. O'Neale)"
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "2:01.0",
+      "D. Wolf misses 2-pt jump shot from 8 ft",
+      "",
+      "22-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "22-25",
+      "",
+      "Defensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:47.0",
+      "",
+      "",
+      "22-25",
+      "",
+      "Turnover by O. Ighodaro (bad pass; steal by D. Sharpe)"
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:41.0",
+      "Z. Williams makes 3-pt jump shot from 23 ft (assist by B. Saraf)",
+      "+3",
+      "25-25",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "25-27",
+      "+2",
+      "O. Ighodaro makes 2-pt dunk from 1 ft (assist by J. Goodwin)"
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "25-27",
+      "",
+      "Shooting foul by D. Wolf (drawn by O. Ighodaro)"
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "1:31.0",
+      "",
+      "",
+      "25-27",
+      "",
+      "O. Ighodaro misses free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "1:29.0",
+      "Defensive rebound by D. Wolf",
+      "",
+      "25-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "1:09.0",
+      "C. Thomas makes 2-pt layup from 7 ft",
+      "+2",
+      "27-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "27-27",
+      "",
+      "Personal foul by B. Saraf (drawn by O. Ighodaro)"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "27-28",
+      "+1",
+      "O. Ighodaro makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "27-28",
+      "",
+      "O. Ighodaro misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "27-28",
+      "",
+      "Offensive rebound by R. Dunn"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "27-28",
+      "",
+      "R. O'Neale misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:51.0",
+      "Defensive rebound by D. Sharpe",
+      "",
+      "27-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:45.0",
+      "Z. Williams misses 2-pt layup from 5 ft",
+      "",
+      "27-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:43.0",
+      "",
+      "",
+      "27-28",
+      "",
+      "Defensive rebound by J. Bouyea"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:37.0",
+      "",
+      "",
+      "27-28",
+      "",
+      "J. Goodwin misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:35.0",
+      "Defensive rebound by D. Wolf",
+      "",
+      "27-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:33.0",
+      "Z. Williams misses 3-pt jump shot from 26 ft",
+      "",
+      "27-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:28.0",
+      "Offensive rebound by D. Sharpe",
+      "",
+      "27-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:28.0",
+      "D. Sharpe makes 2-pt layup from 2 ft",
+      "+2",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:04.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "J. Bouyea misses 2-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:00.0",
+      "Defensive rebound by D. Wolf",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "Time",
+      "Brooklyn",
+      "",
+      "Score",
+      "",
+      "Phoenix"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "11:41.0",
+      "Personal foul by J. Bouyea (drawn by D. Sharpe)",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "11:32.0",
+      "C. Thomas misses 3-pt jump shot from 26 ft",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "11:28.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "Defensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "Shooting foul by Z. Williams (drawn by R. O'Neale)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "29-29",
+      "+1",
+      "R. O'Neale makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "11:24.0",
+      "",
+      "",
+      "29-30",
+      "+1",
+      "R. O'Neale makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "11:07.0",
+      "Personal foul by N. Hayes-Davis (drawn by C. Thomas)",
+      "",
+      "29-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "10:57.0",
+      "Turnover by C. Thomas (bad pass)",
+      "",
+      "29-30",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "29-30",
+      "",
+      "Def 3 sec tech foul by Team"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "10:46.0",
+      "",
+      "",
+      "29-31",
+      "+1",
+      "R. O'Neale makes technical free throw"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "10:33.0",
+      "",
+      "",
+      "29-31",
+      "",
+      "Turnover by J. Goodwin (bad pass; steal by D. Sharpe)"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "10:18.0",
+      "Turnover by B. Saraf (step out of bounds)",
+      "",
+      "29-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "9:57.0",
+      "",
+      "",
+      "29-33",
+      "+2",
+      "J. Bouyea makes 2-pt layup from 8 ft (assist by R. O'Neale)"
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "9:45.0",
+      "D. Wolf misses 3-pt jump shot from 23 ft",
+      "",
+      "29-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "9:41.0",
+      "",
+      "",
+      "29-33",
+      "",
+      "Defensive rebound by O. Ighodaro"
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "29-35",
+      "+2",
+      "J. Bouyea makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "9:03.0",
+      "Z. Williams makes 3-pt jump shot from 24 ft",
+      "+3",
+      "32-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "Shooting foul by D. Wolf (drawn by N. Hayes-Davis)"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "N. Hayes-Davis misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "32-35",
+      "",
+      "R. Fleming enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "8:48.0",
+      "",
+      "",
+      "32-36",
+      "+1",
+      "N. Hayes-Davis makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "8:24.0",
+      "C. Thomas misses 3-pt jump shot from 54 ft",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "8:23.0",
+      "Offensive rebound by Team",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "8:23.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "8:23.0",
+      "M. Porter enters the game for D. Wolf",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "8:11.0",
+      "",
+      "",
+      "32-36",
+      "",
+      "Turnover by O. Ighodaro (bad pass; steal by B. Saraf)"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "8:04.0",
+      "Turnover by B. Saraf (lost ball; steal by O. Ighodaro)",
+      "",
+      "32-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "8:00.0",
+      "",
+      "",
+      "32-38",
+      "+2",
+      "J. Bouyea makes 2-pt layup from 1 ft (assist by R. Fleming)"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "7:39.0",
+      "B. Saraf makes 3-pt jump shot from 23 ft (assist by C. Thomas)",
+      "+3",
+      "35-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "7:22.0",
+      "",
+      "",
+      "35-38",
+      "",
+      "N. Hayes-Davis misses 2-pt hook shot from 7 ft"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "7:22.0",
+      "Defensive rebound by M. Porter",
+      "",
+      "35-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "7:08.0",
+      "C. Thomas misses 2-pt layup from 3 ft (block by N. Hayes-Davis)",
+      "",
+      "35-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "7:05.0",
+      "",
+      "",
+      "35-38",
+      "",
+      "Defensive rebound by N. Hayes-Davis"
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "35-40",
+      "+2",
+      "J. Bouyea makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "7:01.0",
+      "Brooklyn full timeout",
+      "",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "7:01.0",
+      "E. Dёmin enters the game for B. Saraf",
+      "",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "35-40",
+      "",
+      "G. Allen enters the game for J. Bouyea"
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "35-40",
+      "",
+      "D. Brooks enters the game for O. Ighodaro"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "35-40",
+      "",
+      "M. Williams enters the game for R. O'Neale"
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "6:46.0",
+      "Def 3 sec tech foul by Team",
+      "",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "6:46.0",
+      "C. Thomas misses technical free throw",
+      "",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "6:46.0",
+      "Offensive rebound by Team",
+      "",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "6:46.0",
+      "N. Claxton enters the game for D. Sharpe",
+      "",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "6:46.0",
+      "T. Mann enters the game for Z. Williams",
+      "",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "6:44.0",
+      "Personal foul by D. Brooks (drawn by M. Porter)",
+      "",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "6:32.0",
+      "E. Dёmin misses 3-pt jump shot from 26 ft",
+      "",
+      "35-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "6:29.0",
+      "",
+      "",
+      "35-40",
+      "",
+      "Defensive rebound by D. Brooks"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "6:09.0",
+      "",
+      "",
+      "35-42",
+      "+2",
+      "M. Williams makes 2-pt hook shot from 9 ft"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "5:49.0",
+      "M. Porter misses 2-pt jump shot from 6 ft",
+      "",
+      "35-42",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "5:49.0",
+      "",
+      "",
+      "35-42",
+      "",
+      "Defensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "35-42",
+      "",
+      "Shooting foul by T. Mann (drawn by R. Fleming)"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "35-42",
+      "",
+      "R. Fleming misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "35-42",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "5:37.0",
+      "",
+      "",
+      "35-43",
+      "+1",
+      "R. Fleming makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "5:28.0",
+      "E. Dёmin makes 2-pt jump shot from 9 ft",
+      "+2",
+      "37-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "37-45",
+      "+2",
+      "D. Brooks makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "4:48.0",
+      "M. Porter misses 3-pt jump shot from 26 ft",
+      "",
+      "37-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "37-45",
+      "",
+      "Defensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "37-45",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "37-45",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "4:44.0",
+      "D. Powell enters the game for C. Thomas",
+      "",
+      "37-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "37-45",
+      "",
+      "R. Dunn enters the game for N. Hayes-Davis"
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "4:36.0",
+      "",
+      "",
+      "37-47",
+      "+2",
+      "G. Allen makes 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "4:10.0",
+      "M. Porter makes 2-pt layup from 4 ft (assist by N. Claxton)",
+      "+2",
+      "39-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "39-47",
+      "",
+      "D. Brooks misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "39-47",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "3:50.0",
+      "Loose ball foul by T. Mann (drawn by R. Fleming)",
+      "",
+      "39-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "39-49",
+      "+2",
+      "D. Brooks makes 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "3:29.0",
+      "Turnover by E. Dёmin (bad pass; steal by R. Dunn)",
+      "",
+      "39-49",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "3:25.0",
+      "",
+      "",
+      "39-51",
+      "+2",
+      "M. Williams makes 2-pt dunk from 2 ft (assist by R. Dunn)"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "3:07.0",
+      "E. Dёmin makes 2-pt layup from 3 ft (assist by N. Claxton)",
+      "+2",
+      "41-51",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "41-51",
+      "",
+      "Personal foul by N. Claxton (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "41-52",
+      "+1",
+      "D. Brooks makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "2:54.0",
+      "Z. Williams enters the game for D. Powell",
+      "",
+      "41-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "41-53",
+      "+1",
+      "D. Brooks makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "2:39.0",
+      "M. Porter makes 3-pt jump shot from 28 ft",
+      "+3",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "Turnover by D. Brooks (bad pass; steal by Z. Williams)"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "2:25.0",
+      "M. Porter misses 3-pt jump shot from 25 ft",
+      "",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "2:21.0",
+      "Offensive rebound by E. Dёmin",
+      "",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "2:12.0",
+      "Z. Williams misses 3-pt jump shot from 23 ft",
+      "",
+      "44-53",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "2:08.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "Defensive rebound by R. Fleming"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "R. Fleming misses 2-pt dunk from 3 ft (block by N. Claxton)"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "1:46.0",
+      "",
+      "",
+      "44-53",
+      "",
+      "Offensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "1:35.0",
+      "",
+      "",
+      "44-56",
+      "+3",
+      "D. Brooks makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "1:16.0",
+      "Shooting foul by M. Williams (drawn by N. Claxton)",
+      "",
+      "44-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "1:16.0",
+      "N. Claxton makes free throw 1 of 2",
+      "+1",
+      "45-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "45-56",
+      "",
+      "R. O'Neale enters the game for R. Fleming"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "1:16.0",
+      "N. Claxton makes free throw 2 of 2",
+      "+1",
+      "46-56",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "46-56",
+      "",
+      "Shooting foul by E. Dёmin (drawn by G. Allen)"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "46-57",
+      "+1",
+      "G. Allen makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "1:04.0",
+      "",
+      "",
+      "46-58",
+      "+1",
+      "G. Allen makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "0:52.0",
+      "E. Dёmin makes 3-pt jump shot from 25 ft (assist by T. Mann)",
+      "+3",
+      "49-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "49-58",
+      "",
+      "R. O'Neale misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "49-58",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "49-58",
+      "",
+      "Instant Replay"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "0:27.0",
+      "Loose ball foul by E. Dёmin (drawn by D. Brooks)",
+      "",
+      "49-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "0:27.0",
+      "Rescinded technical foul by D. Brooks",
+      "",
+      "49-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "0:27.0",
+      "M. Porter misses technical free throw",
+      "",
+      "49-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "49-58",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "49-59",
+      "+1",
+      "D. Brooks makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "49-59",
+      "",
+      "O. Ighodaro enters the game for M. Williams"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "0:27.0",
+      "",
+      "",
+      "49-60",
+      "+1",
+      "D. Brooks makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "0:07.0",
+      "M. Porter makes 2-pt dunk from 1 ft (assist by Z. Williams)",
+      "+2",
+      "51-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "51-60",
+      "",
+      "G. Allen misses 3-pt jump shot from 33 ft"
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "51-60",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "Time",
+      "Brooklyn",
+      "",
+      "Score",
+      "",
+      "Phoenix"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "11:43.0",
+      "E. Dёmin misses 3-pt jump shot from 26 ft",
+      "",
+      "51-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "11:40.0",
+      "Offensive rebound by T. Mann",
+      "",
+      "51-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "11:38.0",
+      "M. Porter makes 3-pt jump shot from 23 ft (assist by Z. Williams)",
+      "+3",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "11:18.0",
+      "",
+      "",
+      "54-60",
+      "",
+      "Personal foul by M. Porter (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "54-60",
+      "",
+      "Turnover by D. Brooks (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "10:56.0",
+      "Turnover by M. Porter (bad pass)",
+      "",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "10:37.0",
+      "",
+      "",
+      "54-60",
+      "",
+      "J. Goodwin misses 3-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "10:34.0",
+      "Defensive rebound by M. Porter",
+      "",
+      "54-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "10:27.0",
+      "M. Porter makes 2-pt layup from 3 ft (assist by E. Dёmin)",
+      "+2",
+      "56-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "G. Allen misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "10:13.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "Offensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "10:09.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "R. O'Neale misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "56-60",
+      "",
+      "Offensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "10:06.0",
+      "",
+      "",
+      "56-62",
+      "+2",
+      "J. Goodwin makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "10:06.0",
+      "Violation by Team (def goaltending)",
+      "",
+      "56-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "9:47.0",
+      "M. Porter makes 3-pt jump shot from 23 ft",
+      "+3",
+      "59-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "9:25.0",
+      "",
+      "",
+      "59-62",
+      "",
+      "Personal foul by T. Mann (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "9:18.0",
+      "",
+      "",
+      "59-64",
+      "+2",
+      "M. Williams makes 2-pt dunk from 1 ft (assist by G. Allen)"
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "9:04.0",
+      "Turnover by T. Mann (bad pass; steal by R. O'Neale)",
+      "",
+      "59-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "59-64",
+      "",
+      "R. O'Neale misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "8:58.0",
+      "Defensive rebound by E. Dёmin",
+      "",
+      "59-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "8:53.0",
+      "Z. Williams misses 3-pt jump shot from 26 ft",
+      "",
+      "59-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "8:50.0",
+      "",
+      "",
+      "59-64",
+      "",
+      "Defensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "59-64",
+      "",
+      "Personal foul by Z. Williams (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "8:39.0",
+      "",
+      "",
+      "59-66",
+      "+2",
+      "G. Allen makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "8:18.0",
+      "T. Mann makes 2-pt jump shot from 13 ft",
+      "+2",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "61-66",
+      "",
+      "G. Allen misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "7:56.0",
+      "Defensive rebound by N. Claxton",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "7:50.0",
+      "Personal foul by R. O'Neale (drawn by N. Claxton)",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "7:46.0",
+      "Offensive foul by Z. Williams (drawn by G. Allen)",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "7:46.0",
+      "Turnover by Z. Williams (offensive foul)",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "7:46.0",
+      "Instant Replay (Request: Stands)",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "61-66",
+      "",
+      "R. O'Neale misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "7:22.0",
+      "Defensive rebound by T. Mann",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "7:16.0",
+      "Turnover by T. Mann (bad pass; steal by J. Goodwin)",
+      "",
+      "61-66",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "61-69",
+      "+3",
+      "G. Allen makes 3-pt jump shot from 26 ft (assist by J. Goodwin)"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "6:47.0",
+      "Turnover by E. Dёmin (bad pass)",
+      "",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "61-69",
+      "",
+      "D. Brooks misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "6:29.0",
+      "Defensive rebound by Z. Williams",
+      "",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "6:17.0",
+      "N. Claxton misses 2-pt layup from 7 ft (block by M. Williams)",
+      "",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "6:17.0",
+      "Offensive rebound by Team",
+      "",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "61-69",
+      "",
+      "Loose ball foul by R. O'Neale (drawn by N. Claxton)"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "61-69",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "6:17.0",
+      "C. Thomas enters the game for T. Mann",
+      "",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "61-69",
+      "",
+      "J. Bouyea enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "6:17.0",
+      "",
+      "",
+      "61-69",
+      "",
+      "R. Dunn enters the game for R. O'Neale"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "6:05.0",
+      "M. Porter misses 2-pt jump shot from 22 ft",
+      "",
+      "61-69",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "61-69",
+      "",
+      "Defensive rebound by D. Brooks"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "61-71",
+      "+2",
+      "M. Williams makes 2-pt dunk from 2 ft (assist by D. Brooks)"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "5:44.0",
+      "N. Claxton makes 2-pt dunk from 3 ft (assist by C. Thomas)",
+      "+2",
+      "63-71",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "5:23.0",
+      "",
+      "",
+      "63-73",
+      "+2",
+      "M. Williams makes 2-pt hook shot from 5 ft (assist by G. Allen)"
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "5:13.0",
+      "Shooting foul by J. Bouyea (drawn by E. Dёmin)",
+      "",
+      "63-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "5:13.0",
+      "E. Dёmin makes free throw 1 of 2",
+      "+1",
+      "64-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "5:13.0",
+      "B. Saraf enters the game for N. Claxton",
+      "",
+      "64-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "5:13.0",
+      "D. Sharpe enters the game for Z. Williams",
+      "",
+      "64-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "5:13.0",
+      "E. Dёmin makes free throw 2 of 2",
+      "+1",
+      "65-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "4:55.0",
+      "",
+      "",
+      "65-73",
+      "",
+      "D. Brooks misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "4:52.0",
+      "Defensive rebound by C. Thomas",
+      "",
+      "65-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "4:38.0",
+      "D. Sharpe misses 2-pt hook shot from 9 ft (block by D. Brooks)",
+      "",
+      "65-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "4:33.0",
+      "Offensive rebound by D. Sharpe",
+      "",
+      "65-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "4:33.0",
+      "D. Sharpe misses 2-pt hook shot from 7 ft",
+      "",
+      "65-73",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "65-73",
+      "",
+      "Defensive rebound by J. Bouyea"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "4:27.0",
+      "",
+      "",
+      "65-75",
+      "+2",
+      "D. Brooks makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "4:27.0",
+      "Violation by Team (def goaltending)",
+      "",
+      "65-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "4:17.0",
+      "Personal foul by R. Dunn (drawn by D. Sharpe)",
+      "",
+      "65-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "65-75",
+      "",
+      "O. Ighodaro enters the game for M. Williams"
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "4:13.0",
+      "Personal foul by O. Ighodaro (drawn by C. Thomas)",
+      "",
+      "65-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "4:13.0",
+      "C. Thomas misses free throw 1 of 2",
+      "",
+      "65-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "4:13.0",
+      "Offensive rebound by Team",
+      "",
+      "65-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "4:13.0",
+      "D. Wolf enters the game for E. Dёmin",
+      "",
+      "65-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "4:13.0",
+      "C. Thomas makes free throw 2 of 2",
+      "+1",
+      "66-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "4:00.0",
+      "",
+      "",
+      "66-75",
+      "",
+      "Turnover by O. Ighodaro (bad pass)"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "3:39.0",
+      "C. Thomas makes 2-pt jump shot from 13 ft",
+      "+2",
+      "68-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "68-75",
+      "",
+      "R. Dunn misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "3:12.0",
+      "Defensive rebound by D. Wolf",
+      "",
+      "68-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "3:04.0",
+      "C. Thomas misses 2-pt layup from 5 ft (block by J. Bouyea)",
+      "",
+      "68-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "3:01.0",
+      "Offensive rebound by B. Saraf",
+      "",
+      "68-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "2:51.0",
+      "Turnover by D. Wolf (bad pass; steal by G. Allen)",
+      "",
+      "68-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "2:46.0",
+      "",
+      "",
+      "68-75",
+      "",
+      "D. Brooks misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "2:42.0",
+      "Defensive rebound by M. Porter",
+      "",
+      "68-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "2:38.0",
+      "D. Wolf makes 2-pt layup from 5 ft (assist by M. Porter)",
+      "+2",
+      "70-75",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "2:15.0",
+      "",
+      "",
+      "70-77",
+      "+2",
+      "D. Brooks makes 2-pt layup from 7 ft"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "1:55.0",
+      "D. Wolf misses 3-pt jump shot from 27 ft",
+      "",
+      "70-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "1:55.0",
+      "",
+      "",
+      "70-77",
+      "",
+      "Defensive rebound by J. Bouyea"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "1:45.0",
+      "",
+      "",
+      "70-77",
+      "",
+      "D. Brooks misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "1:44.0",
+      "",
+      "",
+      "70-77",
+      "",
+      "Offensive rebound by O. Ighodaro"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "70-79",
+      "+2",
+      "G. Allen makes 2-pt layup from 4 ft (assist by O. Ighodaro)"
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "1:19.0",
+      "M. Porter makes 3-pt jump shot from 26 ft (assist by D. Sharpe)",
+      "+3",
+      "73-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "73-79",
+      "",
+      "Personal foul by D. Wolf (drawn by J. Bouyea)"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "1:06.0",
+      "Brooklyn full timeout",
+      "",
+      "73-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "73-79",
+      "",
+      "J. Goodwin enters the game for G. Allen"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "1:06.0",
+      "",
+      "",
+      "73-79",
+      "",
+      "R. O'Neale enters the game for D. Brooks"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "0:48.0",
+      "",
+      "",
+      "73-79",
+      "",
+      "J. Bouyea misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "0:46.0",
+      "Defensive rebound by D. Sharpe",
+      "",
+      "73-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "0:33.0",
+      "D. Wolf misses 3-pt jump shot from 23 ft",
+      "",
+      "73-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "0:29.0",
+      "Offensive rebound by M. Porter",
+      "",
+      "73-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "0:29.0",
+      "M. Porter misses 2-pt jump shot from 14 ft (block by R. O'Neale)",
+      "",
+      "73-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "0:29.0",
+      "Offensive rebound by Team",
+      "",
+      "73-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "0:25.0",
+      "Shooting foul by J. Goodwin (drawn by C. Thomas)",
+      "",
+      "73-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "0:25.0",
+      "C. Thomas makes free throw 1 of 2",
+      "+1",
+      "74-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "0:25.0",
+      "T. Mann enters the game for M. Porter",
+      "",
+      "74-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "74-79",
+      "",
+      "G. Allen enters the game for R. Dunn"
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "74-79",
+      "",
+      "D. Brooks enters the game for O. Ighodaro"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "0:25.0",
+      "C. Thomas makes free throw 2 of 2",
+      "+1",
+      "75-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "75-82",
+      "+3",
+      "G. Allen makes 3-pt jump shot from 23 ft (assist by J. Bouyea)"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "0:01.0",
+      "Team misses heave shot",
+      "",
+      "75-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "75-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "Time",
+      "Brooklyn",
+      "",
+      "Score",
+      "",
+      "Phoenix"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "11:44.0",
+      "",
+      "",
+      "75-82",
+      "",
+      "J. Bouyea misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "11:41.0",
+      "Defensive rebound by D. Sharpe",
+      "",
+      "75-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "11:19.0",
+      "T. Mann misses 3-pt jump shot from 26 ft",
+      "",
+      "75-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "11:17.0",
+      "Offensive rebound by D. Wolf",
+      "",
+      "75-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "11:06.0",
+      "Turnover by C. Thomas (bad pass)",
+      "",
+      "75-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "10:44.0",
+      "",
+      "",
+      "75-84",
+      "+2",
+      "J. Bouyea makes 2-pt jump shot from 19 ft (assist by R. Dunn)"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "10:24.0",
+      "Personal foul by J. Goodwin (drawn by C. Thomas)",
+      "",
+      "75-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "10:14.0",
+      "D. Wolf makes 2-pt layup from 2 ft (assist by D. Sharpe)",
+      "+2",
+      "77-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "10:04.0",
+      "",
+      "",
+      "77-84",
+      "",
+      "R. O'Neale misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "10:04.0",
+      "Defensive rebound by C. Thomas",
+      "",
+      "77-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "9:53.0",
+      "Turnover by D. Wolf (lost ball; steal by R. Dunn)",
+      "",
+      "77-84",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "77-86",
+      "+2",
+      "R. Dunn makes 2-pt dunk from 2 ft (assist by R. O'Neale)"
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "9:23.0",
+      "C. Thomas misses 2-pt jump shot from 13 ft",
+      "",
+      "77-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "77-86",
+      "",
+      "Defensive rebound by R. Dunn"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "77-86",
+      "",
+      "Personal foul by T. Mann (drawn by J. Goodwin)"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "9:16.0",
+      "Z. Williams enters the game for D. Wolf",
+      "",
+      "77-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "9:04.0",
+      "",
+      "",
+      "77-88",
+      "+2",
+      "R. O'Neale makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "8:43.0",
+      "Z. Williams makes 3-pt jump shot from 24 ft (assist by T. Mann)",
+      "+3",
+      "80-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "8:25.0",
+      "",
+      "",
+      "80-88",
+      "",
+      "J. Bouyea misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "8:23.0",
+      "Defensive rebound by D. Sharpe",
+      "",
+      "80-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "8:15.0",
+      "Z. Williams misses 2-pt jump shot from 7 ft",
+      "",
+      "80-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "8:14.0",
+      "Offensive rebound by D. Sharpe",
+      "",
+      "80-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "8:14.0",
+      "Shooting foul by O. Ighodaro (drawn by D. Sharpe)",
+      "",
+      "80-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "8:14.0",
+      "D. Sharpe misses free throw 1 of 2",
+      "",
+      "80-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "8:14.0",
+      "Offensive rebound by Team",
+      "",
+      "80-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "8:14.0",
+      "M. Porter enters the game for T. Mann",
+      "",
+      "80-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "8:14.0",
+      "D. Sharpe makes free throw 2 of 2",
+      "+1",
+      "81-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "7:59.0",
+      "",
+      "",
+      "81-88",
+      "",
+      "Turnover by J. Bouyea (bad pass; steal by B. Saraf)"
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "7:55.0",
+      "Turnover by B. Saraf (bad pass; steal by R. Dunn)",
+      "",
+      "81-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "7:52.0",
+      "",
+      "",
+      "81-88",
+      "",
+      "Turnover by O. Ighodaro (off goaltending)"
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "7:52.0",
+      "N. Claxton enters the game for B. Saraf",
+      "",
+      "81-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "7:52.0",
+      "E. Dёmin enters the game for D. Sharpe",
+      "",
+      "81-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "7:38.0",
+      "Z. Williams misses 3-pt jump shot from 23 ft",
+      "",
+      "81-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "81-88",
+      "",
+      "Defensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "81-91",
+      "+3",
+      "R. Dunn makes 3-pt jump shot from 24 ft (assist by R. O'Neale)"
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "6:59.0",
+      "E. Dёmin makes 3-pt jump shot from 30 ft (assist by N. Claxton)",
+      "+3",
+      "84-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "84-91",
+      "",
+      "Phoenix full timeout"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "84-91",
+      "",
+      "G. Allen enters the game for J. Bouyea"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "84-91",
+      "",
+      "D. Brooks enters the game for R. Dunn"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "6:55.0",
+      "",
+      "",
+      "84-91",
+      "",
+      "M. Williams enters the game for O. Ighodaro"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "84-91",
+      "",
+      "Offensive foul by J. Goodwin (drawn by Z. Williams)"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "84-91",
+      "",
+      "Turnover by J. Goodwin (offensive foul)"
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "6:22.0",
+      "C. Thomas makes 2-pt jump shot from 8 ft (assist by N. Claxton)",
+      "+2",
+      "86-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "6:07.0",
+      "",
+      "",
+      "86-91",
+      "",
+      "Turnover by R. O'Neale (bad pass; steal by M. Porter)"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "5:59.0",
+      "Personal foul by R. O'Neale (drawn by N. Claxton)",
+      "",
+      "86-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "5:59.0",
+      "T. Mann enters the game for C. Thomas",
+      "",
+      "86-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "5:52.0",
+      "M. Porter makes 3-pt jump shot from 28 ft (assist by Z. Williams)",
+      "+3",
+      "89-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "89-93",
+      "+2",
+      "D. Brooks makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "5:18.0",
+      "N. Claxton makes 2-pt dunk from 3 ft (assist by Z. Williams)",
+      "+2",
+      "91-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "91-93",
+      "",
+      "Turnover by G. Allen (bad pass; steal by M. Porter)"
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "4:50.0",
+      "M. Porter misses 3-pt jump shot from 27 ft",
+      "",
+      "91-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "4:46.0",
+      "",
+      "",
+      "91-93",
+      "",
+      "Defensive rebound by J. Goodwin"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "4:31.0",
+      "",
+      "",
+      "91-93",
+      "",
+      "G. Allen misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "4:29.0",
+      "Defensive rebound by E. Dёmin",
+      "",
+      "91-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "4:20.0",
+      "T. Mann makes 2-pt jump shot from 7 ft (assist by Z. Williams)",
+      "+2",
+      "93-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "4:20.0",
+      "Flagrant foul type 1 by G. Allen (drawn by T. Mann)",
+      "",
+      "93-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "4:20.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "93-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "4:20.0",
+      "Brooklyn full timeout",
+      "",
+      "93-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "4:20.0",
+      "T. Mann makes flagrant free throw 1 of 1",
+      "+1",
+      "94-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "4:16.0",
+      "E. Dёmin makes 3-pt jump shot from 26 ft (assist by M. Porter)",
+      "+3",
+      "97-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "97-95",
+      "+2",
+      "M. Williams makes 2-pt layup from 4 ft (assist by G. Allen)"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "97-95",
+      "",
+      "Shooting foul by N. Claxton (drawn by M. Williams)"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "3:51.0",
+      "",
+      "",
+      "97-96",
+      "+1",
+      "M. Williams makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "3:33.0",
+      "M. Porter makes 3-pt jump shot from 27 ft (assist by N. Claxton)",
+      "+3",
+      "100-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "3:20.0",
+      "",
+      "",
+      "100-96",
+      "",
+      "Personal foul by M. Porter (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "3:14.0",
+      "",
+      "",
+      "100-96",
+      "",
+      "Turnover by J. Goodwin (bad pass)"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "3:04.0",
+      "E. Dёmin misses 3-pt jump shot from 29 ft",
+      "",
+      "100-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "3:00.0",
+      "",
+      "",
+      "100-96",
+      "",
+      "Defensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "2:45.0",
+      "",
+      "",
+      "100-96",
+      "",
+      "Personal foul by M. Porter (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "2:45.0",
+      "",
+      "",
+      "100-96",
+      "",
+      "J. Bouyea enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "100-98",
+      "+2",
+      "M. Williams makes 2-pt dunk from 1 ft (assist by G. Allen)"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "2:16.0",
+      "M. Porter misses 2-pt jump shot from 21 ft",
+      "",
+      "100-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "100-98",
+      "",
+      "Defensive rebound by G. Allen"
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "2:04.0",
+      "",
+      "",
+      "100-98",
+      "",
+      "J. Bouyea misses 2-pt layup from 5 ft"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "2:03.0",
+      "",
+      "",
+      "100-98",
+      "",
+      "Offensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "2:02.0",
+      "",
+      "",
+      "100-98",
+      "",
+      "M. Williams misses 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "2:01.0",
+      "",
+      "",
+      "100-98",
+      "",
+      "Offensive rebound by M. Williams"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "1:53.0",
+      "",
+      "",
+      "100-100",
+      "+2",
+      "M. Williams makes 2-pt hook shot from 12 ft"
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "1:52.0",
+      "",
+      "",
+      "100-100",
+      "",
+      "Loose ball foul by R. O'Neale (drawn by Z. Williams)"
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "1:52.0",
+      "Z. Williams makes free throw 1 of 2",
+      "+1",
+      "101-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "1:52.0",
+      "Z. Williams makes free throw 2 of 2",
+      "+1",
+      "102-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "102-102",
+      "+2",
+      "G. Allen makes 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "1:26.0",
+      "Turnover by M. Porter (lost ball; steal by J. Bouyea)",
+      "",
+      "102-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "102-102",
+      "",
+      "Shooting foul by E. Dёmin (drawn by D. Brooks)"
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "102-103",
+      "+1",
+      "D. Brooks makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "1:23.0",
+      "",
+      "",
+      "102-104",
+      "+1",
+      "D. Brooks makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "102-104",
+      "",
+      "Instant Replay"
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "1:14.0",
+      "Technical foul by E. Dёmin",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "102-104",
+      "",
+      "Technical foul by G. Allen"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "1:14.0",
+      "B. Saraf enters the game for Z. Williams",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "1:14.0",
+      "Technical foul by T. Mann",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "102-104",
+      "",
+      "Technical foul by R. O'Neale"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "1:14.0",
+      "Technical foul by M. Porter",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "102-104",
+      "",
+      "G. Allen misses technical free throw"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "1:14.0",
+      "",
+      "",
+      "102-104",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "1:14.0",
+      "Turnover by T. Mann (lost ball; steal by R. O'Neale)",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "0:58.0",
+      "",
+      "",
+      "102-104",
+      "",
+      "Turnover by G. Allen (bad pass; steal by M. Porter)"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "0:46.0",
+      "Brooklyn full timeout",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "0:46.0",
+      "",
+      "",
+      "102-104",
+      "",
+      "J. Goodwin enters the game for J. Bouyea"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "0:36.0",
+      "E. Dёmin misses 3-pt jump shot from 35 ft",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "0:35.0",
+      "Offensive rebound by Team",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "0:35.0",
+      "Turnover by Team (shot clock)",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "0:35.0",
+      "D. Wolf enters the game for E. Dёmin",
+      "",
+      "102-104",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "0:35.0",
+      "",
+      "",
+      "102-104",
+      "",
+      "J. Bouyea enters the game for J. Goodwin"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "0:12.0",
+      "",
+      "",
+      "102-106",
+      "+2",
+      "G. Allen makes 2-pt layup from 7 ft"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "0:11.0",
+      "Brooklyn full timeout",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "0:11.0",
+      "E. Dёmin enters the game for D. Wolf",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "0:11.0",
+      "",
+      "",
+      "102-106",
+      "",
+      "J. Goodwin enters the game for J. Bouyea"
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "0:09.0",
+      "M. Porter misses 2-pt jump shot from 20 ft",
+      "",
+      "102-106",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "102-106",
+      "",
+      "Defensive rebound by R. O'Neale"
+    ]
+  }
+]

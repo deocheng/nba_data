@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sportico高级图表模板</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Helvetica Neue', Arial, sans-serif; 
+            background: #f8f8f8; 
+            color: #2d2d2d;
+            min-height: 100vh;
+            padding: 30px;
+            line-height: 1.6;
+        }
+        
+        .page-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .page-header h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+        .page-header p {
+            color: #666;
+            font-size: 1.1rem;
+        }
+
+        .charts-container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .chart-section {
+            background: #fff;
+            border-radius: 20px;
+            padding: 35px;
+            margin-bottom: 35px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+
+        .chart-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 8px;
+        }
+
+        .chart-subtitle {
+            font-size: 0.95rem;
+            color: #666;
+            margin-bottom: 30px;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 450px;
+            margin-bottom: 20px;
+        }
+
+        .chart-container.small {
+            height: 350px;
+        }
+
+        .chart-container.large {
+            height: 600px;
+        }
+
+        .source-info {
+            font-size: 0.85rem;
+            color: #999;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+        }
+
+        .onoff-chart {
+            position: relative;
+            padding-left: 220px;
+        }
+
+        .onoff-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+            position: relative;
+        }
+
+        .onoff-label {
+            position: absolute;
+            left: -220px;
+            width: 210px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #333;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .onoff-bar {
+            flex: 1;
+            height: 16px;
+            border-radius: 8px;
+            position: relative;
+            overflow: visible;
+        }
+
+        .onoff-value {
+            margin-left: 12px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: #333;
+            min-width: 45px;
+            text-align: right;
+        }
+
+        .assist-combo-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .assist-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 15px;
+            background: #f8f8f8;
+            border-radius: 12px;
+            transition: background 0.2s;
+        }
+        .assist-item:hover {
+            background: #f0f0f0;
+        }
+        .assist-item:nth-child(even) {
+            background: #fff;
+        }
+        .assist-item:nth-child(even):hover {
+            background: #f8f8f8;
+        }
+
+        .team-logo {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: #e0e0e0;
+            margin-right: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: 700;
+        }
+
+        .combo-name {
+            flex: 1;
+            font-weight: 600;
+            color: #333;
+            font-size: 0.95rem;
+        }
+
+        .combo-bar-container {
+            flex: 2;
+            margin: 0 15px;
+        }
+
+        .combo-bar {
+            height: 20px;
+            border-radius: 10px;
+            transition: width 0.5s ease;
+        }
+
+        .combo-count {
+            min-width: 45px;
+            text-align: right;
+            font-weight: 700;
+            color: #333;
+            font-size: 0.95rem;
+        }
+
+        .valuation-chart {
+            position: relative;
+            height: 500px;
+            border-left: 2px solid #ddd;
+            border-bottom: 2px solid #ddd;
+            margin-left: 80px;
+            padding-left: 20px;
+        }
+
+        .valuation-y-axis {
+            position: absolute;
+            left: -80px;
+            top: 0;
+            height: 100%;
+            width: 70px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .valuation-y-label {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #666;
+            text-align: right;
+        }
+
+        .valuation-grid {
+            position: absolute;
+            left: 0;
+            right: 0;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            pointer-events: none;
+        }
+
+        .valuation-grid-line {
+            border-bottom: 1px dashed #ddd;
+            width: 100%;
+        }
+
+        .valuation-team {
+            position: absolute;
+            transform: translateX(-50%);
+            transition: all 0.3s;
+        }
+
+        .valuation-team:hover {
+            transform: translateX(-50%) scale(1.15);
+            z-index: 10;
+        }
+
+        .valuation-logo {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #fff;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            font-weight: 700;
+        }
+
+        .offense-chart {
+            position: relative;
+            padding-left: 140px;
+        }
+
+        .offense-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+            position: relative;
+        }
+
+        .offense-label {
+            position: absolute;
+            left: -140px;
+            width: 130px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .offense-arrow {
+            flex: 1;
+            height: 8px;
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+
+        .arrow-line {
+            height: 3px;
+            background: currentColor;
+            flex: 1;
+            position: relative;
+        }
+
+        .arrow-head {
+            width: 0;
+            height: 0;
+            border-top: 8px solid transparent;
+            border-bottom: 8px solid transparent;
+            margin-left: -2px;
+        }
+
+        .arrow-head.right {
+            border-left: 12px solid currentColor;
+        }
+
+        .arrow-head.left {
+            border-right: 12px solid currentColor;
+            margin-left: -10px;
+        }
+
+        .offense-value-start {
+            position: absolute;
+            left: 0;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #666;
+            transform: translateY(-50%);
+        }
+
+        .offense-value-end {
+            position: absolute;
+            right: 0;
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: #333;
+            transform: translateY(-50%);
+        }
+
+        .offense-axis {
+            display: flex;
+            justify-content: space-between;
+            padding-left: 140px;
+            margin-top: 20px;
+            font-size: 0.85rem;
+            color: #999;
+            font-weight: 600;
+        }
+
+        @media (max-width: 768px) {
+            body { padding: 15px; }
+            .chart-section { padding: 20px; }
+            .onoff-chart { padding-left: 160px; }
+            .onoff-label { width: 150px; left: -160px; font-size: 0.75rem; }
+            .offense-chart { padding-left: 100px; }
+            .offense-label { width: 90px; left: -100px; font-size: 0.75rem; }
+            .valuation-chart { margin-left: 60px; }
+            .valuation-y-axis { width: 50px; left: -60px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="page-header">
+        <h1>Sportico风格高级图表</h1>
+        <p>NBA数据分析可视化 - 进阶图表模板</p>
+    </div>
+
+    <div class="charts-container">
+        <div class="chart-section">
+            <div class="chart-title">🏆 On/Off Swings for Every NBA MVP Since 1994</div>
+            <div class="chart-subtitle">Net Rating = Point Differential Per 100 Possessions</div>
+            <div class="onoff-chart" id="onoffChart">
+            </div>
+            <div class="source-info">Chart: Lev Akabas • Source: Basketball Reference, Cleaning the Glass</div>
+        </div>
+
+        <div class="chart-section">
+            <div class="chart-title">🎯 Most Frequent NBA Assist Combos 2025-26</div>
+            <div class="chart-subtitle">Top 15 most common assist combinations</div>
+            <div class="assist-combo-list" id="assistComboList">
+            </div>
+            <div class="source-info">Table: Lev Akabas • Source: PBP Stats</div>
+        </div>
+
+        <div class="chart-section">
+            <div class="chart-title">💰 NBA Franchise Valuations</div>
+            <div class="chart-subtitle">The Knicks are the only team remaining in the playoffs with an above-average valuation.</div>
+            <div class="valuation-chart" id="valuationChart">
+                <div class="valuation-y-axis">
+                    <div class="valuation-y-label">$11B</div>
+                    <div class="valuation-y-label">$9B</div>
+                    <div class="valuation-y-label">$7B</div>
+                    <div class="valuation-y-label">$5B</div>
+                    <div class="valuation-y-label">$3B</div>
+                </div>
+                <div class="valuation-grid">
+                    <div class="valuation-grid-line"></div>
+                    <div class="valuation-grid-line"></div>
+                    <div class="valuation-grid-line"></div>
+                    <div class="valuation-grid-line"></div>
+                    <div class="valuation-grid-line"></div>
+                </div>
+            </div>
+            <div class="source-info">Chart: Lev Akabas • Source: Sportico</div>
+        </div>
+
+        <div class="chart-section">
+            <div class="chart-title">📉 Offense Has Declined in the NBA Playoffs</div>
+            <div class="chart-subtitle">Change in points per 100 possessions from regular season to playoffs in 2026</div>
+            <div class="offense-chart" id="offenseChart">
+            </div>
+            <div class="offense-axis">
+                <span>Regular Season</span>
+                <span>Playoffs</span>
+            </div>
+            <div class="source-info">Chart: Lev Akabas • Source: Basketball Reference</div>
+        </div>
+    </div>
+
+    <script>
+        // MVP On/Off 数据
+        const mvpData = [
+            { name: '2024 Nikola Jokic', value: 23.7, color: '#1a365d' },
+            { name: '1997 Karl Malone', value: 21.9, color: '#2c5282' },
+            { name: '2016 Stephen Curry', value: 21.3, color: '#e53e3e' },
+            { name: '1995 David Robinson', value: 19.8, color: '#1a202c' },
+            { name: '2022 Nikola Jokic', value: 19.5, color: '#2d3748' },
+            { name: '2004 Kevin Garnett', value: 19.0, color: '#3182ce' },
+            { name: '2009 LeBron James', value: 17.8, color: '#805ad5' },
+            { name: '2015 Stephen Curry', value: 16.3, color: '#e3342f' },
+            { name: '2005 Steve Nash', value: 15.9, color: '#ed8936' },
+            { name: '2013 LeBron James', value: 15.4, color: '#9b2c2c' },
+            { name: '1996 Michael Jordan', value: 15.2, color: '#c53030' },
+            { name: '2003 Tim Duncan', value: 14.7, color: '#2d3748' },
+            { name: '1994 Hakeem Olajuwon', value: 14.5, color: '#742a2a' },
+            { name: '2020 Giannis Antetokounmpo', value: 13.6, color: '#2f855a' },
+            { name: '2017 Russell Westbrook', value: 13.4, color: '#4299e1' },
+            { name: '2026 Shai Gilgeous-Alexander', value: 11.7, color: '#3182ce' },
+            { name: '2023 Joel Embiid', value: 10.9, color: '#dc2626' },
+            { name: '2000 Shaquille O\'Neal', value: 10.9, color: '#7c3aed' },
+            { name: '2007 Dirk Nowitzki', value: 10.5, color: '#4a5568' },
+            { name: '2025 Shai Gilgeous-Alexander', value: 7.6, color: '#3182ce' },
+            { name: '2008 Kobe Bryant', value: 7.0, color: '#7c3aed' },
+            { name: '1998 Michael Jordan', value: 6.7, color: '#dc2626' },
+            { name: '2014 Kevin Durant', value: 5.8, color: '#3182ce' },
+            { name: '2018 James Harden', value: 1.9, color: '#742a2a' },
+            { name: '2011 Derrick Rose', value: 1.3, color: '#742a2a' }
+        ];
+
+        // 渲染On/Off图表
+        function renderOnOffChart() {
+            const container = document.getElementById('onoffChart');
+            const maxValue = Math.max(...mvpData.map(d => d.value));
+            
+            mvpData.forEach(item => {
+                const itemDiv = document.createElement('div');
+                itemDiv.className = 'onoff-item';
+                
+                const label = document.createElement('div');
+                label.className = 'onoff-label';
+                label.textContent = item.name;
+                
+                const bar = document.createElement('div');
+                bar.className = 'onoff-bar';
+                bar.style.background = item.color;
+                bar.style.width = `${(item.value / maxValue) * 100}%`;
+                
+                const value = document.createElement('div');
+                value.className = 'onoff-value';
+                value.textContent = `+${item.value}`;
+                
+                itemDiv.appendChild(label);
+                itemDiv.appendChild(bar);
+                itemDiv.appendChild(value);
+                container.appendChild(itemDiv);
+            });
+        }
+
+        // 助攻组合数据
+        const assistCombos = [
+            { team: 'DEN', combo: 'Murray to Jokic', count: 170, color: '#0e2240' },
+            { team: 'DEN', combo: 'Jokic to Murray', count: 147, color: '#0e2240' },
+            { team: 'ATL', combo: 'Johnson to NAW', count: 139, color: '#c41e3a' },
+            { team: 'DET', combo: 'Cunningham to Duren', count: 138, color: '#1d428a' },
+            { team: 'CHA', combo: 'Ball to Bridges', count: 134, color: '#00788c' },
+            { team: 'SAS', combo: 'Castle to Wemby', count: 130, color: '#000000' },
+            { team: 'IND', combo: 'Nembhard to Siakam', count: 119, color: '#ffc62f' },
+            { team: 'HOU', combo: 'Sengun to Durant', count: 112, color: '#ce1141' },
+            { team: 'CHA', combo: 'Ball to Knueppel', count: 110, color: '#00788c' },
+            { team: 'LAL', combo: 'Luka to Ayton', count: 109, color: '#552583' },
+            { team: 'DET', combo: 'Cunningham to Robinson', count: 107, color: '#1d428a' },
+            { team: 'ATL', combo: 'Daniels to Johnson', count: 106, color: '#c41e3a' },
+            { team: 'DEN', combo: 'Jokic to Braun', count: 106, color: '#0e2240' },
+            { team: 'HOU', combo: 'Sengun to Thompson', count: 105, color: '#ce1141' }
+        ];
+
+        // 渲染助攻组合列表
+        function renderAssistCombos() {
+            const container = document.getElementById('assistComboList');
+            const maxCount = Math.max(...assistCombos.map(d => d.count));
+            
+            assistCombos.forEach(item => {
+                const itemDiv = document.createElement('div');
+                itemDiv.className = 'assist-item';
+                
+                const logo = document.createElement('div');
+                logo.className = 'team-logo';
+                logo.textContent = item.team;
+                logo.style.background = getTeamColor(item.team);
+                
+                const name = document.createElement('div');
+                name.className = 'combo-name';
+                name.textContent = item.combo;
+                
+                const barContainer = document.createElement('div');
+                barContainer.className = 'combo-bar-container';
+                
+                const bar = document.createElement('div');
+                bar.className = 'combo-bar';
+                bar.style.background = item.color;
+                bar.style.width = `${(item.count / maxCount) * 100}%`;
+                
+                barContainer.appendChild(bar);
+                
+                const count = document.createElement('div');
+                count.className = 'combo-count';
+                count.textContent = item.count;
+                
+                itemDiv.appendChild(logo);
+                itemDiv.appendChild(name);
+                itemDiv.appendChild(barContainer);
+                itemDiv.appendChild(count);
+                container.appendChild(itemDiv);
+            });
+        }
+
+        // 球队颜色映射
+        function getTeamColor(team) {
+            const colors = {
+                'DEN': '#0e2240',
+                'ATL': '#c41e3a',
+                'DET': '#1d428a',
+                'CHA': '#00788c',
+                'SAS': '#000000',
+                'IND': '#ffc62f',
+                'HOU': '#ce1141',
+                'LAL': '#552583',
+                'GSW': '#1d428a',
+                'NYK': '#0065a1',
+                'MIA': '#98002e',
+                'BOS': '#007a33'
+            };
+            return colors[team] || '#e0e0e0';
+        }
+
+        // 球队估值数据
+        const teamValuations = [
+            { team: 'GSW', name: 'Warriors', value: 11.2, x: 95 },
+            { team: 'LAL', name: 'Lakers', value: 10.1, x: 88 },
+            { team: 'NYK', name: 'Knicks', value: 9.8, x: 85 },
+            { team: 'BOS', name: 'Celtics', value: 6.8, x: 65 },
+            { team: 'BKN', name: 'Nets', value: 6.5, x: 62 },
+            { team: 'CHI', name: 'Bulls', value: 6.3, x: 60 },
+            { team: 'MIA', name: 'Heat', value: 6.2, x: 58 },
+            { team: 'DAL', name: 'Mavericks', value: 5.5, x: 52 },
+            { team: 'HOU', name: 'Rockets', value: 5.6, x: 53 },
+            { team: 'PHX', name: 'Suns', value: 5.2, x: 48 },
+            { team: 'DEN', name: 'Nuggets', value: 4.8, x: 45 },
+            { team: 'TOR', name: 'Raptors', value: 4.5, x: 42 },
+            { team: 'SAS', name: 'Spurs', value: 4.3, x: 40 },
+            { team: 'POR', name: 'Trail Blazers', value: 4.2, x: 38 },
+            { team: 'MIN', name: 'Timberwolves', value: 4.1, x: 36 },
+            { team: 'DET', name: 'Pistons', value: 4.1, x: 35 }
+        ];
+
+        // 渲染球队估值图表
+        function renderValuationChart() {
+            const container = document.getElementById('valuationChart');
+            
+            teamValuations.forEach(item => {
+                const teamDiv = document.createElement('div');
+                teamDiv.className = 'valuation-team';
+                teamDiv.style.left = `${item.x}%`;
+                teamDiv.style.top = `${100 - (item.value / 12) * 100}%`;
+                
+                const logo = document.createElement('div');
+                logo.className = 'valuation-logo';
+                logo.textContent = item.team;
+                logo.style.background = getTeamColor(item.team);
+                logo.title = `${item.name}: $${item.value}B`;
+                
+                teamDiv.appendChild(logo);
+                container.appendChild(teamDiv);
+            });
+        }
+
+        // 进攻效率数据
+        const offenseData = [
+            { team: 'Thunder', start: 125.0, end: 129.0, color: '#ef4444' },
+            { team: 'Knicks', start: 122.0, end: 126.0, color: '#3b82f6' },
+            { team: 'Spurs', start: 115.7, end: 113.0, color: '#1f2937' },
+            { team: 'Celtics', start: 113.7, end: 110.0, color: '#22c55e' },
+            { team: 'Cavaliers', start: 113.4, end: 108.0, color: '#9333ea' },
+            { team: 'Raptors', start: 111.7, end: 106.0, color: '#ef4444' },
+            { team: 'Suns', start: 110.8, end: 105.0, color: '#6366f1' },
+            { team: 'Pistons', start: 110.5, end: 104.0, color: '#3b82f6' },
+            { team: 'Timberwolves', start: 110.0, end: 103.0, color: '#22c55e' },
+            { team: '76ers', start: 109.9, end: 102.0, color: '#ef4444' },
+            { team: 'Nuggets', start: 109.1, end: 101.0, color: '#1e40af' },
+            { team: 'Lakers', start: 108.4, end: 100.0, color: '#7c3aed' },
+            { team: 'Rockets', start: 105.8, end: 98.0, color: '#dc2626' },
+            { team: 'Trail Blazers', start: 104.3, end: 97.0, color: '#ef4444' },
+            { team: 'Hawks', start: 103.9, end: 96.0, color: '#dc2626' },
+            { team: 'Magic', start: 102.4, end: 94.0, color: '#3b82f6' }
+        ];
+
+        // 渲染进攻效率图表
+        function renderOffenseChart() {
+            const container = document.getElementById('offenseChart');
+            const minVal = 90;
+            const maxVal = 135;
+            
+            offenseData.forEach(item => {
+                const itemDiv = document.createElement('div');
+                itemDiv.className = 'offense-item';
+                
+                const label = document.createElement('div');
+                label.className = 'offense-label';
+                label.textContent = item.team;
+                label.style.color = item.color;
+                
+                const arrow = document.createElement('div');
+                arrow.className = 'offense-arrow';
+                arrow.style.color = item.color;
+                
+                const line = document.createElement('div');
+                line.className = 'arrow-line';
+                line.style.color = item.color;
+                
+                const direction = item.end > item.start ? 'right' : 'left';
+                const head = document.createElement('div');
+                head.className = `arrow-head ${direction}`;
+                
+                arrow.appendChild(line);
+                arrow.appendChild(head);
+                
+                const startVal = document.createElement('div');
+                startVal.className = 'offense-value-start';
+                startVal.textContent = item.start;
+                
+                const endVal = document.createElement('div');
+                endVal.className = 'offense-value-end';
+                endVal.textContent = item.end;
+                
+                // 计算箭头位置
+                const startPos = ((item.start - minVal) / (maxVal - minVal)) * 100;
+                const endPos = ((item.end - minVal) / (maxVal - minVal)) * 100;
+                const width = Math.abs(endPos - startPos);
+                
+                arrow.style.marginLeft = `${Math.min(startPos, endPos)}%`;
+                arrow.style.width = `${width}%`;
+                
+                itemDiv.appendChild(label);
+                itemDiv.appendChild(arrow);
+                container.appendChild(itemDiv);
+            });
+        }
+
+        // 页面加载完成后渲染所有图表
+        document.addEventListener('DOMContentLoaded', () => {
+            renderOnOffChart();
+            renderAssistCombos();
+            renderValuationChart();
+            renderOffenseChart();
+        });
+    </script>
+</body>
+</html>

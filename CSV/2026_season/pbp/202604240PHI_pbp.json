@@ -1,0 +1,4732 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:40.0",
+      "",
+      "",
+      "0-0",
+      "",
+      "T. Maxey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:38.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:22.0",
+      "J. Brown makes 2-pt hook shot from 5 ft",
+      "+2",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Violation by Team (def goaltending)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Offensive foul by A. Bona (drawn by J. Brown)"
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "11:10.0",
+      "",
+      "",
+      "2-0",
+      "",
+      "Turnover by A. Bona (offensive foul)"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:51.0",
+      "Shooting foul by K. Oubre (drawn by D. White)",
+      "",
+      "2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:51.0",
+      "D. White makes free throw 1 of 2",
+      "+1",
+      "3-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:51.0",
+      "D. White makes free throw 2 of 2",
+      "+1",
+      "4-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:36.0",
+      "",
+      "",
+      "4-2",
+      "+2",
+      "V. Edgecombe makes 2-pt jump shot at rim (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "10:26.0",
+      "Offensive foul by N. Queta (drawn by K. Oubre)",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "10:26.0",
+      "Turnover by N. Queta (offensive foul)",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "4-2",
+      "",
+      "V. Edgecombe misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "10:09.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "10:00.0",
+      "D. White misses 2-pt layup from 4 ft",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:58.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:56.0",
+      "Turnover by N. Queta (lost ball; steal by A. Bona)",
+      "",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:51.0",
+      "",
+      "",
+      "4-5",
+      "+3",
+      "K. Oubre makes 3-pt jump shot from 24 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:38.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "9:35.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "Defensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "9:24.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "T. Maxey misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "9:23.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "9:23.0",
+      "Loose ball foul by S. Hauser (drawn by A. Bona)",
+      "",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "9:08.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "K. Oubre misses 2-pt layup from 3 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "9:06.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "Offensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "9:05.0",
+      "",
+      "",
+      "4-7",
+      "+2",
+      "A. Bona makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "8:57.0",
+      "N. Queta makes 2-pt dunk from 2 ft (assist by J. Tatum)",
+      "+2",
+      "6-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "6-7",
+      "",
+      "V. Edgecombe misses 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "8:37.0",
+      "Defensive rebound by S. Hauser",
+      "",
+      "6-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "8:29.0",
+      "J. Tatum misses 3-pt jump shot from 28 ft",
+      "",
+      "6-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "8:28.0",
+      "Offensive rebound by S. Hauser",
+      "",
+      "6-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "8:28.0",
+      "S. Hauser misses 2-pt layup at rim (block by V. Edgecombe)",
+      "",
+      "6-7",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "8:26.0",
+      "",
+      "",
+      "6-7",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "8:13.0",
+      "",
+      "",
+      "6-7",
+      "",
+      "T. Maxey misses 2-pt jump shot from 8 ft (block by D. White)"
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "8:10.0",
+      "",
+      "",
+      "6-7",
+      "",
+      "Offensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "6-7",
+      "",
+      "Shooting foul by N. Queta (drawn by A. Bona)"
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "6-8",
+      "+1",
+      "A. Bona makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "8:09.0",
+      "N. Vučević enters the game for N. Queta",
+      "",
+      "6-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "6-9",
+      "+1",
+      "A. Bona makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "7:57.0",
+      "N. Vučević misses 3-pt jump shot from 27 ft",
+      "",
+      "6-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "7:54.0",
+      "Offensive rebound by J. Brown",
+      "",
+      "6-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "7:52.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "6-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "7:50.0",
+      "",
+      "",
+      "6-9",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "6-9",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "7:22.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "6-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "6-9",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "7:18.0",
+      "",
+      "",
+      "6-9",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "7:18.0",
+      "Turnover by J. Brown (bad pass)",
+      "",
+      "6-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "7:18.0",
+      "P. Pritchard enters the game for S. Hauser",
+      "",
+      "6-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "7:18.0",
+      "J. Walsh enters the game for D. White",
+      "",
+      "6-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "7:09.0",
+      "",
+      "",
+      "6-9",
+      "",
+      "K. Oubre misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "7:06.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "6-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "6:48.0",
+      "P. Pritchard makes 3-pt jump shot from 27 ft (assist by N. Vučević)",
+      "+3",
+      "9-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "6:33.0",
+      "",
+      "",
+      "9-9",
+      "",
+      "A. Bona misses 2-pt layup from 3 ft (block by N. Vučević)"
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "6:31.0",
+      "",
+      "",
+      "9-9",
+      "",
+      "Offensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "6:26.0",
+      "",
+      "",
+      "9-9",
+      "",
+      "V. Edgecombe misses 2-pt jump shot from 16 ft"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "6:23.0",
+      "Defensive rebound by N. Vučević",
+      "",
+      "9-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "6:08.0",
+      "P. Pritchard misses 2-pt layup from 3 ft",
+      "",
+      "9-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "6:07.0",
+      "Offensive rebound by J. Walsh",
+      "",
+      "9-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "6:06.0",
+      "J. Walsh misses 2-pt layup from 2 ft (block by T. Maxey)",
+      "",
+      "9-9",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "6:05.0",
+      "",
+      "",
+      "9-9",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "6:02.0",
+      "",
+      "",
+      "9-12",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "5:48.0",
+      "J. Tatum misses 3-pt jump shot from 30 ft",
+      "",
+      "9-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "5:44.0",
+      "Offensive rebound by P. Pritchard",
+      "",
+      "9-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "5:43.0",
+      "J. Brown makes 3-pt jump shot from 27 ft (assist by P. Pritchard)",
+      "+3",
+      "12-12",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "12-14",
+      "+2",
+      "A. Bona makes 2-pt dunk from 1 ft (assist by P. George)"
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "4:48.0",
+      "J. Tatum misses 2-pt jump shot from 3 ft (block by A. Bona)",
+      "",
+      "12-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "4:48.0",
+      "Offensive rebound by Team",
+      "",
+      "12-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "4:48.0",
+      "",
+      "",
+      "12-14",
+      "",
+      "A. Drummond enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "4:46.0",
+      "P. Pritchard misses 3-pt jump shot from 29 ft",
+      "",
+      "12-14",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "4:43.0",
+      "",
+      "",
+      "12-14",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "12-16",
+      "+2",
+      "T. Maxey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "4:18.0",
+      "N. Vučević makes 3-pt jump shot from 27 ft (assist by J. Tatum)",
+      "+3",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "3:57.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "P. George misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "3:53.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "3:46.0",
+      "Offensive foul by J. Brown (drawn by K. Oubre)",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "3:46.0",
+      "Turnover by J. Brown (offensive foul)",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "3:46.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "Q. Grimes enters the game for V. Edgecombe"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "Offensive foul by A. Drummond (drawn by J. Brown)"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "Turnover by A. Drummond (offensive foul)"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "3:30.0",
+      "Personal foul by Q. Grimes (drawn by P. Pritchard)",
+      "",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "3:21.0",
+      "J. Tatum makes 3-pt jump shot from 28 ft",
+      "+3",
+      "18-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "18-18",
+      "+2",
+      "K. Oubre makes 2-pt layup from 1 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "3:08.0",
+      "Boston full timeout",
+      "",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "18-18",
+      "",
+      "J. Edwards enters the game for P. George"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "2:56.0",
+      "Personal foul by T. Maxey (drawn by J. Brown)",
+      "",
+      "18-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "2:46.0",
+      "J. Brown makes 2-pt jump shot from 15 ft (assist by N. Vučević)",
+      "+2",
+      "20-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "2:30.0",
+      "",
+      "",
+      "20-18",
+      "",
+      "Q. Grimes misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "2:27.0",
+      "Defensive rebound by N. Vučević",
+      "",
+      "20-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "2:14.0",
+      "J. Brown misses 3-pt jump shot from 25 ft",
+      "",
+      "20-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "2:12.0",
+      "",
+      "",
+      "20-18",
+      "",
+      "Defensive rebound by Q. Grimes"
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "2:07.0",
+      "",
+      "",
+      "20-20",
+      "+2",
+      "T. Maxey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "1:57.0",
+      "J. Tatum makes 3-pt jump shot from 26 ft",
+      "+3",
+      "23-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "1:39.0",
+      "",
+      "",
+      "23-20",
+      "",
+      "T. Maxey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "1:37.0",
+      "Defensive rebound by N. Vučević",
+      "",
+      "23-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "1:32.0",
+      "J. Tatum misses 3-pt jump shot from 28 ft",
+      "",
+      "23-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "1:28.0",
+      "",
+      "",
+      "23-20",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "23-20",
+      "",
+      "T. Maxey misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "1:08.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "23-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "1:03.0",
+      "P. Pritchard makes 3-pt jump shot from 26 ft (assist by J. Tatum)",
+      "+3",
+      "26-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "26-20",
+      "",
+      "Shooting foul by J. Walsh (drawn by T. Maxey)"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "26-21",
+      "+1",
+      "T. Maxey makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:47.0",
+      "D. White enters the game for J. Walsh",
+      "",
+      "26-21",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:47.0",
+      "",
+      "",
+      "26-22",
+      "+1",
+      "T. Maxey makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:31.0",
+      "P. Pritchard misses 3-pt jump shot from 28 ft",
+      "",
+      "26-22",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "26-22",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "26-22",
+      "",
+      "Personal foul by J. Tatum (drawn by K. Oubre)"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "26-23",
+      "+1",
+      "K. Oubre makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "0:28.0",
+      "J. Walsh enters the game for J. Tatum",
+      "",
+      "26-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "26-24",
+      "+1",
+      "K. Oubre makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "0:09.0",
+      "N. Vučević makes 3-pt jump shot from 28 ft (assist by J. Brown)",
+      "+3",
+      "29-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "0:02.0",
+      "",
+      "",
+      "29-24",
+      "",
+      "T. Maxey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "0:02.0",
+      "Defensive rebound by Team",
+      "",
+      "29-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "11:44.0",
+      "L. Garza misses 3-pt jump shot from 28 ft",
+      "",
+      "29-24",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "11:39.0",
+      "",
+      "",
+      "29-24",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "11:26.0",
+      "",
+      "",
+      "29-27",
+      "+3",
+      "P. George makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "11:06.0",
+      "P. Pritchard misses 2-pt jump shot from 16 ft",
+      "",
+      "29-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "11:04.0",
+      "Offensive rebound by L. Garza",
+      "",
+      "29-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "10:53.0",
+      "B. Scheierman makes 3-pt jump shot from 27 ft (assist by P. Pritchard)",
+      "+3",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "10:37.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "10:27.0",
+      "",
+      "",
+      "32-27",
+      "",
+      "Turnover by J. Edwards (bad pass; steal by D. White)"
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "10:21.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "32-27",
+      "",
+      "Defensive rebound by Q. Grimes"
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:10.0",
+      "",
+      "",
+      "32-27",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:08.0",
+      "Defensive rebound by L. Garza",
+      "",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "9:56.0",
+      "Personal foul by J. Edwards (drawn by J. Tatum)",
+      "",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "9:43.0",
+      "J. Tatum misses 2-pt jump shot from 19 ft",
+      "",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "9:40.0",
+      "Offensive rebound by B. Scheierman",
+      "",
+      "32-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "9:38.0",
+      "D. White makes 3-pt jump shot from 28 ft (assist by B. Scheierman)",
+      "+3",
+      "35-27",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "9:26.0",
+      "",
+      "",
+      "35-27",
+      "",
+      "Personal foul by B. Scheierman (drawn by A. Drummond)"
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "35-29",
+      "+2",
+      "V. Edgecombe makes 2-pt jump shot from 10 ft"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "8:58.0",
+      "L. Garza makes 3-pt jump shot from 27 ft (assist by J. Tatum)",
+      "+3",
+      "38-29",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "38-29",
+      "",
+      "Shooting foul by L. Garza (drawn by Q. Grimes)"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "38-30",
+      "+1",
+      "Q. Grimes makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "38-30",
+      "",
+      "A. Bona enters the game for A. Drummond"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "8:40.0",
+      "",
+      "",
+      "38-31",
+      "+1",
+      "Q. Grimes makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "8:24.0",
+      "B. Scheierman makes 3-pt jump shot from 28 ft (assist by L. Garza)",
+      "+3",
+      "41-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "8:04.0",
+      "",
+      "",
+      "41-33",
+      "+2",
+      "P. George makes 2-pt jump shot from 15 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "7:58.0",
+      "Personal foul by J. Edwards (drawn by D. White)",
+      "",
+      "41-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "7:46.0",
+      "L. Garza misses 2-pt layup from 2 ft (block by A. Bona)",
+      "",
+      "41-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "7:43.0",
+      "",
+      "",
+      "41-33",
+      "",
+      "Defensive rebound by Q. Grimes"
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "7:42.0",
+      "",
+      "",
+      "41-35",
+      "+2",
+      "V. Edgecombe makes 2-pt dunk from 1 ft (assist by Q. Grimes)"
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "7:42.0",
+      "Boston full timeout",
+      "",
+      "41-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "7:42.0",
+      "J. Brown enters the game for L. Garza",
+      "",
+      "41-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "7:42.0",
+      "N. Queta enters the game for J. Tatum",
+      "",
+      "41-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "7:28.0",
+      "J. Brown makes 2-pt jump shot from 11 ft",
+      "+2",
+      "43-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "7:15.0",
+      "",
+      "",
+      "43-35",
+      "",
+      "V. Edgecombe misses 2-pt jump shot from 7 ft"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "43-35",
+      "",
+      "Offensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "7:12.0",
+      "",
+      "",
+      "43-35",
+      "",
+      "V. Edgecombe misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "7:10.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "43-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "6:56.0",
+      "Personal foul by V. Edgecombe (drawn by J. Brown)",
+      "",
+      "43-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "6:44.0",
+      "Turnover by J. Brown (lost ball; steal by P. George)",
+      "",
+      "43-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "6:40.0",
+      "",
+      "",
+      "43-35",
+      "",
+      "P. George misses 2-pt layup from 2 ft (block by J. Brown)"
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "43-35",
+      "",
+      "Offensive rebound by J. Edwards"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "6:36.0",
+      "",
+      "",
+      "43-35",
+      "",
+      "Turnover by J. Edwards (bad pass; steal by B. Scheierman)"
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "6:29.0",
+      "D. White misses 3-pt jump shot from 24 ft",
+      "",
+      "43-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "6:28.0",
+      "Offensive rebound by B. Scheierman",
+      "",
+      "43-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "43-35",
+      "",
+      "T. Maxey enters the game for J. Edwards"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "6:28.0",
+      "",
+      "",
+      "43-35",
+      "",
+      "K. Oubre enters the game for Q. Grimes"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "6:15.0",
+      "Turnover by P. Pritchard (out of bounds lost ball)",
+      "",
+      "43-35",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "6:04.0",
+      "",
+      "",
+      "43-38",
+      "+3",
+      "P. George makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "5:46.0",
+      "Offensive foul by J. Brown (drawn by P. George)",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "5:46.0",
+      "Turnover by J. Brown (offensive foul)",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "5:46.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "5:46.0",
+      "J. Tatum enters the game for D. White",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "5:33.0",
+      "",
+      "",
+      "43-38",
+      "",
+      "T. Maxey misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "5:31.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "5:26.0",
+      "P. Pritchard misses 3-pt jump shot from 26 ft",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "5:24.0",
+      "Offensive rebound by Team",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "43-38",
+      "",
+      "Loose ball foul by A. Bona (drawn by N. Queta)"
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "5:14.0",
+      "B. Scheierman misses 3-pt jump shot from 26 ft",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "5:11.0",
+      "",
+      "",
+      "43-38",
+      "",
+      "Defensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "5:02.0",
+      "",
+      "",
+      "43-38",
+      "",
+      "Turnover by A. Bona (lost ball; steal by N. Queta)"
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "4:59.0",
+      "J. Tatum misses 2-pt layup from 2 ft",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "4:57.0",
+      "Offensive rebound by N. Queta",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "4:46.0",
+      "J. Brown misses 2-pt jump shot from 14 ft",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "43-38",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "4:44.0",
+      "",
+      "",
+      "43-38",
+      "",
+      "Personal foul by N. Queta (drawn by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "4:44.0",
+      "N. Vučević enters the game for N. Queta",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "43-38",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "4:30.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "43-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "4:18.0",
+      "J. Brown makes 2-pt layup from 2 ft",
+      "+2",
+      "45-38",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "3:58.0",
+      "",
+      "",
+      "45-38",
+      "",
+      "P. George misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "3:55.0",
+      "",
+      "",
+      "45-38",
+      "",
+      "Offensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "3:53.0",
+      "",
+      "",
+      "45-40",
+      "+2",
+      "V. Edgecombe makes 2-pt layup from 1 ft"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "3:48.0",
+      "Turnover by N. Vučević (bad pass)",
+      "",
+      "45-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "45-40",
+      "",
+      "Shooting foul by N. Vučević (drawn by A. Bona)"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "45-40",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "3:39.0",
+      "S. Hauser enters the game for P. Pritchard",
+      "",
+      "45-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "3:39.0",
+      "D. White enters the game for B. Scheierman",
+      "",
+      "45-40",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "45-41",
+      "+1",
+      "A. Bona makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "3:39.0",
+      "",
+      "",
+      "45-41",
+      "",
+      "A. Bona misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "3:36.0",
+      "Defensive rebound by J. Brown",
+      "",
+      "45-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "3:21.0",
+      "J. Tatum makes 2-pt jump shot from 18 ft",
+      "+2",
+      "47-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "Offensive foul by A. Bona (drawn by D. White)"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "Turnover by A. Bona (offensive foul)"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "3:01.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "A. Drummond enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "2:54.0",
+      "Offensive foul by N. Vučević (drawn by K. Oubre)",
+      "",
+      "47-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "2:54.0",
+      "Turnover by N. Vučević (offensive foul)",
+      "",
+      "47-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "T. Maxey misses 2-pt layup from 2 ft (block by D. White)"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "2:44.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "2:35.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "T. Maxey misses 2-pt layup from 3 ft (block by D. White)"
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "2:31.0",
+      "",
+      "",
+      "47-41",
+      "",
+      "Offensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "47-43",
+      "+2",
+      "A. Drummond makes 2-pt dunk at rim"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "2:13.0",
+      "N. Vučević misses 3-pt jump shot from 27 ft",
+      "",
+      "47-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "2:11.0",
+      "",
+      "",
+      "47-43",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "1:58.0",
+      "",
+      "",
+      "47-45",
+      "+2",
+      "K. Oubre makes 2-pt dunk at rim (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "1:34.0",
+      "",
+      "",
+      "47-45",
+      "",
+      "Violation by Team (kicked ball)"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "1:26.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "47-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "1:23.0",
+      "Offensive rebound by N. Vučević",
+      "",
+      "47-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "1:21.0",
+      "N. Vučević makes 2-pt jump shot from 5 ft",
+      "+2",
+      "49-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "0:57.0",
+      "",
+      "",
+      "49-45",
+      "",
+      "Turnover by A. Drummond (bad pass; steal by J. Tatum)"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "0:53.0",
+      "S. Hauser makes 3-pt jump shot from 24 ft (assist by J. Tatum)",
+      "+3",
+      "52-45",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "0:29.0",
+      "",
+      "",
+      "52-45",
+      "",
+      "T. Maxey misses 2-pt layup from 3 ft (block by N. Vučević)"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "52-45",
+      "",
+      "Offensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "0:28.0",
+      "",
+      "",
+      "52-47",
+      "+2",
+      "K. Oubre makes 2-pt jump shot from 13 ft"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "0:04.0",
+      "D. White makes 2-pt jump shot from 6 ft",
+      "+2",
+      "54-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "54-47",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "54-47",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "11:50.0",
+      "S. Hauser makes 3-pt jump shot from 26 ft (assist by N. Vučević)",
+      "+3",
+      "57-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "11:33.0",
+      "",
+      "",
+      "57-50",
+      "+3",
+      "P. George makes 3-pt jump shot from 27 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "11:21.0",
+      "D. White misses 3-pt jump shot from 27 ft",
+      "",
+      "57-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "11:19.0",
+      "Offensive rebound by J. Brown",
+      "",
+      "57-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "11:17.0",
+      "J. Tatum makes 3-pt jump shot from 27 ft (assist by J. Brown)",
+      "+3",
+      "60-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "10:56.0",
+      "",
+      "",
+      "60-50",
+      "",
+      "P. George misses 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "10:55.0",
+      "",
+      "",
+      "60-50",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "10:55.0",
+      "Loose ball foul by N. Vučević (drawn by A. Bona)",
+      "",
+      "60-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "10:45.0",
+      "",
+      "",
+      "60-52",
+      "+2",
+      "P. George makes 2-pt layup from 4 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "10:28.0",
+      "J. Brown misses 2-pt jump shot from 16 ft",
+      "",
+      "60-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "10:25.0",
+      "",
+      "",
+      "60-52",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "10:17.0",
+      "",
+      "",
+      "60-55",
+      "+3",
+      "P. George makes 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "10:02.0",
+      "N. Vučević misses 3-pt jump shot from 25 ft",
+      "",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "60-55",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "9:54.0",
+      "",
+      "",
+      "60-55",
+      "",
+      "K. Oubre misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "9:51.0",
+      "Defensive rebound by D. White",
+      "",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "9:47.0",
+      "Shooting foul by A. Bona (drawn by J. Brown)",
+      "",
+      "60-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "9:47.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "61-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "9:47.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "62-55",
+      "",
+      "A. Bona misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "9:30.0",
+      "Defensive rebound by D. White",
+      "",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "9:13.0",
+      "N. Vučević misses 3-pt jump shot from 25 ft",
+      "",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "9:10.0",
+      "",
+      "",
+      "62-55",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "62-55",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "8:53.0",
+      "Defensive rebound by J. Tatum",
+      "",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "8:46.0",
+      "S. Hauser misses 2-pt layup from 2 ft (block by A. Bona)",
+      "",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "8:43.0",
+      "",
+      "",
+      "62-55",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "62-55",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "8:24.0",
+      "Defensive rebound by J. Tatum",
+      "",
+      "62-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "8:06.0",
+      "J. Tatum makes 2-pt layup from 4 ft",
+      "+2",
+      "64-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "7:46.0",
+      "",
+      "",
+      "64-57",
+      "+2",
+      "T. Maxey makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "7:34.0",
+      "Turnover by N. Vučević (lost ball; steal by K. Oubre)",
+      "",
+      "64-57",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "7:27.0",
+      "",
+      "",
+      "64-60",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "7:12.0",
+      "J. Brown misses 2-pt jump shot from 7 ft",
+      "",
+      "64-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "7:10.0",
+      "",
+      "",
+      "64-60",
+      "",
+      "Defensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "64-62",
+      "+2",
+      "A. Bona makes 2-pt dunk from 2 ft (assist by P. George)"
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "7:02.0",
+      "Boston full timeout",
+      "",
+      "64-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "7:02.0",
+      "N. Queta enters the game for N. Vučević",
+      "",
+      "64-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "64-62",
+      "",
+      "A. Drummond enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "7:02.0",
+      "",
+      "",
+      "64-62",
+      "",
+      "J. Edwards enters the game for P. George"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "6:41.0",
+      "Turnover by D. White (bad pass)",
+      "",
+      "64-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "6:19.0",
+      "",
+      "",
+      "64-64",
+      "+2",
+      "T. Maxey makes 2-pt jump shot from 22 ft"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "6:00.0",
+      "D. White misses 3-pt jump shot from 23 ft",
+      "",
+      "64-64",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "5:56.0",
+      "",
+      "",
+      "64-64",
+      "",
+      "Defensive rebound by J. Edwards"
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "5:48.0",
+      "",
+      "",
+      "64-67",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "5:37.0",
+      "Personal foul by A. Drummond (drawn by J. Brown)",
+      "",
+      "64-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "5:37.0",
+      "P. Pritchard enters the game for S. Hauser",
+      "",
+      "64-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "5:37.0",
+      "J. Walsh enters the game for D. White",
+      "",
+      "64-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "5:29.0",
+      "Shooting foul by V. Edgecombe (drawn by N. Queta)",
+      "",
+      "64-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "5:29.0",
+      "N. Queta makes free throw 1 of 2",
+      "+1",
+      "65-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "5:29.0",
+      "N. Queta makes free throw 2 of 2",
+      "+1",
+      "66-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "5:17.0",
+      "",
+      "",
+      "66-67",
+      "",
+      "T. Maxey misses 2-pt jump shot from 18 ft"
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "5:14.0",
+      "Defensive rebound by P. Pritchard",
+      "",
+      "66-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "5:14.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "66-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "5:14.0",
+      "",
+      "",
+      "66-67",
+      "",
+      "Technical foul by A. Drummond"
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "5:14.0",
+      "J. Tatum makes technical free throw",
+      "+1",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "5:04.0",
+      "J. Tatum misses 3-pt jump shot from 26 ft",
+      "",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "5:02.0",
+      "Offensive rebound by Team",
+      "",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "4:57.0",
+      "Turnover by J. Brown (lost ball; steal by T. Maxey)",
+      "",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "4:52.0",
+      "",
+      "",
+      "67-67",
+      "",
+      "T. Maxey misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "4:50.0",
+      "Defensive rebound by J. Tatum",
+      "",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "4:41.0",
+      "Violation by Team (kicked ball)",
+      "",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "4:24.0",
+      "",
+      "",
+      "67-67",
+      "",
+      "J. Edwards misses 3-pt jump shot from 29 ft (block by J. Brown)"
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "4:22.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "67-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "4:08.0",
+      "J. Brown makes 2-pt jump shot from 11 ft",
+      "+2",
+      "69-67",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "3:41.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "K. Oubre misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "3:38.0",
+      "",
+      "",
+      "69-67",
+      "",
+      "Offensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "3:37.0",
+      "",
+      "",
+      "69-70",
+      "+3",
+      "A. Drummond makes 3-pt jump shot from 23 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "3:12.0",
+      "Shooting foul by J. Edwards (drawn by J. Brown)",
+      "",
+      "69-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "3:12.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "70-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "3:12.0",
+      "S. Hauser enters the game for J. Tatum",
+      "",
+      "70-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "3:12.0",
+      "",
+      "",
+      "70-70",
+      "",
+      "P. George enters the game for J. Edwards"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "3:12.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "71-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "2:58.0",
+      "",
+      "",
+      "71-70",
+      "",
+      "K. Oubre misses 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "2:56.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "71-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "2:54.0",
+      "Personal foul by K. Oubre (drawn by N. Queta)",
+      "",
+      "71-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "71-70",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "71-70",
+      "",
+      "Q. Grimes enters the game for V. Edgecombe"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "2:54.0",
+      "N. Queta makes free throw 1 of 2",
+      "+1",
+      "72-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "2:54.0",
+      "N. Queta makes free throw 2 of 2",
+      "+1",
+      "73-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "73-72",
+      "+2",
+      "T. Maxey makes 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "2:11.0",
+      "J. Walsh misses 3-pt jump shot from 23 ft",
+      "",
+      "73-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "73-72",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "2:10.0",
+      "Loose ball foul by P. Pritchard (drawn by T. Maxey)",
+      "",
+      "73-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "1:54.0",
+      "",
+      "",
+      "73-72",
+      "",
+      "P. George misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "1:50.0",
+      "Defensive rebound by N. Queta",
+      "",
+      "73-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "1:38.0",
+      "J. Brown misses 2-pt jump shot from 17 ft (block by Q. Grimes)",
+      "",
+      "73-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "1:37.0",
+      "Offensive rebound by J. Brown",
+      "",
+      "73-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "1:32.0",
+      "P. Pritchard makes 3-pt jump shot from 26 ft (assist by J. Brown)",
+      "+3",
+      "76-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "1:22.0",
+      "",
+      "",
+      "76-72",
+      "",
+      "T. Maxey misses 2-pt layup from 2 ft (block by N. Queta)"
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "1:21.0",
+      "",
+      "",
+      "76-72",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "1:19.0",
+      "",
+      "",
+      "76-72",
+      "",
+      "K. Oubre misses 2-pt layup from 4 ft (block by J. Brown)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "1:16.0",
+      "Defensive rebound by J. Walsh",
+      "",
+      "76-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "1:05.0",
+      "Offensive foul by N. Queta (drawn by P. George)",
+      "",
+      "76-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "1:05.0",
+      "Turnover by N. Queta (offensive foul)",
+      "",
+      "76-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "1:05.0",
+      "N. Vučević enters the game for N. Queta",
+      "",
+      "76-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "0:55.0",
+      "",
+      "",
+      "76-74",
+      "+2",
+      "K. Oubre makes 2-pt jump shot from 8 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "0:36.0",
+      "P. Pritchard makes 3-pt jump shot from 27 ft",
+      "+3",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "0:24.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "A. Drummond misses 2-pt layup from 4 ft (block by N. Vučević)"
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "0:21.0",
+      "Defensive rebound by N. Vučević",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "0:02.0",
+      "J. Brown misses 2-pt jump shot from 13 ft (block by T. Maxey)",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "0:01.0",
+      "Offensive rebound by P. Pritchard",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "0:00.0",
+      "P. Pritchard misses 3-pt jump shot from 23 ft",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "Time",
+      "Boston",
+      "",
+      "Score",
+      "",
+      "Philadelphia"
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "11:45.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "P. George misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "11:42.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "Offensive rebound by A. Bona"
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "Turnover by P. George (lost ball; steal by B. Scheierman)"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "11:21.0",
+      "B. Scheierman misses 3-pt jump shot from 25 ft",
+      "",
+      "79-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "11:18.0",
+      "",
+      "",
+      "79-74",
+      "",
+      "Defensive rebound by Q. Grimes"
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "11:02.0",
+      "",
+      "",
+      "79-77",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "10:37.0",
+      "N. Vučević makes 3-pt jump shot from 25 ft (assist by J. Tatum)",
+      "+3",
+      "82-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "82-77",
+      "",
+      "Shooting foul by P. Pritchard (drawn by A. Bona)"
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "82-77",
+      "",
+      "Instant Replay (Request: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "82-77",
+      "",
+      "A. Bona misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "82-77",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "10:18.0",
+      "",
+      "",
+      "82-78",
+      "+1",
+      "A. Bona makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "10:01.0",
+      "Turnover by D. White (bad pass; steal by V. Edgecombe)",
+      "",
+      "82-78",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "9:55.0",
+      "",
+      "",
+      "82-80",
+      "+2",
+      "V. Edgecombe makes 2-pt layup from 3 ft (assist by P. George)"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "9:33.0",
+      "P. Pritchard misses 3-pt jump shot from 25 ft",
+      "",
+      "82-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "82-80",
+      "",
+      "Defensive rebound by V. Edgecombe"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "82-80",
+      "",
+      "Turnover by V. Edgecombe (traveling)"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "9:30.0",
+      "",
+      "",
+      "82-80",
+      "",
+      "K. Oubre enters the game for Q. Grimes"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "9:24.0",
+      "J. Tatum makes 2-pt layup from 3 ft (assist by D. White)",
+      "+2",
+      "84-80",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "9:16.0",
+      "",
+      "",
+      "84-82",
+      "+2",
+      "T. Maxey makes 2-pt jump shot from 12 ft"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "8:56.0",
+      "Turnover by N. Vučević (bad pass; steal by P. George)",
+      "",
+      "84-82",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "84-85",
+      "+3",
+      "T. Maxey makes 3-pt jump shot from 28 ft (assist by V. Edgecombe)"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "8:41.0",
+      "Boston full timeout",
+      "",
+      "84-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "8:41.0",
+      "J. Brown enters the game for B. Scheierman",
+      "",
+      "84-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "8:22.0",
+      "Personal foul by A. Bona (drawn by J. Tatum)",
+      "",
+      "84-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "8:22.0",
+      "",
+      "",
+      "84-85",
+      "",
+      "A. Drummond enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "8:11.0",
+      "J. Brown misses 2-pt layup from 3 ft (block by K. Oubre)",
+      "",
+      "84-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "8:09.0",
+      "",
+      "",
+      "84-85",
+      "",
+      "Defensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "8:01.0",
+      "",
+      "",
+      "84-85",
+      "",
+      "T. Maxey misses 2-pt jump shot from 20 ft"
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "7:58.0",
+      "Defensive rebound by N. Vučević",
+      "",
+      "84-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "7:45.0",
+      "Offensive foul by J. Brown (drawn by V. Edgecombe)",
+      "",
+      "84-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "7:45.0",
+      "Turnover by J. Brown (offensive foul)",
+      "",
+      "84-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "7:28.0",
+      "",
+      "",
+      "84-85",
+      "",
+      "T. Maxey misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "7:25.0",
+      "",
+      "",
+      "84-85",
+      "",
+      "Offensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "7:24.0",
+      "",
+      "",
+      "84-85",
+      "",
+      "V. Edgecombe misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "7:22.0",
+      "Defensive rebound by Team",
+      "",
+      "84-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "7:04.0",
+      "J. Tatum makes 2-pt layup from 3 ft",
+      "+2",
+      "86-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "7:04.0",
+      "",
+      "",
+      "86-85",
+      "",
+      "Violation by Team (def goaltending)"
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "6:47.0",
+      "",
+      "",
+      "86-85",
+      "",
+      "Turnover by T. Maxey (bad pass; steal by J. Brown)"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "6:44.0",
+      "D. White makes 2-pt layup from 2 ft (assist by J. Brown)",
+      "+2",
+      "88-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "6:25.0",
+      "",
+      "",
+      "88-85",
+      "",
+      "Turnover by V. Edgecombe (traveling)"
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "6:10.0",
+      "J. Brown makes 2-pt jump shot from 11 ft",
+      "+2",
+      "90-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "5:44.0",
+      "",
+      "",
+      "90-85",
+      "",
+      "P. George misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "5:43.0",
+      "Defensive rebound by J. Tatum",
+      "",
+      "90-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "5:39.0",
+      "Shooting foul by V. Edgecombe (drawn by J. Brown)",
+      "",
+      "90-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "5:39.0",
+      "J. Brown makes free throw 1 of 2",
+      "+1",
+      "91-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "5:39.0",
+      "",
+      "",
+      "91-85",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "5:39.0",
+      "J. Brown makes free throw 2 of 2",
+      "+1",
+      "92-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "Shooting foul by N. Vučević (drawn by A. Drummond)"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "A. Drummond misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "A. Drummond misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "5:21.0",
+      "Defensive rebound by J. Tatum",
+      "",
+      "92-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "5:10.0",
+      "J. Tatum misses 2-pt jump shot from 18 ft",
+      "",
+      "92-85",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "5:06.0",
+      "",
+      "",
+      "92-85",
+      "",
+      "Defensive rebound by T. Maxey"
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "4:53.0",
+      "",
+      "",
+      "92-88",
+      "+3",
+      "A. Drummond makes 3-pt jump shot from 25 ft (assist by T. Maxey)"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "4:34.0",
+      "D. White misses 2-pt layup from 1 ft",
+      "",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "92-88",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "4:21.0",
+      "",
+      "",
+      "92-88",
+      "",
+      "T. Maxey misses 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "92-88",
+      "",
+      "Offensive rebound by K. Oubre"
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "4:15.0",
+      "",
+      "",
+      "92-90",
+      "+2",
+      "K. Oubre makes 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "4:15.0",
+      "Boston full timeout",
+      "",
+      "92-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "4:04.0",
+      "N. Vučević misses 3-pt jump shot from 24 ft",
+      "",
+      "92-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "4:00.0",
+      "Offensive rebound by D. White",
+      "",
+      "92-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "3:49.0",
+      "J. Brown makes 2-pt jump shot from 17 ft",
+      "+2",
+      "94-90",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "3:33.0",
+      "",
+      "",
+      "94-92",
+      "+2",
+      "T. Maxey makes 2-pt layup from 3 ft (assist by K. Oubre)"
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "3:33.0",
+      "Violation by Team (def goaltending)",
+      "",
+      "94-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "3:14.0",
+      "J. Brown makes 2-pt layup from 2 ft (assist by D. White)",
+      "+2",
+      "96-92",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "3:14.0",
+      "",
+      "",
+      "96-92",
+      "",
+      "Violation by Team (def goaltending)"
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "3:14.0",
+      "",
+      "",
+      "96-92",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "2:55.0",
+      "",
+      "",
+      "96-94",
+      "+2",
+      "A. Drummond makes 2-pt dunk from 2 ft (assist by P. George)"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "2:39.0",
+      "Shooting foul by A. Drummond (drawn by J. Tatum)",
+      "",
+      "96-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "2:39.0",
+      "J. Tatum makes free throw 1 of 2",
+      "+1",
+      "97-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "2:39.0",
+      "J. Tatum misses free throw 2 of 2",
+      "",
+      "97-94",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "2:37.0",
+      "",
+      "",
+      "97-94",
+      "",
+      "Defensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "97-96",
+      "+2",
+      "A. Drummond makes 2-pt dunk from 2 ft (assist by P. George)"
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "1:57.0",
+      "J. Tatum makes 3-pt jump shot from 25 ft (assist by N. Vučević)",
+      "+3",
+      "100-96",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "1:41.0",
+      "",
+      "",
+      "100-98",
+      "+2",
+      "P. George makes 2-pt jump shot from 4 ft"
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "1:17.0",
+      "P. Pritchard makes 3-pt jump shot from 26 ft (assist by J. Tatum)",
+      "+3",
+      "103-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "103-98",
+      "",
+      "Shooting foul by N. Vučević (drawn by K. Oubre)"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "1:00.0",
+      "Boston full timeout",
+      "",
+      "103-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "1:00.0",
+      "Instant Replay (Challenge: Stands)",
+      "",
+      "103-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "103-98",
+      "",
+      "A. Bona enters the game for A. Drummond"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "103-99",
+      "+1",
+      "K. Oubre makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "1:00.0",
+      "",
+      "",
+      "103-100",
+      "+1",
+      "K. Oubre makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "0:37.0",
+      "N. Vučević misses 3-pt jump shot from 23 ft",
+      "",
+      "103-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "0:34.0",
+      "Offensive rebound by D. White",
+      "",
+      "103-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "0:26.0",
+      "J. Tatum makes 3-pt jump shot from 29 ft",
+      "+3",
+      "106-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "106-100",
+      "",
+      "Philadelphia full timeout"
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "0:25.0",
+      "B. Scheierman enters the game for N. Vučević",
+      "",
+      "106-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "0:25.0",
+      "",
+      "",
+      "106-100",
+      "",
+      "A. Drummond enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "0:22.0",
+      "",
+      "",
+      "106-100",
+      "",
+      "T. Maxey misses 3-pt jump shot from 30 ft"
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "0:19.0",
+      "",
+      "",
+      "106-100",
+      "",
+      "Offensive rebound by A. Drummond"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "106-100",
+      "",
+      "T. Maxey misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "0:14.0",
+      "Defensive rebound by B. Scheierman",
+      "",
+      "106-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "0:09.0",
+      "Personal take foul by P. George (drawn by J. Tatum)",
+      "",
+      "106-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "0:09.0",
+      "",
+      "",
+      "106-100",
+      "",
+      "A. Bona enters the game for A. Drummond"
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "0:06.0",
+      "Personal take foul by A. Bona (drawn by D. White)",
+      "",
+      "106-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "0:06.0",
+      "",
+      "",
+      "106-100",
+      "",
+      "A. Drummond enters the game for A. Bona"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "0:06.0",
+      "D. White makes free throw 1 of 2",
+      "+1",
+      "107-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "0:06.0",
+      "D. White makes free throw 2 of 2",
+      "+1",
+      "108-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "108-100",
+      "",
+      "T. Maxey misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "0:00.0",
+      "",
+      "",
+      "108-100",
+      "",
+      "Offensive rebound by Team"
+    ]
+  }
+]

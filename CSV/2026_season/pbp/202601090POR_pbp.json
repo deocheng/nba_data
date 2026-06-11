@@ -1,0 +1,5392 @@
+[
+  {
+    "row": 0,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 1,
+    "cells": [
+      "11:39.0",
+      "Turnover by S. Adams (bad pass; steal by T. Camara)",
+      "",
+      "0-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 2,
+    "cells": [
+      "11:35.0",
+      "",
+      "",
+      "0-2",
+      "+2",
+      "T. Camara makes 2-pt dunk from 2 ft"
+    ]
+  },
+  {
+    "row": 3,
+    "cells": [
+      "11:18.0",
+      "S. Adams makes 2-pt layup from 3 ft (assist by T. Eason)",
+      "+2",
+      "2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 4,
+    "cells": [
+      "10:58.0",
+      "",
+      "",
+      "2-2",
+      "",
+      "Turnover by T. Camara (bad pass; steal by T. Eason)"
+    ]
+  },
+  {
+    "row": 5,
+    "cells": [
+      "10:53.0",
+      "J. Smith makes 2-pt jump shot from 15 ft (assist by T. Eason)",
+      "+2",
+      "4-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 6,
+    "cells": [
+      "10:41.0",
+      "",
+      "",
+      "4-5",
+      "+3",
+      "T. Camara makes 3-pt jump shot from 26 ft (assist by D. Avdija)"
+    ]
+  },
+  {
+    "row": 7,
+    "cells": [
+      "10:17.0",
+      "T. Eason misses 2-pt layup from 7 ft (block by D. Clingan)",
+      "",
+      "4-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 8,
+    "cells": [
+      "10:16.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 9,
+    "cells": [
+      "10:05.0",
+      "",
+      "",
+      "4-5",
+      "",
+      "Turnover by D. Avdija (bad pass; steal by J. Smith)"
+    ]
+  },
+  {
+    "row": 10,
+    "cells": [
+      "10:01.0",
+      "A. Thompson makes 2-pt layup from 4 ft",
+      "+2",
+      "6-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 11,
+    "cells": [
+      "9:37.0",
+      "",
+      "",
+      "6-5",
+      "",
+      "Turnover by D. Avdija (bad pass; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 12,
+    "cells": [
+      "9:34.0",
+      "Shooting foul by S. Cissoko (drawn by T. Eason)",
+      "",
+      "6-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 13,
+    "cells": [
+      "9:34.0",
+      "T. Eason makes free throw 1 of 2",
+      "+1",
+      "7-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 14,
+    "cells": [
+      "9:34.0",
+      "T. Eason misses free throw 2 of 2",
+      "",
+      "7-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 15,
+    "cells": [
+      "9:29.0",
+      "Offensive rebound by T. Eason",
+      "",
+      "7-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 16,
+    "cells": [
+      "9:28.0",
+      "Turnover by T. Eason (bad pass; steal by S. Cissoko)",
+      "",
+      "7-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 17,
+    "cells": [
+      "9:19.0",
+      "",
+      "",
+      "7-5",
+      "",
+      "S. Sharpe misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 18,
+    "cells": [
+      "9:16.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "7-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 19,
+    "cells": [
+      "9:11.0",
+      "A. Thompson makes 2-pt layup from 2 ft",
+      "+2",
+      "9-5",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 20,
+    "cells": [
+      "8:59.0",
+      "",
+      "",
+      "9-8",
+      "+3",
+      "S. Cissoko makes 3-pt jump shot from 24 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 21,
+    "cells": [
+      "8:42.0",
+      "A. Thompson makes 2-pt jump shot from 15 ft",
+      "+2",
+      "11-8",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 22,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "11-10",
+      "+2",
+      "S. Sharpe makes 2-pt layup from 4 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 23,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "11-10",
+      "",
+      "Shooting foul by S. Adams (drawn by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 24,
+    "cells": [
+      "8:27.0",
+      "",
+      "",
+      "11-11",
+      "+1",
+      "S. Sharpe makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 25,
+    "cells": [
+      "8:09.0",
+      "J. Smith makes 2-pt jump shot from 10 ft",
+      "+2",
+      "13-11",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 26,
+    "cells": [
+      "7:55.0",
+      "",
+      "",
+      "13-13",
+      "+2",
+      "T. Camara makes 2-pt layup from 2 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 27,
+    "cells": [
+      "7:43.0",
+      "J. Smith misses 2-pt jump shot from 14 ft",
+      "",
+      "13-13",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 28,
+    "cells": [
+      "7:39.0",
+      "",
+      "",
+      "13-13",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 29,
+    "cells": [
+      "7:30.0",
+      "",
+      "",
+      "13-16",
+      "+3",
+      "T. Camara makes 3-pt jump shot from 24 ft (assist by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 30,
+    "cells": [
+      "7:10.0",
+      "K. Durant makes 2-pt jump shot from 12 ft (assist by S. Adams)",
+      "+2",
+      "15-16",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 31,
+    "cells": [
+      "6:58.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "D. Avdija misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 32,
+    "cells": [
+      "6:54.0",
+      "",
+      "",
+      "15-16",
+      "",
+      "Offensive rebound by D. Avdija"
+    ]
+  },
+  {
+    "row": 33,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "15-18",
+      "+2",
+      "S. Sharpe makes 2-pt layup from 2 ft (assist by T. Camara)"
+    ]
+  },
+  {
+    "row": 34,
+    "cells": [
+      "6:49.0",
+      "Houston full timeout",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 35,
+    "cells": [
+      "6:49.0",
+      "C. Capela enters the game for S. Adams",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 36,
+    "cells": [
+      "6:49.0",
+      "D. Finney-Smith enters the game for T. Eason",
+      "",
+      "15-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 37,
+    "cells": [
+      "6:49.0",
+      "",
+      "",
+      "15-18",
+      "",
+      "R. Rupert enters the game for S. Cissoko"
+    ]
+  },
+  {
+    "row": 38,
+    "cells": [
+      "6:34.0",
+      "A. Thompson makes 2-pt layup from 3 ft (assist by J. Smith)",
+      "+2",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 39,
+    "cells": [
+      "6:13.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "D. Avdija misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 40,
+    "cells": [
+      "6:12.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "Offensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 41,
+    "cells": [
+      "6:12.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "D. Clingan misses 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 42,
+    "cells": [
+      "6:12.0",
+      "Defensive rebound by Team",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 43,
+    "cells": [
+      "5:58.0",
+      "J. Smith misses 3-pt jump shot from 27 ft",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 44,
+    "cells": [
+      "5:53.0",
+      "Offensive rebound by D. Finney-Smith",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 45,
+    "cells": [
+      "5:52.0",
+      "K. Durant misses 3-pt jump shot from 26 ft",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 46,
+    "cells": [
+      "5:48.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "Defensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 47,
+    "cells": [
+      "5:34.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "S. Sharpe misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 48,
+    "cells": [
+      "5:31.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 49,
+    "cells": [
+      "5:26.0",
+      "D. Finney-Smith misses 3-pt jump shot from 24 ft",
+      "",
+      "17-18",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 50,
+    "cells": [
+      "5:24.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 51,
+    "cells": [
+      "5:18.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "D. Avdija misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 52,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "17-18",
+      "",
+      "Offensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 53,
+    "cells": [
+      "5:13.0",
+      "",
+      "",
+      "17-20",
+      "+2",
+      "S. Sharpe makes 2-pt dunk from 1 ft"
+    ]
+  },
+  {
+    "row": 54,
+    "cells": [
+      "4:58.0",
+      "Personal foul by R. Rupert (drawn by K. Durant)",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 55,
+    "cells": [
+      "4:58.0",
+      "R. Sheppard enters the game for A. Thompson",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 56,
+    "cells": [
+      "4:58.0",
+      "",
+      "",
+      "17-20",
+      "",
+      "C. Love enters the game for S. Sharpe"
+    ]
+  },
+  {
+    "row": 57,
+    "cells": [
+      "4:46.0",
+      "J. Smith misses 2-pt jump shot from 12 ft",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 58,
+    "cells": [
+      "4:41.0",
+      "Offensive rebound by C. Capela",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 59,
+    "cells": [
+      "4:40.0",
+      "Turnover by C. Capela (bad pass; steal by D. Clingan)",
+      "",
+      "17-20",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 60,
+    "cells": [
+      "4:34.0",
+      "",
+      "",
+      "17-23",
+      "+3",
+      "T. Camara makes 3-pt jump shot from 22 ft (assist by R. Rupert)"
+    ]
+  },
+  {
+    "row": 61,
+    "cells": [
+      "4:09.0",
+      "K. Durant makes 2-pt jump shot from 9 ft",
+      "+2",
+      "19-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 62,
+    "cells": [
+      "3:48.0",
+      "",
+      "",
+      "19-23",
+      "",
+      "T. Camara misses 2-pt jump shot from 14 ft"
+    ]
+  },
+  {
+    "row": 63,
+    "cells": [
+      "3:46.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "19-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 64,
+    "cells": [
+      "3:28.0",
+      "K. Durant makes 2-pt jump shot from 17 ft",
+      "+2",
+      "21-23",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 65,
+    "cells": [
+      "3:16.0",
+      "",
+      "",
+      "21-26",
+      "+3",
+      "T. Camara makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 66,
+    "cells": [
+      "2:55.0",
+      "J. Smith makes 2-pt jump shot from 16 ft (assist by C. Capela)",
+      "+2",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 67,
+    "cells": [
+      "2:41.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "D. Clingan misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 68,
+    "cells": [
+      "2:38.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 69,
+    "cells": [
+      "2:33.0",
+      "J. Smith misses 3-pt jump shot from 26 ft",
+      "",
+      "23-26",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 70,
+    "cells": [
+      "2:29.0",
+      "",
+      "",
+      "23-26",
+      "",
+      "Defensive rebound by D. Avdija"
+    ]
+  },
+  {
+    "row": 71,
+    "cells": [
+      "2:21.0",
+      "",
+      "",
+      "23-28",
+      "+2",
+      "C. Love makes 2-pt jump shot from 13 ft (assist by D. Avdija)"
+    ]
+  },
+  {
+    "row": 72,
+    "cells": [
+      "2:08.0",
+      "R. Sheppard makes 2-pt jump shot from 14 ft",
+      "+2",
+      "25-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 73,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "25-28",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 74,
+    "cells": [
+      "2:06.0",
+      "S. Adams enters the game for C. Capela",
+      "",
+      "25-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 75,
+    "cells": [
+      "2:06.0",
+      "T. Eason enters the game for K. Durant",
+      "",
+      "25-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 76,
+    "cells": [
+      "2:06.0",
+      "A. Thompson enters the game for J. Smith",
+      "",
+      "25-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 77,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "25-28",
+      "",
+      "S. Sharpe enters the game for D. Avdija"
+    ]
+  },
+  {
+    "row": 78,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "25-28",
+      "",
+      "R. Williams enters the game for T. Camara"
+    ]
+  },
+  {
+    "row": 79,
+    "cells": [
+      "2:06.0",
+      "",
+      "",
+      "25-28",
+      "",
+      "Y. Hansen enters the game for D. Clingan"
+    ]
+  },
+  {
+    "row": 80,
+    "cells": [
+      "1:51.0",
+      "",
+      "",
+      "25-28",
+      "",
+      "C. Love misses 2-pt jump shot from 6 ft"
+    ]
+  },
+  {
+    "row": 81,
+    "cells": [
+      "1:48.0",
+      "Defensive rebound by R. Sheppard",
+      "",
+      "25-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 82,
+    "cells": [
+      "1:38.0",
+      "A. Thompson misses 2-pt jump shot from 12 ft",
+      "",
+      "25-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 83,
+    "cells": [
+      "1:34.0",
+      "Offensive rebound by T. Eason",
+      "",
+      "25-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 84,
+    "cells": [
+      "1:30.0",
+      "D. Finney-Smith makes 3-pt jump shot from 25 ft (assist by A. Thompson)",
+      "+3",
+      "28-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 85,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "28-28",
+      "",
+      "C. Love misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 86,
+    "cells": [
+      "1:07.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "28-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 87,
+    "cells": [
+      "0:59.0",
+      "D. Finney-Smith misses 3-pt jump shot from 25 ft",
+      "",
+      "28-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 88,
+    "cells": [
+      "0:57.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "28-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 89,
+    "cells": [
+      "0:56.0",
+      "Shooting foul by Y. Hansen (drawn by S. Adams)",
+      "",
+      "28-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 90,
+    "cells": [
+      "0:56.0",
+      "S. Adams makes free throw 1 of 2",
+      "+1",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 91,
+    "cells": [
+      "0:56.0",
+      "S. Adams misses free throw 2 of 2",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 92,
+    "cells": [
+      "0:54.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 93,
+    "cells": [
+      "0:31.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "C. Love misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 94,
+    "cells": [
+      "0:27.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 95,
+    "cells": [
+      "0:18.0",
+      "T. Eason misses 3-pt jump shot from 23 ft",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 96,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 97,
+    "cells": [
+      "0:16.0",
+      "Loose ball foul by S. Adams (drawn by Y. Hansen)",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 98,
+    "cells": [
+      "0:16.0",
+      "J. Okogie enters the game for S. Adams",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 99,
+    "cells": [
+      "0:16.0",
+      "J. Smith enters the game for R. Sheppard",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 100,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "D. Avdija enters the game for R. Rupert"
+    ]
+  },
+  {
+    "row": 101,
+    "cells": [
+      "0:16.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "T. Camara enters the game for R. Williams"
+    ]
+  },
+  {
+    "row": 102,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "D. Avdija misses 2-pt jump shot from 5 ft (block by J. Smith)"
+    ]
+  },
+  {
+    "row": 103,
+    "cells": [
+      "0:03.0",
+      "Defensive rebound by D. Finney-Smith",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 104,
+    "cells": [
+      "0:00.0",
+      "Team misses heave shot",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 105,
+    "cells": [
+      "0:00.0",
+      "Offensive rebound by Team",
+      "",
+      "29-28",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 106,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 107,
+    "cells": [
+      "11:39.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "Y. Hansen misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 108,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "29-28",
+      "",
+      "Offensive rebound by R. Williams"
+    ]
+  },
+  {
+    "row": 109,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "29-30",
+      "+2",
+      "S. Sharpe makes 2-pt layup from 2 ft (assist by R. Williams)"
+    ]
+  },
+  {
+    "row": 110,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "29-30",
+      "",
+      "Shooting foul by T. Eason (drawn by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 111,
+    "cells": [
+      "11:36.0",
+      "",
+      "",
+      "29-31",
+      "+1",
+      "S. Sharpe makes free throw 1 of 1"
+    ]
+  },
+  {
+    "row": 112,
+    "cells": [
+      "11:18.0",
+      "J. Smith misses 2-pt jump shot from 16 ft",
+      "",
+      "29-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 113,
+    "cells": [
+      "11:16.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "29-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 114,
+    "cells": [
+      "11:14.0",
+      "J. Smith misses 3-pt jump shot from 26 ft",
+      "",
+      "29-31",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 115,
+    "cells": [
+      "11:14.0",
+      "",
+      "",
+      "29-31",
+      "",
+      "Defensive rebound by R. Williams"
+    ]
+  },
+  {
+    "row": 116,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "29-31",
+      "",
+      "Shooting foul by A. Thompson (drawn by D. Avdija)"
+    ]
+  },
+  {
+    "row": 117,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "29-32",
+      "+1",
+      "D. Avdija makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 118,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "29-33",
+      "+1",
+      "D. Avdija makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 119,
+    "cells": [
+      "10:57.0",
+      "A. Thompson misses 3-pt jump shot from 24 ft",
+      "",
+      "29-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 120,
+    "cells": [
+      "10:55.0",
+      "Offensive rebound by Team",
+      "",
+      "29-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 121,
+    "cells": [
+      "10:55.0",
+      "Houston full timeout",
+      "",
+      "29-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 122,
+    "cells": [
+      "10:55.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "29-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 123,
+    "cells": [
+      "10:55.0",
+      "S. Adams enters the game for J. Okogie",
+      "",
+      "29-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 124,
+    "cells": [
+      "10:47.0",
+      "J. Smith makes 2-pt jump shot from 12 ft",
+      "+2",
+      "31-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 125,
+    "cells": [
+      "10:31.0",
+      "",
+      "",
+      "31-33",
+      "",
+      "Y. Hansen misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 126,
+    "cells": [
+      "10:30.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "31-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 127,
+    "cells": [
+      "10:20.0",
+      "R. Sheppard misses 3-pt jump shot from 28 ft",
+      "",
+      "31-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 128,
+    "cells": [
+      "10:16.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "31-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 129,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "31-33",
+      "",
+      "Loose ball foul by Y. Hansen (drawn by S. Adams)"
+    ]
+  },
+  {
+    "row": 130,
+    "cells": [
+      "10:11.0",
+      "",
+      "",
+      "31-33",
+      "",
+      "D. Clingan enters the game for Y. Hansen"
+    ]
+  },
+  {
+    "row": 131,
+    "cells": [
+      "10:06.0",
+      "A. Thompson misses 2-pt jump shot from 15 ft",
+      "",
+      "31-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 132,
+    "cells": [
+      "10:03.0",
+      "",
+      "",
+      "31-33",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 133,
+    "cells": [
+      "9:59.0",
+      "",
+      "",
+      "31-33",
+      "",
+      "Personal foul by T. Eason (drawn by D. Avdija)"
+    ]
+  },
+  {
+    "row": 134,
+    "cells": [
+      "9:49.0",
+      "",
+      "",
+      "31-33",
+      "",
+      "Turnover by D. Avdija (lost ball; steal by T. Eason)"
+    ]
+  },
+  {
+    "row": 135,
+    "cells": [
+      "9:44.0",
+      "Turnover by R. Sheppard (bad pass)",
+      "",
+      "31-33",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 136,
+    "cells": [
+      "9:29.0",
+      "",
+      "",
+      "31-36",
+      "+3",
+      "S. Sharpe makes 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 137,
+    "cells": [
+      "9:16.0",
+      "R. Sheppard misses 2-pt jump shot from 13 ft",
+      "",
+      "31-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 138,
+    "cells": [
+      "9:14.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "31-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 139,
+    "cells": [
+      "9:05.0",
+      "T. Eason makes 2-pt jump shot from 15 ft",
+      "+2",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 140,
+    "cells": [
+      "9:05.0",
+      "Loose ball foul by J. Smith (drawn by S. Sharpe)",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 141,
+    "cells": [
+      "8:56.0",
+      "",
+      "",
+      "33-36",
+      "",
+      "S. Sharpe misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 142,
+    "cells": [
+      "8:53.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 143,
+    "cells": [
+      "8:45.0",
+      "Personal foul by S. Cissoko (drawn by S. Adams)",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 144,
+    "cells": [
+      "8:45.0",
+      "K. Durant enters the game for A. Thompson",
+      "",
+      "33-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 145,
+    "cells": [
+      "8:45.0",
+      "",
+      "",
+      "33-36",
+      "",
+      "T. Camara enters the game for R. Williams"
+    ]
+  },
+  {
+    "row": 146,
+    "cells": [
+      "8:35.0",
+      "K. Durant makes 2-pt jump shot from 14 ft",
+      "+2",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 147,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "S. Sharpe misses 2-pt jump shot from 15 ft (block by T. Eason)"
+    ]
+  },
+  {
+    "row": 148,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 149,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "C. Love enters the game for S. Sharpe"
+    ]
+  },
+  {
+    "row": 150,
+    "cells": [
+      "8:17.0",
+      "",
+      "",
+      "35-36",
+      "",
+      "C. Love misses 2-pt layup from 2 ft (block by J. Smith)"
+    ]
+  },
+  {
+    "row": 151,
+    "cells": [
+      "8:15.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 152,
+    "cells": [
+      "8:11.0",
+      "K. Durant misses 2-pt jump shot from 15 ft",
+      "",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 153,
+    "cells": [
+      "8:07.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "35-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 154,
+    "cells": [
+      "8:07.0",
+      "S. Adams makes 2-pt layup at rim",
+      "+2",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 155,
+    "cells": [
+      "8:06.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Turnover by D. Avdija (bad pass)"
+    ]
+  },
+  {
+    "row": 156,
+    "cells": [
+      "7:59.0",
+      "Personal foul by S. Cissoko (drawn by J. Smith)",
+      "",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 157,
+    "cells": [
+      "7:51.0",
+      "R. Sheppard misses 3-pt jump shot from 29 ft",
+      "",
+      "37-36",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 158,
+    "cells": [
+      "7:47.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 159,
+    "cells": [
+      "7:36.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "D. Avdija misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 160,
+    "cells": [
+      "7:34.0",
+      "",
+      "",
+      "37-36",
+      "",
+      "Offensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 161,
+    "cells": [
+      "7:32.0",
+      "",
+      "",
+      "37-39",
+      "+3",
+      "S. Cissoko makes 3-pt jump shot from 25 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 162,
+    "cells": [
+      "7:13.0",
+      "Offensive foul by T. Eason (drawn by T. Camara)",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 163,
+    "cells": [
+      "7:13.0",
+      "Turnover by T. Eason (offensive foul)",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 164,
+    "cells": [
+      "7:13.0",
+      "A. Thompson enters the game for T. Eason",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 165,
+    "cells": [
+      "7:13.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "R. Rupert enters the game for S. Cissoko"
+    ]
+  },
+  {
+    "row": 166,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "T. Camara misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 167,
+    "cells": [
+      "7:01.0",
+      "Defensive rebound by Team",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 168,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "37-39",
+      "",
+      "Loose ball foul by R. Rupert (drawn by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 169,
+    "cells": [
+      "6:44.0",
+      "Personal foul by D. Clingan (drawn by A. Thompson)",
+      "",
+      "37-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 170,
+    "cells": [
+      "6:44.0",
+      "A. Thompson makes free throw 1 of 2",
+      "+1",
+      "38-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 171,
+    "cells": [
+      "6:44.0",
+      "A. Thompson makes free throw 2 of 2",
+      "+1",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 172,
+    "cells": [
+      "6:27.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "R. Rupert misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 173,
+    "cells": [
+      "6:22.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 174,
+    "cells": [
+      "6:04.0",
+      "R. Sheppard misses 2-pt jump shot from 6 ft",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 175,
+    "cells": [
+      "6:01.0",
+      "Offensive rebound by R. Sheppard",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 176,
+    "cells": [
+      "6:01.0",
+      "R. Sheppard misses 2-pt layup at rim",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 177,
+    "cells": [
+      "6:01.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 178,
+    "cells": [
+      "5:51.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "C. Love misses 3-pt jump shot from 24 ft"
+    ]
+  },
+  {
+    "row": 179,
+    "cells": [
+      "5:49.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 180,
+    "cells": [
+      "5:46.0",
+      "Shooting foul by C. Love (drawn by A. Thompson)",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 181,
+    "cells": [
+      "5:46.0",
+      "A. Thompson misses free throw 1 of 2",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 182,
+    "cells": [
+      "5:46.0",
+      "Offensive rebound by Team",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 183,
+    "cells": [
+      "5:46.0",
+      "D. Finney-Smith enters the game for J. Smith",
+      "",
+      "39-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 184,
+    "cells": [
+      "5:46.0",
+      "",
+      "",
+      "39-39",
+      "",
+      "S. Sharpe enters the game for D. Avdija"
+    ]
+  },
+  {
+    "row": 185,
+    "cells": [
+      "5:46.0",
+      "A. Thompson makes free throw 2 of 2",
+      "+1",
+      "40-39",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 186,
+    "cells": [
+      "5:30.0",
+      "",
+      "",
+      "40-41",
+      "+2",
+      "C. Love makes 2-pt jump shot from 8 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 187,
+    "cells": [
+      "5:13.0",
+      "Turnover by A. Thompson (bad pass; steal by D. Clingan)",
+      "",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 188,
+    "cells": [
+      "5:07.0",
+      "",
+      "",
+      "40-41",
+      "",
+      "T. Camara misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 189,
+    "cells": [
+      "5:03.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 190,
+    "cells": [
+      "4:51.0",
+      "Shooting foul by C. Love (drawn by K. Durant)",
+      "",
+      "40-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 191,
+    "cells": [
+      "4:51.0",
+      "K. Durant makes free throw 1 of 2",
+      "+1",
+      "41-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 192,
+    "cells": [
+      "4:51.0",
+      "J. Smith enters the game for S. Adams",
+      "",
+      "41-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 193,
+    "cells": [
+      "4:51.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "42-41",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 194,
+    "cells": [
+      "4:32.0",
+      "",
+      "",
+      "42-43",
+      "+2",
+      "T. Camara makes 2-pt hook shot from 10 ft"
+    ]
+  },
+  {
+    "row": 195,
+    "cells": [
+      "4:21.0",
+      "A. Thompson misses 2-pt layup from 5 ft",
+      "",
+      "42-43",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 196,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "Defensive rebound by C. Love"
+    ]
+  },
+  {
+    "row": 197,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "Shooting foul by D. Finney-Smith (drawn by R. Rupert)"
+    ]
+  },
+  {
+    "row": 198,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "R. Rupert misses free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 199,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 200,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "42-43",
+      "",
+      "R. Williams enters the game for D. Clingan"
+    ]
+  },
+  {
+    "row": 201,
+    "cells": [
+      "4:17.0",
+      "",
+      "",
+      "42-44",
+      "+1",
+      "R. Rupert makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 202,
+    "cells": [
+      "4:04.0",
+      "R. Sheppard misses 3-pt jump shot from 25 ft",
+      "",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 203,
+    "cells": [
+      "3:58.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "42-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 204,
+    "cells": [
+      "3:58.0",
+      "A. Thompson makes 2-pt dunk at rim",
+      "+2",
+      "44-44",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 205,
+    "cells": [
+      "3:47.0",
+      "",
+      "",
+      "44-47",
+      "+3",
+      "C. Love makes 3-pt jump shot from 23 ft (assist by R. Rupert)"
+    ]
+  },
+  {
+    "row": 206,
+    "cells": [
+      "3:28.0",
+      "R. Sheppard makes 2-pt hook shot from 8 ft",
+      "+2",
+      "46-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 207,
+    "cells": [
+      "3:15.0",
+      "",
+      "",
+      "46-47",
+      "",
+      "S. Sharpe misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 208,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "46-47",
+      "",
+      "Offensive rebound by R. Williams"
+    ]
+  },
+  {
+    "row": 209,
+    "cells": [
+      "3:08.0",
+      "",
+      "",
+      "46-47",
+      "",
+      "Turnover by R. Williams (back court)"
+    ]
+  },
+  {
+    "row": 210,
+    "cells": [
+      "3:00.0",
+      "Personal foul by R. Williams (drawn by K. Durant)",
+      "",
+      "46-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 211,
+    "cells": [
+      "3:00.0",
+      "K. Durant makes free throw 1 of 2",
+      "+1",
+      "47-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 212,
+    "cells": [
+      "3:00.0",
+      "K. Durant makes free throw 2 of 2",
+      "+1",
+      "48-47",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 213,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "Personal foul by R. Sheppard (drawn by R. Rupert)"
+    ]
+  },
+  {
+    "row": 214,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 215,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "D. Avdija enters the game for C. Love"
+    ]
+  },
+  {
+    "row": 216,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "48-47",
+      "",
+      "D. Clingan enters the game for R. Williams"
+    ]
+  },
+  {
+    "row": 217,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "48-48",
+      "+1",
+      "R. Rupert makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 218,
+    "cells": [
+      "2:48.0",
+      "",
+      "",
+      "48-48",
+      "",
+      "R. Rupert misses free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 219,
+    "cells": [
+      "2:45.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "48-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 220,
+    "cells": [
+      "2:33.0",
+      "R. Sheppard makes 3-pt jump shot from 25 ft",
+      "+3",
+      "51-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 221,
+    "cells": [
+      "2:19.0",
+      "",
+      "",
+      "51-48",
+      "",
+      "R. Rupert misses 2-pt dunk from 4 ft (block by K. Durant)"
+    ]
+  },
+  {
+    "row": 222,
+    "cells": [
+      "2:17.0",
+      "",
+      "",
+      "51-48",
+      "",
+      "Offensive rebound by R. Rupert"
+    ]
+  },
+  {
+    "row": 223,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "51-48",
+      "",
+      "R. Rupert misses 2-pt layup from 2 ft (block by J. Smith)"
+    ]
+  },
+  {
+    "row": 224,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "51-48",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 225,
+    "cells": [
+      "2:16.0",
+      "S. Adams enters the game for R. Sheppard",
+      "",
+      "51-48",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 226,
+    "cells": [
+      "2:16.0",
+      "",
+      "",
+      "51-48",
+      "",
+      "C. Love enters the game for R. Rupert"
+    ]
+  },
+  {
+    "row": 227,
+    "cells": [
+      "2:10.0",
+      "",
+      "",
+      "51-50",
+      "+2",
+      "D. Avdija makes 2-pt jump shot from 3 ft"
+    ]
+  },
+  {
+    "row": 228,
+    "cells": [
+      "1:53.0",
+      "K. Durant makes 2-pt jump shot from 13 ft (assist by A. Thompson)",
+      "+2",
+      "53-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 229,
+    "cells": [
+      "1:35.0",
+      "",
+      "",
+      "53-50",
+      "",
+      "S. Sharpe misses 2-pt jump shot from 9 ft"
+    ]
+  },
+  {
+    "row": 230,
+    "cells": [
+      "1:32.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "53-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 231,
+    "cells": [
+      "1:15.0",
+      "Shooting foul by T. Camara (drawn by J. Smith)",
+      "",
+      "53-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 232,
+    "cells": [
+      "1:15.0",
+      "J. Smith misses free throw 1 of 2",
+      "",
+      "53-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 233,
+    "cells": [
+      "1:15.0",
+      "Offensive rebound by Team",
+      "",
+      "53-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 234,
+    "cells": [
+      "1:15.0",
+      "J. Smith makes free throw 2 of 2",
+      "+1",
+      "54-50",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 235,
+    "cells": [
+      "1:05.0",
+      "",
+      "",
+      "54-50",
+      "",
+      "Personal foul by A. Thompson (drawn by D. Avdija)"
+    ]
+  },
+  {
+    "row": 236,
+    "cells": [
+      "1:05.0",
+      "",
+      "",
+      "54-51",
+      "+1",
+      "D. Avdija makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 237,
+    "cells": [
+      "1:05.0",
+      "",
+      "",
+      "54-52",
+      "+1",
+      "D. Avdija makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 238,
+    "cells": [
+      "0:51.0",
+      "D. Finney-Smith misses 3-pt jump shot from 26 ft",
+      "",
+      "54-52",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 239,
+    "cells": [
+      "0:49.0",
+      "",
+      "",
+      "54-52",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 240,
+    "cells": [
+      "0:33.0",
+      "",
+      "",
+      "54-55",
+      "+3",
+      "C. Love makes 3-pt jump shot from 28 ft (assist by D. Avdija)"
+    ]
+  },
+  {
+    "row": 241,
+    "cells": [
+      "0:18.0",
+      "Shooting foul by D. Clingan (drawn by A. Thompson)",
+      "",
+      "54-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 242,
+    "cells": [
+      "0:18.0",
+      "A. Thompson makes free throw 1 of 2",
+      "+1",
+      "55-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 243,
+    "cells": [
+      "0:18.0",
+      "J. Okogie enters the game for S. Adams",
+      "",
+      "55-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 244,
+    "cells": [
+      "0:18.0",
+      "A. Thompson makes free throw 2 of 2",
+      "+1",
+      "56-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 245,
+    "cells": [
+      "0:03.0",
+      "",
+      "",
+      "56-55",
+      "",
+      "D. Avdija misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 246,
+    "cells": [
+      "0:00.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "56-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 247,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 248,
+    "cells": [
+      "11:48.0",
+      "",
+      "",
+      "56-55",
+      "",
+      "D. Avdija misses 2-pt layup from 7 ft"
+    ]
+  },
+  {
+    "row": 249,
+    "cells": [
+      "11:45.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "56-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 250,
+    "cells": [
+      "11:33.0",
+      "K. Durant misses 3-pt jump shot from 25 ft",
+      "",
+      "56-55",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 251,
+    "cells": [
+      "11:30.0",
+      "",
+      "",
+      "56-55",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 252,
+    "cells": [
+      "11:22.0",
+      "",
+      "",
+      "56-58",
+      "+3",
+      "D. Avdija makes 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 253,
+    "cells": [
+      "10:54.0",
+      "T. Eason makes 3-pt jump shot from 25 ft (assist by K. Durant)",
+      "+3",
+      "59-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 254,
+    "cells": [
+      "10:42.0",
+      "",
+      "",
+      "59-58",
+      "",
+      "S. Sharpe misses 2-pt layup from 6 ft (block by S. Adams)"
+    ]
+  },
+  {
+    "row": 255,
+    "cells": [
+      "10:42.0",
+      "",
+      "",
+      "59-58",
+      "",
+      "Offensive rebound by Team"
+    ]
+  },
+  {
+    "row": 256,
+    "cells": [
+      "10:40.0",
+      "",
+      "",
+      "59-58",
+      "",
+      "D. Clingan misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 257,
+    "cells": [
+      "10:35.0",
+      "Defensive rebound by T. Eason",
+      "",
+      "59-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 258,
+    "cells": [
+      "10:20.0",
+      "J. Smith makes 2-pt jump shot from 14 ft (assist by S. Adams)",
+      "+2",
+      "61-58",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 259,
+    "cells": [
+      "10:08.0",
+      "",
+      "",
+      "61-60",
+      "+2",
+      "D. Clingan makes 2-pt dunk from 2 ft (assist by D. Avdija)"
+    ]
+  },
+  {
+    "row": 260,
+    "cells": [
+      "9:56.0",
+      "Turnover by A. Thompson (bad pass)",
+      "",
+      "61-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 261,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "61-60",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 262,
+    "cells": [
+      "9:56.0",
+      "",
+      "",
+      "61-60",
+      "",
+      "Instant Replay (Challenge: Ruling Stands)"
+    ]
+  },
+  {
+    "row": 263,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "61-60",
+      "",
+      "Turnover by D. Avdija (out of bounds lost ball)"
+    ]
+  },
+  {
+    "row": 264,
+    "cells": [
+      "9:35.0",
+      "Shooting foul by S. Cissoko (drawn by A. Thompson)",
+      "",
+      "61-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 265,
+    "cells": [
+      "9:35.0",
+      "A. Thompson makes free throw 1 of 2",
+      "+1",
+      "62-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 266,
+    "cells": [
+      "9:35.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "R. Rupert enters the game for S. Cissoko"
+    ]
+  },
+  {
+    "row": 267,
+    "cells": [
+      "9:35.0",
+      "A. Thompson misses free throw 2 of 2",
+      "",
+      "62-60",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 268,
+    "cells": [
+      "9:32.0",
+      "",
+      "",
+      "62-60",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 269,
+    "cells": [
+      "9:22.0",
+      "",
+      "",
+      "62-62",
+      "+2",
+      "D. Clingan makes 2-pt layup from 6 ft (assist by D. Avdija)"
+    ]
+  },
+  {
+    "row": 270,
+    "cells": [
+      "8:59.0",
+      "J. Smith makes 2-pt jump shot from 12 ft (assist by S. Adams)",
+      "+2",
+      "64-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 271,
+    "cells": [
+      "8:44.0",
+      "",
+      "",
+      "64-62",
+      "",
+      "D. Clingan misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 272,
+    "cells": [
+      "8:41.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "64-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 273,
+    "cells": [
+      "8:32.0",
+      "Turnover by T. Eason (step out of bounds)",
+      "",
+      "64-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 274,
+    "cells": [
+      "8:32.0",
+      "R. Sheppard enters the game for T. Eason",
+      "",
+      "64-62",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 275,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "64-65",
+      "+3",
+      "S. Sharpe makes 3-pt jump shot from 26 ft (assist by D. Avdija)"
+    ]
+  },
+  {
+    "row": 276,
+    "cells": [
+      "7:57.0",
+      "K. Durant makes 3-pt jump shot from 25 ft (assist by R. Sheppard)",
+      "+3",
+      "67-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 277,
+    "cells": [
+      "7:41.0",
+      "",
+      "",
+      "67-65",
+      "",
+      "S. Sharpe misses 3-pt jump shot from 27 ft"
+    ]
+  },
+  {
+    "row": 278,
+    "cells": [
+      "7:37.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "67-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 279,
+    "cells": [
+      "7:32.0",
+      "R. Sheppard misses 3-pt jump shot from 23 ft",
+      "",
+      "67-65",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 280,
+    "cells": [
+      "7:29.0",
+      "",
+      "",
+      "67-65",
+      "",
+      "Defensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 281,
+    "cells": [
+      "7:26.0",
+      "",
+      "",
+      "67-68",
+      "+3",
+      "T. Camara makes 3-pt jump shot from 26 ft (assist by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 282,
+    "cells": [
+      "7:10.0",
+      "A. Thompson makes 2-pt dunk from 2 ft",
+      "+2",
+      "69-68",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 283,
+    "cells": [
+      "7:01.0",
+      "",
+      "",
+      "69-70",
+      "+2",
+      "D. Avdija makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 284,
+    "cells": [
+      "6:36.0",
+      "R. Sheppard makes 3-pt jump shot from 26 ft (assist by K. Durant)",
+      "+3",
+      "72-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 285,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "72-70",
+      "",
+      "Personal foul by A. Thompson (drawn by D. Avdija)"
+    ]
+  },
+  {
+    "row": 286,
+    "cells": [
+      "6:20.0",
+      "C. Capela enters the game for S. Adams",
+      "",
+      "72-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 287,
+    "cells": [
+      "6:20.0",
+      "J. Okogie enters the game for A. Thompson",
+      "",
+      "72-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 288,
+    "cells": [
+      "6:20.0",
+      "",
+      "",
+      "72-70",
+      "",
+      "C. Love enters the game for S. Sharpe"
+    ]
+  },
+  {
+    "row": 289,
+    "cells": [
+      "6:07.0",
+      "",
+      "",
+      "72-70",
+      "",
+      "D. Clingan misses 2-pt layup from 6 ft"
+    ]
+  },
+  {
+    "row": 290,
+    "cells": [
+      "6:06.0",
+      "Defensive rebound by C. Capela",
+      "",
+      "72-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 291,
+    "cells": [
+      "5:57.0",
+      "K. Durant misses 2-pt jump shot from 15 ft",
+      "",
+      "72-70",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 292,
+    "cells": [
+      "5:53.0",
+      "",
+      "",
+      "72-70",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 293,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "72-70",
+      "",
+      "Shooting foul by J. Smith (drawn by C. Love)"
+    ]
+  },
+  {
+    "row": 294,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "72-71",
+      "+1",
+      "C. Love makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 295,
+    "cells": [
+      "5:45.0",
+      "",
+      "",
+      "72-72",
+      "+1",
+      "C. Love makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 296,
+    "cells": [
+      "5:23.0",
+      "K. Durant makes 3-pt jump shot from 27 ft (assist by R. Sheppard)",
+      "+3",
+      "75-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 297,
+    "cells": [
+      "5:02.0",
+      "",
+      "",
+      "75-72",
+      "",
+      "R. Rupert misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 298,
+    "cells": [
+      "5:00.0",
+      "",
+      "",
+      "75-72",
+      "",
+      "Offensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 299,
+    "cells": [
+      "4:56.0",
+      "",
+      "",
+      "75-72",
+      "",
+      "Turnover by D. Clingan (bad pass; steal by J. Smith)"
+    ]
+  },
+  {
+    "row": 300,
+    "cells": [
+      "4:45.0",
+      "Turnover by K. Durant (bad pass; steal by D. Avdija)",
+      "",
+      "75-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 301,
+    "cells": [
+      "4:42.0",
+      "",
+      "",
+      "75-72",
+      "",
+      "Turnover by T. Camara (step out of bounds)"
+    ]
+  },
+  {
+    "row": 302,
+    "cells": [
+      "4:30.0",
+      "R. Sheppard makes 3-pt jump shot from 28 ft (assist by K. Durant)",
+      "+3",
+      "78-72",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 303,
+    "cells": [
+      "4:21.0",
+      "",
+      "",
+      "78-72",
+      "",
+      "C. Love misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 304,
+    "cells": [
+      "4:19.0",
+      "",
+      "",
+      "78-72",
+      "",
+      "Offensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 305,
+    "cells": [
+      "4:13.0",
+      "",
+      "",
+      "78-74",
+      "+2",
+      "D. Avdija makes 2-pt layup from 2 ft (assist by D. Clingan)"
+    ]
+  },
+  {
+    "row": 306,
+    "cells": [
+      "3:56.0",
+      "R. Sheppard misses 2-pt jump shot from 15 ft",
+      "",
+      "78-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 307,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "78-74",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 308,
+    "cells": [
+      "3:52.0",
+      "",
+      "",
+      "78-74",
+      "",
+      "Turnover by D. Clingan (lost ball; steal by J. Okogie)"
+    ]
+  },
+  {
+    "row": 309,
+    "cells": [
+      "3:50.0",
+      "R. Sheppard makes 3-pt jump shot from 26 ft (assist by J. Okogie)",
+      "+3",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 310,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "81-74",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 311,
+    "cells": [
+      "3:50.0",
+      "A. Thompson enters the game for J. Smith",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 312,
+    "cells": [
+      "3:50.0",
+      "",
+      "",
+      "81-74",
+      "",
+      "Y. Hansen enters the game for D. Clingan"
+    ]
+  },
+  {
+    "row": 313,
+    "cells": [
+      "3:30.0",
+      "",
+      "",
+      "81-74",
+      "",
+      "Y. Hansen misses 2-pt hook shot from 11 ft (block by C. Capela)"
+    ]
+  },
+  {
+    "row": 314,
+    "cells": [
+      "3:26.0",
+      "Defensive rebound by J. Okogie",
+      "",
+      "81-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 315,
+    "cells": [
+      "3:25.0",
+      "J. Okogie makes 2-pt layup from 4 ft",
+      "+2",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 316,
+    "cells": [
+      "3:09.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "D. Avdija misses 2-pt jump shot from 8 ft (block by K. Durant)"
+    ]
+  },
+  {
+    "row": 317,
+    "cells": [
+      "3:07.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 318,
+    "cells": [
+      "2:59.0",
+      "R. Sheppard misses 3-pt jump shot from 26 ft",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 319,
+    "cells": [
+      "2:57.0",
+      "Offensive rebound by C. Capela",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 320,
+    "cells": [
+      "2:48.0",
+      "Turnover by J. Okogie (bad pass; steal by R. Rupert)",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 321,
+    "cells": [
+      "2:36.0",
+      "",
+      "",
+      "83-74",
+      "",
+      "T. Camara misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 322,
+    "cells": [
+      "2:31.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "83-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 323,
+    "cells": [
+      "2:22.0",
+      "K. Durant makes 3-pt jump shot from 26 ft (assist by J. Okogie)",
+      "+3",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 324,
+    "cells": [
+      "2:02.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "D. Avdija misses 3-pt jump shot from 28 ft"
+    ]
+  },
+  {
+    "row": 325,
+    "cells": [
+      "1:58.0",
+      "Defensive rebound by J. Okogie",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 326,
+    "cells": [
+      "1:57.0",
+      "Shooting foul by D. Avdija (drawn by J. Okogie)",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 327,
+    "cells": [
+      "1:57.0",
+      "J. Okogie misses free throw 1 of 2",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 328,
+    "cells": [
+      "1:57.0",
+      "Offensive rebound by Team",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 329,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "D. Reath enters the game for D. Avdija"
+    ]
+  },
+  {
+    "row": 330,
+    "cells": [
+      "1:57.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "S. Sharpe enters the game for R. Rupert"
+    ]
+  },
+  {
+    "row": 331,
+    "cells": [
+      "1:57.0",
+      "J. Okogie misses free throw 2 of 2",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 332,
+    "cells": [
+      "1:53.0",
+      "Offensive rebound by J. Okogie",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 333,
+    "cells": [
+      "1:52.0",
+      "K. Durant misses 3-pt jump shot from 27 ft",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 334,
+    "cells": [
+      "1:48.0",
+      "Offensive rebound by K. Durant",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 335,
+    "cells": [
+      "1:47.0",
+      "R. Sheppard misses 3-pt jump shot from 22 ft",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 336,
+    "cells": [
+      "1:44.0",
+      "Offensive rebound by J. Okogie",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 337,
+    "cells": [
+      "1:37.0",
+      "J. Okogie misses 3-pt jump shot from 23 ft (block by D. Reath)",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 338,
+    "cells": [
+      "1:34.0",
+      "Offensive rebound by C. Capela",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 339,
+    "cells": [
+      "1:34.0",
+      "C. Capela misses 2-pt layup from 7 ft",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 340,
+    "cells": [
+      "1:32.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "Defensive rebound by C. Love"
+    ]
+  },
+  {
+    "row": 341,
+    "cells": [
+      "1:32.0",
+      "J. Smith enters the game for J. Okogie",
+      "",
+      "86-74",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 342,
+    "cells": [
+      "1:20.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "S. Sharpe misses 3-pt jump shot from 26 ft"
+    ]
+  },
+  {
+    "row": 343,
+    "cells": [
+      "1:17.0",
+      "",
+      "",
+      "86-74",
+      "",
+      "Offensive rebound by Y. Hansen"
+    ]
+  },
+  {
+    "row": 344,
+    "cells": [
+      "1:15.0",
+      "",
+      "",
+      "86-77",
+      "+3",
+      "C. Love makes 3-pt jump shot from 26 ft (assist by Y. Hansen)"
+    ]
+  },
+  {
+    "row": 345,
+    "cells": [
+      "1:00.0",
+      "A. Thompson makes 2-pt layup from 3 ft",
+      "+2",
+      "88-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 346,
+    "cells": [
+      "0:45.0",
+      "",
+      "",
+      "88-77",
+      "",
+      "S. Sharpe misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 347,
+    "cells": [
+      "0:44.0",
+      "",
+      "",
+      "88-77",
+      "",
+      "Offensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 348,
+    "cells": [
+      "0:42.0",
+      "",
+      "",
+      "88-77",
+      "",
+      "T. Camara misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 349,
+    "cells": [
+      "0:42.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "88-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 350,
+    "cells": [
+      "0:35.0",
+      "R. Sheppard misses 2-pt layup from 3 ft",
+      "",
+      "88-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 351,
+    "cells": [
+      "0:34.0",
+      "Offensive rebound by Team",
+      "",
+      "88-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 352,
+    "cells": [
+      "0:28.0",
+      "J. Smith misses 2-pt jump shot from 15 ft",
+      "",
+      "88-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 353,
+    "cells": [
+      "0:26.0",
+      "",
+      "",
+      "88-77",
+      "",
+      "Defensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 354,
+    "cells": [
+      "0:05.0",
+      "",
+      "",
+      "88-77",
+      "",
+      "S. Sharpe misses 2-pt layup from 4 ft"
+    ]
+  },
+  {
+    "row": 355,
+    "cells": [
+      "0:03.0",
+      "Defensive rebound by A. Thompson",
+      "",
+      "88-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 356,
+    "cells": [
+      "0:01.0",
+      "R. Sheppard makes 2-pt layup from 4 ft",
+      "+2",
+      "90-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 357,
+    "cells": [
+      "0:00.0",
+      "Instant Replay (Request: Ruling Stands)",
+      "",
+      "90-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 358,
+    "cells": [
+      "Time",
+      "Houston",
+      "",
+      "Score",
+      "",
+      "Portland"
+    ]
+  },
+  {
+    "row": 359,
+    "cells": [
+      "12:00.0",
+      "Violation by Team (delay of game)",
+      "",
+      "90-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 360,
+    "cells": [
+      "11:45.0",
+      "D. Finney-Smith misses 3-pt jump shot from 24 ft",
+      "",
+      "90-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 361,
+    "cells": [
+      "11:41.0",
+      "",
+      "",
+      "90-77",
+      "",
+      "Defensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 362,
+    "cells": [
+      "11:27.0",
+      "",
+      "",
+      "90-77",
+      "",
+      "Y. Hansen misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 363,
+    "cells": [
+      "11:24.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "90-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 364,
+    "cells": [
+      "11:14.0",
+      "A. Thompson misses 2-pt layup from 4 ft",
+      "",
+      "90-77",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 365,
+    "cells": [
+      "11:09.0",
+      "",
+      "",
+      "90-77",
+      "",
+      "Defensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 366,
+    "cells": [
+      "11:08.0",
+      "",
+      "",
+      "90-79",
+      "+2",
+      "S. Cissoko makes 2-pt layup from 2 ft (assist by C. Love)"
+    ]
+  },
+  {
+    "row": 367,
+    "cells": [
+      "10:53.0",
+      "J. Smith misses 3-pt jump shot from 24 ft",
+      "",
+      "90-79",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 368,
+    "cells": [
+      "10:51.0",
+      "",
+      "",
+      "90-79",
+      "",
+      "Defensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 369,
+    "cells": [
+      "10:38.0",
+      "",
+      "",
+      "90-81",
+      "+2",
+      "S. Sharpe makes 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 370,
+    "cells": [
+      "10:38.0",
+      "Houston full timeout",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 371,
+    "cells": [
+      "10:29.0",
+      "J. Smith misses 3-pt jump shot from 23 ft",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 372,
+    "cells": [
+      "10:26.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 373,
+    "cells": [
+      "10:18.0",
+      "A. Thompson misses 2-pt jump shot from 12 ft",
+      "",
+      "90-81",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 374,
+    "cells": [
+      "10:15.0",
+      "",
+      "",
+      "90-81",
+      "",
+      "Defensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 375,
+    "cells": [
+      "10:05.0",
+      "",
+      "",
+      "90-83",
+      "+2",
+      "S. Sharpe makes 2-pt jump shot from 8 ft"
+    ]
+  },
+  {
+    "row": 376,
+    "cells": [
+      "9:50.0",
+      "J. Smith misses 2-pt jump shot from 7 ft",
+      "",
+      "90-83",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 377,
+    "cells": [
+      "9:48.0",
+      "",
+      "",
+      "90-83",
+      "",
+      "Defensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 378,
+    "cells": [
+      "9:44.0",
+      "",
+      "",
+      "90-86",
+      "+3",
+      "C. Love makes 3-pt jump shot from 26 ft (assist by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 379,
+    "cells": [
+      "9:22.0",
+      "A. Thompson misses 3-pt jump shot from 23 ft",
+      "",
+      "90-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 380,
+    "cells": [
+      "9:19.0",
+      "Offensive rebound by S. Adams",
+      "",
+      "90-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 381,
+    "cells": [
+      "9:17.0",
+      "J. Smith misses 3-pt jump shot from 23 ft",
+      "",
+      "90-86",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 382,
+    "cells": [
+      "9:14.0",
+      "",
+      "",
+      "90-86",
+      "",
+      "Defensive rebound by S. Sharpe"
+    ]
+  },
+  {
+    "row": 383,
+    "cells": [
+      "9:00.0",
+      "",
+      "",
+      "90-88",
+      "+2",
+      "Y. Hansen makes 2-pt layup from 7 ft (assist by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 384,
+    "cells": [
+      "8:42.0",
+      "D. Finney-Smith misses 3-pt jump shot from 23 ft (block by D. Reath)",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 385,
+    "cells": [
+      "8:42.0",
+      "Offensive rebound by Team",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 386,
+    "cells": [
+      "8:42.0",
+      "K. Durant enters the game for J. Smith",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 387,
+    "cells": [
+      "8:42.0",
+      "J. Okogie enters the game for A. Thompson",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 388,
+    "cells": [
+      "8:42.0",
+      "",
+      "",
+      "90-88",
+      "",
+      "T. Camara enters the game for S. Cissoko"
+    ]
+  },
+  {
+    "row": 389,
+    "cells": [
+      "8:40.0",
+      "D. Finney-Smith misses 3-pt jump shot from 23 ft",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 390,
+    "cells": [
+      "8:35.0",
+      "",
+      "",
+      "90-88",
+      "",
+      "Defensive rebound by C. Love"
+    ]
+  },
+  {
+    "row": 391,
+    "cells": [
+      "8:23.0",
+      "",
+      "",
+      "90-88",
+      "",
+      "S. Sharpe misses 2-pt jump shot from 17 ft"
+    ]
+  },
+  {
+    "row": 392,
+    "cells": [
+      "8:20.0",
+      "Defensive rebound by J. Okogie",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 393,
+    "cells": [
+      "8:07.0",
+      "Shooting foul by D. Reath (drawn by S. Adams)",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 394,
+    "cells": [
+      "8:07.0",
+      "S. Adams misses free throw 1 of 2",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 395,
+    "cells": [
+      "8:07.0",
+      "Offensive rebound by Team",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 396,
+    "cells": [
+      "8:07.0",
+      "S. Adams misses free throw 2 of 2",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 397,
+    "cells": [
+      "8:05.0",
+      "",
+      "",
+      "90-88",
+      "",
+      "Defensive rebound by T. Camara"
+    ]
+  },
+  {
+    "row": 398,
+    "cells": [
+      "7:49.0",
+      "",
+      "",
+      "90-88",
+      "",
+      "C. Love misses 2-pt jump shot from 11 ft"
+    ]
+  },
+  {
+    "row": 399,
+    "cells": [
+      "7:46.0",
+      "Defensive rebound by K. Durant",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 400,
+    "cells": [
+      "7:31.0",
+      "K. Durant misses 2-pt jump shot from 16 ft",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 401,
+    "cells": [
+      "7:31.0",
+      "Offensive rebound by D. Finney-Smith",
+      "",
+      "90-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 402,
+    "cells": [
+      "7:24.0",
+      "K. Durant makes 2-pt jump shot from 14 ft (assist by D. Finney-Smith)",
+      "+2",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 403,
+    "cells": [
+      "7:03.0",
+      "",
+      "",
+      "92-88",
+      "",
+      "S. Sharpe misses 2-pt jump shot from 15 ft"
+    ]
+  },
+  {
+    "row": 404,
+    "cells": [
+      "7:00.0",
+      "Defensive rebound by R. Sheppard",
+      "",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 405,
+    "cells": [
+      "6:52.0",
+      "R. Sheppard misses 2-pt jump shot from 14 ft",
+      "",
+      "92-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 406,
+    "cells": [
+      "6:52.0",
+      "",
+      "",
+      "92-88",
+      "",
+      "Defensive rebound by C. Love"
+    ]
+  },
+  {
+    "row": 407,
+    "cells": [
+      "6:37.0",
+      "",
+      "",
+      "92-88",
+      "",
+      "Turnover by Y. Hansen (lost ball; steal by R. Sheppard)"
+    ]
+  },
+  {
+    "row": 408,
+    "cells": [
+      "6:34.0",
+      "R. Sheppard makes 2-pt dunk from 3 ft",
+      "+2",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 409,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "94-88",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 410,
+    "cells": [
+      "6:34.0",
+      "J. Smith enters the game for D. Finney-Smith",
+      "",
+      "94-88",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 411,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "94-88",
+      "",
+      "D. Avdija enters the game for C. Love"
+    ]
+  },
+  {
+    "row": 412,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "94-88",
+      "",
+      "S. Cissoko enters the game for S. Sharpe"
+    ]
+  },
+  {
+    "row": 413,
+    "cells": [
+      "6:34.0",
+      "",
+      "",
+      "94-88",
+      "",
+      "D. Clingan enters the game for Y. Hansen"
+    ]
+  },
+  {
+    "row": 414,
+    "cells": [
+      "6:18.0",
+      "",
+      "",
+      "94-91",
+      "+3",
+      "D. Reath makes 3-pt jump shot from 26 ft (assist by T. Camara)"
+    ]
+  },
+  {
+    "row": 415,
+    "cells": [
+      "5:56.0",
+      "J. Okogie misses 3-pt jump shot from 25 ft",
+      "",
+      "94-91",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 416,
+    "cells": [
+      "5:55.0",
+      "",
+      "",
+      "94-91",
+      "",
+      "Defensive rebound by D. Avdija"
+    ]
+  },
+  {
+    "row": 417,
+    "cells": [
+      "5:42.0",
+      "",
+      "",
+      "94-93",
+      "+2",
+      "T. Camara makes 2-pt dunk from 2 ft (assist by S. Cissoko)"
+    ]
+  },
+  {
+    "row": 418,
+    "cells": [
+      "5:32.0",
+      "K. Durant makes 3-pt jump shot from 26 ft (assist by R. Sheppard)",
+      "+3",
+      "97-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 419,
+    "cells": [
+      "5:10.0",
+      "",
+      "",
+      "97-93",
+      "",
+      "D. Clingan misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 420,
+    "cells": [
+      "5:08.0",
+      "Defensive rebound by J. Smith",
+      "",
+      "97-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 421,
+    "cells": [
+      "4:54.0",
+      "K. Durant misses 2-pt jump shot from 15 ft",
+      "",
+      "97-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 422,
+    "cells": [
+      "4:51.0",
+      "Offensive rebound by K. Durant",
+      "",
+      "97-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 423,
+    "cells": [
+      "4:49.0",
+      "J. Smith misses 3-pt jump shot from 26 ft",
+      "",
+      "97-93",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 424,
+    "cells": [
+      "4:45.0",
+      "",
+      "",
+      "97-93",
+      "",
+      "Defensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 425,
+    "cells": [
+      "4:35.0",
+      "",
+      "",
+      "97-93",
+      "",
+      "D. Avdija misses 2-pt layup from 2 ft"
+    ]
+  },
+  {
+    "row": 426,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "97-93",
+      "",
+      "Offensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 427,
+    "cells": [
+      "4:33.0",
+      "",
+      "",
+      "97-95",
+      "+2",
+      "D. Clingan makes 2-pt layup at rim"
+    ]
+  },
+  {
+    "row": 428,
+    "cells": [
+      "4:33.0",
+      "Houston full timeout",
+      "",
+      "97-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 429,
+    "cells": [
+      "4:33.0",
+      "A. Thompson enters the game for R. Sheppard",
+      "",
+      "97-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 430,
+    "cells": [
+      "4:17.0",
+      "Shooting foul by D. Reath (drawn by J. Okogie)",
+      "",
+      "97-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 431,
+    "cells": [
+      "4:17.0",
+      "J. Okogie makes free throw 1 of 2",
+      "+1",
+      "98-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 432,
+    "cells": [
+      "4:17.0",
+      "J. Okogie makes free throw 2 of 2",
+      "+1",
+      "99-95",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 433,
+    "cells": [
+      "3:59.0",
+      "",
+      "",
+      "99-95",
+      "",
+      "T. Camara misses 3-pt jump shot from 25 ft"
+    ]
+  },
+  {
+    "row": 434,
+    "cells": [
+      "3:56.0",
+      "",
+      "",
+      "99-95",
+      "",
+      "Offensive rebound by D. Reath"
+    ]
+  },
+  {
+    "row": 435,
+    "cells": [
+      "3:54.0",
+      "",
+      "",
+      "99-98",
+      "+3",
+      "D. Avdija makes 3-pt jump shot from 25 ft (assist by D. Reath)"
+    ]
+  },
+  {
+    "row": 436,
+    "cells": [
+      "3:32.0",
+      "K. Durant misses 3-pt jump shot from 27 ft",
+      "",
+      "99-98",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 437,
+    "cells": [
+      "3:28.0",
+      "",
+      "",
+      "99-98",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 438,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "99-98",
+      "",
+      "Shooting foul by J. Smith (drawn by D. Avdija)"
+    ]
+  },
+  {
+    "row": 439,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "99-99",
+      "+1",
+      "D. Avdija makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 440,
+    "cells": [
+      "3:10.0",
+      "R. Sheppard enters the game for J. Okogie",
+      "",
+      "99-99",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 441,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "99-99",
+      "",
+      "S. Sharpe enters the game for D. Reath"
+    ]
+  },
+  {
+    "row": 442,
+    "cells": [
+      "3:10.0",
+      "",
+      "",
+      "99-100",
+      "+1",
+      "D. Avdija makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 443,
+    "cells": [
+      "2:57.0",
+      "J. Smith misses 3-pt jump shot from 23 ft",
+      "",
+      "99-100",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 444,
+    "cells": [
+      "2:54.0",
+      "",
+      "",
+      "99-100",
+      "",
+      "Defensive rebound by T. Camara"
+    ]
+  },
+  {
+    "row": 445,
+    "cells": [
+      "2:43.0",
+      "",
+      "",
+      "99-100",
+      "",
+      "Shooting foul by J. Smith (drawn by D. Avdija)"
+    ]
+  },
+  {
+    "row": 446,
+    "cells": [
+      "2:43.0",
+      "",
+      "",
+      "99-101",
+      "+1",
+      "D. Avdija makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 447,
+    "cells": [
+      "2:43.0",
+      "",
+      "",
+      "99-102",
+      "+1",
+      "D. Avdija makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 448,
+    "cells": [
+      "2:23.0",
+      "A. Thompson misses 3-pt jump shot from 25 ft",
+      "",
+      "99-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 449,
+    "cells": [
+      "2:22.0",
+      "",
+      "",
+      "99-102",
+      "",
+      "Defensive rebound by Team"
+    ]
+  },
+  {
+    "row": 450,
+    "cells": [
+      "2:08.0",
+      "",
+      "",
+      "99-102",
+      "",
+      "S. Sharpe misses 2-pt layup from 3 ft"
+    ]
+  },
+  {
+    "row": 451,
+    "cells": [
+      "2:06.0",
+      "Defensive rebound by S. Adams",
+      "",
+      "99-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 452,
+    "cells": [
+      "2:00.0",
+      "A. Thompson makes 2-pt dunk from 1 ft (assist by R. Sheppard)",
+      "+2",
+      "101-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 453,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "101-102",
+      "",
+      "Shooting foul by J. Smith (drawn by S. Cissoko)"
+    ]
+  },
+  {
+    "row": 454,
+    "cells": [
+      "1:48.0",
+      "Houston full timeout",
+      "",
+      "101-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 455,
+    "cells": [
+      "1:48.0",
+      "Instant Replay (Challenge: Ruling Stands)",
+      "",
+      "101-102",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 456,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "101-103",
+      "+1",
+      "S. Cissoko makes free throw 1 of 3"
+    ]
+  },
+  {
+    "row": 457,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "101-104",
+      "+1",
+      "S. Cissoko makes free throw 2 of 3"
+    ]
+  },
+  {
+    "row": 458,
+    "cells": [
+      "1:48.0",
+      "",
+      "",
+      "101-105",
+      "+1",
+      "S. Cissoko makes free throw 3 of 3"
+    ]
+  },
+  {
+    "row": 459,
+    "cells": [
+      "1:35.0",
+      "J. Smith misses 3-pt jump shot from 24 ft",
+      "",
+      "101-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 460,
+    "cells": [
+      "1:32.0",
+      "Offensive rebound by A. Thompson",
+      "",
+      "101-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 461,
+    "cells": [
+      "1:30.0",
+      "K. Durant makes 2-pt jump shot from 16 ft (assist by A. Thompson)",
+      "+2",
+      "103-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 462,
+    "cells": [
+      "1:16.0",
+      "",
+      "",
+      "103-105",
+      "",
+      "T. Camara misses 3-pt jump shot from 23 ft"
+    ]
+  },
+  {
+    "row": 463,
+    "cells": [
+      "1:13.0",
+      "",
+      "",
+      "103-105",
+      "",
+      "Offensive rebound by S. Cissoko"
+    ]
+  },
+  {
+    "row": 464,
+    "cells": [
+      "1:11.0",
+      "",
+      "",
+      "103-105",
+      "",
+      "Turnover by S. Cissoko (bad pass; steal by A. Thompson)"
+    ]
+  },
+  {
+    "row": 465,
+    "cells": [
+      "1:07.0",
+      "Turnover by A. Thompson (lost ball; steal by D. Avdija)",
+      "",
+      "103-105",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 466,
+    "cells": [
+      "1:03.0",
+      "",
+      "",
+      "103-107",
+      "+2",
+      "S. Cissoko makes 2-pt dunk from 1 ft (assist by S. Sharpe)"
+    ]
+  },
+  {
+    "row": 467,
+    "cells": [
+      "0:57.0",
+      "J. Smith misses 3-pt jump shot from 23 ft",
+      "",
+      "103-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 468,
+    "cells": [
+      "0:51.0",
+      "Offensive rebound by Team",
+      "",
+      "103-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 469,
+    "cells": [
+      "0:45.0",
+      "K. Durant misses 3-pt jump shot from 25 ft",
+      "",
+      "103-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 470,
+    "cells": [
+      "0:41.0",
+      "Offensive rebound by J. Smith",
+      "",
+      "103-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 471,
+    "cells": [
+      "0:38.0",
+      "Turnover by J. Smith (lost ball; steal by S. Cissoko)",
+      "",
+      "103-107",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 472,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "103-107",
+      "",
+      "Personal foul by R. Sheppard (drawn by T. Camara)"
+    ]
+  },
+  {
+    "row": 473,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "103-108",
+      "+1",
+      "T. Camara makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 474,
+    "cells": [
+      "0:30.0",
+      "",
+      "",
+      "103-109",
+      "+1",
+      "T. Camara makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 475,
+    "cells": [
+      "0:16.0",
+      "A. Thompson makes 2-pt jump shot from 8 ft (assist by K. Durant)",
+      "+2",
+      "105-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 476,
+    "cells": [
+      "0:16.0",
+      "J. Okogie enters the game for S. Adams",
+      "",
+      "105-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 477,
+    "cells": [
+      "0:14.0",
+      "",
+      "",
+      "105-109",
+      "",
+      "Portland full timeout"
+    ]
+  },
+  {
+    "row": 478,
+    "cells": [
+      "0:14.0",
+      "",
+      "",
+      "105-109",
+      "",
+      "C. Love enters the game for S. Cissoko"
+    ]
+  },
+  {
+    "row": 479,
+    "cells": [
+      "0:14.0",
+      "",
+      "",
+      "105-109",
+      "",
+      "D. Reath enters the game for D. Clingan"
+    ]
+  },
+  {
+    "row": 480,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "105-109",
+      "",
+      "Turnover by T. Camara (bad pass)"
+    ]
+  },
+  {
+    "row": 481,
+    "cells": [
+      "0:13.0",
+      "S. Adams enters the game for J. Okogie",
+      "",
+      "105-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 482,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "105-109",
+      "",
+      "S. Cissoko enters the game for C. Love"
+    ]
+  },
+  {
+    "row": 483,
+    "cells": [
+      "0:13.0",
+      "",
+      "",
+      "105-109",
+      "",
+      "D. Clingan enters the game for D. Reath"
+    ]
+  },
+  {
+    "row": 484,
+    "cells": [
+      "0:10.0",
+      "R. Sheppard misses 3-pt jump shot from 25 ft",
+      "",
+      "105-109",
+      "",
+      ""
+    ]
+  },
+  {
+    "row": 485,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "105-109",
+      "",
+      "Defensive rebound by D. Clingan"
+    ]
+  },
+  {
+    "row": 486,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "105-109",
+      "",
+      "Personal take foul by A. Thompson (drawn by D. Clingan)"
+    ]
+  },
+  {
+    "row": 487,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "105-110",
+      "+1",
+      "D. Clingan makes free throw 1 of 2"
+    ]
+  },
+  {
+    "row": 488,
+    "cells": [
+      "0:07.0",
+      "",
+      "",
+      "105-111",
+      "+1",
+      "D. Clingan makes free throw 2 of 2"
+    ]
+  },
+  {
+    "row": 489,
+    "cells": [
+      "0:06.0",
+      "Turnover by K. Durant (bad pass; steal by S. Cissoko)",
+      "",
+      "105-111",
+      "",
+      ""
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Chart.js 测试</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Chart.js 测试页面</h1>
+    <div style="width: 600px; height: 400px;">
+        <canvas id="testChart"></canvas>
+    </div>
+    
+    <script>
+        console.log('页面加载中...');
+        
+        const ctx = document.getElementById('testChart').getContext('2d');
+        console.log('Canvas context获取成功');
+        
+        const chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['一月', '二月', '三月'],
+                datasets: [{
+                    label: '测试数据',
+                    data: [10, 20, 30],
+                    backgroundColor: ['#3B82F6', '#EF4444', '#FFD700']
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false
+            }
+        });
+        
+        console.log('图表创建成功');
+        console.log('Chart.js版本:', Chart.version);
+    </script>
+</body>
+</html>
